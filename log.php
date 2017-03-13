@@ -1,51 +1,5 @@
 <?php
-include 'assets/credentials.php';
-
-$global = false;
-$detail = false;
-$log = false;
-$location;
-
-//creates connection to database
-function connect() {
-	global $servername;
-	global $username;
-	global $password;
-	global $database;
-	$conn = new mysqli($servername, $username, $password, $database);
-	return $conn;
-}
-
-//echoes single number through request query ($q = query, $e = select result)
-function getnum($q, $e) {
-	$conn = connect();
-	$result = $conn->query($q);
-	if ($result->num_rows > 0) {
-		$row = $result->fetch_assoc();
-		return $row[$e];
-	}
-	$conn->close();
-}
-
-//creates the measures for all tasks/projects ($type) according to the selection query ($q)
-function measures($type, $q) {
-
-}
-
-//creates timeline of select task/project ($type)($name) according to selection query ($q)
-function timeline($type, $name, $q) {
-	//if ($type)
-}
-
-//creates list of logs for a select project/task ($q)
-function loglist($q) {
-
-}
-
-//creates list of logs between start date ($s) and end date ($e)
-function logs($s, $e) {
-
-}
+include 'assets/logheader.php';
 ?>
 
 <!DOCTYPE html>
@@ -73,11 +27,10 @@ function logs($s, $e) {
 	<link rel='icon' href='http://v-os.ca/assets/icons/v_ico.ico' type='image/x-icon'>
 
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,900|Roboto:400,400i,900">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="assets/style/logstyle.css?ver=<?php echo filemtime('assets/style/logstyle.css');?>">
 </head>
 <body>
-
 <div id="body">
 	<div id="body-content">
 		<div id="header">
@@ -89,12 +42,9 @@ function logs($s, $e) {
 			<a class="title" href="#">Logs</a>
 			<a class="site" href="http://v-os.ca">V-OS</a>
 		</div>
-		<!--STUFF TO BE-->
-		<!--STUFF TO BE-->
-		<!--STUFF TO BE-->
+		<?php loadlog();?>
 	</div>
 </div>
-
 <div id="footer">
 	<div id="footer-content">
 		<div class="footer-left">
@@ -118,12 +68,15 @@ function logs($s, $e) {
 			<br>
 			<?php echo getnum("select count(distinct(date)) as num_days from log;", "num_days");?> days
 			<br>
-			updated <?php
+			updated
+			<?php
 			$now = new DateTime();
 			$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
-			$diff = $recent->diff($now)->format("%a");
-			echo $diff;
-			?> days ago
+			$difference = $now->diff($recent)->format("%a");
+			if ($difference == 0) echo "today";
+			else echo $difference, "days ago";
+			?>
+			<br>
 			</p>
 		</div>
 	</div>
