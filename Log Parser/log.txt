@@ -38,27 +38,27 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.06      2.0         Shorthand                           Graphic             Rework script and create font.
 2017.03.05      0.5                                             Design              Game design curriculum finalization.
 2017.03.05      5.0         Drone Dreams                        Development         PureData patch development.
-2017.03.05      0.5                                             Research            PureData research.
+2017.03.05      0.5         Drone Dreams                        Research            PureData research.
 2017.03.05      1.0                                             Acoustic            Guitar practice.
 2017.03.05      0.0                                             Event               Update backup.
-2017.03.04      0.5         Ven                                 Graphic             Ven logo creation.
+2017.03.04      0.5                                             Graphic             Ven logo creation.
 2017.03.04      4.0         Drone Dreams                        Development         NodeJS setup, server and interface development.
 2017.03.03      1.0         Drone Dreams                        Research            Tools research.
 2017.03.02      0.5         Elyium                              Graphic             Icons and interface elements creation.
 2017.03.02      1.5         Quro                                Filming             Quro video footage collection.
 2017.03.01      7.0         Elyium                              Development         Narrative interfacing, data structure refinement, conditional conflicts development.
 2017.02.28      0.5         V-OS                                Documentation       Documentation rewrite.
-2017.02.28      1.5                                             Design              Project organization.
+2017.02.28      1.5         V-OS                                Design              Project reorganization.
 2017.02.28      0.5                                             Illustration        Drawing practice.
 2017.02.28      3.0         Elyium                              Documentation       Commentary and additional documentation.
-2017.02.27      1.0                                             Research            MySQL study.
-2017.02.27      0.5                                             Research            Rendering study.
+2017.02.27      1.0         Log                                 Research            MySQL study.
+2017.02.27      0.5         NO                                  Research            Rendering study.
 2017.02.27      1.5                                             Illustration        Drawing practice.
 2017.02.26      2.0         Elyium                              Development         Interface expansion.
 2017.02.26      2.0         Identity                            Graphic             Visual review.
 2017.02.25      5.0         Identity                            Graphic             Identity logo design and creation.
 2017.02.25      1.0         Quro                                Filming             Quro video footage collection.
-2017.02.24      3.0                                             3D                  Rendering research and experimentation.
+2017.02.24      3.0         NO                                  3D                  Rendering research and experimentation.
 2017.02.24      0.0                                             Event               Interview for accelerated game design camp teaching job.
 2017.02.23      3.0         NO                                  3D                  Micropolygon displacement, lighting and rendering.
 2017.02.23      0.5         V-OS                                Design              Aesthetic experimentation.
@@ -67,38 +67,38 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.23      2.0                                             Development         Unreal engine experimentation.
 2017.02.23      3.0         VisN                                Development         Camera FoV script and HTC Vive port.
 2017.02.22      2.0         V-OS                                Writing             V-OS narrative rewrite.
-2017.02.22      0.5                                             Research            Micropolygon displacement research.
-2017.02.21      1.5                                             Research            Micropolygon displacement research.
+2017.02.22      0.5         NO                                  Research            Micropolygon displacement research.
+2017.02.21      1.5         NO                                  Research            Micropolygon displacement research.
 2017.02.21      0.5         Elyium                              Design              Interface design.
 2017.02.21      1.5         Mosterra                            3D                  Materials creation, lighting and rendering.
 2017.02.20      3.5         Elyium                              Development         Data structure creation.
 2017.02.20      5.0         Mosterra                            Research            Blender material system research.
 2017.02.20      1.0                                             Illustration        Illustration practice with odd brushes.
-2017.02.19      0.5                                             Research            Blender material system nodes research.
+2017.02.19      0.5         Mosterra                            Research            Blender material system nodes research.
 2017.02.19      4.0         Elyium                              Development         Database, narrative, and interface development.
 2017.02.18      2.5         Elyium                              Design              Database and narrative system redesign.
 2017.02.18      0.5         Ontologica                          Documentation       Documentation and V-OS page.
 2017.02.17      5.0         Ontologica                          Editing             Film andedit video, develop Ontologica environment.
-2017.02.16      1.5                                             Development         Web development for Obx.
-2017.02.16      2.0         Horses?                             Development         Physics development, balancing, and documentation.
+2017.02.16      1.5         Tie                                 Development         Web development for Obx.
+2017.02.16      2.0                                             Development         Physics development, balancing, and documentation.
 2017.02.16      2.0         V-OS                                Development         Bugfixing, aesthetic changes.
 2017.02.15      1.0         V-OS                                Development         Bugfixes, optimizations.
-2017.02.15      2.0                                             Development         Website template for Obx.
-2017.02.15      3.0                                             3D                  Blender experimentation.
-2017.02.14      5.0                                             3D                  Blender experimentation.
-2017.02.14      3.0         Horses?                             Development         Experimental game dev in Processing.
+2017.02.15      2.0         Tie                                 Development         Website template for Obx.
+2017.02.15      3.0         Mosterra                            3D                  Blender experimentation.
+2017.02.14      5.0         Mosterra                            3D                  Blender experimentation.
+2017.02.14      3.0                                             Development         Experimental game dev in Processing.
 2017.02.13      0.5         Ontologica                          Design              Concept expansion and discussion.
 2017.02.12      0.5         VisN                                Writing             Add more poetry to level.
 2017.02.12      3.0         Elyium                              Development         Interface development.
 2017.02.12      1.0         Leave                               Audio               Composition and experimentation.
-2017.02.12      1.5         Di                                  Design              Add tree, better particle effects, better post-processing effects.
+2017.02.12      1.5                                             Design              Add tree, better particle effects, better post-processing effects.
 2017.02.11      3.5         Leave                               Audio               Composition and experimentation.
 2017.02.10      2.0         Leave                               Audio               Composition and experimentation.
 2017.02.10      4.0         Elyium                              Development         Connecting modules, interface development, and database management.
 2017.02.10      0.5         Quro                                Filming             Record video samples.
 2017.02.09      0.5         Leave                               Audio               Composition and experimentation.
 2017.02.08      0.5         Elyium                              Design              Database design.
-2017.02.08      4.0         Di                                  Development         Unreal 4 scene development and experimentation.
+2017.02.08      4.0                                             Development         Unreal 4 scene development and experimentation.
 2017.02.08      1.5         VisN                                Development         Gimbal lock research, frame system development.
 2017.02.07      5.0         Elyium                              Design              Narrative generation system design.
 2017.02.06      1.0         Ontologica                          Development         Refine level, add environment animation.
@@ -122,16 +122,16 @@ DATE            TIME        PROJECT                             TASK            
 2017.01.28      1.0         VisN                                3D                  Cinema4D sketches for Obx.
 2017.01.28      0.0                                             Event               SSD died.
 2017.01.27      2.5         Ontologica                          Development         Ontologica UE4 prototype development.
-2017.01.27      1.5                                             3D                  Cinema4D sketches for Obx.
+2017.01.27      1.5         Tie                                 3D                  Cinema4D sketches for Obx.
 2017.01.26      1.0         Elyium                              Design              Database structure research and design.
 2017.01.25      0.5                                             Graphic             The SuperMedium logo.
 2017.01.24      2.0         Elyium                              Design              Infrastructure research and design.
 2017.01.24      1.0         V-OS                                Design              V-OS mail setup, profile cleanup.              
-2017.01.23      0.5         Atmos                               Graphic             Atmos remaster.
+2017.01.23      0.5                                             Graphic             Atmos remaster.
 2017.01.22      3.0         Quro                                Graphic             Quro cover art.
 2017.01.22      2.0         V-OS                                Writing             V-OS Quro page and projects narrative rewrite.
 2017.01.22      0.0                                             Event               Joined Merveilles.
-2017.01.21      3.5         Glitchspace                         Development         Image processing in Processing.
+2017.01.21      3.5                                             Development         Image processing in Processing.
 2017.01.21      0.0                                             Event               Update backup.
 2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
 2017.01.19      3.0                                             Research            Pixel sorting and vector math.

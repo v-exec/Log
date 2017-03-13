@@ -1,4 +1,5 @@
 <?php
+$location = "tasks";
 include 'assets/logheader.php';
 ?>
 
@@ -28,7 +29,7 @@ include 'assets/logheader.php';
 
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="assets/style/logstyle.css?ver=<?php echo filemtime('assets/style/logstyle.css');?>">
+	<link rel="stylesheet" type="text/css" href="assets/styles/logstyle.css?ver=<?php echo filemtime('assets/style/logstyle.css');?>">
 </head>
 <body>
 <div id="body">
@@ -83,4 +84,5 @@ include 'assets/logheader.php';
 	</div>
 </div>
 </body>
+<script src="assets/scripts/log.js"></script>
 </html>

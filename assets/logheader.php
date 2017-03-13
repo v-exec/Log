@@ -30,18 +30,27 @@ function measures($q) {
 	$size = 0;
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
-		while ($row =  $result->fetch_assoc()) {
-			if ($row["hours"] > $size) $size = $row["hours"];
+		$rows = array();
+
+		while ($row = $result->fetch_assoc()) {
+			array_push($rows, [$row["title"], $row["hours"], $row["logs"]]);
+		}
+
+		for ($i = 0; $i < sizeof($rows); $i++) {
+			if ($rows[$i][1] > $size) $size = $rows[$i][1];
+		}
+
+		for ($i = 0; $i < sizeof($rows); $i++) {
 			echo
 			'
 			<div class="measure-container">
 				<svg class="measure-circle">
-					<circle cx="75" cy="75" r="' . round(($row["hours"]/$size * 60) + 2) . '" stroke="#fff" stroke-width="' . round(($row["hours"]/$size * 6) + 2) . '" fill="none"/>
+					<circle cx="75" cy="75" r="' . round(($rows[$i][1]/$size * 60) + 2) . '" stroke="#fff" stroke-width="' . round(($rows[$i][1]/$size * 6) + 2) . '" fill="none"/>
 				</svg>
 				<div class="measure-info">
-					<a href="#" class="measure-title">' . $row["title"] . '</a>
-					<p class="measure-text">' . number_format($row["hours"], 0) . ' hours</p>
-					<p class="measure-text">' . $row["logs"] . ' logs</p>
+					<a href="#" class="measure-title">' . $rows[$i][0] . '</a>
+					<p class="measure-text">' . number_format($rows[$i][1], 0) . ' hours</p>
+					<p class="measure-text">' . $rows[$i][2] . ' logs</p>
 				</div>
 			</div>
 			'
@@ -53,7 +62,15 @@ function measures($q) {
 
 //logic for log loading
 function loadlog() {
-	$query = "select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;";
-	measures($query);
+	global $location;
+	if ($location == "tasks") {
+		$query = "select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;";
+		measures($query);
+	} else if ($location == "projects") {
+		$query = "select project.name as title, sum(log.time) as hours, log.date as time, count(*) as logs from log left join project on project.id = log.project_id group by title order by date desc;";
+		measures($query);
+	} else if ($location == "logs") {
+	} else {
+	}
 }
 ?>

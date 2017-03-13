@@ -1,5 +1,4 @@
 #no apostrophe escape
-#no date check
 
 #table arrays
 tasks = []
@@ -38,6 +37,11 @@ source.each do |line|
 		date = line[0, 16].strip
 		time = line[16, 12].strip
 		project = line[28, 36].strip
+
+		if project.empty?
+			project = "Various"
+		end
+
 		task = line[64, 20].strip
 		if line.length >= 84
 			details = line[84, line.length].strip
