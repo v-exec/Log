@@ -74,7 +74,8 @@ include 'assets/logheader.php';
 			$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
 			$difference = $now->diff($recent)->format("%a");
 			if ($difference == 0) echo "today";
-			else echo $difference, "days ago";
+			if ($difference == 1) echo $difference . " day ago";
+			else echo $difference . " days ago";
 			?>
 			<br>
 			</p>
