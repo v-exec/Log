@@ -112,12 +112,24 @@ function timeline($q) {
 function spec($l, $type) {
 	if ($type == 'task') $typeOpp = 'project';
 	else $typeOpp = 'task';
+
+	$conn = connect();
+	$result = $conn->query('select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';');
+
+	$data;
+	while ($row = $result->fetch_assoc()) {
+		$data = [$row['hours'], $row['logs']];
+	}
 	
 	echo
 	'
 	<div class="spacer"></div>
 	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="location" value="'.$l.'"></form>
 	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
+	<div class="spec-stats">
+		<span class="spec-text">'.number_format($data[0], 0).' hours</span>
+		<span class="spec-text">'.$data[1].' logs</span>
+	</div>
 	<div class="divider"></div>
 	';
 
@@ -128,6 +140,8 @@ function spec($l, $type) {
 	echo '<div class="divider"></div>';
 
 	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by date desc;');
+
+	$conn->close();
 }
 
 //checks if given location ($l) is project or task

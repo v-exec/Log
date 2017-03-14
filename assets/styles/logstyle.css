@@ -67,7 +67,7 @@ a:hover {
 .title,
 .site,
 .dot {
-	font-size: 18pt;
+	font-size: 20pt;
 }
 
 .site {
@@ -240,7 +240,23 @@ a:hover {
 
 /*-----------SPEC PAGE-----------*/
 .spec-title {
-	font-size: 18pt;
+	font-size: 20pt;
 	color: #fff;
 	margin-bottom: 20px;
+}
+
+.spec-stats {
+	width: 70px;
+	float: right;
+	clear: right;
+	vertical-align: bottom;
+	text-align: right;
+}
+
+.spec-text {
+	display: block;
+	margin: 0px;
+	color: #fff;
+	font-size: 10pt;
+	font-weight: 300;
 }
