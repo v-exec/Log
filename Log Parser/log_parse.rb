@@ -62,6 +62,9 @@ source.each do |line|
 
 end
 
+#select database
+output.printf "use vos_log;\n"
+
 #clear tables before filling them again
 output.printf "delete from log;\n"
 output.printf "delete from project;\n"

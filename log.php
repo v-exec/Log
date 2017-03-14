@@ -1,5 +1,8 @@
 <?php
-$location = "tasks";
+if ($_GET["location"]) {
+	$location = $_GET['location'];
+} else $location = 'tasks';
+
 include 'assets/logheader.php';
 ?>
 
@@ -31,21 +34,28 @@ include 'assets/logheader.php';
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="assets/styles/logstyle.css?ver=<?php echo filemtime('assets/style/logstyle.css');?>">
 </head>
+
 <body>
 <div id="body">
 	<div id="body-content">
 		<div id="header">
 			<div class="divider"></div>
-			<a class="title" href="#">Tasks</a>
-			<p class="dot">.</p>
-			<a class="title" href="#">Projects</a>
-			<p class="dot">.</p>
-			<a class="title" href="#">Logs</a>
+			<form id="tasks" action="log" method="get"><input type="hidden" name="location" value="tasks"></form>
+			<form id="projects" action="log" method="get"><input type="hidden" name="location" value="projects"></form>	
+			<form id="logs" action="log" method="get"><input type="hidden" name="location" value="logs"></form>
+
+			<a href="javascript:void(0);" class="title" onclick="document.getElementById('tasks').submit();">Tasks</a>
+			<span class="dot">.</span>
+			<a href="javascript:void(0);" class="title" onclick="document.getElementById('projects').submit();">Projects</a>
+			<span class="dot">.</span>
+			<a href="javascript:void(0);" class="title" onclick="document.getElementById('logs').submit();">Logs</a>
+
 			<a class="site" href="http://v-os.ca">V-OS</a>
 		</div>
 		<?php loadlog();?>
 	</div>
 </div>
+
 <div id="footer">
 	<div id="footer-content">
 		<div class="footer-left">
@@ -53,14 +63,14 @@ include 'assets/logheader.php';
 			<a href="https://twitter.com/v_exec"><img class="footer-image" src="assets/icons/twittericon_w.png"></a>
 			<a href="https://ca.linkedin.com/in/victor-ivanov"><img class="footer-image" src="assets/icons/linkedinicon_w.png"></a>
 			<br>
-			<p class="footer-text">
+			<span class="footer-text">
 			Victor Ivanov - <i>me@v-os.ca</i>
 			<br>
 			Digital media designer, developer, and artist.
-			</p>
+			</span>
 		</div>
 		<div class="footer-right">
-			<p class="footer-stats">
+			<span class="footer-stats">
 			<?php echo getnum("select count(*) as num_proj from project;", "num_proj");?> projects
 			<br>
 			<?php echo number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);?> hours
@@ -79,10 +89,9 @@ include 'assets/logheader.php';
 			else echo $difference . " days ago";
 			?>
 			<br>
-			</p>
+			</span>
 		</div>
 	</div>
 </div>
 </body>
-<script src="assets/scripts/log.js"></script>
 </html>
