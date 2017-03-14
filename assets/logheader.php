@@ -27,7 +27,7 @@ function getnum($q, $e) {
 //creates the measures for tasks/projects of given query ($q)
 function measures($q) {
 	$conn = connect();
-	$size = 0;
+	$size = 1;
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
 		$rows = array();
