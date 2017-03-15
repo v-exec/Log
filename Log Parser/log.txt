@@ -18,10 +18,11 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.03.14      6.0         Log                                 Development         Details page, navigation, page flow logic, styling.
 2017.03.13      6.0         Log                                 Development         Projects page, logs page, navigation.
 2017.03.12      1.0         V-OS                                Documentation       Log integration.
 2017.03.12      1.0         Log                                 Graphic             Log logo.
-2017.03.12      9.0         Log                                 Development         Web development, SQL connectivity, tasks page, and V-OS page.
+2017.03.12      8.0         Log                                 Development         Web development, SQL connectivity, tasks page, and V-OS page.
 2017.03.11      1.0                                             Acoustic            Guitar practice.
 2017.03.11      1.0         V-OS                                Design              Preparation for logging tool page.
 2017.03.11      4.0         Log                                 Design              Interface design, log organization.

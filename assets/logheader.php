@@ -41,6 +41,11 @@ function measures($q) {
 		}
 
 		for ($i = 0; $i < sizeof($rows); $i++) {
+			if (number_format($rows[$i][1], 0) == 1) $hourphrase = 'hour';
+			else $hourphrase = 'hours';
+			if ($rows[$i][2] == 1) $logphrase = 'log';
+			else $logphrase = 'logs';
+
 			echo
 			'
 			<div class="measure-container">
@@ -50,8 +55,8 @@ function measures($q) {
 				<div class="measure-info">
 					<form id="'.$rows[$i][0].'" action="log" method="get"><input type="hidden" name="location" value="'.$rows[$i][0].'"></form>
 					<a href="javascript:void(0);" class="measure-title" onclick="document.getElementById('."'".$rows[$i][0]."'".').submit();">'.$rows[$i][0].'</a>
-					<p class="measure-text">'.number_format($rows[$i][1], 0).' hours</p>
-					<p class="measure-text">'.$rows[$i][2].' logs</p>
+					<p class="measure-text">'.number_format($rows[$i][1], 0).' '.$hourphrase.'</p>
+					<p class="measure-text">'.$rows[$i][2].' '.$logphrase.'</p>
 				</div>
 			</div>
 			';
@@ -120,6 +125,11 @@ function spec($l, $type) {
 		$row = $result->fetch_assoc();
 		$data = [$row['hours'], $row['logs']];
 	}
+
+	if (number_format($data[0], 0) == 1) $hourphrase = 'hour';
+	else $hourphrase = 'hours';
+	if ($data[1] == 1) $logphrase = 'log';
+	else $logphrase = 'logs';
 	
 	echo
 	'
@@ -127,8 +137,8 @@ function spec($l, $type) {
 	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="location" value="'.$l.'"></form>
 	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
 	<div class="spec-stats">
-		<span class="spec-text">'.number_format($data[0], 0).' hours</span>
-		<span class="spec-text">'.$data[1].' logs</span>
+		<span class="spec-text">'.number_format($data[0], 0).' '.$hourphrase.'</span>
+		<span class="spec-text">'.$data[1].' '.$logphrase.'</span>
 	</div>
 	<div class="divider"></div>
 	';
