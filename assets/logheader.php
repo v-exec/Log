@@ -116,8 +116,8 @@ function spec($l, $type) {
 	$conn = connect();
 	$result = $conn->query('select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';');
 
-	$data;
-	while ($row = $result->fetch_assoc()) {
+	if ($result->num_rows > 0) {
+		$row = $result->fetch_assoc();
 		$data = [$row['hours'], $row['logs']];
 	}
 	
@@ -135,7 +135,7 @@ function spec($l, $type) {
 
 	//timeline();
 
-	measures('select '.$type .'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;');
+	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;');
 
 	echo '<div class="divider"></div>';
 
@@ -149,19 +149,12 @@ function checkType($l) {
 	$conn = connect();
 	//true = task / false = project
 	$type = null;
-	$rows = array();
-	$tasks = $conn->query('select task.name from task;');
+	$result = $conn->query('select * from task where name = '."'".$l."'".';');
 
-	while ($row = $tasks->fetch_assoc()) {
-		array_push($rows, $row['name']);
-	}
+	if ($result->num_rows > 0) {
+		$type = true;
+	} else $type = false;
 
-	for ($i = 0; $i < sizeof($rows); $i++) {
-		if ($rows[$i] == $l) {
-			$type = true;
-			break;
-		}
-	}
 	$conn->close();
 	return $type;
 }
