@@ -1,10 +1,13 @@
-Research                    Learning
+#Task Types
+
+Research                    Learning and Testing
 Design                      Project Planning and Organization
-Development                 Programming
-Graphic                     Graphic Design
+Development                 Programming and Debugging
+Graphic                     2D Graphic Development
 Illustration                Drawing
-3D                          Modelling, Lighting, and Rendering
-Audio                       Producing and Mixing
+3D                          Texturing, Lighting, and Rendering
+Modelling                   Modelling, Sculpting, Rigging and Animating
+Audio                       Composing, Producing and Mixing
 Acoustic                    Instrument Play
 Recording                   Audio Recording
 Performance                 Performance
@@ -14,10 +17,16 @@ Editing                     Video and Photo Editing
 Writing                     Narrative and Story
 Documentation               Project Documentation
 Linguistics                 Language Development
+Maintenance                 Personal Organization and Maintenance
 Event                       Noteworthy Event
+
+#Log
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.03.15      0.5         Log                                 Design              Log organization, task types research and expansion.
+2017.03.15      2.5                                             Graphic             Collage experimentation.
+2017.03.15      1.0         Elyium                              Development         Refactoring, documentation, logic tuning.
 2017.03.14      6.0         Log                                 Development         Details page, navigation, page flow logic, styling.
 2017.03.13      6.0         Log                                 Development         Projects page, logs page, navigation.
 2017.03.12      1.0         V-OS                                Documentation       Log integration.
@@ -42,7 +51,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.05      5.0         Drone Dreams                        Development         PureData patch development.
 2017.03.05      0.5         Drone Dreams                        Research            PureData research.
 2017.03.05      1.0                                             Acoustic            Guitar practice.
-2017.03.05      0.0                                             Event               Update backup.
+2017.03.05      1.0                                             Maintenance         Update backup.
 2017.03.04      0.5                                             Graphic             Ven logo creation.
 2017.03.04      4.0         Drone Dreams                        Development         NodeJS setup, server and interface development.
 2017.03.03      1.0         Drone Dreams                        Research            Tools research.
@@ -111,11 +120,11 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.04      1.0         VisN                                Audio               Edit Mantycore reading, add to Unity scene.
 2017.02.03      4.5         VisN                                Development         VisN development in Unity.
 2017.02.03      2.0         V-OS                                Writing             V-OS writing edit, extra organization, Nihilim and Technomancers pages.
-2017.02.03      0.0                                             Event               Install programs on fresh OS.
+2017.02.03      3.0                                             Maintenance         Install programs on fresh OS.
 2017.02.02      2.0         Elyium                              Development         Accelorometer and location data gathering.
 2017.02.02      2.0                                             Linguistics         Research language composition and construction.
 2017.02.01      2.0         Shorthand                           Graphic             Develop shorthand script for personal use.
-2017.02.01      0.0                                             Event               Reinstall desktop PC.
+2017.02.01      1.5                                             Maintenance         Reinstall desktop PC.
 2017.01.31      4.0                                             Development         Video processing in Processing.
 2017.01.30      1.5         Nameium                             Development         Develop more sophisticated name generation, experiment with language.
 2017.01.29      1.0         Nameium                             Development         Design and develop simple name generation system.
@@ -134,11 +143,11 @@ DATE            TIME        PROJECT                             TASK            
 2017.01.22      2.0         V-OS                                Writing             V-OS Quro page and projects narrative rewrite.
 2017.01.22      0.0                                             Event               Joined Merveilles.
 2017.01.21      3.5                                             Development         Image processing in Processing.
-2017.01.21      0.0                                             Event               Update backup.
+2017.01.21      1.0                                             Maintenance         Update backup.
 2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
 2017.01.19      3.0                                             Research            Pixel sorting and vector math.
 2017.01.18      6.0         Quro                                Audio               Composition and mixing.
-2017.01.17      2.5         Quro                                Recording           Recording soundscape audio.
+2017.01.17      2.5         Quro                                Recording           Recording room sounds for soundscape samples.
 2017.01.04      5.0         V-OS                                Development         PHP page generation system expansion.
 2017.01.02      4.0         V-OS                                Development         Bugfixes, PHP optimization and refactoring.
 2017.01.02      0.0                                             Event               Purchase v-os.ca.
