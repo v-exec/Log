@@ -10,7 +10,7 @@ in_tasks = true
 
 #file setup
 output = File.open("parse.txt", "w")
-source = File.open("log.md", "r")
+source = File.open("log.txt", "r")
 
 #for each line in source
 source.each do |line|

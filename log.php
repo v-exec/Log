@@ -66,7 +66,7 @@ include 'assets/logheader.php';
 			<span class="footer-text">
 			Victor Ivanov - <i>me@v-os.ca</i>
 			<br>
-			Digital media designer, developer, and artist.
+			Multidisciplinary designer and developer.
 			</span>
 		</div>
 		<div class="footer-right">
