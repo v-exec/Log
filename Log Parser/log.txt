@@ -24,10 +24,16 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.03.24      1.0         V-OS                                Writing             Temporalis and verse writing.
+2017.03.24      0.5                                             Acoustic            Recording experimentation, minor vocals practice.
+2017.03.24      0.5         V-OS                                Documentation       CloudCrusher (SkyCandy) documentation and V-OS page.
+2017.03.24      2.0         Elyium                              Development         Entity spawning system.
+2017.03.23      1.5                                             Writing             Body and embodiment in new media.
+2017.03.23      2.0                                             Development         Arduino help/teaching.
 2017.03.22      2.0         Tie                                 Documentation       Site population with documentation data.
 2017.03.22      1.5         V-OS                                Writing             Writing, titles, personal page, site structure, CV rework.
 2017.03.22      0.5         VisN                                Documentation       V-OS page.
-2017.03.21      0.5         Neverland                           Audio               Composition and experimentation.
+2017.03.21      0.5                                             Audio               Composition and experimentation.
 2017.03.21      0.5                                             Research            Body and embodiment in new media.
 2017.03.20      0.5                                             Graphic             SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
 2017.03.20      0.5                                             Illustration        Drawing practice.
@@ -141,7 +147,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.05      4.0         Elyium                              Design              Further development and design for narrative generation.
 2017.02.05      2.5         Levi                                Acoustic            Guitar practice, preset experimentation.
 2017.02.05      1.0         Ontologica                          Development         Rebuild level in Unreal.
-2017.02.04      11.0        Elyium                              Development         Preliminary infrastructure development, image-to-ascii algorithm.
+2017.02.04      9.0         Elyium                              Development         Preliminary infrastructure development, image-to-ascii algorithm.
 2017.02.04      1.0         VisN                                Audio               Edit Mantycore reading, add to Unity scene.
 2017.02.03      4.5         VisN                                Development         VisN development in Unity.
 2017.02.03      2.0         V-OS                                Writing             V-OS writing edit, extra organization, Nihilim and Technomancers pages.
