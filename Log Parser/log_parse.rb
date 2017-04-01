@@ -1,5 +1,3 @@
-#no apostrophe escape
-
 #table arrays
 tasks = []
 projects = []
@@ -34,21 +32,33 @@ source.each do |line|
 
 	#while outside of tasks, get log elements and push projects to projects array and entire log to log array (with some error handling)
 	else
+		#get date, time, and project name
 		date = line[0, 16].strip
 		time = line[16, 12].strip
 		project = line[28, 36].strip
 
+		#if no project name, default project name to "Various"
 		if project.empty?
 			project = "Various"
 		end
 
+		#project name apostrophe escape
+		project.gsub!("'", %q(\\\'))
+
+		#get task name
 		task = line[64, 20].strip
+
+		#if details aren't empty, get details
 		if line.length >= 84
 			details = line[84, line.length].strip
+
+			#details apostrophe escape
+			details.gsub!("'", %q(\\\'))
 		else
 			details = ""
 		end
 
+		#push to arrays
 		if not project.empty? and not projects.index(project)
 			projects.push(project)
 		end

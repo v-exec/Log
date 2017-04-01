@@ -24,6 +24,23 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.03.31      0.5         Log                                 Development         Apostrophe escape, testing, documentation, bugfixes.
+2017.03.31      1.0         Interactive Narratives              Writing             Narrative in interactive media research.
+2017.03.31      0.5         V-OS                                Development         Security testing and development.
+2017.03.30      1.0                                             Research            MBTI and social typology.
+2017.03.30      1.0                                             Acoustic            Guitar practice.
+2017.03.30      0.5                                             Writing             Exploration of societies and control structures.
+2017.03.29      2.0                                             Audio               Audio synthesis theory, collaborative experimentation.
+2017.03.29      1.0         Drone Dreams                        Documentation       Presentation and artist's statement.
+2017.03.28      0.5                                             Research            ScopeOne exploration and explanation.
+2017.03.28      3.5         Elyium                              Development         Entities list interface, bugfixing, tuning, and testing.
+2017.03.27      0.5                                             Editing             Modelling photographs editing.
+2017.03.27      0.5                                             Research            Societies and control constructs.
+2017.03.26      1.5                                             Maintenance         Organize and clean up media and assets, update backup.
+2017.03.26      0.5                                             Maintenance         Update backup.
+2017.03.26      2.0         Interactive Narratives              Writing             Narrative in interactive media research.
+2017.03.25      0.5                                             Development         Rainmeter skin.
+2017.03.25      2.0         Elyium                              Development         Interface refactoring.
 2017.03.24      1.0         V-OS                                Writing             Temporalis and verse writing.
 2017.03.24      0.5                                             Acoustic            Recording experimentation, minor vocals practice.
 2017.03.24      0.5         V-OS                                Documentation       CloudCrusher (SkyCandy) documentation and V-OS page.
@@ -39,10 +56,10 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.20      0.5                                             Illustration        Drawing practice.
 2017.03.19      0.5                                             Development         Particle system desert in Processing.
 2017.03.19      0.5                                             Design              Particle system desert in Processing.
-2017.03.18      1.5                                             Writing             Narrative in interactive media research.
-2017.03.18      1.0                                             Research            Narrative design implementation study.
-2017.03.17      1.5                                             Writing             Narrative in interactive media research.
-2017.03.17      1.0                                             Research            Narrative design implementation study.
+2017.03.18      1.5         Interactive Narratives              Writing             Narrative in interactive media research.
+2017.03.18      1.0         Interactive Narratives              Research            Narrative design implementation study.
+2017.03.17      1.5         Interactive Narratives              Writing             Narrative in interactive media research.
+2017.03.17      1.0         Interactive Narratives              Research            Narrative design implementation study.
 2017.03.16      1.5         Drone Dreams                        Development         Setup shared visualizer.
 2017.03.15      0.5         Log                                 Design              Log organization, task types research and expansion.
 2017.03.15      2.5                                             Graphic             Collage experimentation.
