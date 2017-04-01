@@ -44,6 +44,7 @@ source.each do |line|
 
 		#project name apostrophe escape
 		project.gsub!("'", %q(\\\'))
+		project.gsub!('"', %q(\\\'))
 
 		#get task name
 		task = line[64, 20].strip
@@ -54,6 +55,7 @@ source.each do |line|
 
 			#details apostrophe escape
 			details.gsub!("'", %q(\\\'))
+			details.gsub!('"', %q(\\\'))
 		else
 			details = ""
 		end
