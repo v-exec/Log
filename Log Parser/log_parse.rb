@@ -58,18 +58,19 @@ source.each do |line|
 			details = ""
 		end
 
-		#push to arrays
+		#push project to projects array if element doesn't exist
 		if not project.empty? and not projects.index(project)
 			projects.push(project)
 		end
 
+		#if tasks don't match up, shoot error
 		if not tasks.index{|x|x[0] == task}
 			printf "TASK_ERROR AT '%s'\n", task
 		end
 
+		#push to log
 		log.push([date, time, project, task, details])
 	end
-
 end
 
 #select database
