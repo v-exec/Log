@@ -3,7 +3,31 @@ if ($_GET["location"]) {
 	$location = $_GET['location'];
 } else $location = 'tasks';
 
-include 'assets/logheader.php';
+include 'assets/credentials.php';
+include 'assets/logconstruct.php';
+
+//creates connection to database
+function connect() {
+	global $servername;
+	global $username;
+	global $password;
+	global $database;
+	$conn = new mysqli($servername, $username, $password, $database);
+	return $conn;
+}
+
+//returns single number through request query ($q = query, $e = select result)
+function getnum($q, $e) {
+	$conn = connect();
+	$r = "";
+	$result = $conn->query($q);
+	if ($result->num_rows > 0) {
+		$row = $result->fetch_assoc();
+		$r = $row[$e];
+	}
+	$conn->close();
+	return $r;
+}
 ?>
 
 <!DOCTYPE html>
@@ -31,10 +55,9 @@ include 'assets/logheader.php';
 	<link rel='icon' href='http://v-os.ca/assets/icons/v_ico.ico' type='image/x-icon'>
 
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="assets/styles/logstyle.css?ver=<?php echo filemtime('assets/style/logstyle.css');?>">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,900|Roboto:400,400i,900">
+	<link rel="stylesheet" type="text/css" href="assets/styles/logstyle.css?ver=<?php echo filemtime('assets/styles/logstyle.css');?>">
 </head>
-
 <body>
 <div id="body">
 	<div id="body-content">
@@ -55,7 +78,7 @@ include 'assets/logheader.php';
 		<?php loadlog();?>
 	</div>
 </div>
-
+    
 <div id="footer">
 	<div id="footer-content">
 		<div class="footer-left">
@@ -93,5 +116,6 @@ include 'assets/logheader.php';
 		</div>
 	</div>
 </div>
+    
 </body>
 </html>

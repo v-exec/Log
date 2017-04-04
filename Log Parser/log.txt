@@ -24,6 +24,10 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.02      0.5         Study                               Audio               Sound synthesis and composition practice.
+2017.04.02      2.0         V-OS                                Writing             V-OS page for V-OS, LinkedIn page, V-OS rewrites.
+2017.04.02      0.5         Elyium                              Development         Conflict reset feature and writing fix.
+2017.04.02      1.5         Jam                                 Acoustic            Guitar practice.
 2017.04.01      1.0         Jam                                 Acoustic            Guitar practice.
 2017.04.01      3.0         Interactive Narratives              Writing             Narrative in interactive media research.
 2017.03.31      0.5         Log                                 Development         Apostrophe escape, testing, documentation, bugfixes.
@@ -196,6 +200,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.01.22      0.0                                             Event               Joined Merveilles.
 2017.01.21      3.5         Study                               Development         Image processing in Processing.
 2017.01.21      1.0         Rig                                 Maintenance         Update backup.
+2017.01.21      2.0         Quro                                Audio               Mixing and tuning.
 2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
 2017.01.19      3.0         Study                               Research            Pixel sorting and vector math.
 2017.01.18      6.0         Quro                                Audio               Composition and mixing.

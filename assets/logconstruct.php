@@ -1,29 +1,4 @@
 <?php
-include 'assets/credentials.php';
-
-//creates connection to database
-function connect() {
-	global $servername;
-	global $username;
-	global $password;
-	global $database;
-	$conn = new mysqli($servername, $username, $password, $database);
-	return $conn;
-}
-
-//returns single number through request query ($q = query, $e = select result)
-function getnum($q, $e) {
-	$conn = connect();
-	$r = "";
-	$result = $conn->query($q);
-	if ($result->num_rows > 0) {
-		$row = $result->fetch_assoc();
-		$r = $row[$e];
-	}
-	$conn->close();
-	return $r;
-}
-
 //creates the measures for tasks/projects of given query ($q)
 function measures($q) {
 	$conn = connect();
