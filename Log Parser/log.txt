@@ -24,6 +24,12 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.05      0.5         Jam                                 Acoustic            Guitar practice.
+2017.04.05      3.0         Elyium                              Development         Saving system and input field fix, custom saving implementation, optimizations, debugging.
+2017.04.04      1.5         Levi                                Audio               Composition.
+2017.04.04      0.5         Study                               Research            Anthropocene.
+2017.04.04      6.5         Elyium                              Development         Save and load functionality, testing, debugging.
+2017.04.03      5.5         V-OS                                Development         Log link integration, template system expansion, css fixes, content migration.
 2017.04.02      0.5         Study                               Audio               Sound synthesis and composition practice.
 2017.04.02      2.0         V-OS                                Writing             V-OS page for V-OS, LinkedIn page, V-OS rewrites.
 2017.04.02      0.5         Elyium                              Development         Conflict reset feature and writing fix.
