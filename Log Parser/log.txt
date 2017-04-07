@@ -24,6 +24,11 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.06      1.5         Elyium                              Development         Custom save file handling.
+2017.04.06      2.0         Elyium                              Documentation       Public documentation, guide to writing for Elyium.
+2017.04.06      1.0         Elyium                              Writing             Entities writing.
+2017.04.06      0.5         Drone Dreams                        Research            Javascript and html canvas.
+2017.04.05      2.0         Drone Dreams                        Audio               Composition.
 2017.04.05      0.5         Jam                                 Acoustic            Guitar practice.
 2017.04.05      3.0         Elyium                              Development         Saving system and input field fix, custom saving implementation, optimizations, debugging.
 2017.04.04      1.5         Levi                                Audio               Composition.
