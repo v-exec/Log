@@ -24,6 +24,12 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.08      0.5         Drone Dreams                        Research            Local network setup and testing.
+2017.04.08      0.5         Elyium                              Documentation       Description updates.
+2017.04.08      4.0         Elyium                              Development         Entity interaction system, debugging, custom save file handling.
+2017.04.07      0.5         Drone Dreams                        Audio               Tracks mix.
+2017.04.07      0.5         Jam                                 Acoustic            Synth keyboard practice.
+2017.04.07      0.5         Elyium                              Writing             Entities writing.
 2017.04.06      1.5         Elyium                              Development         Custom save file handling.
 2017.04.06      2.0         Elyium                              Documentation       Public documentation, guide to writing for Elyium.
 2017.04.06      1.0         Elyium                              Writing             Entities writing.
@@ -210,6 +216,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.01.22      2.0         V-OS                                Writing             V-OS Quro page and projects narrative rewrite.
 2017.01.22      0.0                                             Event               Joined Merveilles.
 2017.01.21      3.5         Study                               Development         Image processing in Processing.
+2017.01.21      0.0                                             Event               Begin time tracking seriously.
 2017.01.21      1.0         Rig                                 Maintenance         Update backup.
 2017.01.21      2.0         Quro                                Audio               Mixing and tuning.
 2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
