@@ -109,7 +109,50 @@ function loglist($q) {
 function timeline($q) {
 	$conn = connect();
 	$result = $conn->query($q);
-	//
+	if ($result->num_rows > 0) {
+		$rows = array();
+
+		while ($row = $result->fetch_assoc()) {
+			array_push($rows, $row['date']);
+		}
+
+		echo
+		'
+		<div class="spacer" style="height: 15px;"></div>
+		<span class="timeline-date-begin">'.$rows[sizeof($rows)-1].'</span>
+		<span class="timeline-date-end">'.$rows[0].'</span>
+		<div class="timeline-container">
+			<div class="timeline"></div>
+			<div class="timeline-marker-begin"></div>
+			<div class="timeline-circle-container">
+		';
+
+		$first = new DateTime($rows[sizeof($rows)-1]);
+		$last = new DateTime($rows[0]);
+		$difference = $last->diff($first)->format("%a");
+
+		for ($i = 0; $i < sizeof($rows); $i++) {
+			$now = new DateTime($rows[$i]);
+			$position = ($now->diff($first)->format("%a")) / $difference;
+
+			if ($now != new DateTime($rows[$i - 1])) {
+				echo
+				'
+				<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
+					<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#070707"/>
+				</svg>
+				';
+			}
+		}
+		echo
+		'
+		</div>
+		<svg class="timeline-marker-end">
+			<live x1="0" y1="0" x2="0" y2="10" stroke-width="4"/>
+		</svg>
+		</div>
+		';
+	}
 	$conn->close();
 }
 
@@ -140,10 +183,9 @@ function spec($l, $type) {
 		<span class="spec-text">'.number_format($data[0], 0).' '.$hourphrase.'</span>
 		<span class="spec-text">'.$data[1].' '.$logphrase.'</span>
 	</div>
-	<div class="divider"></div>
 	';
 
-	//timeline();
+	timeline('select log.date from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by date desc;');
 
 	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;');
 

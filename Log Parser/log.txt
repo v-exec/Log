@@ -24,6 +24,12 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.12      2.0         Log                                 Development         Timeline visualization and adjustments.
+2017.04.11      2.5         Elyium                              Development         Desktop version, organization, future feature set up and conceptualization.
+2017.04.10      1.0         Jam                                 Audio               Mixing and synthesis practice.
+2017.04.10      0.5         Study                               Writing             Societies of discipline and control.
+2017.04.09      1.0         Study                               Writing             Societies of discipline and control.
+2017.04.09      2.0         Jam                                 Audio               Composition practice.
 2017.04.08      0.5         Drone Dreams                        Research            Local network setup and testing.
 2017.04.08      0.5         Elyium                              Documentation       Description updates.
 2017.04.08      4.0         Elyium                              Development         Entity interaction system, debugging, custom save file handling.
@@ -41,7 +47,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.04.04      0.5         Study                               Research            Anthropocene.
 2017.04.04      6.5         Elyium                              Development         Save and load functionality, testing, debugging.
 2017.04.03      5.5         V-OS                                Development         Log link integration, template system expansion, css fixes, content migration.
-2017.04.02      0.5         Study                               Audio               Sound synthesis and composition practice.
+2017.04.02      0.5         Jam                                 Audio               Sound synthesis and composition practice.
 2017.04.02      2.0         V-OS                                Writing             V-OS page for V-OS, LinkedIn page, V-OS rewrites.
 2017.04.02      0.5         Elyium                              Development         Conflict reset feature and writing fix.
 2017.04.02      1.5         Jam                                 Acoustic            Guitar practice.
@@ -53,7 +59,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.30      1.0         Study                               Research            MBTI and social typology.
 2017.03.30      1.0         Jam                                 Acoustic            Guitar practice.
 2017.03.30      0.5         Study                               Writing             Exploration of societies and control structures.
-2017.03.29      2.0                                             Audio               Audio synthesis theory, collaborative experimentation.
+2017.03.29      2.0         Drone Dreams                        Audio               Audio synthesis theory, collaborative experimentation.
 2017.03.29      1.0         Drone Dreams                        Documentation       Presentation and artist's statement.
 2017.03.28      0.5                                             Research            ScopeOne exploration and explanation.
 2017.03.28      3.5         Elyium                              Development         Entities list interface, bugfixing, tuning, and testing.
@@ -62,14 +68,14 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.26      1.5         Rig                                 Maintenance         Organize and clean up media and assets, update backup.
 2017.03.26      0.5         Rig                                 Maintenance         Update backup.
 2017.03.26      2.0         Interactive Narratives              Writing             Narrative in interactive media research.
-2017.03.25      0.5                                             Development         Rainmeter skin.
+2017.03.25      0.5         Rig                                 Development         Rainmeter skin.
 2017.03.25      2.0         Elyium                              Development         Interface refactoring.
 2017.03.24      1.0         V-OS                                Writing             Temporalis and verse writing.
 2017.03.24      0.5         Jam                                 Acoustic            Recording experimentation, minor vocals practice.
 2017.03.24      0.5         V-OS                                Documentation       CloudCrusher (SkyCandy) documentation and V-OS page.
 2017.03.24      2.0         Elyium                              Development         Entity spawning system.
 2017.03.23      1.5         Study                               Writing             Body and embodiment in new media.
-2017.03.23      2.0                                             Development         Arduino help/teaching.
+2017.03.23      2.0                                             Research            Arduino help/teaching.
 2017.03.22      2.0         Tie                                 Documentation       Site population with documentation data.
 2017.03.22      1.5         V-OS                                Writing             Writing, titles, personal page, site structure, CV rework.
 2017.03.22      0.5         VisN                                Documentation       V-OS page.
@@ -197,6 +203,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.01      2.0         Shorthand                           Graphic             Develop shorthand script for personal use.
 2017.02.01      1.5         Rig                                 Maintenance         Reinstall desktop PC.
 2017.01.31      4.0         Study                               Development         Video processing in Processing.
+2017.01.31      1.0         Tie                                 Research            Unique typography research.
 2017.01.30      1.5         Nameium                             Development         Develop more sophisticated name generation, experiment with language.
 2017.01.30      0.5         Study                               Research            Medium and media studies.
 2017.01.29      1.0         Nameium                             Development         Design and develop simple name generation system.
@@ -216,11 +223,11 @@ DATE            TIME        PROJECT                             TASK            
 2017.01.22      2.0         V-OS                                Writing             V-OS Quro page and projects narrative rewrite.
 2017.01.22      0.0                                             Event               Joined Merveilles.
 2017.01.21      3.5         Study                               Development         Image processing in Processing.
-2017.01.21      0.0                                             Event               Begin time tracking seriously.
 2017.01.21      1.0         Rig                                 Maintenance         Update backup.
 2017.01.21      2.0         Quro                                Audio               Mixing and tuning.
 2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
 2017.01.19      3.0         Study                               Research            Pixel sorting and vector math.
+2017.01.19      0.0                                             Event               Begin time tracking seriously.
 2017.01.18      6.0         Quro                                Audio               Composition and mixing.
 2017.01.17      2.5         Quro                                Recording           Recording room sounds for soundscape samples.
 2017.01.16      0.5         Study                               Research            Image and representation in new media.
