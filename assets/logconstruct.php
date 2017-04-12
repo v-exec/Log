@@ -135,7 +135,10 @@ function timeline($q) {
 			$now = new DateTime($rows[$i]);
 			$position = ($now->diff($first)->format("%a")) / $difference;
 
-			if ($now != new DateTime($rows[$i - 1])) {
+			$old = new DateTime($rows[$i - 1]);
+			$oldPosition = ($old->diff($first)->format("%a")) / $difference;
+
+			if ($now != new DateTime($rows[$i - 1]) && ($oldPosition - $position) > 0.001) {
 				echo
 				'
 				<svg class="timeline-circle" style="left: '. $position * 100 .'%;">

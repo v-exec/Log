@@ -86,13 +86,13 @@ a:hover {
 #body {
 	position: relative;
 	width: 100%;
-	min-width: 940px;
+	min-width: 600px;
 	background-color: #070707;
 }
 
 #footer {
 	width: 100%;
-	min-width: 940px;
+	min-width: 600px;
 	background-color: #0d0d0d;
 }
 
