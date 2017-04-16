@@ -1,7 +1,7 @@
 <?php
-if ($_GET["location"]) {
-	$location = $_GET['location'];
-} else $location = 'tasks';
+if ($_GET["l"]) {
+	$l = $_GET['l'];
+} else $l = 'tasks';
 include 'assets/logconstruct.php';
 ?>
 
@@ -38,9 +38,9 @@ include 'assets/logconstruct.php';
 	<div id="body-content">
 		<div id="header">
 			<div class="divider"></div>
-			<form id="tasks" action="log" method="get"><input type="hidden" name="location" value="tasks"></form>
-			<form id="projects" action="log" method="get"><input type="hidden" name="location" value="projects"></form>	
-			<form id="logs" action="log" method="get"><input type="hidden" name="location" value="logs"></form>
+			<form id="tasks" action="log" method="get"><input type="hidden" name="l" value="tasks"></form>
+			<form id="projects" action="log" method="get"><input type="hidden" name="l" value="projects"></form>	
+			<form id="logs" action="log" method="get"><input type="hidden" name="l" value="logs"></form>
 
 			<a href="javascript:void(0);" class="title" onclick="document.getElementById('tasks').submit();">Tasks</a>
 			<span class="dot">.</span>

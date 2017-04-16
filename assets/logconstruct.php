@@ -53,7 +53,7 @@ function measures($q) {
 					<circle cx="75" cy="75" r="'.round(($rows[$i][1]/$size * 60) + 2).'" stroke="#fff" stroke-width="'.round(($rows[$i][1]/$size * 6) + 2).'" fill="none"/>
 				</svg>
 				<div class="measure-info">
-					<form id="'.$rows[$i][0].'" action="log" method="get"><input type="hidden" name="location" value="'.$rows[$i][0].'"></form>
+					<form id="'.$rows[$i][0].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][0].'"></form>
 					<a href="javascript:void(0);" class="measure-title" onclick="document.getElementById('."'".$rows[$i][0]."'".').submit();">'.$rows[$i][0].'</a>
 					<p class="measure-text">'.number_format($rows[$i][1], 0).' '.$hourphrase.'</p>
 					<p class="measure-text">'.$rows[$i][2].' '.$logphrase.'</p>
@@ -88,11 +88,11 @@ function loglist($q) {
 					<span class="loglist-text">'.number_format($rows[$i][1], 1).'</span>
 				</div>
 				<div class="loglist-info">
-					<form id="'.$rows[$i][2].'" action="log" method="get"><input type="hidden" name="location" value="'.$rows[$i][2].'"></form>
+					<form id="'.$rows[$i][2].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][2].'"></form>
 					<a href="javascript:void(0);" class="loglist-text" onclick="document.getElementById('."'".$rows[$i][2]."'".').submit();">'.$rows[$i][2].'</a>
 				</div>
 				<div class="loglist-info">
-					<form id="'.$rows[$i][3].'" action="log" method="get"><input type="hidden" name="location" value="'.$rows[$i][3].'"></form>
+					<form id="'.$rows[$i][3].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][3].'"></form>
 					<a href="javascript:void(0);" class="loglist-text" onclick="document.getElementById('."'".$rows[$i][3]."'".').submit();">'.$rows[$i][3].'</a>
 				</div>
 				<div class="loglist-details">
@@ -168,7 +168,7 @@ function timeline($q) {
 	$conn->close();
 }
 
-//creates detailed page for project/task ($type) of given location ($l)
+//creates detailed page for project/task ($type) of given l ($l)
 function spec($l, $type) {
 	if ($type == 'task') $typeOpp = 'project';
 	else $typeOpp = 'task';
@@ -189,7 +189,7 @@ function spec($l, $type) {
 	echo
 	'
 	<div class="spacer"></div>
-	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="location" value="'.$l.'"></form>
+	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="l" value="'.$l.'"></form>
 	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
 	<div class="spec-stats">
 		<span class="spec-text">'.number_format($data[0], 0).' '.$hourphrase.'</span>
@@ -208,7 +208,7 @@ function spec($l, $type) {
 	$conn->close();
 }
 
-//checks if given location ($l) is project or task
+//checks if given l ($l) is project or task
 function checkType($l) {
 	$conn = connect();
 	//true = task / false = project
@@ -225,22 +225,22 @@ function checkType($l) {
 
 //logic and pageflow for log layout
 function loadlog() {
-	global $location;
-	if ($location == 'tasks') {
+	global $l;
+	if ($l == 'tasks') {
 		$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by log.id;';
 		measures($query);
 
-	} else if ($location == 'projects') {
+	} else if ($l == 'projects') {
 		$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by log.id;';
 		measures($query);
 
-	} else if ($location == 'logs') {
+	} else if ($l == 'logs') {
 		$query = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id left join task on task.id = log.task_id order by date desc;';
 		loglist($query);
 
 	} else {
-		if (checkType($location)) spec($location, 'task');
-		else spec($location, 'project');
+		if (checkType($l)) spec($l, 'task');
+		else spec($l, 'project');
 	}
 }
 ?>
