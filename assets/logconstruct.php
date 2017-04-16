@@ -131,21 +131,30 @@ function timeline($q) {
 		$last = new DateTime($rows[0]);
 		$difference = $last->diff($first)->format("%a");
 
-		for ($i = 0; $i < sizeof($rows); $i++) {
-			$now = new DateTime($rows[$i]);
-			$position = ($now->diff($first)->format("%a")) / $difference;
+		if (sizeof($rows) > 1) {
+			for ($i = 0; $i < sizeof($rows); $i++) {
+				$now = new DateTime($rows[$i]);
+				$position = ($now->diff($first)->format("%a")) / $difference;
 
-			$old = new DateTime($rows[$i - 1]);
-			$oldPosition = ($old->diff($first)->format("%a")) / $difference;
+				$old = new DateTime($rows[$i - 1]);
+				$oldPosition = ($old->diff($first)->format("%a")) / $difference;
 
-			if ($now != new DateTime($rows[$i - 1]) && ($oldPosition - $position) > 0.001) {
-				echo
-				'
-				<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
-					<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#070707"/>
-				</svg>
-				';
+				if ($now != new DateTime($rows[$i - 1]) && ($oldPosition - $position) > 0.001) {
+					echo
+					'
+					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
+						<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#070707"/>
+					</svg>
+					';
+				}
 			}
+		} else {
+			echo
+			'
+			<svg class="timeline-circle" style="left: 0%;">
+				<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#070707"/>
+			</svg>
+			';
 		}
 		echo
 		'

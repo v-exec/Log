@@ -24,7 +24,13 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
-2017.04.12      2.0         Log                                 Development         Timeline visualization and adjustments.
+2017.04.15      4.0         Saturn Rain                         Audio               Composition, recording, mixing.
+2017.04.14      1.5         Study                               Research            Composition study.
+2017.04.14      2.5         Study                               Research            Shaders study.
+2017.04.14      1.5         Jam                                 Audio               Composition and synthesis practice.
+2017.04.13      0.5         Drone Dreams                        Performance         Drone music performance.
+2017.04.12      3.0         Drone Dreams                        Development         Visuals development.
+2017.04.12      2.5         Log                                 Development         Timeline visualization, adjustments.
 2017.04.11      2.5         Elyium                              Development         Desktop version, organization, future feature set up and conceptualization.
 2017.04.10      1.0         Jam                                 Audio               Mixing and synthesis practice.
 2017.04.10      0.5         Study                               Writing             Societies of discipline and control.
@@ -81,8 +87,8 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.22      0.5         VisN                                Documentation       V-OS page.
 2017.03.21      0.5         Study                               Audio               Composition and experimentation.
 2017.03.21      0.5         Study                               Research            Body and embodiment in new media.
-2017.03.20      0.5         SAVE_ME                             Graphic             SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
-2017.03.20      0.5         SAVE_ME                             Illustration        Drawing practice.
+2017.03.20      0.5         Study                               Graphic             SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
+2017.03.20      0.5         Study                               Illustration        Drawing practice.
 2017.03.19      0.5         Study                               Development         Particle system desert in Processing.
 2017.03.19      0.5         Study                               Design              Particle system desert in Processing.
 2017.03.18      1.5         Interactive Narratives              Writing             Narrative in interactive media research.
@@ -137,7 +143,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.28      3.0         Elyium                              Documentation       Commentary and additional documentation.
 2017.02.27      1.0         Log                                 Research            MySQL study.
 2017.02.27      0.5         NO                                  Research            Rendering study.
-2017.02.27      1.5         SAVE_ME                             Illustration        Drawing practice.
+2017.02.27      1.5         Study                               Illustration        Drawing practice.
 2017.02.27      0.5         Study                               Research            Interaction in new media.
 2017.02.26      2.0         Elyium                              Development         Interface expansion.
 2017.02.26      2.0         Identity                            Graphic             Visual review.
@@ -149,7 +155,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.23      0.5         V-OS                                Design              Aesthetic experimentation.
 2017.02.23      1.0         Elyium                              Writing             V-OS page.
 2017.02.23      1.5         Elyium                              Graphic             Visual identity design.
-2017.02.23      2.0         Di                                  Development         Unreal engine problem solving.
+2017.02.23      2.0                                             Development         Unreal engine problem solving.
 2017.02.23      3.0         VisN                                Development         Camera FoV script and HTC Vive port.
 2017.02.22      2.0         V-OS                                Writing             V-OS narrative rewrite.
 2017.02.22      0.5         NO                                  Research            Micropolygon displacement research.
@@ -165,19 +171,19 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.18      0.5         Ontologica                          Documentation       Documentation and V-OS page.
 2017.02.17      5.0         Ontologica                          Editing             Film and edit video, develop Ontologica environment.
 2017.02.16      1.5         Tie                                 Development         Web development for Obx.
-2017.02.16      2.0         Horses?                             Development         Physics development, balancing, and documentation.
+2017.02.16      2.0         Study                               Development         Physics development, balancing, and documentation of Processing game.
 2017.02.16      2.0         V-OS                                Development         Bugfixing, aesthetic changes.
 2017.02.15      1.0         V-OS                                Development         Bugfixes, optimizations.
 2017.02.15      2.0         Tie                                 Development         Website template for Obx.
 2017.02.15      3.0         Mosterra                            3D                  Blender experimentation.
 2017.02.14      5.0         Mosterra                            3D                  Blender experimentation.
-2017.02.14      3.0         Horses?                             Development         Experimental game dev in Processing (Horses?).
+2017.02.14      3.0         Study                               Development         Experimental game dev in Processing (named Horses?).
 2017.02.13      0.5         Ontologica                          Design              Concept expansion and discussion.
 2017.02.13      0.5         Study                               Research            Information, noise, and communication theory.
 2017.02.12      0.5         VisN                                Writing             Add more poetry to level.
 2017.02.12      3.0         Elyium                              Development         Interface development.
 2017.02.12      1.0         Levi                                Audio               Composition and experimentation.
-2017.02.12      1.5         Di                                  Design              Add tree, better particle effects, better post-processing effects.
+2017.02.12      1.5                                             Design              Add tree, better particle effects, better post-processing effects for desert landscape.
 2017.02.11      3.5         Levi                                Audio               Composition and experimentation.
 2017.02.10      2.0         Levi                                Audio               Composition and experimentation.
 2017.02.10      3.5         Elyium                              Development         Connecting modules, interface development, and database management.
@@ -185,7 +191,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.10      0.5         Quro                                Filming             Record video samples.
 2017.02.09      0.5         Levi                                Audio               Composition and experimentation.
 2017.02.08      0.5         Elyium                              Design              Database design.
-2017.02.08      4.0         Di                                  Development         Unreal 4 scene development and experimentation.
+2017.02.08      4.0                                             Development         Unreal 4 scene development and experimentation.
 2017.02.08      1.5         VisN                                Development         Gimbal lock research, frame system development.
 2017.02.07      5.0         Elyium                              Design              Narrative generation system design.
 2017.02.06      1.0         Ontologica                          Development         Refine level, add environment animation.
@@ -204,9 +210,9 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.01      1.5         Rig                                 Maintenance         Reinstall desktop PC.
 2017.01.31      4.0         Study                               Development         Video processing in Processing.
 2017.01.31      1.0         Tie                                 Research            Unique typography research.
-2017.01.30      1.5         Nameium                             Development         Develop more sophisticated name generation, experiment with language.
+2017.01.30      1.5                                             Linguistics         Develop more sophisticated name generation for name system, experiment with language.
 2017.01.30      0.5         Study                               Research            Medium and media studies.
-2017.01.29      1.0         Nameium                             Development         Design and develop simple name generation system.
+2017.01.29      1.0                                             Development         Design and develop simple name generation system.
 2017.01.29      1.0         Study                               Research            Ruby study.
 2017.01.28      2.0         Study                               Research            Ruby study.
 2017.01.28      1.0         VisN                                3D                  Cinema4D sketches for Obx.
