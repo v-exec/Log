@@ -51,7 +51,7 @@ a:hover {
 
 /*-----------HEADER-----------*/
 #header {
-	margin-bottom: 40px;
+	margin-bottom: 30px;
 }
 
 .divider {
@@ -100,6 +100,7 @@ a:hover {
 #footer-content {
 	max-width: 1675px;
 	padding: 50px;
+	padding-bottom: 30px;
 	margin: auto;
 }
 
