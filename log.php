@@ -39,7 +39,7 @@ include 'assets/logconstruct.php';
 		<div id="header">
 			<div class="divider"></div>
 			<form id="tasks" action="log" method="get"><input type="hidden" name="l" value="tasks"></form>
-			<form id="projects" action="log" method="get"><input type="hidden" name="l" value="projects"></form>	
+			<form id="projects" action="log" method="get"><input type="hidden" name="l" value="projects"></form>
 			<form id="logs" action="log" method="get"><input type="hidden" name="l" value="logs"></form>
 
 			<a href="javascript:void(0);" class="title" onclick="document.getElementById('tasks').submit();">Tasks</a>
@@ -57,7 +57,7 @@ include 'assets/logconstruct.php';
 <div id="footer">
 	<div id="footer-content">
 		<div class="footer-left">
-			<a href="https://github.com/v-exe"><img class="footer-image" src="assets/icons/githubicon_w.png"></a>
+			<a href="https://github.com/v-exec"><img class="footer-image" src="assets/icons/githubicon_w.png"></a>
 			<a href="https://twitter.com/v_exec"><img class="footer-image" src="assets/icons/twittericon_w.png"></a>
 			<a href="https://ca.linkedin.com/in/victor-ivanov"><img class="footer-image" src="assets/icons/linkedinicon_w.png"></a>
 			<br>

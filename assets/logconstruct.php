@@ -78,11 +78,12 @@ function loglist($q) {
 		}
 
 		for ($i = 0; $i < sizeof($rows); $i++) {
+			$date = new DateTime($rows[$i][0]);
 			echo
 			'
 			<div class="loglist-container">
 				<div class="loglist-date">
-					<span class="loglist-text">'.$rows[$i][0].'</span>
+					<span class="loglist-text">'.$date->format('Y.m.d').'</span>
 				</div>
 				<div class="loglist-time">
 					<span class="loglist-text">'.number_format($rows[$i][1], 1).'</span>
@@ -116,30 +117,30 @@ function timeline($q) {
 			array_push($rows, $row['date']);
 		}
 
+		$first = new DateTime($rows[sizeof($rows)-1]);
+		$last = new DateTime();
+		$difference = $last->diff($first)->format("%a");
+
 		echo
 		'
 		<div class="spacer" style="height: 15px;"></div>
-		<span class="timeline-date-begin">'.$rows[sizeof($rows)-1].'</span>
-		<span class="timeline-date-end">'.$rows[0].'</span>
+		<span class="timeline-date-begin">'.$first->format('Y.m.d').'</span>
+		<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
 		<div class="timeline-container">
 			<div class="timeline"></div>
 			<div class="timeline-marker-begin"></div>
 			<div class="timeline-circle-container">
 		';
 
-		$first = new DateTime($rows[sizeof($rows)-1]);
-		$last = new DateTime($rows[0]);
-		$difference = $last->diff($first)->format("%a");
-
 		if (sizeof($rows) > 1) {
-			for ($i = 0; $i < sizeof($rows); $i++) {
+			for ($i = sizeof($rows); $i > -1; $i--) {
 				$now = new DateTime($rows[$i]);
 				$position = ($now->diff($first)->format("%a")) / $difference;
 
 				$old = new DateTime($rows[$i - 1]);
 				$oldPosition = ($old->diff($first)->format("%a")) / $difference;
 
-				if ($now != new DateTime($rows[$i - 1]) && ($oldPosition - $position) > 0.001) {
+				if ($now != $old && ($oldPosition - $position) > 0.001) {
 					echo
 					'
 					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
@@ -197,13 +198,13 @@ function spec($l, $type) {
 	</div>
 	';
 
-	timeline('select log.date from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by date desc;');
+	timeline('select log.date from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;');
 
 	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;');
 
 	echo '<div class="divider"></div>';
 
-	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by date desc;');
+	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;');
 
 	$conn->close();
 }
@@ -229,15 +230,12 @@ function loadlog() {
 	if ($l == 'tasks') {
 		$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by log.id;';
 		measures($query);
-
 	} else if ($l == 'projects') {
 		$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by log.id;';
 		measures($query);
-
 	} else if ($l == 'logs') {
-		$query = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id left join task on task.id = log.task_id order by date desc;';
+		$query = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id left join task on task.id = log.task_id order by log.id asc;';
 		loglist($query);
-
 	} else {
 		if (checkType($l)) spec($l, 'task');
 		else spec($l, 'project');
