@@ -24,17 +24,22 @@ Event                       Noteworthy Event
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.19      5.5         The Cosmic Affliction               3D                  Terrain and atmosphere generation and rendering.
+2017.04.19      2.0         The Cosmic Affliction               Audio               Levi composition.
+2017.04.19      1.5         V-OS                                Design              Back-end cleanup, mobile-friendly rework for V-OS and Log.
+2017.04.19      0.5         Elyium                              Documentation       Documentation.
+2017.04.18      0.5         The Cosmic Affliction               3D                  Terrain rendering tests.
 2017.04.17      2.5         Log                                 Design              Project semantics, organization, visualization adjustments, graphs design attempt.
 2017.04.17      0.5         V-OS                                Development         Styling simplification, projects list style change, image frame taper implementation.
 2017.04.17      0.5         V-OS                                Writing             Project documentation.
 2017.04.17      0.5                                             Editing             Stratet image editing.
-2017.04.17      0.5                                             3D                  Performance testing through demanding 3D renders.
+2017.04.17      0.5         Rig                                 3D                  Performance testing through demanding 3D renders.
 2017.04.17      2.0         Rig                                 Research            Performance and diagnostics testing.
-2017.04.17      0.5         Interstellar Depression             3D                  Terrain and atmosphere generation.
-2017.04.16      2.5         Interstellar Depression             3D                  Terrain and atmosphere generation.
-2017.04.16      0.5         Interstellar Depression             Research            Digital collage study.
-2017.04.16      1.0         Interstellar Depression             Audio               Saturn Rain mixing.
-2017.04.15      4.0         Interstellar Depression             Audio               Saturn Rain composition, recording, mixing.
+2017.04.17      0.5         The Cosmic Affliction               3D                  Terrain and atmosphere generation.
+2017.04.16      2.5         The Cosmic Affliction               3D                  Terrain and atmosphere generation.
+2017.04.16      0.5         The Cosmic Affliction               Research            Digital collage study.
+2017.04.16      1.0         The Cosmic Affliction               Audio               Saturn Rain mixing.
+2017.04.15      4.0         The Cosmic Affliction               Audio               Saturn Rain composition, recording, mixing.
 2017.04.14      1.5         Study                               Research            Composition study.
 2017.04.14      2.5         Study                               Research            Shaders study.
 2017.04.14      1.5         Jam                                 Audio               Composition and synthesis practice.
@@ -60,7 +65,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.04.05      2.0         Drone Dreams                        Audio               Composition.
 2017.04.05      0.5         Jam                                 Acoustic            Guitar practice.
 2017.04.05      3.0         Elyium                              Development         Saving system and input field fix, custom saving implementation, optimizations, debugging.
-2017.04.04      1.5         Interstellar Depression             Audio               Levi composition.
+2017.04.04      1.5         The Cosmic Affliction               Audio               Levi composition.
 2017.04.04      0.5         Study                               Research            Anthropocene.
 2017.04.04      6.5         Elyium                              Development         Save and load functionality, testing, debugging.
 2017.04.03      5.5         V-OS                                Development         Log link integration, template system expansion, css fixes, content migration.
@@ -193,14 +198,14 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.13      0.5         Study                               Research            Information, noise, and communication theory.
 2017.02.12      0.5         VisN                                Writing             Add more poetry to level.
 2017.02.12      3.0         Elyium                              Development         Interface development.
-2017.02.12      1.0         Interstellar Depression             Audio               Levi composition and experimentation.
+2017.02.12      1.0         Jam                                 Audio               Composition and experimentation.
 2017.02.12      1.5                                             Design              Add tree, better particle effects, better post-processing effects for desert landscape.
-2017.02.11      3.5         Interstellar Depression             Audio               Levi composition and experimentation.
-2017.02.10      2.0         Interstellar Depression             Audio               Levi composition and experimentation.
+2017.02.11      3.5         Jam                                 Audio               Composition and experimentation.
+2017.02.10      2.0         Jam                                 Audio               Composition and experimentation.
 2017.02.10      3.5         Elyium                              Development         Connecting modules, interface development, and database management.
 2017.02.10      0.5         Elyium                              Graphic             Interface design.
 2017.02.10      0.5         Quro                                Filming             Record video samples.
-2017.02.09      0.5         Interstellar Depression             Audio               Composition and experimentation.
+2017.02.09      0.5         Jam                                 Audio               Composition and experimentation.
 2017.02.08      0.5         Elyium                              Design              Database design.
 2017.02.08      4.0                                             Development         Unreal 4 scene development and experimentation.
 2017.02.08      1.5         VisN                                Development         Gimbal lock research, frame system development.
@@ -208,7 +213,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.06      1.0         Ontologica                          Development         Refine level, add environment animation.
 2017.02.06      0.5         Study                               Research            Computation in new media.
 2017.02.05      4.0         Elyium                              Design              Further development and design for narrative generation.
-2017.02.05      2.5         Interstellar Depression             Acoustic            Guitar practice, sound experimentation.
+2017.02.05      2.5         Study                               Acoustic            Guitar practice, sound experimentation.
 2017.02.05      1.0         Ontologica                          Development         Rebuild level in Unreal.
 2017.02.04      9.0         Elyium                              Development         Preliminary infrastructure development, image-to-ascii algorithm.
 2017.02.04      1.0         VisN                                Audio               Edit Mantycore reading, add to Unity scene.

@@ -104,10 +104,6 @@ a:hover {
 	margin: auto;
 }
 
-#body-content {
-	min-height: 800px;
-}
-
 #footer-content {
 	overflow: auto;
 	min-height: 100px;
@@ -231,12 +227,6 @@ a:hover {
 	font-weight: 300;
 }
 
-@media (max-width: 817px) {
-	.loglist-details {
-		display: none;
-	}
-}
-
 /*-----------TIMELINE-----------*/
 .timeline-container {
 	position: relative;
@@ -323,4 +313,11 @@ a:hover {
 	color: #fff;
 	font-size: 10pt;
 	font-weight: 300;
+}
+
+/*-----------MEDIA-----------*/
+@media (max-width: 817px) {
+	.loglist-details {
+		display: none;
+	}
 }

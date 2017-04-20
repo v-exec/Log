@@ -12,6 +12,8 @@ include 'assets/logconstruct.php';
 	<meta charset="UTF-8">
 	<title>V · Log</title>
 
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
 	<meta property="og:url" content="http://v-os.ca/">
 	<meta property="og:title" content="V-OS">
 	<meta property="og:type" content="website">
