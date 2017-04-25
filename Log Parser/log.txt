@@ -1,4 +1,4 @@
-#Task Types
+#Task Types                 Types of activities
 
 Research                    Learning, Testing, and Studying
 Design                      Project Planning and Organization
@@ -20,10 +20,35 @@ Linguistics                 Language Development
 Maintenance                 Personal Organization and Maintenance
 Event                       Noteworthy Event
 
+#Arch Projects              Overarching activities that are too small to be considered as projects and add up to significant amounts of time, long-term, or are part of a project I am not heavily involved in
+
+#Study                      Learning activities
+#Jam                        Audio activities
+#Doodle                     Visual activities
+#Tinker                     Development and design activities
+#Various (empty)            Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
+
 #Log
 
 DATE            TIME        PROJECT                             TASK                DETAILS
 
+2017.04.25      0.5         Log                                 Design              Project designation refinement.
+2017.04.25      0.5         Keyde                               Development         Hardware input, data visualization.
+2017.04.25      4.0         Keyde                               Research            Android permissions, hardware input.
+2017.04.24      0.5         Doodle                              3D                  Scene testing.
+2017.04.24      0.5         Doodle                              Illustration        Drawing practice.
+2017.04.24      1.0         Keyde                               Development         Unity setup.
+2017.04.24      5.0         Keyde                               Research            Foundation development, mobile, location, accelorometer, cardboard, Unity environment, camera integration.
+2017.04.23      0.5         Study                               Research            Controls and 3D movement systems.
+2017.04.22      6.0         Seven                               Development         Local file handling, standalone application porting, instancing.
+2017.04.22      2.0         Seven                               Research            Local file handling.
+2017.04.22      1.5         Seven                               Design              Local file handling.
+2017.04.22      0.5         Seven                               Graphic             Icon design.
+2017.04.21      0.5         Seven                               Documentation       V-OS page and hosting.
+2017.04.21      2.5         Seven                               Development         Auto image sizing, styling, zooming.
+2017.04.20      5.0         Seven                               Development         Web-based image viewing application development (foundation, file handling, formatting, color palette).
+2017.04.20      1.0         Seven                               Design              Web-based image viewing application design.
+2017.04.20      1.5         Seven                               Research            Local file browsing in browsers.
 2017.04.19      5.5         The Cosmic Affliction               3D                  Terrain and atmosphere generation and rendering.
 2017.04.19      2.0         The Cosmic Affliction               Audio               Levi composition.
 2017.04.19      1.5         V-OS                                Design              Back-end cleanup, mobile-friendly rework for V-OS and Log.
@@ -32,7 +57,7 @@ DATE            TIME        PROJECT                             TASK            
 2017.04.17      2.5         Log                                 Design              Project semantics, organization, visualization adjustments, graphs design attempt.
 2017.04.17      0.5         V-OS                                Development         Styling simplification, projects list style change, image frame taper implementation.
 2017.04.17      0.5         V-OS                                Writing             Project documentation.
-2017.04.17      0.5                                             Editing             Stratet image editing.
+2017.04.17      0.5         Doodle                              Editing             Stratet image editing.
 2017.04.17      0.5         Rig                                 3D                  Performance testing through demanding 3D renders.
 2017.04.17      2.0         Rig                                 Research            Performance and diagnostics testing.
 2017.04.17      0.5         The Cosmic Affliction               3D                  Terrain and atmosphere generation.
@@ -83,9 +108,9 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.30      0.5         Study                               Writing             Exploration of societies and control structures.
 2017.03.29      2.0         Drone Dreams                        Audio               Audio synthesis theory, collaborative experimentation.
 2017.03.29      1.0         Drone Dreams                        Documentation       Presentation and artist's statement.
-2017.03.28      0.5                                             Research            ScopeOne exploration and explanation.
+2017.03.28      0.5         Study                               Research            ScopeOne exploration and explanation.
 2017.03.28      3.5         Elyium                              Development         Entities list interface, bugfixing, tuning, and testing.
-2017.03.27      0.5                                             Editing             Modelling photographs editing.
+2017.03.27      0.5         Doodle                              Editing             Modelling photographs editing.
 2017.03.27      0.5         Study                               Research            Societies and control constructs.
 2017.03.26      1.5         Rig                                 Maintenance         Organize and clean up media and assets, update backup.
 2017.03.26      0.5         Rig                                 Maintenance         Update backup.
@@ -97,23 +122,23 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.24      0.5         V-OS                                Documentation       CloudCrusher (SkyCandy) documentation and V-OS page.
 2017.03.24      2.0         Elyium                              Development         Entity spawning system.
 2017.03.23      1.5         Study                               Writing             Body and embodiment in new media.
-2017.03.23      2.0                                             Research            Arduino help/teaching.
-2017.03.22      2.0                                             Documentation       Obx site population with documentation data.
+2017.03.23      2.0         Tinker                              Research            Arduino help/teaching.
+2017.03.22      2.0         Tinker                              Documentation       Obx site population with documentation data.
 2017.03.22      1.5         V-OS                                Writing             Writing, titles, personal page, site structure, CV rework.
 2017.03.22      0.5         VisN                                Documentation       V-OS page.
 2017.03.21      0.5         Study                               Audio               Composition and experimentation.
 2017.03.21      0.5         Study                               Research            Body and embodiment in new media.
-2017.03.20      0.5         Study                               Graphic             SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
-2017.03.20      0.5         Study                               Illustration        Drawing practice.
-2017.03.19      0.5         Study                               Development         Particle system desert in Processing.
-2017.03.19      0.5         Study                               Design              Particle system desert in Processing.
+2017.03.20      0.5         Doodle                              Graphic             SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
+2017.03.20      0.5         Doodle                              Illustration        Drawing practice.
+2017.03.19      0.5         Tinker                              Development         Particle system desert in Processing.
+2017.03.19      0.5         Tinker                              Design              Particle system desert in Processing.
 2017.03.18      1.5         Interactive Narratives              Writing             Narrative in interactive media research.
 2017.03.18      1.0         Interactive Narratives              Research            Narrative design implementation study.
 2017.03.17      1.5         Interactive Narratives              Writing             Narrative in interactive media research.
 2017.03.17      1.0         Interactive Narratives              Research            Narrative design implementation study.
 2017.03.16      1.5         Drone Dreams                        Development         Setup shared visualizer.
 2017.03.15      0.5         Log                                 Design              Log organization, task types research and expansion.
-2017.03.15      2.5         Study                               Graphic             Collage experimentation.
+2017.03.15      2.5         Doodle                              Graphic             Collage experimentation.
 2017.03.15      1.0         Elyium                              Development         Refactoring, documentation, logic tuning.
 2017.03.15      0.5         Study                               Research            Networks in new media.
 2017.03.14      6.0         Log                                 Development         Details page, navigation, page flow logic, styling.
@@ -139,10 +164,10 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.07      1.0         Drone Dreams                        Research            NodeJS and server research.
 2017.03.07      0.5         Jam                                 Acoustic            Guitar practice.
 2017.03.07      2.0         Quro                                Editing             Edit and upload Quro video.
-2017.03.07      0.5                                             Graphic             Script edits.
-2017.03.06      2.0                                             Graphic             Rework script and create font.
+2017.03.07      0.5         Doodle                              Graphic             Script edits.
+2017.03.06      2.0         Doodle                              Graphic             Rework script and create font.
 2017.03.06      0.5         Study                               Research            Cybernetics.
-2017.03.05      0.5                                             Design              Game design curriculum finalization.
+2017.03.05      0.5                                             Design              Game design curriculum writing.
 2017.03.05      4.0         Drone Dreams                        Development         PureData patch development.
 2017.03.05      0.5         Drone Dreams                        Research            PureData research.
 2017.03.05      1.0         Jam                                 Acoustic            Guitar practice.
@@ -151,69 +176,72 @@ DATE            TIME        PROJECT                             TASK            
 2017.03.04      4.0         Drone Dreams                        Development         NodeJS setup, server and interface development.
 2017.03.03      1.0         Drone Dreams                        Research            Tools research.
 2017.03.02      0.5         Elyium                              Graphic             Icons and interface elements creation.
+2017.03.02      1.0         Doodle                              Editing             Randomly generated webding animation.
 2017.03.02      1.5         Quro                                Filming             Quro video footage collection.
 2017.03.01      7.0         Elyium                              Development         Narrative interfacing, data structure refinement, conditional conflicts development.
 2017.02.28      0.5         V-OS                                Documentation       Documentation rewrite.
 2017.02.28      1.5         V-OS                                Design              Project reorganization.
-2017.02.28      0.5         Study                               Illustration        Drawing practice.
+2017.02.28      0.5         Doodle                              Illustration        Drawing practice.
 2017.02.28      3.0         Elyium                              Documentation       Commentary and additional documentation.
 2017.02.27      1.0         Log                                 Research            MySQL study.
-2017.02.27      0.5                                             Research            Rendering study.
-2017.02.27      1.5         Study                               Illustration        Drawing practice.
+2017.02.27      0.5         Study                               Research            Rendering study.
+2017.02.27      1.5         Doodle                              Illustration        Drawing practice.
 2017.02.27      0.5         Study                               Research            Interaction in new media.
 2017.02.26      2.0         Elyium                              Development         Interface expansion.
-2017.02.26      2.0                                             Graphic             Identity design visual review.
-2017.02.25      5.0                                             Graphic             Identity logo design and creation.
+2017.02.26      2.0         Doodle                              Graphic             Identity design visual review.
+2017.02.25      5.0         Doodle                              Graphic             Identity logo design and creation.
 2017.02.25      1.0         Quro                                Filming             Quro video footage collection.
-2017.02.24      3.0                                             3D                  Rendering research and experimentation.
+2017.02.24      3.0         Doodle                              3D                  Rendering research and experimentation.
 2017.02.24      0.0                                             Event               Interview for accelerated game design camp teaching job.
-2017.02.23      3.0                                             3D                  Micropolygon displacement, lighting and rendering.
+2017.02.23      3.0         Doodle                              3D                  Micropolygon displacement, lighting and rendering.
 2017.02.23      0.5         V-OS                                Design              Aesthetic experimentation.
 2017.02.23      1.0         Elyium                              Writing             V-OS page.
 2017.02.23      1.5         Elyium                              Graphic             Visual identity design.
-2017.02.23      2.0                                             Development         Unreal engine problem solving.
+2017.02.23      2.0         Tinker                              Development         Unreal engine problem solving.
 2017.02.23      3.0         VisN                                Development         Camera FoV script and HTC Vive port.
 2017.02.22      2.0         V-OS                                Writing             V-OS narrative rewrite.
-2017.02.22      0.5                                             Research            Micropolygon displacement research.
-2017.02.21      1.5                                             Research            Micropolygon displacement research.
+2017.02.22      0.5         Study                               Research            Micropolygon displacement research.
+2017.02.21      1.5         Study                               Research            Micropolygon displacement research.
 2017.02.21      0.5         Elyium                              Design              Interface design.
-2017.02.21      1.5                                             3D                  Materials creation, lighting and rendering.
+2017.02.21      1.5         Doodle                              3D                  Materials creation, lighting and rendering.
 2017.02.20      3.5         Elyium                              Development         Data structure creation.
-2017.02.20      5.0         Study                               Research            Blender material system research.
-2017.02.20      1.0         Study                               Illustration        Illustration practice with odd brushes.
+2017.02.20      5.0         Study                               Research            Blender material system study.
+2017.02.20      1.0         Doodle                              Illustration        Illustration practice with odd brushes.
 2017.02.19      0.5         Study                               Research            Blender material system nodes research.
 2017.02.19      4.0         Elyium                              Development         Database, narrative, and interface development.
 2017.02.18      2.5         Elyium                              Design              Database and narrative system redesign.
 2017.02.18      0.5         Ontologica                          Documentation       Documentation and V-OS page.
 2017.02.17      5.0         Ontologica                          Editing             Film and edit video, develop Ontologica environment.
-2017.02.16      1.5                                             Development         Web development for Obx.
-2017.02.16      2.0                                             Development         Physics development, balancing, and documentation of Processing game.
+2017.02.16      1.5         Tinker                              Development         Web development for Obx.
+2017.02.16      2.0         Tinker                              Development         Physics development, balancing, and documentation of Processing game.
 2017.02.16      2.0         V-OS                                Development         Bugfixing, aesthetic changes.
+2017.02.16      1.0         Doodle                              Editing             Meme video creation, green-screen testing.
 2017.02.15      1.0         V-OS                                Development         Bugfixes, optimizations.
-2017.02.15      2.0                                             Development         Website template for Obx.
-2017.02.15      3.0         Study                               3D                  Blender experimentation.
-2017.02.14      5.0         Study                               3D                  Blender experimentation.
-2017.02.14      3.0                                             Development          Experimental game dev in Processing.
+2017.02.15      2.0         Tinker                              Development         Website template for Obx.
+2017.02.15      3.0         Doodle                              3D                  Blender experimentation.
+2017.02.14      5.0         Doodle                              3D                  Blender experimentation.
+2017.02.14      3.0         Tinker                              Development         Experimental game dev in Processing.
 2017.02.13      0.5         Ontologica                          Design              Concept expansion and discussion.
 2017.02.13      0.5         Study                               Research            Information, noise, and communication theory.
 2017.02.12      0.5         VisN                                Writing             Add more poetry to level.
 2017.02.12      3.0         Elyium                              Development         Interface development.
 2017.02.12      1.0         Jam                                 Audio               Composition and experimentation.
-2017.02.12      1.5                                             Design              Add tree, better particle effects, better post-processing effects for desert landscape.
+2017.02.12      1.5         Tinker                              Design              Add tree, better particle effects, better post-processing effects for desert landscape.
 2017.02.11      3.5         Jam                                 Audio               Composition and experimentation.
 2017.02.10      2.0         Jam                                 Audio               Composition and experimentation.
 2017.02.10      3.5         Elyium                              Development         Connecting modules, interface development, and database management.
 2017.02.10      0.5         Elyium                              Graphic             Interface design.
 2017.02.10      0.5         Quro                                Filming             Record video samples.
 2017.02.09      0.5         Jam                                 Audio               Composition and experimentation.
+2017.02.09      1.0         Doodle                              Editing             Music visualization.
 2017.02.08      0.5         Elyium                              Design              Database design.
-2017.02.08      4.0                                             Development         Unreal 4 scene development and experimentation.
+2017.02.08      4.0         Tinker                              Development         Unreal 4 scene development and experimentation.
 2017.02.08      1.5         VisN                                Development         Gimbal lock research, frame system development.
 2017.02.07      5.0         Elyium                              Design              Narrative generation system design.
 2017.02.06      1.0         Ontologica                          Development         Refine level, add environment animation.
 2017.02.06      0.5         Study                               Research            Computation in new media.
 2017.02.05      4.0         Elyium                              Design              Further development and design for narrative generation.
-2017.02.05      2.5         Study                               Acoustic            Guitar practice, sound experimentation.
+2017.02.05      2.5         Jam                                 Acoustic            Guitar practice, sound experimentation.
 2017.02.05      1.0         Ontologica                          Development         Rebuild level in Unreal.
 2017.02.04      9.0         Elyium                              Development         Preliminary infrastructure development, image-to-ascii algorithm.
 2017.02.04      1.0         VisN                                Audio               Edit Mantycore reading, add to Unity scene.
@@ -222,13 +250,14 @@ DATE            TIME        PROJECT                             TASK            
 2017.02.03      3.0         Rig                                 Maintenance         Install programs on fresh OS.
 2017.02.02      2.0         Elyium                              Development         Accelorometer and location data gathering.
 2017.02.02      2.0         Study                               Linguistics         Research language composition and construction.
-2017.02.01      2.0                                             Graphic             Develop shorthand script for personal use.
+2017.02.02      2.0         Doodle                              Editing             Movie trailer.
+2017.02.01      2.0         Doodle                              Graphic             Develop shorthand script for personal use.
 2017.02.01      1.5         Rig                                 Maintenance         Reinstall desktop PC.
 2017.01.31      4.0         Study                               Development         Video processing in Processing.
 2017.01.31      1.0         VisN                                Research            Unique typography research.
-2017.01.30      1.5                                             Linguistics         Develop more sophisticated name generation for name system, experiment with language.
+2017.01.30      1.5         Tinker                              Linguistics         Develop more sophisticated name generation for name system, experiment with language.
 2017.01.30      0.5         Study                               Research            Medium and media studies.
-2017.01.29      1.0                                             Development         Design and develop simple name generation system.
+2017.01.29      1.0         Tinker                              Development         Design and develop simple name generation system.
 2017.01.29      1.0         Study                               Research            Ruby study.
 2017.01.28      2.0         Study                               Research            Ruby study.
 2017.01.28      1.0         VisN                                3D                  Cinema4D sketches for Obx.
@@ -236,15 +265,15 @@ DATE            TIME        PROJECT                             TASK            
 2017.01.27      2.5         Ontologica                          Development         Ontologica UE4 prototype development.
 2017.01.27      1.5         VisN                                3D                  Cinema4D sketches for Obx.
 2017.01.26      1.0         Elyium                              Design              Database structure research and design.
-2017.01.25      0.5                                             Graphic             Logo design.
+2017.01.25      0.5         Doodle                              Graphic             Logo design.
 2017.01.24      2.0         Elyium                              Design              Infrastructure research and design.
-2017.01.24      1.0         V-OS                                Design              V-OS mail setup, profile cleanup.              
-2017.01.23      0.5                                             Graphic             Atmos remaster.
+2017.01.24      1.0         V-OS                                Design              V-OS mail setup, profile cleanup.
+2017.01.23      0.5         Doodle                              Graphic             Atmos remaster.
 2017.01.23      1.5         Study                               Research            Simulation, simulacra, and materiality.
 2017.01.22      3.0         Quro                                Graphic             Quro cover art.
 2017.01.22      2.0         V-OS                                Writing             V-OS Quro page and projects narrative rewrite.
 2017.01.22      0.0                                             Event               Joined Merveilles.
-2017.01.21      3.5         Study                               Development         Image processing in Processing.
+2017.01.21      3.5         Tinker                              Development         Image processing in Processing.
 2017.01.21      1.0         Rig                                 Maintenance         Update backup.
 2017.01.21      2.0         Quro                                Audio               Mixing and tuning.
 2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
