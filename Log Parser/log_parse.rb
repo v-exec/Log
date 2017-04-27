@@ -77,9 +77,5 @@ projects.each do |project|
 end
 
 log.each do |date, time, project, task, details|
-	if project.empty?
-		output.printf "insert into log (date, time, task_id, details) values ('%s', '%s', (select id from task where name = '%s'), '%s');\n", date, time, task, details
-	else
-		output.printf "insert into log (date, time, project_id, task_id, details) values ('%s', '%s', (select id from project where name = '%s'), (select id from task where name = '%s'), '%s');\n", date, time, project, task, details
-	end
+	output.printf "insert into log (date, time, project_id, task_id, details) values ('%s', '%s', (select id from project where name = '%s'), (select id from task where name = '%s'), '%s');\n", date, time, project, task, details
 end
