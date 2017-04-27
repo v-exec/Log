@@ -1,24 +1,24 @@
 #Task Types                 Types of activities
 
-Research                    Learning, Testing, and Studying
-Design                      Project Planning and Organization
-Development                 Programming, Testing, and Debugging
-Graphic                     2D Graphic Development
-Illustration                Drawing
-3D                          Generating, Texturing, Lighting, and Rendering
-Modeling                    Modeling, Sculpting, Rigging, and Animating
-Audio                       Composing, Producing, and Mixing
-Acoustic                    Instrument Play
-Recording                   Audio Recording
-Performance                 Audio and Visual Performance
-Filming                     Video Filming
-Photography                 Photography
-Editing                     Video and Photo Editing
-Writing                     Narrative, Storytelling, and Research
-Documentation               Project Documentation
-Linguistics                 Language Development
-Maintenance                 Personal Organization and Maintenance
-Event                       Noteworthy Event
+#Research                   Learning, Testing, and Studying
+#Design                     Project Planning and Organization
+#Development                Programming, Testing, and Debugging
+#Graphic                    2D Graphic Development
+#Illustration               Drawing
+#3D                         Generating, Texturing, Lighting, and Rendering
+#Modeling                   Modeling, Sculpting, Rigging, and Animating
+#Audio                      Composing, Producing, and Mixing
+#Acoustic                   Instrument Play
+#Recording                  Audio Recording
+#Performance                Audio and Visual Performance
+#Filming                    Video Filming
+#Photography                Photography
+#Editing                    Video and Photo Editing
+#Writing                    Narrative, Storytelling, and Research
+#Documentation              Project Documentation
+#Linguistics                Language Development
+#Maintenance                Personal Organization and Maintenance
+#Event                      Noteworthy Event
 
 #Arch Projects              Overarching activities that are too small to be considered as projects and add up to significant amounts of time, long-term, or are part of a project I am not heavily involved in
 
@@ -28,10 +28,12 @@ Event                       Noteworthy Event
 #Tinker                     Development and design activities
 #Various (empty)            Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
 
-#Log
 
-DATE            TIME        PROJECT                             TASK                DETAILS
+#DATE           TIME        PROJECT                             TASK                DETAILS
 
+2017.04.26      0.5         Log                                 Development         Parsing system and database simplification.
+2017.04.26      2.0         Keyde                               Development         Camera input and quick refactoring.
+2017.04.25      0.5         The Cosmic Affliction               Editing             Terrain and atmospherics compositing.
 2017.04.25      0.5         Log                                 Design              Project designation refinement.
 2017.04.25      0.5         Keyde                               Development         Hardware input, data visualization.
 2017.04.25      4.0         Keyde                               Research            Android permissions, hardware input.
