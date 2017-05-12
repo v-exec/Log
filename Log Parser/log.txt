@@ -20,7 +20,7 @@
 #Maintenance                Personal Organization and Maintenance
 #Event                      Noteworthy Event
 
-#Arch Projects              Overarching activities that are too small to be considered as projects and add up to significant amounts of time, long-term, or are part of a project I am not heavily involved in
+#Arch Projects              Overarching activities that are too small to be considered as projects but add up to significant amounts of time, long-term, or are part of a project I am not heavily involved in
 
 #Study                      Learning activities
 #Jam                        Audio activities
@@ -31,6 +31,55 @@
 
 #DATE           TIME        PROJECT                             TASK                DETAILS
 
+2017.05.11      0.5         The Cosmic Affliction               Audio               Thousand Year Dream composition.
+2017.05.11      0.5         The Cosmic Affliction               Design              Album structure and narrative refining.
+2017.05.11      2.5         The Cosmic Affliction               Illustration        Cover art.
+2017.05.10      0.5         Jam                                 Acoustic            Guitar practice.
+2017.05.10      1.0         The Cosmic Affliction               3D                  3D fractal scavenging and rendering.
+2017.05.10      2.5         Keyde                               Development         Sprite cloud.
+2017.05.09      1.0         The Cosmic Affliction               3D                  3D fractal scavenging.
+2017.05.09      1.0         Study                               Research            Japanese poverty.
+2017.05.09      1.0         Jam                                 Acoustic            Guitar and vocals practice.
+2017.05.09      2.0         Keyde                               Research            Point cloud shaders and visual research.
+2017.05.08      0.5         Keyde                               Audio               Drone music production.
+2017.05.08      0.5         Jam                                 Acoustic            Guitar practice.
+2017.05.08      1.0         Keyde                               Design              Modes and visuals design.
+2017.05.07      1.0         Jam                                 Acoustic            Guitar practice.
+2017.05.07      1.0         Keyde                               Illustration        Visuals research.
+2017.05.07      0.5         Study                               Research            Neural networks and image processing.
+2017.05.07      0.5         The Cosmic Affliction               Audio               Levi intro rework.
+2017.05.06      1.0         Study                               Research            Martial arts styles.
+2017.05.06      2.0         Jam                                 Acoustic            Piano, guitar, vocal practice.
+2017.05.05      0.5         Doodle                              Graphic             Material symbol.
+2017.05.05      0.5         The Cosmic Affliction               Audio               Thousand Year Dream composition.
+2017.05.05      1.0         Study                               Research            Jordan Peterson: Psychology and interpersonal interaction and relationships.
+2017.05.05      1.0         Study                               Research            Jordan Peterson: Psychology and interpersonal interaction and relationships.
+2017.05.05      2.5         Keyde                               Illustration        Visuals research.
+2017.05.04      1.0         Study                               Research            Jordan Peterson: Psychology and interpersonal interaction and relationships.
+2017.05.04      0.5         The Cosmic Affliction               Design              Album review.
+2017.05.04      1.5         Rig                                 Research            Microsoft themeing / styling system.
+2017.05.03      1.0         Jam                                 Audio               Mixing and synthisis practice.
+2017.05.03      0.5         Keyde                               Research            Networking research.
+2017.05.03      1.5         The Cosmic Affliction               Audio               Levi mixing and final compositional touches.
+2017.05.02      2.0         Keyde                               Research            Networking research.
+2017.05.02      1.5         Rig                                 Maintenance         Take out, tweak, and repair bikes.
+2017.05.02      1.0         Study                               3D                  Physics and particle systems in Blender.
+2017.05.02      2.5         The Cosmic Affliction               Audio               Levi composition finalization, mixing. Thousand Year Dream composition.
+2017.05.01      1.0         Study                               Research            Science fiction, storytelling, "The Last Question".
+2017.05.01      0.5         Keyde                               Research            Networking research.
+2017.05.01      1.5         Keyde                               Design              Feature considerations, experience design.
+2017.05.01      1.0         Study                               Research            Marxism, political correctness, social sciences.
+2017.04.30      1.5         The Cosmic Affliction               Audio               Levi structure refinement.
+2017.04.30      0.5         Jam                                 Acoustic            Guitar and keyboard, composition practice.
+2017.04.29      0.5         Rig                                 Maintenance         Update backup.
+2017.04.29      0.5         Doodle                              Editing             Skyventure family photos and videos editing.
+2017.04.29      2.5         V-OS                                Writing             Runtime page writing and general updates.
+2017.04.29      0.5         Study                               Research            Time systems.
+2017.04.28      0.5         The Cosmic Affliction               Illustration        Experimentation.
+2017.04.28      2.0         Keyde                               Development         Procedural geometry.
+2017.04.28      2.0         Keyde                               Research            Procedural geometry.
+2017.04.27      0.5         Study                               Research            World-building.
+2017.04.27      1.0         Jam                                 Acoustic            Guitar practice and composition.
 2017.04.26      0.5         Log                                 Development         Parsing system and database simplification.
 2017.04.26      2.0         Keyde                               Development         Camera input and quick refactoring.
 2017.04.25      0.5         The Cosmic Affliction               Editing             Terrain and atmospherics compositing.
