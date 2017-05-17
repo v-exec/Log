@@ -31,6 +31,19 @@
 
 #DATE           TIME        PROJECT                             TASK                DETAILS
 
+2017.05.17      1.0         Keyde                               Development         Harmonograph generation and animation.
+2017.05.17      1.0         Keyde                               Research            Harmonograph generation.
+2017.05.16      0.5         The Cosmic Affliction               Acoustic            Piano improvisation.
+2017.05.16      0.5         The Cosmic Affliction               Editing             Holistic cover art edits.
+2017.05.16      2.0         Keyde                               Development         Point cloud tuning, size and color scripting, render experimentation.
+2017.05.15      3.5         Keyde                               Design              Visuals dissection, modes interaction and transition, code review.
+2017.05.14      1.0         The Cosmic Affliction               Illustration        Cover art.
+2017.05.13      1.0         Study                               Research            Third person combat systems.
+2017.05.13      0.5         The Cosmic Affliction               Illustration        Cover art.
+2017.05.13      1.0         Keyde                               Development         Touch input, shape parameter mapping, animation, documentation.
+2017.05.12      1.5         Study                               Research            Alternate modes of transportation.
+2017.05.12      0.5         Keyde                               Graphic             Skybox design, production, implementation.
+2017.05.12      2.0         Keyde                               Development         Render optimization, refactoring, script communication.
 2017.05.11      0.5         The Cosmic Affliction               Audio               Thousand Year Dream composition.
 2017.05.11      0.5         The Cosmic Affliction               Design              Album structure and narrative refining.
 2017.05.11      2.5         The Cosmic Affliction               Illustration        Cover art.
