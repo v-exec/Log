@@ -86,13 +86,13 @@ a:hover {
 #body {
 	position: relative;
 	width: 100%;
-	min-width: 600px;
+	min-width: 570px;
 	background-color: #070707;
 }
 
 #footer {
 	width: 100%;
-	min-width: 600px;
+	min-width: 570px;
 	background-color: #0d0d0d;
 }
 
@@ -152,9 +152,9 @@ a:hover {
 /*-----------MEASURE-----------*/
 .measure-container {
 	display: inline-block;
-	width: 335px;
+	width: 300px;
 	height: 150px;
-	margin: 40px;
+	margin: 57px;
 }
 
 .measure-circle {
