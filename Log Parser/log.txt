@@ -14,8 +14,7 @@
 #Filming                    Video Filming
 #Photography                Photography
 #Editing                    Video and Photo Editing
-#Writing                    Narrative, Storytelling, and Research
-#Documentation              Project Documentation
+#Writing                    Narrative, Storytelling, Research, and Documentation
 #Linguistics                Language Development
 #Maintenance                Personal Organization and Maintenance
 #Event                      Noteworthy Event
@@ -31,7 +30,9 @@
 
 #DATE           TIME        PROJECT                             TASK                DETAILS
 
-2017.05.19      0.5         The Cosmic Affliction               Documentation       V-OS page.
+2017.05.20      0.5         V-OS                                Writing             Verse writing.
+2017.05.20      0.5         Doodle                              Illustration        Solemn image.
+2017.05.19      0.5         The Cosmic Affliction               Writing             V-OS page.
 2017.05.19      0.5         Keyde                               Research            Audio scripting in Unity.
 2017.05.19      0.5         Keyde                               Development         Sprite sizing, visual refinement, documentation, organization.
 2017.05.18      3.5         Keyde                               Development         Supershape rendering, mesh generation, visual experimentation.
@@ -112,7 +113,7 @@
 2017.04.22      2.0         Seven                               Research            Local file handling.
 2017.04.22      1.5         Seven                               Design              Local file handling.
 2017.04.22      0.5         Seven                               Graphic             Icon design.
-2017.04.21      0.5         Seven                               Documentation       V-OS page and hosting.
+2017.04.21      0.5         Seven                               Writing             V-OS page and hosting.
 2017.04.21      2.5         Seven                               Development         Auto image sizing, styling, zooming.
 2017.04.20      5.0         Seven                               Development         Web-based image viewing application development (foundation, file handling, formatting, color palette).
 2017.04.20      1.0         Seven                               Design              Web-based image viewing application design.
@@ -120,7 +121,7 @@
 2017.04.19      5.5         Saturn                              3D                  Terrain and atmosphere generation and rendering.
 2017.04.19      2.0         The Cosmic Affliction               Audio               Levi composition.
 2017.04.19      1.5         V-OS                                Design              Back-end cleanup, mobile-friendly rework for V-OS and Log.
-2017.04.19      0.5         Elyium                              Documentation       Documentation.
+2017.04.19      0.5         Elyium                              Writing             Documentation.
 2017.04.18      0.5         Saturn                              3D                  Terrain rendering tests.
 2017.04.17      2.5         Log                                 Design              Project semantics, organization, visualization adjustments, graphs design attempt.
 2017.04.17      0.5         V-OS                                Development         Styling simplification, projects list style change, image frame taper implementation.
@@ -146,13 +147,13 @@
 2017.04.09      1.0         Study                               Writing             Societies of discipline and control.
 2017.04.09      2.0         Jam                                 Audio               Composition practice.
 2017.04.08      0.5         Drone Dreams                        Research            Local network setup and testing.
-2017.04.08      0.5         Elyium                              Documentation       Description updates.
+2017.04.08      0.5         Elyium                              Writing             Description updates.
 2017.04.08      4.0         Elyium                              Development         Entity interaction system, debugging, custom save file handling.
 2017.04.07      0.5         Drone Dreams                        Audio               Tracks mix.
 2017.04.07      0.5         Jam                                 Acoustic            Synth keyboard practice.
 2017.04.07      0.5         Elyium                              Writing             Entities writing.
 2017.04.06      1.5         Elyium                              Development         Custom save file handling.
-2017.04.06      2.0         Elyium                              Documentation       Public documentation, guide to writing for Elyium.
+2017.04.06      2.0         Elyium                              Writing             Public documentation, guide to writing for Elyium.
 2017.04.06      1.0         Elyium                              Writing             Entities writing.
 2017.04.06      0.5         Drone Dreams                        Research            Javascript and html canvas.
 2017.04.05      2.0         Drone Dreams                        Audio               Composition.
@@ -175,7 +176,7 @@
 2017.03.30      1.0         Jam                                 Acoustic            Guitar practice.
 2017.03.30      0.5         Study                               Writing             Exploration of societies and control structures.
 2017.03.29      2.0         Drone Dreams                        Audio               Audio synthesis theory, collaborative experimentation.
-2017.03.29      1.0         Drone Dreams                        Documentation       Presentation and artist's statement.
+2017.03.29      1.0         Drone Dreams                        Writing             Presentation and artist's statement.
 2017.03.28      0.5         Study                               Research            ScopeOne exploration and explanation.
 2017.03.28      3.5         Elyium                              Development         Entities list interface, bugfixing, tuning, and testing.
 2017.03.27      0.5         Doodle                              Editing             Modelling photographs editing.
@@ -187,13 +188,13 @@
 2017.03.25      2.0         Elyium                              Development         Interface refactoring.
 2017.03.24      1.0         V-OS                                Writing             Temporalis and verse writing.
 2017.03.24      0.5         Jam                                 Acoustic            Recording experimentation, minor vocals practice.
-2017.03.24      0.5         V-OS                                Documentation       CloudCrusher (SkyCandy) documentation and V-OS page.
+2017.03.24      0.5         V-OS                                Writing             CloudCrusher (SkyCandy) documentation and V-OS page.
 2017.03.24      2.0         Elyium                              Development         Entity spawning system.
 2017.03.23      1.5         Study                               Writing             Body and embodiment in new media.
 2017.03.23      2.0         Tinker                              Research            Arduino help/teaching.
-2017.03.22      2.0         Tinker                              Documentation       Obx site population with documentation data.
+2017.03.22      2.0         Tinker                              Writing             Obx site population with documentation data.
 2017.03.22      1.5         V-OS                                Writing             Writing, titles, personal page, site structure, CV rework.
-2017.03.22      0.5         VisN                                Documentation       V-OS page.
+2017.03.22      0.5         VisN                                Writing             V-OS page.
 2017.03.21      0.5         Study                               Audio               Composition and experimentation.
 2017.03.21      0.5         Study                               Research            Body and embodiment in new media.
 2017.03.20      0.5         Doodle                              Graphic             SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
@@ -211,7 +212,7 @@
 2017.03.15      0.5         Study                               Research            Networks in new media.
 2017.03.14      6.0         Log                                 Development         Details page, navigation, page flow logic, styling.
 2017.03.13      6.0         Log                                 Development         Projects page, logs page, navigation.
-2017.03.12      1.0         V-OS                                Documentation       Log integration.
+2017.03.12      1.0         V-OS                                Writing             Log integration.
 2017.03.12      1.0         Log                                 Graphic             Log logo.
 2017.03.12      8.0         Log                                 Development         Web development, SQL connectivity, tasks page, and V-OS page.
 2017.03.11      1.0         Jam                                 Acoustic            Guitar practice.
@@ -221,7 +222,7 @@
 2017.03.10      2.5         Log                                 Graphic             Interface design.
 2017.03.10      2.0         Log                                 Development         Text parsing design and development.
 2017.03.10      2.5         Log                                 Design              Database design and development.
-2017.03.10      0.5         Drone Dreams                        Documentation       Documentation and V-OS page.
+2017.03.10      0.5         Drone Dreams                        Writing             Documentation and V-OS page.
 2017.03.10      0.5         Elyium                              Development         Interface refactoring.
 2017.03.10      1.0         Jam                                 Acoustic            Guitar practice.
 2017.03.09      1.0         Jam                                 Acoustic            Guitar practice.
@@ -247,10 +248,10 @@
 2017.03.02      1.0         Doodle                              Editing             Randomly generated webding animation.
 2017.03.02      1.5         Quro                                Filming             Quro video footage collection.
 2017.03.01      7.0         Elyium                              Development         Narrative interfacing, data structure refinement, conditional conflicts development.
-2017.02.28      0.5         V-OS                                Documentation       Documentation rewrite.
+2017.02.28      0.5         V-OS                                Writing             Documentation rewrite.
 2017.02.28      1.5         V-OS                                Design              Project reorganization.
 2017.02.28      0.5         Doodle                              Illustration        Drawing practice.
-2017.02.28      3.0         Elyium                              Documentation       Commentary and additional documentation.
+2017.02.28      3.0         Elyium                              Writing             Commentary and additional documentation.
 2017.02.27      1.0         Log                                 Research            MySQL study.
 2017.02.27      0.5         Study                               Research            Rendering study.
 2017.02.27      1.5         Doodle                              Illustration        Drawing practice.
@@ -278,7 +279,7 @@
 2017.02.19      0.5         Study                               Research            Blender material system nodes research.
 2017.02.19      4.0         Elyium                              Development         Database, narrative, and interface development.
 2017.02.18      2.5         Elyium                              Design              Database and narrative system redesign.
-2017.02.18      0.5         Ontologica                          Documentation       Documentation and V-OS page.
+2017.02.18      0.5         Ontologica                          Writing             Documentation and V-OS page.
 2017.02.17      5.0         Ontologica                          Editing             Film and edit video, develop Ontologica environment.
 2017.02.16      1.5         Tinker                              Development         Web development for Obx.
 2017.02.16      2.0         Tinker                              Development         Physics development, balancing, and documentation of Processing game.
@@ -344,7 +345,7 @@
 2017.01.21      3.5         Tinker                              Development         Image processing in Processing.
 2017.01.21      1.0         Rig                                 Maintenance         Update backup.
 2017.01.21      2.0         Quro                                Audio               Mixing and tuning.
-2017.01.20      2.0         V-OS                                Documentation       ScopeOne documentation and V-OS verse writing.
+2017.01.20      2.0         V-OS                                Writing             ScopeOne documentation and V-OS verse writing.
 2017.01.19      3.0         Study                               Research            Pixel sorting and vector math.
 2017.01.19      0.0                                             Event               Begin time tracking seriously.
 2017.01.18      6.0         Quro                                Audio               Composition and mixing.
