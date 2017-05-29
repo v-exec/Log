@@ -30,7 +30,24 @@
 
 #DATE           TIME        PROJECT                             TASK                DETAILS
 
-2017.05.20      0.5         V-OS                                Writing             Verse writing.
+2017.05.28      0.5         Keyde                               Writing             Documentation, V-OS page.
+2017.05.28      7.0         Keyde                               Development         Optimization, debugging, shading, mode transition, UI functionality.
+2017.05.27      3.5         Keyde                               Development         Mode tweaking, camera position, vertex behavior, parameter randomization, UI functionality, skybox alteration.
+2017.05.26      3.0         Keyde                               Development         UI, unique mode tuning, debugging, mode changing, mode transition, color easing, organization.
+2017.05.26      1.0         Keyde                               Design              UI, mode tuning.
+2017.05.26      0.5         The Cosmic Affliction               Design              Album review.
+2017.05.25      0.5         Jam                                 Acoustic            Guitar practice.
+2017.05.25      2.0         Keyde                               Development         UI, menu screen, mode changing, controls.
+2017.05.24      3.0         Keyde                               Development         Audio implementation, harmonograph documentation.
+2017.05.23      0.5         Study                               Research            Alchemy.
+2017.05.23      2.0         Keyde                               Design              Visuals dissection, modes interaction and transition, UI design.
+2017.05.22      0.5         Keyde                               Development         Audio implementation and graphics tuning.
+2017.05.22      1.5         Keyde                               Audio               Composition.
+2017.05.21      0.5         Jam                                 Acoustic            Guitar and vocals practice.
+2017.05.21      0.5         Keyde                               Audio               Composition.
+2017.05.21      1.0         V-OS                                Writing             Verse writing.
+2017.05.21      0.5         Doodle                              Graphic             Analog image.
+2017.05.20      1.5         V-OS                                Writing             Verse writing.
 2017.05.20      0.5         Doodle                              Illustration        Solemn image.
 2017.05.19      0.5         The Cosmic Affliction               Writing             V-OS page.
 2017.05.19      0.5         Keyde                               Research            Audio scripting in Unity.
