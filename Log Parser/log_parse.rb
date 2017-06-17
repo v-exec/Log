@@ -5,7 +5,7 @@ log = []
 
 #file setup
 output = File.open("parse.txt", "w")
-source = File.open("log.txt", "r")
+source = File.open("log.md", "r")
 
 #for each line in source
 source.each do |line|

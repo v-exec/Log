@@ -3,14 +3,22 @@
 /*
 interface: #fff;
 main: #070707;
-secondary: #0d0d0d;
-scrollbar: #070707;
+secondary: #101010;
+grey code: #606060;
 */
 
 /*-----------GENERAL-----------*/
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
 	font-family: "Roboto";
-	background-color: #0d0d0d;
+	background-color: #101010;
 	overflow-x: hidden;
 }
 
@@ -27,17 +35,17 @@ a:hover {
 
 ::selection {
 	color: #fff;
-	background: rgba(13, 13, 13, 0.99);
+	background: rgba(16, 16, 16, 0.99);
 }
 
 ::-moz-selection {
 	color: #fff;
-	background: rgba(13, 13, 13, 0.99);
+	background: rgba(16, 16, 16, 0.99);
 }
 
 ::-webkit-scrollbar {
 	width: 6px;
-	background-color: #0d0d0d;
+	background-color: #101010;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -86,14 +94,14 @@ a:hover {
 #body {
 	position: relative;
 	width: 100%;
-	min-width: 570px;
+	min-width: 550px;
 	background-color: #070707;
 }
 
 #footer {
 	width: 100%;
-	min-width: 570px;
-	background-color: #0d0d0d;
+	min-width: 550px;
+	background-color: #101010;
 }
 
 #body-content,
@@ -106,9 +114,9 @@ a:hover {
 
 #footer-content {
 	overflow: auto;
-	min-height: 100px;
-	padding-top: 50px;
-	padding-bottom: 20px;
+	height: 155px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .footer-image {
@@ -152,20 +160,21 @@ a:hover {
 /*-----------MEASURE-----------*/
 .measure-container {
 	display: inline-block;
-	width: 330px;
-	height: 150px;
-	margin: 42px;
+	width: 300px;
+	height: 140px;
+	margin: 40px;
+	padding: 15px;
 }
 
 .measure-circle {
-	width: 150px;
-	height: 150px;
+	width: 50%;
+	height: 100%;
 }
 
 .measure-info {
 	display: inline-block;
-	width: 150px;
-	height: 150px;
+	width: 50%;
+	height: 100%;
 	float: right;
 	clear: right;
 }
@@ -176,7 +185,7 @@ a:hover {
 }
 
 .measure-text {
-	color: #fff;
+	color: #606060;
 	font-size: 10pt;
 	font-weight: 300;
 	margin: 1px;
@@ -198,11 +207,13 @@ a:hover {
 	display: inline-block;
 	vertical-align: top;
 	margin: 0px;
+	color: #606060;
 }
 
 .loglist-date {
 	width: 11%;
 	min-width: 100px;
+	color: #fff;
 }
 
 .loglist-time {
@@ -213,6 +224,7 @@ a:hover {
 .loglist-info {
 	width: 15%;
 	min-width: 120px;
+	color: #fff;
 }
 
 .loglist-details {
@@ -222,7 +234,7 @@ a:hover {
 
 .loglist-text {
 	margin: 0px;
-	color: #fff;
+	color: inherit;
 	font-size: 10pt;
 	font-weight: 300;
 }
@@ -233,7 +245,7 @@ a:hover {
 	width: 100%;
 	height: 40px;
 	margin: auto;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 	margin-top: 5px;
 }
 
@@ -310,7 +322,7 @@ a:hover {
 .spec-text {
 	display: block;
 	margin: 0px;
-	color: #fff;
+	color: #606060;
 	font-size: 10pt;
 	font-weight: 300;
 }

@@ -1,25 +1,41 @@
-#Task Types                 Types of activities
+#TASKS                      Types of activities
 
-#Research                   Learning, Testing, and Studying
+#CODE TASKS                 ================
+
 #Design                     Project Planning and Organization
-#Development                Programming, Testing, and Debugging
+#Development                Programming, Testing, Math, and Debugging
+
+#VISUAL TASKS               ================
+
 #Graphic                    2D Graphic Development
 #Illustration               Drawing
 #3D                         Generating, Texturing, Lighting, and Rendering
 #Modeling                   Modeling, Sculpting, Rigging, and Animating
+#Filming                    Video Filming
+#Photography                Photography
+#Editing                    Video and Photo Editing
+
+#AUDIO TASKS                ================
+
 #Audio                      Composing, Producing, and Mixing
 #Acoustic                   Instrument Play
 #Recording                  Audio Recording
 #Performance                Audio and Visual Performance
-#Filming                    Video Filming
-#Photography                Photography
-#Editing                    Video and Photo Editing
+
+#PHILOSOPHY TASKS           ================
+
 #Writing                    Narrative, Storytelling, Research, and Documentation
 #Linguistics                Language Development
+
+#PERSONAL TASKS             ================
+
+#Research                   Learning, Testing, and Studying
 #Maintenance                Personal Organization and Maintenance
 #Event                      Noteworthy Event
 
-#Arch Projects              Overarching activities that are too small to be considered as projects but add up to significant amounts of time, long-term, or are part of a project I am not heavily involved in
+#                           ================
+
+#ARCH PROJECTS              Overarching activities that are individually too small to be considered as projects but add up to significant amounts of time, long-term
 
 #Study                      Learning activities
 #Jam                        Audio activities
@@ -27,9 +43,49 @@
 #Tinker                     Development and design activities
 #Various (empty)            Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
 
-
 #DATE           TIME        PROJECT                             TASK                DETAILS
 
+2017.06.17      4.0         Log                                 Development         Homepage, tweaking and experimentation.
+2017.06.17      1.5         Log                                 Design              Organization rework, introduction of primary divisions.
+2017.06.16      0.5         The Cosmic Affliction               Design              Album review.
+2017.06.16      2.0         Tinker                              Development         Factorial conversion.
+2017.06.16      0.5         The Cosmic Affliction               Graphic             Cover art tinkering.
+2017.06.16      2.0         The Cosmic Affliction               Audio               Strider composition.
+2017.06.15      1.5         Doodle                              Editing             Sam's bounce sheets.
+2017.06.15      2.0         The Cosmic Affliction               Audio               Strider composition.
+2017.06.14      3.0         The Cosmic Affliction               Audio               Strider composition.
+2017.06.13      1.0         Boza                                Design              Boza logo design.
+2017.06.13      0.5         Study                               Graphic             Realistic 2D/3D package rendering.
+2017.06.13      2.0         Study                               Research            Hallucinogens, DMT.
+2017.06.13      0.5         The Cosmic Affliction               Audio               Strider composition.
+2017.06.12      1.0         Study                               Research            Hallucinogens, DMT.
+2017.06.12      2.0         The Cosmic Affliction               Audio               Strider composition.
+2017.06.11      0.5         Study                               Writing             Gender in society.
+2017.06.11      2.5         The Cosmic Affliction               Audio               Strider composition.
+2017.06.10      1.0         Study                               Writing             Self authoring.
+2017.06.09      1.5         The Cosmic Affliction               Design              Album review.
+2017.06.08      1.0         Study                               Research            Enemy AI, third person combat systems.
+2017.06.07      1.0         Tinker                              Research            Construct 2 engine.
+2017.06.07      1.5         The Cosmic Affliction               Audio               Strider composition.
+2017.06.06      1.0         Keyde                               Research            Code review.
+2017.06.05      0.5         The Cosmic Affliction               Design              Album review.
+2017.06.04      0.5         The Cosmic Affliction               Graphic             Cover design.
+2017.06.04      1.0         Tinker                              Development         Minecraft modding.
+2017.06.04      1.0         Boza                                Graphic             Boza logo design and production.
+2017.06.04      0.5         Keyde                               Research            Headset SDK version input features.
+2017.06.03      1.0         Keyde                               Development         Random parameter walking rewrite.
+2017.06.02      2.5         Boza                                Graphic             Boza logo design and production.
+2017.06.02      0.5         The Cosmic Affliction               Graphic             Cover design.
+2017.06.01      0.5         Doodle                              Photography         Generic photo taking.
+2017.06.01      2.0         Jam                                 Audio               Group jam with Korg machines.
+2017.06.01      1.0         Keyde                               Writing             Script documentation, updates.
+2017.06.01      1.5         Keyde                               Development         Audio tuning, file size management, parameter randomization, cleaning.
+2017.05.31      1.0         Keyde                               Development         Audio crossfade, mode tuning.
+2017.05.30      6.5         Keyde                               Development         Debugging, audio optimization, cleaning, android permissions, icon.
+2017.05.29      0.5         Keyde                               Writing             Contract and documentation.
+2017.05.29      2.0         Keyde                               Development         Mode tuning, functionality tweaking.
+2017.05.29      1.0         Keyde                               Design              Final review.
+2017.05.28      0.5         Rig                                 Maintenance         Update backup.
 2017.05.28      0.5         Keyde                               Writing             Documentation, V-OS page.
 2017.05.28      7.0         Keyde                               Development         Optimization, debugging, shading, mode transition, UI functionality.
 2017.05.27      3.5         Keyde                               Development         Mode tweaking, camera position, vertex behavior, parameter randomization, UI functionality, skybox alteration.
@@ -154,6 +210,7 @@
 2017.04.14      1.5         Study                               Research            Composition study.
 2017.04.14      2.5         Study                               Research            Shaders study.
 2017.04.14      1.5         Jam                                 Audio               Composition and synthesis practice.
+2017.04.13      0.0                                             Event               Last day of classes.
 2017.04.13      0.5         Drone Dreams                        Performance         Drone music performance.
 2017.04.12      3.0         Drone Dreams                        Development         Visuals development.
 2017.04.12      2.5         Log                                 Development         Timeline visualization, adjustments.
