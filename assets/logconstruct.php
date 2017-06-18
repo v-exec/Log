@@ -40,40 +40,6 @@ function checkType($l) {
 	return $type;
 }
 
-//check under what division activity is according to string ($s)
-//code = #fff
-//visual = #f91364
-//audio = #02f2aa
-function checkSector($s) {
-	switch ($s) {
-		case "Design":
-		case "Development":
-		case "Research":
-		case "Writing":
-		case "Linguistics":
-			return "code";
-			break;
-
-		case "Graphic":
-		case "Illustration":
-		case "3D":
-		case "Modeling":
-		case "Filming":
-		case "Photography":
-		case "Editing":
-			return "visual";
-			break;
-
-		case "Audio":
-		case "Acoustic":
-		case "Recording":
-		case "Performance":
-			return "audio";
-			break;
-	}
-	return null;
-}
-
 //logic and pageflow for log layout
 function loadlog() {
 	global $l;

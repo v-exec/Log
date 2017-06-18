@@ -1,62 +1,112 @@
 #table arrays
 tasks = []
 projects = []
+divisions = []
 log = []
+
+#divisions and task gathering flags
+inDivisions = false;
+inTasks = false;
 
 #file setup
 output = File.open("parse.txt", "w")
-source = File.open("log.md", "r")
+source = File.open("log.txt", "r")
 
 #for each line in source
 source.each do |line|
 
-	#skip empty lines, lines with # as comment alert, and legend line starting with "DATE"
-	if line.start_with?("#") or line.strip.empty? or line.start_with?("DATE")
+	#skip empty lines, and lines starting with #
+	if line.start_with?("#") or line.strip.empty?
 		next
 	end
 
-	#get date, time, project, and task name
-	date = line[0, 16].strip
-	time = line[16, 12].strip
-	project = line[28, 36].strip
-	task = line[64, 20].strip
-
-	#if no project name, default project name to "Various"
-	if project.empty?
-		project = "Various"
+	#determine parse location
+	if line.start_with?("DIVISIONS")
+		inDivisions = true;
+		inTasks = false;
+		next
+	elsif line.start_with?("TASKS")
+		inDivisions = false;
+		inTasks = true;
+		next
+	elsif line.start_with?("DATE")
+		inDivisions = false;
+		inTasks = false;
+		next
 	end
 
-	#project name apostrophe escape
-	project.gsub!("'", %q(\\\'))
-	project.gsub!('"', %q(\\\'))
+	#push division to divisions
+	if inDivisions
+		division = line[0, 27].strip
 
-	#task name apostrophe escape
-	task.gsub!("'", %q(\\\'))
-	task.gsub!('"', %q(\\\'))
+		#division name apostrophe escape
+		division.gsub!("'", %q(\\\'))
+		division.gsub!('"', %q(\\\'))
 
-	#if details aren't empty, get details
-	if line.length >= 84
-		details = line[84, line.length].strip
-
-		#details apostrophe escape
-		details.gsub!("'", %q(\\\'))
-		details.gsub!('"', %q(\\\'))
-	else
-		details = ""
+		divisions.push(division)
 	end
 
-	#push project to projects array if element doesn't already exist
-	if not project.empty? and not projects.index(project)
-		projects.push(project)
+	#push task to tasks
+	if inTasks
+		task = line[0, 27].strip
+
+		#task name apostrophe escape
+		task.gsub!("'", %q(\\\'))
+		task.gsub!('"', %q(\\\'))
+
+		tasks.push(task)
 	end
 
-	#push task to tasks array if element doesn't already exist
-	if not task.empty? and not tasks.index(task)
-		tasks.push(task);
-	end
+	#push logs to logs
+	if not inTasks and not inDivisions
+		#get date, time, project, and task name
+		date = line[0, 13].strip
+		time = line[13, 5].strip
+		project = line[19, 29].strip
+		task = line[49, 17].strip
+		division = line[67, 15].strip
 
-	#push to log
-	log.push([date, time, project, task, details])
+		#project name apostrophe escape
+		project.gsub!("'", %q(\\\'))
+		project.gsub!('"', %q(\\\'))
+
+		#task name apostrophe escape
+		task.gsub!("'", %q(\\\'))
+		task.gsub!('"', %q(\\\'))
+
+		#division name apostrophe escape
+		division.gsub!("'", %q(\\\'))
+		division.gsub!('"', %q(\\\'))
+
+		#if details aren't empty, get details
+		if line.length >= 83
+			details = line[83, line.length].strip
+
+			#details apostrophe escape
+			details.gsub!("'", %q(\\\'))
+			details.gsub!('"', %q(\\\'))
+		else
+			details = ""
+		end
+
+		#push project to projects array if element doesn't already exist
+		if not project.empty? and not projects.index(project)
+			projects.push(project)
+		end
+
+		#error if found task that isn't already in tasks
+		if not task.empty? and not tasks.index(task)
+			puts 'found invalid task'
+		end
+
+		#error if found division that isn't already in divisions
+		if not division.empty? and not division.index(division)
+			puts 'found invalid division'
+		end
+
+		#push to log
+		log.push([date, time, project, task, division, details])
+	end
 end
 
 #select database
@@ -66,8 +116,19 @@ output.printf "use vos_log;\n"
 output.printf "delete from log;\n"
 output.printf "delete from project;\n"
 output.printf "delete from task;\n"
+output.printf "delete from division;\n"
+
+#reset id increments
+output.printf "alter table log AUTO_INCREMENT = 1;\n"
+output.printf "alter table project AUTO_INCREMENT = 1;\n"
+output.printf "alter table task AUTO_INCREMENT = 1;\n"
+output.printf "alter table division AUTO_INCREMENT = 1;\n"
 
 #for each element in each table array, print mySQL entry command
+divisions.each do |division|
+	output.printf "insert into division (name) values ('%s');\n", division
+end
+
 tasks.each do |task|
 	output.printf "insert into task (name) values ('%s');\n", task
 end
@@ -76,6 +137,6 @@ projects.each do |project|
 	output.printf "insert into project (name) values ('%s');\n", project
 end
 
-log.each do |date, time, project, task, details|
-	output.printf "insert into log (date, time, project_id, task_id, details) values ('%s', '%s', (select id from project where name = '%s'), (select id from task where name = '%s'), '%s');\n", date, time, project, task, details
+log.each do |date, time, project, task, division, details|
+	output.printf "insert into log (date, time, project_id, task_id, division_id, details) values ('%s', '%s', (select id from project where name = '%s'), (select id from task where name = '%s'), (select id from division where name = '%s'), '%s');\n", date, time, project, task, division, details
 end
