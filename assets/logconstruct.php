@@ -41,11 +41,17 @@ function checkType($l) {
 }
 
 //check under what division activity is according to string ($s)
+//code = #fff
+//visual = #f91364
+//audio = #02f2aa
 function checkSector($s) {
 	switch ($s) {
 		case "Design":
 		case "Development":
-			return "#02f2aa";
+		case "Research":
+		case "Writing":
+		case "Linguistics":
+			return "code";
 			break;
 
 		case "Graphic":
@@ -55,25 +61,14 @@ function checkSector($s) {
 		case "Filming":
 		case "Photography":
 		case "Editing":
-			return "#f91364";
+			return "visual";
 			break;
 
 		case "Audio":
 		case "Acoustic":
 		case "Recording":
 		case "Performance":
-			return "#005FDB";
-			break;
-
-		case "Writing":
-		case "Linguistics":
-			return "#592FB6";
-			break;
-
-		case "Research":
-		case "Maintenance":
-		case "Event":
-			return "#F0F0F0";
+			return "audio";
 			break;
 	}
 	return null;
@@ -83,10 +78,8 @@ function checkSector($s) {
 function loadlog() {
 	global $l;
 	if ($l == 'home') {
-		$query = '';
 		home();
-	}
-	else if ($l == 'tasks') {
+	} else if ($l == 'tasks') {
 		$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
 		measures($query, number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0));
 	} else if ($l == 'projects') {

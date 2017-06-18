@@ -1,11 +1,14 @@
 #TASKS                      Types of activities
 
-#CODE TASKS                 ================
+#ABSTRACT                   Systems and thinking
 
+#Research                   Learning, Testing, and Studying
 #Design                     Project Planning and Organization
 #Development                Programming, Testing, Math, and Debugging
+#Writing                    Narrative, Storytelling, Research, and Documentation
+#Linguistics                Language Development
 
-#VISUAL TASKS               ================
+#VISUAL                     Graphics, video, and images
 
 #Graphic                    2D Graphic Development
 #Illustration               Drawing
@@ -15,25 +18,17 @@
 #Photography                Photography
 #Editing                    Video and Photo Editing
 
-#AUDIO TASKS                ================
+#AUDITORIAL                 Music and audio
 
 #Audio                      Composing, Producing, and Mixing
 #Acoustic                   Instrument Play
 #Recording                  Audio Recording
 #Performance                Audio and Visual Performance
 
-#PHILOSOPHY TASKS           ================
+#PERSONAL                   Personal maintenance
 
-#Writing                    Narrative, Storytelling, Research, and Documentation
-#Linguistics                Language Development
-
-#PERSONAL TASKS             ================
-
-#Research                   Learning, Testing, and Studying
 #Maintenance                Personal Organization and Maintenance
 #Event                      Noteworthy Event
-
-#                           ================
 
 #ARCH PROJECTS              Overarching activities that are individually too small to be considered as projects but add up to significant amounts of time, long-term
 
@@ -45,8 +40,8 @@
 
 #DATE           TIME        PROJECT                             TASK                DETAILS
 
-2017.06.17      4.0         Log                                 Development         Homepage, tweaking and experimentation.
-2017.06.17      1.5         Log                                 Design              Organization rework, introduction of primary divisions.
+2017.06.17      9.0         Log                                 Development         Homepage, tweaking and experimentation.
+2017.06.17      2.0         Log                                 Design              Organization rework, introduction of primary divisions.
 2017.06.16      0.5         The Cosmic Affliction               Design              Album review.
 2017.06.16      2.0         Tinker                              Development         Factorial conversion.
 2017.06.16      0.5         The Cosmic Affliction               Graphic             Cover art tinkering.
