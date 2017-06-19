@@ -18,7 +18,7 @@ Modeling                   Modeling, Sculpting, Rigging, and Animating
 Filming                    Video Filming
 Photography                Photography
 Editing                    Video and Photo Editing
-Audio                      Composing, Producing, and Mixing
+Composition                Composing, Producing, and Mixing
 Acoustic                   Instrument Play
 Recording                  Audio Recording
 Performance                Audio and Visual Performance
@@ -36,6 +36,9 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.06.19   4.0   Log                           Development       Abstract        Homepage, navigation redesign, divisions, styling tuning, timeline hour count implementation.
+2017.06.18   0.5   V-OS                          Design            Abstract        Site design review.
+2017.06.18   1.0   Boza                          Graphic           Visual          Logo design.
 2017.06.18   0.5   Log                           Development       Abstract        Parsing script rewrite for divisions, tweaking.
 2017.06.18   1.5   Log                           Design            Abstract        Divisions review, organization rework.
 2017.06.17   8.0   Log                           Development       Abstract        Homepage, tweaking and experimentation.
@@ -43,23 +46,23 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.16   0.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.06.16   2.0   Tinker                        Development       Abstract        Factorial conversion.
 2017.06.16   0.5   The Cosmic Affliction         Graphic           Visual          Cover art tinkering.
-2017.06.16   2.0   The Cosmic Affliction         Audio             Audio           Strider composition.
+2017.06.16   2.0   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.15   1.5   Doodle                        Editing           Visual          Sam's bounce sheets.
-2017.06.15   2.0   The Cosmic Affliction         Audio             Audio           Strider composition.
-2017.06.14   3.0   The Cosmic Affliction         Audio             Audio           Strider composition.
+2017.06.15   2.0   The Cosmic Affliction         Composition       Audio           Strider composition.
+2017.06.14   3.0   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.13   1.0   Boza                          Design            Visual          Boza logo design.
 2017.06.13   0.5   Study                         Graphic           Visual          Realistic 2D/3D package rendering.
 2017.06.13   2.0   Study                         Research          Abstract        Hallucinogens, DMT.
-2017.06.13   0.5   The Cosmic Affliction         Audio             Audio           Strider composition.
+2017.06.13   0.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.12   1.0   Study                         Research          Abstract        Hallucinogens, DMT.
-2017.06.12   2.0   The Cosmic Affliction         Audio             Audio           Strider composition.
+2017.06.12   2.0   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.11   0.5   Study                         Writing           Personal        Gender in society.
-2017.06.11   2.5   The Cosmic Affliction         Audio             Audio           Strider composition.
+2017.06.11   2.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.10   1.0   Study                         Writing           Personal        Self authoring.
 2017.06.09   1.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.06.08   1.0   Study                         Research          Abstract        Enemy AI, third person combat systems.
 2017.06.07   1.0   Tinker                        Research          Abstract        Construct 2 engine.
-2017.06.07   1.5   The Cosmic Affliction         Audio             Audio           Strider composition.
+2017.06.07   1.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.06   1.0   Keyde                         Research          Abstract        Code review.
 2017.06.05   0.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.06.04   0.5   The Cosmic Affliction         Graphic           Visual          Cover design.
@@ -70,7 +73,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.02   2.5   Boza                          Graphic           Visual          Boza logo design and production.
 2017.06.02   0.5   The Cosmic Affliction         Graphic           Visual          Cover design.
 2017.06.01   0.5   Doodle                        Photography       Visual          Generic photo taking.
-2017.06.01   2.0   Jam                           Audio             Audio           Group jam with Korg machines.
+2017.06.01   2.0   Jam                           Composition       Audio           Group jam with Korg machines.
 2017.06.01   1.0   Keyde                         Writing           Abstract        Script documentation, updates.
 2017.06.01   1.5   Keyde                         Development       Abstract        Audio tuning, file size management, parameter randomization, cleaning.
 2017.05.31   1.0   Keyde                         Development       Audio           Audio crossfade, mode tuning.
@@ -91,9 +94,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.23   0.5   Study                         Research          Abstract        Alchemy.
 2017.05.23   2.0   Keyde                         Design            Visual          Visuals dissection, modes interaction and transition, UI design.
 2017.05.22   0.5   Keyde                         Development       Visual          Audio implementation and graphics tuning.
-2017.05.22   1.5   Keyde                         Audio             Audio           Composition.
+2017.05.22   1.5   Keyde                         Composition       Audio           Composition.
 2017.05.21   0.5   Jam                           Acoustic          Audio           Guitar and vocals practice.
-2017.05.21   0.5   Keyde                         Audio             Audio           Composition.
+2017.05.21   0.5   Keyde                         Composition       Audio           Composition.
 2017.05.21   1.0   V-OS                          Writing           Abstract        Verse writing.
 2017.05.21   0.5   Doodle                        Graphic           Visual          Analog image.
 2017.05.20   1.5   V-OS                          Writing           Abstract        Verse writing.
@@ -115,7 +118,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.12   1.5   Study                         Research          Personal        Alternate modes of transportation.
 2017.05.12   0.5   Keyde                         Graphic           Visual          Skybox design, production, implementation.
 2017.05.12   2.0   Keyde                         Development       Abstract        Render optimization, refactoring, script communication.
-2017.05.11   0.5   The Cosmic Affliction         Audio             Audio           Thousand Year Dream composition.
+2017.05.11   0.5   The Cosmic Affliction         Composition       Audio           Thousand Year Dream composition.
 2017.05.11   0.5   The Cosmic Affliction         Design            Audio           Album structure and narrative refining.
 2017.05.11   2.5   Saturn                        Illustration      Visual          Drawing.
 2017.05.10   0.5   Jam                           Acoustic          Audio           Guitar practice.
@@ -125,35 +128,35 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.09   1.0   Study                         Research          Personal        Japanese poverty.
 2017.05.09   1.0   Jam                           Acoustic          Audio           Guitar and vocals practice.
 2017.05.09   2.0   Keyde                         Research          Visual          Point cloud shaders and visual research.
-2017.05.08   0.5   Keyde                         Audio             Audio           Drone music production.
+2017.05.08   0.5   Keyde                         Composition       Audio           Drone music production.
 2017.05.08   0.5   Jam                           Acoustic          Audio           Guitar practice.
 2017.05.08   1.0   Keyde                         Design            Visual          Modes and visuals design.
 2017.05.07   1.0   Jam                           Acoustic          Audio           Guitar practice.
 2017.05.07   1.0   Keyde                         Illustration      Visual          Visuals research.
 2017.05.07   0.5   Study                         Research          Abstract        Neural networks and image processing.
-2017.05.07   0.5   The Cosmic Affliction         Audio             Audio           Spacefarer intro rework.
+2017.05.07   0.5   The Cosmic Affliction         Composition       Audio           Spacefarer intro rework.
 2017.05.06   1.0   Study                         Research          Personal        Martial arts styles.
 2017.05.06   2.0   Jam                           Acoustic          Audio           Piano, guitar, vocal practice.
 2017.05.05   0.5   Doodle                        Graphic           Visual          Material symbol.
-2017.05.05   0.5   The Cosmic Affliction         Audio             Audio           Thousand Year Dream composition.
+2017.05.05   0.5   The Cosmic Affliction         Composition       Audio           Thousand Year Dream composition.
 2017.05.05   1.0   Study                         Research          Personal        Jordan Peterson: Psychology and interpersonal interaction and relationships.
 2017.05.05   1.0   Study                         Research          Personal        Jordan Peterson: Psychology and interpersonal interaction and relationships.
 2017.05.05   2.5   Keyde                         Illustration      Visual          Visuals research.
 2017.05.04   1.0   Study                         Research          Personal        Jordan Peterson: Psychology and interpersonal interaction and relationships.
 2017.05.04   0.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.05.04   1.5   Rig                           Research          Visual          Microsoft themeing / styling system.
-2017.05.03   1.0   Jam                           Audio             Audio           Mixing and synthesis practice.
+2017.05.03   1.0   Jam                           Composition       Audio           Mixing and synthesis practice.
 2017.05.03   0.5   Keyde                         Research          Abstract        Networking research.
-2017.05.03   1.5   The Cosmic Affliction         Audio             Audio           Spacefarer mixing and final compositional touches.
+2017.05.03   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer mixing and final compositional touches.
 2017.05.02   2.0   Keyde                         Research          Abstract        Networking research.
 2017.05.02   1.5   Rig                           Maintenance       Personal        Take out, tweak, and repair bikes.
 2017.05.02   1.0   Study                         3D                Visual          Physics and particle systems in Blender.
-2017.05.02   2.5   The Cosmic Affliction         Audio             Audio           Spacefarer composition finalization, mixing. Thousand Year Dream composition.
+2017.05.02   2.5   The Cosmic Affliction         Composition       Audio           Spacefarer composition finalization, mixing. Thousand Year Dream composition.
 2017.05.01   1.0   Study                         Research          Personal        Science fiction, storytelling, "The Last Question".
 2017.05.01   0.5   Keyde                         Research          Abstract        Networking research.
 2017.05.01   1.5   Keyde                         Design            Abstract        Feature considerations, experience design.
 2017.05.01   1.0   Study                         Research          Personal        Marxism, political correctness, social sciences.
-2017.04.30   1.5   The Cosmic Affliction         Audio             Audio           Spacefarer structure refinement.
+2017.04.30   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer structure refinement.
 2017.04.30   0.5   Jam                           Acoustic          Audio           Guitar and keyboard, composition practice.
 2017.04.29   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.04.29   0.5   Doodle                        Editing           Visual          Skyventure family photos and videos editing.
@@ -185,7 +188,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.20   1.0   Seven                         Design            Visual          Web-based image viewing application design.
 2017.04.20   1.5   Seven                         Research          Abstract        Local file browsing in browsers.
 2017.04.19   5.5   Saturn                        3D                Visual          Terrain and atmosphere generation and rendering.
-2017.04.19   2.0   The Cosmic Affliction         Audio             Audio           Levi composition.
+2017.04.19   2.0   The Cosmic Affliction         Composition       Audio           Levi composition.
 2017.04.19   1.5   V-OS                          Design            Abstract        Back-end cleanup, mobile-friendly rework for V-OS and Log.
 2017.04.19   0.5   Elyium                        Writing           Abstract        Documentation.
 2017.04.18   0.5   Saturn                        3D                Visual          Terrain rendering tests.
@@ -198,39 +201,39 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.17   0.5   Saturn                        3D                Visual          Terrain and atmosphere generation.
 2017.04.16   2.5   Saturn                        3D                Visual          Terrain and atmosphere generation.
 2017.04.16   0.5   Saturn                        Research          Visual          Digital collage study.
-2017.04.16   1.0   The Cosmic Affliction         Audio             Audio           Saturn Rain mixing.
-2017.04.15   4.0   The Cosmic Affliction         Audio             Audio           Saturn Rain composition, recording, mixing.
+2017.04.16   1.0   The Cosmic Affliction         Composition       Audio           Saturn Rain mixing.
+2017.04.15   4.0   The Cosmic Affliction         Composition       Audio           Saturn Rain composition, recording, mixing.
 2017.04.14   1.5   Study                         Research          Audio           Composition study.
 2017.04.14   2.5   Study                         Research          Abstract        Shaders study.
-2017.04.14   1.5   Jam                           Audio             Audio           Composition and synthesis practice.
+2017.04.14   1.5   Jam                           Composition       Audio           Composition and synthesis practice.
 2017.04.13   0.0   Various                       Event             Personal        Last day of classes.
 2017.04.13   0.5   Drone Dreams                  Performance       Audio           Drone music performance.
 2017.04.12   3.0   Drone Dreams                  Development       Visual          Visuals development.
 2017.04.12   2.5   Log                           Development       Abstract        Timeline visualization, adjustments.
 2017.04.11   1.0   Elyium                        Design            Visual          Desktop version user interfacing.
 2017.04.11   1.5   Elyium                        Development       Abstract        Desktop version, organization, future feature set up and conceptualization.
-2017.04.10   1.0   Jam                           Audio             Audio           Mixing and synthesis practice.
+2017.04.10   1.0   Jam                           Composition       Audio           Mixing and synthesis practice.
 2017.04.10   0.5   Study                         Writing           Personal        Societies of discipline and control.
 2017.04.09   1.0   Study                         Writing           Personal        Societies of discipline and control.
-2017.04.09   2.0   Jam                           Audio             Audio           Composition practice.
+2017.04.09   2.0   Jam                           Composition       Audio           Composition practice.
 2017.04.08   0.5   Drone Dreams                  Research          Abstract        Local network setup and testing.
 2017.04.08   0.5   Elyium                        Writing           Abstract        Description updates.
 2017.04.08   4.0   Elyium                        Development       Abstract        Entity interaction system, debugging, custom save file handling.
-2017.04.07   0.5   Drone Dreams                  Audio             Audio           Tracks mix.
+2017.04.07   0.5   Drone Dreams                  Composition       Audio           Tracks mix.
 2017.04.07   0.5   Jam                           Acoustic          Audio           Synth keyboard practice.
 2017.04.07   0.5   Elyium                        Writing           Abstract        Entities writing.
 2017.04.06   1.5   Elyium                        Development       Abstract        Custom save file handling.
 2017.04.06   2.0   Elyium                        Writing           Abstract        Public documentation, guide to writing for Elyium.
 2017.04.06   1.0   Elyium                        Writing           Abstract        Entities writing.
 2017.04.06   0.5   Drone Dreams                  Research          Abstract        Javascript and html canvas.
-2017.04.05   2.0   Drone Dreams                  Audio             Audio           Composition.
+2017.04.05   2.0   Drone Dreams                  Composition       Audio           Composition.
 2017.04.05   0.5   Jam                           Acoustic          Audio           Guitar practice.
 2017.04.05   3.0   Elyium                        Development       Abstract        Saving system and input field fix, custom saving implementation, optimizations, debugging.
-2017.04.04   1.5   The Cosmic Affliction         Audio             Audio           Spacefarer composition.
+2017.04.04   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer composition.
 2017.04.04   0.5   Study                         Research          Personal        Anthropocene.
 2017.04.04   6.5   Elyium                        Development       Abstract        Save and load functionality, testing, debugging.
 2017.04.03   5.5   V-OS                          Development       Visual          Log link integration, template system expansion, css fixes, content migration.
-2017.04.02   0.5   Jam                           Audio             Audio           Sound synthesis and composition practice.
+2017.04.02   0.5   Jam                           Composition       Audio           Sound synthesis and composition practice.
 2017.04.02   2.0   V-OS                          Writing           Abstract        V-OS page for V-OS, LinkedIn page, V-OS rewrites.
 2017.04.02   0.5   Elyium                        Development       Abstract        Conflict reset feature and writing fix.
 2017.04.02   1.5   Jam                           Acoustic          Audio           Guitar practice.
@@ -242,7 +245,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.30   1.0   Study                         Research          Personal        MBTI and social typology.
 2017.03.30   1.0   Jam                           Acoustic          Audio           Guitar practice.
 2017.03.30   0.5   Study                         Writing           Personal        Exploration of societies and control structures.
-2017.03.29   2.0   Drone Dreams                  Audio             Audio           Audio synthesis theory, collaborative experimentation.
+2017.03.29   2.0   Drone Dreams                  Composition       Audio           Audio synthesis theory, collaborative experimentation.
 2017.03.29   1.0   Drone Dreams                  Writing           Abstract        Presentation and artist's statement.
 2017.03.28   0.5   Tinker                        Research          Abstract        ScopeOne exploration and explanation.
 2017.03.28   3.5   Elyium                        Development       Abstract        Entities list interface, bugfixing, tuning, and testing.
@@ -262,7 +265,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.22   2.0   Tinker                        Writing           Personal        Obx site population with documentation data.
 2017.03.22   1.5   V-OS                          Writing           Personal        Writing, titles, personal page, site structure, CV rework.
 2017.03.22   0.5   VisN                          Writing           Abstract        V-OS page.
-2017.03.21   0.5   Study                         Audio             Audio           Composition and experimentation.
+2017.03.21   0.5   Study                         Composition       Audio           Composition and experimentation.
 2017.03.21   0.5   Study                         Research          Abstract        Body and embodiment in new media.
 2017.03.20   0.5   Doodle                        Graphic           Visual          SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
 2017.03.20   0.5   Doodle                        Illustration      Visual          Drawing practice.
@@ -361,14 +364,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.13   0.5   Study                         Research          Abstract        Information, noise, and communication theory.
 2017.02.12   0.5   VisN                          Writing           Abstract        Add more poetry to level.
 2017.02.12   3.0   Elyium                        Development       Abstract        Interface development.
-2017.02.12   1.0   Jam                           Audio             Audio           Composition and experimentation.
+2017.02.12   1.0   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.12   1.5   Tinker                        Design            Visual          Add tree, better particle effects, better post-processing effects for desert landscape.
-2017.02.11   3.5   Jam                           Audio             Audio           Composition and experimentation.
-2017.02.10   2.0   Jam                           Audio             Audio           Composition and experimentation.
+2017.02.11   3.5   Jam                           Composition       Audio           Composition and experimentation.
+2017.02.10   2.0   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.10   3.5   Elyium                        Development       Abstract        Connecting modules, interface development, and database management.
 2017.02.10   0.5   Elyium                        Graphic           Visual          Interface design.
 2017.02.10   0.5   Quro                          Filming           Visual          Record video samples.
-2017.02.09   0.5   Jam                           Audio             Audio           Composition and experimentation.
+2017.02.09   0.5   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.09   1.0   Doodle                        Editing           Visual          Music visualization.
 2017.02.08   0.5   Elyium                        Design            Abstract        Database design.
 2017.02.08   4.0   Tinker                        Development       Visual          Unreal 4 scene development and experimentation.
@@ -380,7 +383,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.05   2.5   Jam                           Acoustic          Audio           Guitar practice, sound experimentation.
 2017.02.05   1.0   Ontologica                    Development       Visual          Rebuild level in Unreal.
 2017.02.04   9.0   Elyium                        Development       Abstract        Preliminary infrastructure development, image-to-ascii algorithm.
-2017.02.04   1.0   VisN                          Audio             Audio           Edit Mantycore reading, add to Unity scene.
+2017.02.04   1.0   VisN                          Composition       Audio           Edit Mantycore reading, add to Unity scene.
 2017.02.03   4.5   VisN                          Development       Abstract        VisN development in Unity.
 2017.02.03   2.0   V-OS                          Writing           Abstract        V-OS writing edit, extra organization, Nihilim and Technomancers pages.
 2017.02.03   3.0   Rig                           Maintenance       Personal        Install programs on fresh OS.
@@ -411,11 +414,11 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.01.22   0.0   Various                       Event             Personal        Joined Merveilles.
 2017.01.21   3.5   Tinker                        Development       Abstract        Image processing in Processing.
 2017.01.21   1.0   Rig                           Maintenance       Personal        Update backup.
-2017.01.21   2.0   Quro                          Audio             Audio           Mixing and tuning.
+2017.01.21   2.0   Quro                          Composition       Audio           Mixing and tuning.
 2017.01.20   2.0   V-OS                          Writing           Abstract        ScopeOne documentation and V-OS verse writing.
 2017.01.19   3.0   Study                         Research          Abstract        Pixel sorting and vector math.
 2017.01.19   0.0   Various                       Event             Personal        Begin time tracking seriously.
-2017.01.18   6.0   Quro                          Audio             Audio           Composition and mixing.
+2017.01.18   6.0   Quro                          Composition       Audio           Composition and mixing.
 2017.01.17   2.5   Quro                          Recording         Audio           Recording room sounds for soundscape samples.
 2017.01.16   0.5   Study                         Research          Abstract        Image and representation in new media.
 2017.01.04   5.0   V-OS                          Development       Abstract        PHP page generation system expansion.

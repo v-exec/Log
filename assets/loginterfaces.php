@@ -23,19 +23,13 @@ function measures($q, $h) {
 			else $hourphrase = 'hours';
 			if ($rows[$i][2] == 1) $logphrase = 'log';
 			else $logphrase = 'logs';
-
-			//get sector color
-			$color = '#101010';
-			$color = checkSector($rows[$i][0]);
-			$color = '#fff';
-
 			if ($h == 0) $h = 1;
 
 			echo
 			'
 			<div class="measure-container">
 				<svg class="measure-circle">
-					<circle cx="67.5" cy="55" r="'.round(($rows[$i][1]/$size * 40) + 2).'" stroke="'.$color.'" stroke-width="'.round(($rows[$i][1]/$size * 4) + 2).'" fill="none"/>
+					<circle cx="50%" cy="50%" r="'.round(($rows[$i][1]/$size * 40) + 2).'" stroke="#fff" stroke-width="'.round(($rows[$i][1]/$size * 4) + 2).'" fill="none"/>
 				</svg>
 				<div class="measure-info">
 					<form id="'.$rows[$i][0].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][0].'"></form>
@@ -47,13 +41,12 @@ function measures($q, $h) {
 			</div>
 			';
 		}
-		echo '</div>';
 	}
 	$conn->close();
 }
 
-//creates loglist of given query ($q)
-function loglist($q) {
+//creates loglist of given query ($q), limit on ($limit)
+function loglist($q, $limit) {
 	$conn = connect();
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
@@ -66,10 +59,10 @@ function loglist($q) {
 		}
 
 		//display logs
-		echo '<div class="logs">';
+		if ($limit && sizeof($rows) > 20) $size = 20;
+		else $size = sizeof($rows);
 
-
-		for ($i = 0; $i < sizeof($rows); $i++) {
+		for ($i = 0; $i < $size; $i++) {
 			$date = new DateTime($rows[$i][0]);
 			echo
 			'
@@ -94,13 +87,12 @@ function loglist($q) {
 			</div>
 			';
 		}
-		echo '</div>';
 	}
 	$conn->close();
 }
 
-//creates timeline of given project/task through query ($q)
-function timeline($q) {
+//creates timeline of given project/task through query ($q) with intervals at ($t)
+function timeline($q, $t) {
 	$conn = connect();
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
@@ -108,40 +100,43 @@ function timeline($q) {
 
 		//get query results
 		while ($row = $result->fetch_assoc()) {
-			array_push($rows, $row['date']);
+			array_push($rows, [$row['date'], $row['hours']]);
 		}
 
-		$first = new DateTime($rows[sizeof($rows)-1]);
-		$last = new DateTime();
+		$first = new DateTime($rows[sizeof($rows)-1][0]);
+		$last = new DateTime($rows[0][0]);
 		$difference = $last->diff($first)->format("%a");
 
 		//setup timeline layout
 		echo
 		'
-		<div class="timelines">
-			<div class="spacer" style="height: 15px;"></div>
-			<span class="timeline-date-begin">'.$first->format('Y.m.d').'</span>
-			<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
-			<div class="timeline-container">
-				<div class="timeline"></div>
-				<div class="timeline-marker-begin"></div>
-				<div class="timeline-circle-container">
+		<div class="spacer" style="height: 15px;"></div>
+		<span class="timeline-date-begin">'.$first->format('Y.m.d').'</span>
+		<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
+		<div class="timeline-container">
+			<div class="timeline"></div>
+			<div class="timeline-marker-begin"></div>
+			<div class="timeline-circle-container">
 		';
 
 		//display dots
 		if (sizeof($rows) > 1) {
-			for ($i = sizeof($rows); $i > -1; $i--) {
-				$now = new DateTime($rows[$i]);
+			for ($i = sizeof($rows); $i > -1; $i-=$t) {
+				$now = new DateTime($rows[$i][0]);
 				$position = ($now->diff($first)->format("%a")) / $difference;
 
-				$old = new DateTime($rows[$i - 1]);
+				$old = new DateTime($rows[$i - 1][0]);
 				$oldPosition = ($old->diff($first)->format("%a")) / $difference;
 
 				if ($now != $old && ($oldPosition - $position) > 0.001) {
+
+					if ($rows[$i][1] >= 2) $fill = '#fff';
+					else $fill = '#000';
+
 					echo
 					'
 					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
-						<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#070707"/>
+						<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="'.$fill.'"/>
 					</svg>
 					';
 				}
@@ -150,7 +145,7 @@ function timeline($q) {
 			echo
 			'
 			<svg class="timeline-circle" style="left: 0%;">
-				<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#070707"/>
+				<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#000"/>
 			</svg>
 			';
 		}
@@ -158,24 +153,22 @@ function timeline($q) {
 		//end timeline layout
 		echo
 		'
-			</div>
-			<svg class="timeline-marker-end">
-				<live x1="0" y1="0" x2="0" y2="10" stroke-width="4"/>
-			</svg>
-			</div>
+		</div>
+		<svg class="timeline-marker-end">
+			<live x1="0" y1="0" x2="0" y2="10" stroke-width="4"/>
+		</svg>
 		</div>
 		';
 	}
 	$conn->close();
 }
 
-//creates detailed page for project/task ($type) of given l ($l)
-function spec($l, $type) {
-	if ($type == 'task') $typeOpp = 'project';
-	else $typeOpp = 'task';
+//creates title of given query ($q)
+function title($q) {
+	global $l;
 
 	$conn = connect();
-	$result = $conn->query('select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';');
+	$result = $conn->query($q);
 
 	//get query results
 	if ($result->num_rows > 0) {
@@ -183,41 +176,91 @@ function spec($l, $type) {
 		$data = [$row['hours'], $row['logs']];
 	}
 
-	//display page info
+	//get proper phrasing
 	if (number_format($data[0], 0) == 1) $hourphrase = 'hour';
 	else $hourphrase = 'hours';
 	if ($data[1] == 1) $logphrase = 'log';
 	else $logphrase = 'logs';
 	
+	//display title data
 	echo
 	'
-	<div class="spec">
-		<div class="spacer"></div>
-		<form id="'.$l.'" action="log" method="get"><input type="hidden" name="l" value="'.$l.'"></form>
-		<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
-		<div class="spec-stats">
-			<span class="spec-text">'.number_format($data[0], 0).' '.$hourphrase.'</span>
-			<span class="spec-text">'.$data[1].' '.$logphrase.'</span>
-		</div>
+	<div class="spacer"></div>
+	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="l" value="'.$l.'"></form>
+	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
+	<div class="spec-stats">
+		<span class="spec-text">'.number_format($data[0], 0).' '.$hourphrase.'</span>
+		<span class="spec-text">'.$data[1].' '.$logphrase.'</span>
+	</div>
 	';
-
-	//create timeline, measures, and loglist for page
-	timeline('select log.date from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;');
-
-	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;', number_format($data[0], 0));
-
-	echo '<div class="divider"></div>';
-
-	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;');
-
-	echo '</div>';
 
 	$conn->close();
 }
 
+//creates detailed page for project/task ($type) of given l ($l)
+function spec($l, $type) {
+	if ($type == 'task') $typeOpp = 'project';
+	else if ($type == 'project') $typeOpp = 'task';
+	else if ($type == 'division') $typeOpp = 'project';
+
+	//create title, timeline, measures, and loglist for page
+	title('select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';');
+
+	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;', 1);
+
+	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;', number_format(getnum('select sum(log.time) as hours from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';', 'hours'), 0));
+
+	echo '<div class="divider"></div>';
+
+	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;', true);
+}
+
+//creates list of general statistics
+function statistics() {
+
+}
 
 //creates homepage
 function home() {
-	//
+
+	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);
+
+	//timeline
+	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id group by date order by log.id asc;', 4);
+
+	echo'<div class="spacer"></div>';
+	echo '<div class="divider"></div>';
+
+	//division measures
+	echo'
+	<form id="divisions" action="log" method="get"><input type="hidden" name="l" value="divisions"></form>
+	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'divisions'".').submit();">Divisions</a>
+	';
+	echo'<div class="spacer" style="height:0px;"></div>';
+
+	$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
+	measures($query, $hours);
+	echo '<div class="divider" style="margin-top:30px;"></div>';
+
+	//tasks measures
+	echo'
+	<form id="tasks" action="log" method="get"><input type="hidden" name="l" value="tasks"></form>
+	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'tasks'".').submit();">Tasks</a>
+	';
+	echo'<div class="spacer" style="height:0px;"></div>';
+
+	$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
+	measures($query, $hours);
+	echo '<div class="divider" style="margin-top:30px;"></div>';
+
+	//projects measures
+	echo'
+	<form id="projects" action="log" method="get"><input type="hidden" name="l" value="projects"></form>
+	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'projects'".').submit();">Projects</a>
+	';
+	echo'<div class="spacer" style="height:0px;"></div>';
+
+	$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by hours desc;';
+	measures($query, $hours);
 }
 ?>

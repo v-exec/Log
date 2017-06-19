@@ -100,7 +100,6 @@ a:hover {
 	position: relative;
 	width: 100%;
 	min-width: 550px;
-	min-height: 1000px;
 	background-color: #000;
 }
 
@@ -164,15 +163,12 @@ a:hover {
 }
 
 /*-----------MEASURE-----------*/
-.measures {
-	display: inline;
-}
-
 .measure-container {
 	display: inline-block;
-	width: 270px;
+	width: 24.7%;
 	height: 110px;
-	margin: 45px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
 .measure-circle {
@@ -202,10 +198,6 @@ a:hover {
 }
 
 /*-----------LOGLIST-----------*/
-.logs {
-	width: 100%;
-}
-
 .loglist-container {
 	width: 100%;
 	height: 50px;
@@ -254,10 +246,6 @@ a:hover {
 }
 
 /*-----------TIMELINE-----------*/
-.timelines {
-	width: 100%;
-}
-
 .timeline-container {
 	position: relative;
 	width: 100%;
@@ -323,10 +311,6 @@ a:hover {
 }
 
 /*-----------SPEC PAGE-----------*/
-.spec {
-	width: 100%;
-}
-
 .spec-title {
 	font-size: 20pt;
 	color: #fff;
@@ -354,5 +338,17 @@ a:hover {
 @media (max-width: 817px) {
 	.loglist-details {
 		display: none;
+	}
+}
+
+@media (max-width: 1150px) {
+	.measure-container {
+		width: 49.5%;
+	}
+}
+
+@media (max-width: 615px) {
+	.measure-container {
+		width: 100%;
 	}
 }
