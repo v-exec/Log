@@ -45,7 +45,7 @@ function measures($q, $h) {
 	$conn->close();
 }
 
-//creates loglist of given query ($q), limit on ($limit)
+//creates loglist of given query ($q), limit to 20 on ($limit) true
 function loglist($q, $limit) {
 	$conn = connect();
 	$result = $conn->query($q);
@@ -92,7 +92,7 @@ function loglist($q, $limit) {
 }
 
 //creates timeline of given project/task through query ($q) with intervals at ($t)
-function timeline($q, $t) {
+function timeline($q) {
 	$conn = connect();
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
@@ -106,6 +106,8 @@ function timeline($q, $t) {
 		$first = new DateTime($rows[sizeof($rows)-1][0]);
 		$last = new DateTime($rows[0][0]);
 		$difference = $last->diff($first)->format("%a");
+		$t = number_format((sizeof($rows) / 50), 2);
+		if ($t < 1) $t = 1;
 
 		//setup timeline layout
 		echo
@@ -206,7 +208,7 @@ function spec($l, $type) {
 	//create title, timeline, measures, and loglist for page
 	title('select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';');
 
-	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;', 1);
+	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;');
 
 	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;', number_format(getnum('select sum(log.time) as hours from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';', 'hours'), 0));
 
@@ -215,18 +217,13 @@ function spec($l, $type) {
 	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;', true);
 }
 
-//creates list of general statistics
-function statistics() {
-
-}
-
 //creates homepage
 function home() {
 
 	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);
 
 	//timeline
-	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id group by date order by log.id asc;', 4);
+	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id group by date order by log.id asc;');
 
 	echo'<div class="spacer"></div>';
 	echo '<div class="divider"></div>';

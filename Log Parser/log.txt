@@ -36,7 +36,7 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.06.19   4.0   Log                           Development       Abstract        Homepage, navigation redesign, divisions, styling tuning, timeline hour count implementation.
+2017.06.19   5.0   Log                           Development       Abstract        Homepage, navigation redesign, divisions, styling tuning, timeline hour count implementation, clean up.
 2017.06.18   0.5   V-OS                          Design            Abstract        Site design review.
 2017.06.18   1.0   Boza                          Graphic           Visual          Logo design.
 2017.06.18   0.5   Log                           Development       Abstract        Parsing script rewrite for divisions, tweaking.

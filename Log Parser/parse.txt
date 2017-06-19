@@ -48,7 +48,7 @@ insert into project (name) values ('Interactive Narratives');
 insert into project (name) values ('VisN');
 insert into project (name) values ('Quro');
 insert into project (name) values ('Ontologica');
-insert into log (date, time, project_id, task_id, division_id, details) values ('2017.06.19', '4.0', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Abstract'), 'Homepage, navigation redesign, divisions, styling tuning, timeline hour count implementation.');
+insert into log (date, time, project_id, task_id, division_id, details) values ('2017.06.19', '5.0', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Abstract'), 'Homepage, navigation redesign, divisions, styling tuning, timeline hour count implementation, clean up.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.06.18', '0.5', (select id from project where name = 'V-OS'), (select id from task where name = 'Design'), (select id from division where name = 'Abstract'), 'Site design review.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.06.18', '1.0', (select id from project where name = 'Boza'), (select id from task where name = 'Graphic'), (select id from division where name = 'Visual'), 'Logo design.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.06.18', '0.5', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Abstract'), 'Parsing script rewrite for divisions, tweaking.');
