@@ -99,13 +99,11 @@ a:hover {
 #body {
 	position: relative;
 	width: 100%;
-	min-width: 550px;
 	background-color: #000;
 }
 
 #footer {
 	width: 100%;
-	min-width: 550px;
 	background-color: #0a0a0a;
 }
 
@@ -119,7 +117,7 @@ a:hover {
 
 #footer-content {
 	overflow: auto;
-	height: 155px;
+	min-height: 155px;
 	padding-top: 40px;
 	padding-bottom: 40px;
 }
@@ -136,14 +134,14 @@ a:hover {
 
 .footer-left,
 .footer-right {
-	width: 299px;
+	width: 250px;
 	height: 75px;
 	float: left;
 	clear: left;
 }
 
 .footer-right {
-	width: 150px;
+	width: 110px;
 	float: right;
 	clear: right;
 }
@@ -218,18 +216,18 @@ a:hover {
 
 .loglist-date {
 	width: 11%;
-	min-width: 100px;
+	min-width: 85px;
 	color: #fff;
 }
 
 .loglist-time {
 	width: 10%;
-	min-width: 55px;
+	min-width: 35px;
 }
 
 .loglist-info {
 	width: 15%;
-	min-width: 120px;
+	min-width: 85px;
 	color: #fff;
 }
 
@@ -335,20 +333,65 @@ a:hover {
 }
 
 /*-----------MEDIA-----------*/
-@media (max-width: 817px) {
-	.loglist-details {
-		display: none;
-	}
-}
-
 @media (max-width: 1150px) {
 	.measure-container {
 		width: 49.5%;
 	}
 }
 
+@media (max-width: 820px) {
+	.loglist-details {
+		display: none;
+	}
+
+	.loglist-date {
+		width: 16%;
+	}
+
+	.loglist-time {
+		width: 9%;
+	}
+
+	.loglist-info {
+		width: 28%;
+	}
+}
+
 @media (max-width: 615px) {
 	.measure-container {
 		width: 100%;
+	}
+		#body-content,
+		#footer-content {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+@media (max-width: 410px) {
+	.footer-right {
+		float: none;
+		height: auto;
+	}
+
+	.footer-left {
+		float: none;
+		margin-bottom: 20px;
+	}
+
+	.footer-stats {
+		text-align: left;
+	}
+
+	.loglist-date {
+		width: 11%;
+	}
+
+	.loglist-time {
+		width: 10%;
+	}
+
+	.loglist-info {
+		width: 22%;
 	}
 }
