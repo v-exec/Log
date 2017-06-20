@@ -219,7 +219,7 @@ function spec($l, $type) {
 
 //creates homepage
 function home() {
-
+	//get full number of hours for percentage calculations
 	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);
 
 	//timeline
