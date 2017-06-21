@@ -121,6 +121,9 @@ function timeline($q) {
 			<div class="timeline-circle-container">
 		';
 
+		//fill threshold (timeline node is filled if hours per day are higher than $threshold)
+		$threshold = 3;
+
 		//display dots
 		if (sizeof($rows) > 1) {
 			for ($i = sizeof($rows); $i > -1; $i-=$t) {
@@ -132,7 +135,7 @@ function timeline($q) {
 
 				if ($now != $old && ($oldPosition - $position) > 0.001) {
 
-					if ($rows[$i][1] >= 2) $fill = '#fff';
+					if ($rows[$i][1] >= $threshold) $fill = '#fff';
 					else $fill = '#000';
 
 					echo

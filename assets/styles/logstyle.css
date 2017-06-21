@@ -141,7 +141,7 @@ a:hover {
 }
 
 .footer-right {
-	width: 110px;
+	width: 140px;
 	float: right;
 	clear: right;
 }
@@ -361,14 +361,15 @@ a:hover {
 	.measure-container {
 		width: 100%;
 	}
-		#body-content,
-		#footer-content {
+
+	#body-content,
+	#footer-content {
 		padding-left: 20px;
 		padding-right: 20px;
 	}
 }
 
-@media (max-width: 410px) {
+@media (max-width: 440px) {
 	.footer-right {
 		float: none;
 		height: auto;
@@ -382,7 +383,9 @@ a:hover {
 	.footer-stats {
 		text-align: left;
 	}
+}
 
+@media (max-width: 410px) {
 	.loglist-date {
 		width: 11%;
 	}

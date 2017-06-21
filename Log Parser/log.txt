@@ -36,6 +36,11 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.06.20   0.5   V-OS                          Development       Abstract        Small styling fixes.
+2017.06.20   0.5   Log                           Development       Abstract        Small styling fixes.
+2017.06.20   1.5   The Cosmic Affliction         Composition       Audio           Strider composition.
+2017.06.19   1.0   V-OS                          Writing           Abstract        Renaming, rewrites.
+2017.06.19   0.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.06.19   6.0   Log                           Development       Abstract        Homepage, navigation redesign, divisions, styling tuning, timeline hour count implementation, clean up.
 2017.06.18   0.5   V-OS                          Design            Abstract        Site design review.
 2017.06.18   1.0   Boza                          Graphic           Visual          Logo design.
