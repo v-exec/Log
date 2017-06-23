@@ -2,7 +2,6 @@
 //creates the measures for tasks/projects of given query ($q), and calculates percentage of time of total given hours ($h), and gives color of respective task sector
 function measures($q, $h) {
 	$conn = connect();
-	$size = 1;
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
 		$rows = array();
@@ -12,6 +11,8 @@ function measures($q, $h) {
 			array_push($rows, [$row['title'], $row['hours'], $row['logs']]);
 		}
 
+		$size = 1;
+
 		//find biggest size
 		for ($i = 0; $i < sizeof($rows); $i++) {
 			if ($rows[$i][1] > $size) $size = $rows[$i][1];
@@ -19,6 +20,11 @@ function measures($q, $h) {
 
 		//create all measures
 		for ($i = 0; $i < sizeof($rows); $i++) {
+
+			//don't include 'personal' division unless it's particularly relevant
+			if ($h > 10 && $rows[$i][0] == 'Personal' && ($rows[$i][1] / $h * 100) < 10) continue;
+
+			//get proper phrasing for hour and log numbers
 			if (number_format($rows[$i][1], 0) == 1) $hourphrase = 'hour';
 			else $hourphrase = 'hours';
 			if ($rows[$i][2] == 1) $logphrase = 'log';
@@ -36,7 +42,7 @@ function measures($q, $h) {
 					<a href="javascript:void(0);" class="measure-title" onclick="document.getElementById('."'".$rows[$i][0]."'".').submit();">'.$rows[$i][0].'</a>
 					<div class="measure-text">'.number_format($rows[$i][1], 0).' '.$hourphrase.'</div>
 					<div class="measure-text">'.$rows[$i][2].' '.$logphrase.'</div>
-					<div class="measure-text">'.number_format(((number_format($rows[$i][1], 0) / $h) * 100), 2).'%</div>
+					<div class="measure-text">'.number_format((($rows[$i][1] / $h) * 100), 2).'%</div>
 				</div>
 			</div>
 			';
@@ -103,6 +109,7 @@ function timeline($q) {
 			array_push($rows, [$row['date'], $row['hours']]);
 		}
 
+		//get proper phrasing for hour and log numbers
 		$first = new DateTime($rows[sizeof($rows)-1][0]);
 		$last = new DateTime($rows[0][0]);
 		$difference = $last->diff($first)->format("%a");
@@ -178,13 +185,14 @@ function title($q) {
 	//get query results
 	if ($result->num_rows > 0) {
 		$row = $result->fetch_assoc();
-		$data = [$row['hours'], $row['logs']];
+		$hours = $row['hours'];
+		$logs = $row['logs'];
 	}
 
-	//get proper phrasing
-	if (number_format($data[0], 0) == 1) $hourphrase = 'hour';
+	//get proper phrasing for hour and log numbers
+	if (number_format($hours, 0) == 1) $hourphrase = 'hour';
 	else $hourphrase = 'hours';
-	if ($data[1] == 1) $logphrase = 'log';
+	if ($logs == 1) $logphrase = 'log';
 	else $logphrase = 'logs';
 	
 	//display title data
@@ -194,36 +202,49 @@ function title($q) {
 	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="l" value="'.$l.'"></form>
 	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
 	<div class="spec-stats">
-		<span class="spec-text">'.number_format($data[0], 0).' '.$hourphrase.'</span>
-		<span class="spec-text">'.$data[1].' '.$logphrase.'</span>
+		<span class="spec-text">'.number_format($hours, 0).' '.$hourphrase.'</span>
+		<span class="spec-text">'.$logs.' '.$logphrase.'</span>
 	</div>
 	';
 
 	$conn->close();
 }
 
-//creates detailed page for project/task ($type) of given l ($l)
+//creates detailed page for project/task/division ($type) of given l ($l)
 function spec($l, $type) {
 	if ($type == 'task') $typeOpp = 'project';
 	else if ($type == 'project') $typeOpp = 'task';
 	else if ($type == 'division') $typeOpp = 'project';
 
-	//create title, timeline, measures, and loglist for page
-	title('select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';');
+	//get full number of hours for percentage calculations
+	$hours = number_format(getnum('select sum(log.time) as hours from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';', 'hours'), 1);
 
-	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;');
+	//create title, timeline, division measures, contextual measures, and loglist for page
+	$query = 'select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';';
+	title($query);
 
-	measures('select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;', number_format(getnum('select sum(log.time) as hours from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';', 'hours'), 0));
+	$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
+	timeline($query);
 
-	echo '<div class="divider"></div>';
+	if ($type != 'division') {
+		$query = 'select '.$type.'.name as main, division.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;';
+		measures($query, $hours);
+		echo'<div class="divider"></div>';
+	}
 
-	loglist('select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;', true);
+	$query = 'select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;';
+	measures($query, $hours);
+
+	echo'<div class="divider"></div>';
+
+	$query = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;';
+	loglist($query, true);
 }
 
 //creates homepage
 function home() {
 	//get full number of hours for percentage calculations
-	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);
+	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 1);
 
 	//timeline
 	timeline('select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id group by date order by log.id asc;');

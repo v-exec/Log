@@ -54,25 +54,26 @@ function checkType($l) {
 //logic and pageflow for log layout
 function loadlog() {
 	global $l;
+	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 1);
 
 	switch ($l) {
 		case 'home':
 			home();
 			break;
 
-		case 'division':
+		case 'divisions':
 			$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
-			measures($query, number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0));
+			measures($query, $hours);
 			break;
 
 		case 'tasks':
 			$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
-			measures($query, number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0));
+			measures($query, $hours);
 			break;
 
 		case 'projects':
 			$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by hours desc;';
-			measures($query, number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0));
+			measures($query, $hours);
 			break;
 
 		case 'logs':
