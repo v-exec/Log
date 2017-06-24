@@ -37,6 +37,10 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.06.23   1.0   Namium                        Design            Abstract        Name generation and dictionary expansion.
+2017.06.23   1.0   Boza                          Design            Visual          Logo design.
+2017.06.23   0.5   V-OS                          Writing           Personal        Renaming.
+2017.06.23   2.5   Study                         Research          Personal        Skateboarding.
 2017.06.22   1.5   Log                           Design            Visual          Divisions measures in spec pages, percentage calculate fix and cleaning.
 2017.06.22   0.5   Log                           Design            Abstract        Code division addition.
 2017.06.22   0.5   Study                         Research          Visual          Realistic materials shading.
@@ -405,9 +409,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.01   1.5   Rig                           Maintenance       Personal        Reinstall desktop PC.
 2017.01.31   4.0   Study                         Development       Code            Video processing in Processing.
 2017.01.31   1.0   VisN                          Research          Visual          Unique typography research.
-2017.01.30   1.5   Tinker                        Linguistics       Abstract        Develop more sophisticated name generation for name system, experiment with language.
+2017.01.30   1.5   Namium                        Linguistics       Abstract        Develop more sophisticated name generation for name system, experiment with language.
 2017.01.30   0.5   Study                         Research          Abstract        Medium and media studies.
-2017.01.29   1.0   Tinker                        Development       Code            Design and develop simple name generation system.
+2017.01.29   1.0   Namium                        Development       Code            Design and develop simple name generation system.
 2017.01.29   1.0   Study                         Research          Code            Ruby study.
 2017.01.28   2.0   Study                         Research          Code            Ruby study.
 2017.01.28   1.0   VisN                          3D                Visual          Cinema4D sketches for Obx.
