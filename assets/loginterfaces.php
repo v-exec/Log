@@ -38,8 +38,7 @@ function measures($q, $h) {
 					<circle cx="50%" cy="50%" r="'.round(($rows[$i][1]/$size * 40) + 2).'" stroke="#fff" stroke-width="'.round(($rows[$i][1]/$size * 4) + 2).'" fill="none"/>
 				</svg>
 				<div class="measure-info">
-					<form id="'.$rows[$i][0].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][0].'"></form>
-					<a href="javascript:void(0);" class="measure-title" onclick="document.getElementById('."'".$rows[$i][0]."'".').submit();">'.$rows[$i][0].'</a>
+					<a href="'.$rows[$i][0].'" class="measure-title">'.$rows[$i][0].'</a>
 					<div class="measure-text">'.number_format($rows[$i][1], 0).' '.$hourphrase.'</div>
 					<div class="measure-text">'.$rows[$i][2].' '.$logphrase.'</div>
 					<div class="measure-text">'.number_format((($rows[$i][1] / $h) * 100), 2).'%</div>
@@ -80,12 +79,10 @@ function loglist($q, $limit) {
 					<span class="loglist-text">'.number_format($rows[$i][1], 1).'</span>
 				</div>
 				<div class="loglist-info">
-					<form id="'.$rows[$i][2].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][2].'"></form>
-					<a href="javascript:void(0);" class="loglist-text" onclick="document.getElementById('."'".$rows[$i][2]."'".').submit();">'.$rows[$i][2].'</a>
+					<a href="'.$rows[$i][2].'" class="loglist-text">'.$rows[$i][2].'</a>
 				</div>
 				<div class="loglist-info">
-					<form id="'.$rows[$i][3].'" action="log" method="get"><input type="hidden" name="l" value="'.$rows[$i][3].'"></form>
-					<a href="javascript:void(0);" class="loglist-text" onclick="document.getElementById('."'".$rows[$i][3]."'".').submit();">'.$rows[$i][3].'</a>
+					<a href="'.$rows[$i][3].'" class="loglist-text">'.$rows[$i][3].'</a>
 				</div>
 				<div class="loglist-details">
 					<span class="loglist-text">'.$rows[$i][4].'</span>
@@ -199,8 +196,7 @@ function title($q) {
 	echo
 	'
 	<div class="spacer"></div>
-	<form id="'.$l.'" action="log" method="get"><input type="hidden" name="l" value="'.$l.'"></form>
-	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'".$l."'".').submit();">'.$l.'</a>
+	<a href="'.$l.'" class="spec-title">'.ucfirst($l).'</a>
 	<div class="spec-stats">
 		<span class="spec-text">'.number_format($hours, 0).' '.$hourphrase.'</span>
 		<span class="spec-text">'.$logs.' '.$logphrase.'</span>
@@ -254,8 +250,7 @@ function home() {
 
 	//division measures
 	echo'
-	<form id="divisions" action="log" method="get"><input type="hidden" name="l" value="divisions"></form>
-	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'divisions'".').submit();">Divisions</a>
+	<a href="divisions" class="spec-title">Divisions</a>
 	';
 	echo'<div class="spacer" style="height:0px;"></div>';
 
@@ -265,8 +260,7 @@ function home() {
 
 	//tasks measures
 	echo'
-	<form id="tasks" action="log" method="get"><input type="hidden" name="l" value="tasks"></form>
-	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'tasks'".').submit();">Tasks</a>
+	<a href="tasks" class="spec-title">Tasks</a>
 	';
 	echo'<div class="spacer" style="height:0px;"></div>';
 
@@ -276,8 +270,7 @@ function home() {
 
 	//projects measures
 	echo'
-	<form id="projects" action="log" method="get"><input type="hidden" name="l" value="projects"></form>
-	<a href="javascript:void(0);" class="spec-title" onclick="document.getElementById('."'projects'".').submit();">Projects</a>
+	<a href="projects" class="spec-title">Projects</a>
 	';
 	echo'<div class="spacer" style="height:0px;"></div>';
 

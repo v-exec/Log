@@ -1,0 +1,9 @@
+RewriteEngine on
+
+DirectoryIndex log.php
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)$ /log.php?l=$1 [NC,L]

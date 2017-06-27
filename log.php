@@ -1,7 +1,12 @@
 <?php
-if ($_GET["l"]) {
+if (isset($_GET['l'])) {
+	if ($_GET['l']) {
+		$l = strtolower($_GET['l']);
+	} else $l = 'home';
+} else {
+	$_GET['l'] = 'home';
 	$l = $_GET['l'];
-} else $l = 'home';
+}
 include 'assets/logconstruct.php';
 ?>
 
@@ -40,13 +45,9 @@ include 'assets/logconstruct.php';
 	<div id="body-content">
 		<div id="header">
 			<div class="divider"></div>
-			<form id="home" action="log" method="get"><input type="hidden" name="l" value="home"></form>
-			<form id="logs" action="log" method="get"><input type="hidden" name="l" value="logs"></form>
-
-			<a href="javascript:void(0);" class="title" onclick="document.getElementById('home').submit();">Home</a>
+			<a href="home" class="title">Home</a>
 			<span class="dot">.</span>
-			<a href="javascript:void(0);" class="title" onclick="document.getElementById('logs').submit();">Logs</a>
-
+			<a href="logs" class="title">Logs</a>
 			<a class="site" href="http://v-os.ca">V-OS</a>
 		</div>
 		<?php loadlog();?>
