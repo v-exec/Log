@@ -23,18 +23,18 @@ include 'assets/logconstruct.php';
 	<meta property="og:title" content="V-OS">
 	<meta property="og:type" content="website">
 	<meta property="og:description" content="The Vi Wiki">
-	<meta property="og:image" content="http://v-os.ca/content/me/1.png">
+	<meta property="og:image" content="http://log.v-os.ca/assets/images/1.png">
 
 	<meta name="twitter:url" content="http://v-os.ca/">
 	<meta name="twitter:title" content="V-OS">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:description" content="The Vi Wiki">
-	<meta name="twitter:image" content="http://v-os.ca/content/me/1.png">
+	<meta name="twitter:image" content="http://log.v-os.ca/assets/images/1.png">
 
 	<meta name="description" content="The V Wiki">
 	<meta name="keywords" content="Digital, Art, Design, Videogames, Games, Music, Portfolio, Montreal">
 	<meta name="author" content="Victor Ivanov">
-	<link rel='icon' href='http://v-os.ca/assets/icons/v_ico.ico' type='image/x-icon'>
+	<link rel='icon' href='http://log.v-os.ca/assets/icons/v_ico.ico' type='image/x-icon'>
 
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,900|Roboto:400,400i,900">
