@@ -37,7 +37,26 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.06.23   1.0   Namium                        Design            Abstract        Name generation and dictionary expansion.
+2017.06.28   4.5   V-OS                          Writing           Abstract        Data migration, rewrites, reorganization.
+2017.06.28   1.5   Purity                        Development       Code            Wiki engine development.
+2017.06.28   0.5   V-OS                          Development       Visual          Visual tweaks.
+2017.06.28   2.5   Tinker                        Development       Code            Teaching game dev in Unity.
+2017.06.27   1.0   Purity                        Writing           Abstract        Documentation.
+2017.06.27   8.0   Purity                        Development       Code            Wiki engine development.
+2017.06.27   1.5   Purity                        Design            Code            Wiki engine development.
+2017.06.27   1.5   V-OS                          Development       Visual          Visual tweaks.
+2017.06.26   0.5   V-OS                          Development       Visual          Visual tweaks.
+2017.06.26   7.0   Purity                        Development       Code            Wiki engine development.
+2017.06.25   4.5   Purity                        Development       Code            Wiki engine development.
+2017.06.25   3.5   Tinker                        Development       Code            Teaching game dev in Unity.
+2017.06.25   0.5   V-OS                          Development       Visual          Visual tweaks.
+2017.06.25   1.5   Purity                        Development       Code            Wiki engine development.
+2017.06.24   3.0   Purity                        Development       Code            Wiki engine development.
+2017.06.24   2.0   Purity                        Design            Abstract        Wiki engine conceptualization.
+2017.06.24   0.5   V-OS                          Development       Visual          Small styling changes.
+2017.06.24   1.0   Study                         Writing           Personal        Business proposition review, text correcting.
+2017.06.24   1.5   Tinker                        Design            Abstract        House design.
+2017.06.23   1.5   Namium                        Design            Abstract        Name generation and dictionary expansion.
 2017.06.23   1.0   Boza                          Design            Visual          Logo design.
 2017.06.23   0.5   V-OS                          Writing           Personal        Renaming.
 2017.06.23   2.5   Study                         Research          Personal        Skateboarding.
