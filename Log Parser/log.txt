@@ -37,6 +37,10 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.06.29   1.0   Purity                        Graphic           Visual          Logo design.
+2017.06.29   1.5   Purity                        Development       Code            Path parsing additions, various fixes, refactoring.
+2017.06.29   2.0   V-OS                          Writing           Abstract        Rewrites, reorganization.
+2017.06.28   0.5   Purity                        Graphic           Visual          Logo design.
 2017.06.28   4.5   V-OS                          Writing           Abstract        Data migration, rewrites, reorganization.
 2017.06.28   1.5   Purity                        Development       Code            Wiki engine development.
 2017.06.28   0.5   V-OS                          Development       Visual          Visual tweaks.

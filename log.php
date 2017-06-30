@@ -19,13 +19,13 @@ include 'assets/logconstruct.php';
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<meta property="og:url" content="http://v-os.ca/">
+	<meta property="og:url" content="http://log.v-os.ca/">
 	<meta property="og:title" content="V-OS">
 	<meta property="og:type" content="website">
 	<meta property="og:description" content="The Vi Wiki">
 	<meta property="og:image" content="http://log.v-os.ca/assets/images/1.png">
 
-	<meta name="twitter:url" content="http://v-os.ca/">
+	<meta name="twitter:url" content="http://log.v-os.ca/">
 	<meta name="twitter:title" content="V-OS">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:description" content="The Vi Wiki">
