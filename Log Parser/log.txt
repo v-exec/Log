@@ -37,9 +37,14 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.06.30   0.5   The Cosmic Affliction         Design            Audio           Album review.
+2017.06.30   0.5   V-OS                          Writing           Abstract        Rewrites.
+2017.06.30   1.0   Purity                        Writing           Abstract        Example site and documentation.
+2017.06.30   3.5   Purity                        Development       Code            Cleaning, documentation, refactoring, example site.
 2017.06.29   1.0   Purity                        Graphic           Visual          Logo design.
 2017.06.29   1.5   Purity                        Development       Code            Path parsing additions, various fixes, refactoring.
 2017.06.29   2.0   V-OS                          Writing           Abstract        Rewrites, reorganization.
+2017.06.28   0.0   V-OS                          Event             Personal        Switch V-OS' back-end from handwritten template to Purity.
 2017.06.28   0.5   Purity                        Graphic           Visual          Logo design.
 2017.06.28   4.5   V-OS                          Writing           Abstract        Data migration, rewrites, reorganization.
 2017.06.28   1.5   Purity                        Development       Code            Wiki engine development.
@@ -461,4 +466,4 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.01.16   0.5   Study                         Research          Abstract        Image and representation in new media.
 2017.01.04   5.0   V-OS                          Development       Code            PHP page generation system expansion.
 2017.01.02   4.0   V-OS                          Development       Code            Bugfixes, PHP optimization and refactoring.
-2017.01.02   0.0   Various                       Event             Personal        Purchase v-os.ca.
+2017.01.02   0.0   V-OS                          Event             Personal        Purchase v-os.ca.
