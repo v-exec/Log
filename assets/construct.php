@@ -39,15 +39,15 @@ function loadlog() {
 		default:
 			switch (checkType($l)) {
 				case 'division':
-					spec($l, 'division', $hours);
+					spec($l, 'division');
 					break;
 
 				case 'project':
-					spec($l, 'project', $hours);
+					spec($l, 'project');
 					break;
 
 				case 'task':
-					spec($l, 'task', $hours);
+					spec($l, 'task');
 					break;
 
 				default:
@@ -131,11 +131,14 @@ function home() {
 }
 
 //creates detailed page for project/task/division ($type) of given l ($l), using total hours ($h)
-function spec($l, $type, $h) {
+function spec($l, $type) {
 	//get type of page
 	if ($type == 'task') $typeOpp = 'project';
 	else if ($type == 'project') $typeOpp = 'task';
 	else if ($type == 'division') $typeOpp = 'project';
+
+	//get full number of hours for percentage calculations
+	$h = number_format(getnum('select sum(log.time) as hours from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';', 'hours'), 1);
 
 	//title
 	$query = 'select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';';
