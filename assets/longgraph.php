@@ -1,6 +1,6 @@
 <?php
-//creates graph of last X days of logs and each division's daily involvement
-function longgraph($q, $h) {
+//creates graph of last $n days of logs and each division's daily involvement
+function longgraph($q, $h, $n) {
 	//get colors
 	global $abstractColor;
 	global $codeColor;
@@ -23,8 +23,17 @@ function longgraph($q, $h) {
 		$days = array();
 		//day array holds each day
 		$day = array();
-
+		//holds date
 		$now;
+
+		//fill $days array with set number of days ($n)
+		for ($i = 0; $i < $n; $i++) {
+			array_push($days, null);
+		}
+
+		//echo sizeof($days);
+
+		$dayCount = 0;
 
 		//pass through all logs, separate them into each $day, and then put every $day into $days
 		for ($i = 0; $i < sizeof($rows); $i++) {
@@ -38,7 +47,8 @@ function longgraph($q, $h) {
 
 			} else {
 				$now = $rows[$i][0];
-				array_push($days, $day);
+				$days[$dayCount] = $day;
+				$dayCount++;
 
 				$day = array();
 				array_push($day, [$rows[$i][1], $rows[$i][2]]);

@@ -111,23 +111,23 @@ function home() {
 	$now = $now->format('Y-m-d');
 
 	$old = new DateTime($now);
-	$old = $old->sub(new DateInterval('P120D'));
+	$old = $old->sub(new DateInterval('P119D'));
 	$old = $old->format('Y-m-d');
 
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours);
+	longgraph($query, $hours, 119);
 
 	//14 day graph
 	$old = new DateTime($now);
-	$old = $old->sub(new DateInterval('P14D'));
+	$old = $old->sub(new DateInterval('P13D'));
 	$old = $old->format('Y-m-d');
 
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours);
+	longgraph($query, $hours, 13);
 }
 
 //creates detailed page for project/task/division ($type) of given l ($l), using total hours ($h)
