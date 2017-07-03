@@ -37,6 +37,14 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.02   1.0   Purity                        Development       Visual          Change sample Purity site design, testing.
+2017.07.02   4.5   Log                           Development       Code            Visual redesign, refactoring, clean up.
+2017.07.02   4.0   Log                           Development       Visual          Visual redesign.
+2017.07.02   1.5   Log                           Design            Visual          Visual redesign.
+2017.07.01   2.5   Log                           Development       Code            Graph development and experimentation.
+2017.07.01   1.5   Log                           Design            Visual          Graph design and experimentation.
+2017.07.01   0.5   The Cosmic Affliction         Acoustic          Audio           Dark Dye composition / experimentation.
+2017.07.01   0.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.30   0.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.06.30   0.5   V-OS                          Writing           Abstract        Rewrites.
 2017.06.30   1.0   Purity                        Writing           Abstract        Example site and documentation.

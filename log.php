@@ -7,7 +7,14 @@ if (isset($_GET['l'])) {
 	$_GET['l'] = 'home';
 	$l = $_GET['l'];
 }
-include 'assets/logconstruct.php';
+
+$abstractColor = '#606060';
+$codeColor = '#000';
+$visualColor = '#F91364';
+$audioColor = '#02F2AA';
+$personalColor = '#D7CDCC';
+
+include 'assets/construct.php';
 ?>
 
 <!DOCTYPE html>
@@ -37,9 +44,10 @@ include 'assets/logconstruct.php';
 	<link rel='icon' href='http://log.v-os.ca/assets/icons/v_ico.ico' type='image/x-icon'>
 
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,900|Roboto:400,400i,900">
-	<link rel="stylesheet" type="text/css" href="assets/styles/logstyle.css?ver=<?php echo filemtime('assets/styles/logstyle.css');?>">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700">
+	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?ver=<?php echo filemtime('assets/styles/style.css');?>">
 </head>
+
 <body>
 <div id="body">
 	<div id="body-content">
@@ -57,9 +65,9 @@ include 'assets/logconstruct.php';
 <div id="footer">
 	<div id="footer-content">
 		<div class="footer-left">
-			<a href="https://github.com/v-exec"><img class="footer-image" src="assets/icons/githubicon_w.png"></a>
-			<a href="https://twitter.com/v_exec"><img class="footer-image" src="assets/icons/twittericon_w.png"></a>
-			<a href="https://ca.linkedin.com/in/victor-ivanov"><img class="footer-image" src="assets/icons/linkedinicon_w.png"></a>
+			<a href="https://github.com/v-exec"><img class="footer-image" src="assets/icons/githubicon.png"></a>
+			<a href="https://twitter.com/v_exec"><img class="footer-image" src="assets/icons/twittericon.png"></a>
+			<a href="https://ca.linkedin.com/in/victor-ivanov"><img class="footer-image" src="assets/icons/linkedinicon.png"></a>
 			<br>
 			<span class="footer-text">
 			Victor Ivanov - <i>me@v-os.ca</i>

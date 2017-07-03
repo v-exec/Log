@@ -1,12 +1,13 @@
 ﻿/*-----------COLORS-----------*/
 
 /*
-interface: #fff;
-main: #000;
-secondary: #0a0a0a;
+interface: #000;
+main: #fff;
+secondary: #f7f7f7;
+scrollbar: #c1c1c1;
 
-grey code: #606060;
-abstract: #fff;
+code: #000;
+abstract: #606060;
 visual: #f91364;
 audio: #02f2aa;
 */
@@ -22,38 +23,39 @@ html {
 
 body {
 	font-family: "Roboto";
-	background-color: #0a0a0a;
+	color: #000;
+	background-color: #f7f7f7;
 	overflow-x: hidden;
 }
 
 a {
 	display: inline;
 	text-decoration: none;
-	color: #fff;
 	font-weight: 400;
+	color: inherit;
 }
 
 a:hover {
 	text-decoration: underline;
 }
 
-::selection {
-	color: #fff;
-	background: rgba(16, 16, 16, 0.99);
+::-moz-selection {
+	color: #000;
+	background: #f7f7f7;
 }
 
-::-moz-selection {
-	color: #fff;
-	background: rgba(16, 16, 16, 0.99);
+::selection {
+	color: #000;
+	background: #f7f7f7;
 }
 
 ::-webkit-scrollbar {
 	width: 6px;
-	background-color: #0a0a0a;
+	background-color: #f7f7f7;
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #000;
+	background-color: #c1c1c1;
 }
 
 .spacer {
@@ -70,8 +72,8 @@ a:hover {
 .divider {
 	position: relative;
 	width: 100%;
-	height: 2px;
-	background-color: #fff;
+	height: 1px;
+	background-color: #000;
 	margin: auto;
 	margin-bottom: 10px;
 	margin-top: 10px;
@@ -80,7 +82,7 @@ a:hover {
 .title,
 .site,
 .dot {
-	font-size: 20pt;
+	font-size: 26px;
 }
 
 .site {
@@ -90,7 +92,6 @@ a:hover {
 
 .dot {
 	display: inline-block;
-	color: #fff;
 	margin: 0;
 	padding: 0;
 }
@@ -99,12 +100,12 @@ a:hover {
 #body {
 	position: relative;
 	width: 100%;
-	background-color: #000;
+	background-color: #fff;
 }
 
 #footer {
 	width: 100%;
-	background-color: #0a0a0a;
+	background-color: #f7f7f7;
 }
 
 #body-content,
@@ -117,15 +118,14 @@ a:hover {
 
 #footer-content {
 	overflow: auto;
-	min-height: 155px;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-bottom: 30px;
+	padding-top: 30px;
 }
 
 .footer-image {
 	width: 30px;
 	margin-right: 10px;
-	opacity: 0.2;
+	opacity: 0.3;
 }
 
 .footer-image:hover {
@@ -149,10 +149,9 @@ a:hover {
 .footer-text,
 .footer-stats {
 	display: block;
-	color: #fff;
 	margin-top: 10px;
 	font-weight: 300;
-	font-size: 10pt;
+	font-size: 13px;
 }
 
 .footer-stats {
@@ -167,11 +166,12 @@ a:hover {
 	height: 110px;
 	margin-top: 40px;
 	margin-bottom: 40px;
+	text-align: center;
 }
 
 .measure-circle {
-	width: 50%;
-	height: 100%;
+	width: 110px;
+	height: 110px;
 }
 
 .measure-info {
@@ -180,17 +180,16 @@ a:hover {
 	height: 100%;
 	float: right;
 	clear: right;
+	text-align: left;
 }
 
 .measure-title {
-	color: #fff;
-	font-size: 17pt;
+	font-size: 23px;
 	margin-bottom: 2px;
 }
 
 .measure-text {
-	color: #fff;
-	font-size: 10pt;
+	font-size: 13px;
 	font-weight: 300;
 	margin: 1px;
 }
@@ -211,13 +210,11 @@ a:hover {
 	display: inline-block;
 	vertical-align: top;
 	margin: 0px;
-	color: #fff;
 }
 
 .loglist-date {
 	width: 11%;
 	min-width: 85px;
-	color: #fff;
 }
 
 .loglist-time {
@@ -228,7 +225,6 @@ a:hover {
 .loglist-info {
 	width: 15%;
 	min-width: 85px;
-	color: #fff;
 }
 
 .loglist-details {
@@ -239,7 +235,7 @@ a:hover {
 .loglist-text {
 	margin: 0px;
 	color: inherit;
-	font-size: 10pt;
+	font-size: 13px;
 	font-weight: 300;
 }
 
@@ -256,18 +252,18 @@ a:hover {
 .timeline {
 	position: absolute;
 	width: 100%;
-	height: 2px;
+	height: 1px;
 	top: 20px;
-	background-color: #fff;
+	background-color: #000;
 }
 
 .timeline-marker-begin,
 .timeline-marker-end {
 	position: absolute;
-	width: 2px;
+	width: 1px;
 	height: 40px;
 	top: 0px;
-	background-color: #fff;
+	background-color: #000;
 }
 
 .timeline-marker-begin {
@@ -283,8 +279,7 @@ a:hover {
 	display: inline-block;
 	margin: 0px;
 	width: 70px;
-	color: #fff;
-	font-size: 10pt;
+	font-size: 13px;
 	font-weight: 300;
 }
 
@@ -308,15 +303,62 @@ a:hover {
 	height: 32px;
 }
 
-/*-----------SPEC PAGE-----------*/
-.spec-title {
-	font-size: 20pt;
-	color: #fff;
+/*-----------GRAPH-----------*/
+.graph-legend-text,
+.graph-legend-num,
+.graph-stats-text {
+	font-size: 13px;
+	font-weight: 300;
+}
+
+.graph-legend-num {
+	margin-right: 8px;
+}
+
+.graph-stats-text {
+	float: right;
+	text-align: right;
+	margin-left: 8px;
+}
+
+/*-----------LONG GRAPH-----------*/
+.long-graph-container {
+	position: relative;
+	width: 100%;
+	height: 200px;
+	margin: auto;
+	margin-top: 40px;
+	overflow: hidden;
+	white-space: nowrap;
+	border-bottom: solid 1px #000;
+}
+
+.long-graph-day {
+	display: inline-block;
+	margin: 0px;
+	height: 100%;
+}
+
+.long-graph-bar {
+	position: absolute;
+	margin: 0px;
+	height: 100%;
+}
+
+.graph-legend {
+	width: 100%;
+	height: 20px;
+	margin-top: 10px;
+}
+
+/*-----------TITLE-----------*/
+.title {
+	font-size: 26px;
 	margin-bottom: 20px;
 	text-align: left;
 }
 
-.spec-stats {
+.title-stats {
 	width: 70px;
 	float: right;
 	clear: right;
@@ -324,11 +366,10 @@ a:hover {
 	text-align: right;
 }
 
-.spec-text {
+.title-text {
 	display: block;
 	margin: 0px;
-	color: #fff;
-	font-size: 10pt;
+	font-size: 13px;
 	font-weight: 300;
 }
 
