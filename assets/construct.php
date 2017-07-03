@@ -117,7 +117,7 @@ function home() {
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours, 119);
+	longgraph($query, $hours, 120);
 
 	//14 day graph
 	$old = new DateTime($now);
@@ -127,7 +127,7 @@ function home() {
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours, 13);
+	longgraph($query, $hours, 14);
 }
 
 //creates detailed page for project/task/division ($type) of given l ($l), using total hours ($h)

@@ -24,38 +24,35 @@ function longgraph($q, $h, $n) {
 		//day array holds each day
 		$day = array();
 		//holds date
-		$now;
+		$now = $rows[0][0];
+
+		//get date offset
+		$today = new DateTime();
+		$recent = new DateTime($now);
+		$difference = $today->diff($recent)->format("%a");
 
 		//fill $days array with set number of days ($n)
 		for ($i = 0; $i < $n; $i++) {
 			array_push($days, null);
 		}
 
-		//echo sizeof($days);
-
-		$dayCount = 0;
+		$dayCount = $n + - 1 - $difference;
 
 		//pass through all logs, separate them into each $day, and then put every $day into $days
 		for ($i = 0; $i < sizeof($rows); $i++) {
-			if ($i == 0) $now = $rows[$i][0];
-
-			if ($now === $rows[$i][0]) {
-				array_push($day, [$rows[$i][1], $rows[$i][2]]);
-				if ($i == sizeof($rows) - 1) {
-					array_push($days, $day);
-				}
-
-			} else {
+			if ($now != $rows[$i][0]) {
 				$now = $rows[$i][0];
+
 				$days[$dayCount] = $day;
-				$dayCount++;
+				$dayCount--;
 
 				$day = array();
-				array_push($day, [$rows[$i][1], $rows[$i][2]]);
-
-				if ($i == sizeof($rows) - 1) array_push($days, $day);
 			}
+			array_push($day, [$rows[$i][1], $rows[$i][2]]);
 		}
+
+		//add last element
+		$days[$dayCount] = $day;
 
 		//$days[day][log][0: division 1: time]
 
@@ -68,7 +65,7 @@ function longgraph($q, $h, $n) {
 		echo '<div class="long-graph-container">';
 
 		//go through each day
-		for ($i = sizeof($days)-1; $i > -1; $i--) {
+		for ($i = 0; $i < sizeof($days); $i++) {
 			$audioTime = 0;
 			$abstractTime = 0;
 			$visualTime = 0;
@@ -80,22 +77,22 @@ function longgraph($q, $h, $n) {
 				switch ($days[$i][$j][0]) {
 					case 'Audio':
 						$audioTime += $days[$i][$j][1];
-						$totalAudio += $audioTime;
+						$totalAudio += $days[$i][$j][1];
 						break;
 					
 					case 'Abstract':
 						$abstractTime += $days[$i][$j][1];
-						$totalAbstract += $abstractTime;
+						$totalAbstract += $days[$i][$j][1];
 						break;
 
 					case 'Visual':
 						$visualTime += $days[$i][$j][1];
-						$totalVisual += $visualTime;
+						$totalVisual += $days[$i][$j][1];
 						break;
 
 					case 'Code':
 						$codeTime += $days[$i][$j][1];
-						$totalCode += $codeTime;
+						$totalCode += $days[$i][$j][1];
 						break;
 
 					case 'Personal':
