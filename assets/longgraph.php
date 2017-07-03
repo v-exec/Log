@@ -105,7 +105,7 @@ function longgraph($q, $h, $n) {
 
 			//sort values to determine render order
 			$values = array($codeTime, $abstractTime, $visualTime, $audioTime, $personalTime);
-			rsort($values);
+			sort($values);
 
 			//render flags
 			$codeDone = false;
@@ -114,47 +114,55 @@ function longgraph($q, $h, $n) {
 			$audioDone = false;
 			$personalDone = false;
 
-			//max number of hours per day per division
-			$max = 11;
+			//max number of hours per day
+			$max = 13;
+
+			//saves height for each bar - determining total height, allowing bar stacks
+			$height = 0;
 
 			//render all bars for the day
 			for ($j = 0; $j < sizeof($values); $j++) {
 				if ($values[$j] == $personalTime && !$personalDone) {
+					$height += ($personalTime / $max) * 200;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.(200 - (($personalTime / $max) * 200)).'px; width:'.(500 / sizeof($days)).'">
+					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
 						<rect width="'.(500 / sizeof($days)).'" height="'.(($personalTime / $max) * 200).'" fill="'.$personalColor.'"/>
 					</svg>
 					';
 					$personalDone = true;
 				}else if ($values[$j] == $codeTime && !$codeDone) {
+					$height += ($codeTime / $max) * 200;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.(200 - (($codeTime / $max) * 200)).'px; width:'.(500 / sizeof($days)).'">
+					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
 						<rect width="'.(500 / sizeof($days)).'" height="'.(($codeTime / $max) * 200).'" fill="'.$codeColor.'"/>
 					</svg>
 					';
 					$codeDone = true;
 				}else if ($values[$j] == $abstractTime && !$abstractDone) {
+					$height += ($abstractTime / $max) * 200;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.(200 - (($abstractTime / $max) * 200)).'px; width:'.(500 / sizeof($days)).'">
+					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
 						<rect width="'.(500 / sizeof($days)).'" height="'.(($abstractTime / $max) * 200).'" fill="'.$abstractColor.'"/>
 					</svg>
 					';
 					$abstractDone = true;
 				}else if ($values[$j] == $visualTime && !$visualDone) {
+					$height += ($visualTime / $max) * 200;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.(200 - (($visualTime / $max) * 200)).'px; width:'.(500 / sizeof($days)).'">
+					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
 						<rect width="'.(500 / sizeof($days)).'" height="'.(($visualTime / $max) * 200).'" fill="'.$visualColor.'"/>
 					</svg>
 					';
 					$visualDone = true;
 				}else if ($values[$j] == $audioTime && !$audioDone) {
+					$height += ($audioTime / $max) * 200;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.(200 - (($audioTime / $max) * 200)).'px; width:'.(500 / sizeof($days)).'">
+					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
 						<rect width="'.(500 / sizeof($days)).'" height="'.(($audioTime / $max) * 200).'" fill="'.$audioColor.'"/>
 					</svg>
 					';
