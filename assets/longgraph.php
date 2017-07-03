@@ -61,6 +61,7 @@ function longgraph($q, $h, $n) {
 		$totalAbstract = 0;
 		$totalVisual = 0;
 		$totalCode = 0;
+		$totalPersonal = 0;
 
 		echo '<div class="long-graph-container">';
 
@@ -97,6 +98,7 @@ function longgraph($q, $h, $n) {
 
 					case 'Personal':
 						$personalTime += $days[$i][$j][1];
+						$totalPersonal += $days[$i][$j][1];
 						break;
 				}
 			}
@@ -127,7 +129,7 @@ function longgraph($q, $h, $n) {
 					echo
 					'
 					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
-						<rect width="'.(500 / sizeof($days)).'" height="'.(($personalTime / $max) * 200).'" fill="'.$personalColor.'"/>
+						<rect width="'.(500 / sizeof($days)).'" height="'.((($personalTime / $max) * 200) + 1).'" fill="'.$personalColor.'"/>
 					</svg>
 					';
 					$personalDone = true;
@@ -136,7 +138,7 @@ function longgraph($q, $h, $n) {
 					echo
 					'
 					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
-						<rect width="'.(500 / sizeof($days)).'" height="'.(($codeTime / $max) * 200).'" fill="'.$codeColor.'"/>
+						<rect width="'.(500 / sizeof($days)).'" height="'.((($codeTime / $max) * 200) + 1).'" fill="'.$codeColor.'"/>
 					</svg>
 					';
 					$codeDone = true;
@@ -145,7 +147,7 @@ function longgraph($q, $h, $n) {
 					echo
 					'
 					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
-						<rect width="'.(500 / sizeof($days)).'" height="'.(($abstractTime / $max) * 200).'" fill="'.$abstractColor.'"/>
+						<rect width="'.(500 / sizeof($days)).'" height="'.((($abstractTime / $max) * 200) + 1).'" fill="'.$abstractColor.'"/>
 					</svg>
 					';
 					$abstractDone = true;
@@ -154,7 +156,7 @@ function longgraph($q, $h, $n) {
 					echo
 					'
 					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
-						<rect width="'.(500 / sizeof($days)).'" height="'.(($visualTime / $max) * 200).'" fill="'.$visualColor.'"/>
+						<rect width="'.(500 / sizeof($days)).'" height="'.((($visualTime / $max) * 200) + 1).'" fill="'.$visualColor.'"/>
 					</svg>
 					';
 					$visualDone = true;
@@ -163,7 +165,7 @@ function longgraph($q, $h, $n) {
 					echo
 					'
 					<svg class="long-graph-bar" style="margin-top: '.(200 - $height).'px; margin-bottom: '.($height).'px; width:'.(500 / sizeof($days)).'">
-						<rect width="'.(500 / sizeof($days)).'" height="'.(($audioTime / $max) * 200).'" fill="'.$audioColor.'"/>
+						<rect width="'.(500 / sizeof($days)).'" height="'.((($audioTime / $max) * 200) + 1).'" fill="'.$audioColor.'"/>
 					</svg>
 					';
 					$audioDone = true;
