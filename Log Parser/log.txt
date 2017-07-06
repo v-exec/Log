@@ -37,6 +37,17 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.05   1.0   Visor                         Development       Code            Presentation tool development.
+2017.07.05   0.5   Visor                         Research          Code            Presentation tool design.
+2017.07.05   1.0   Visor                         Design            Visual          Presentation tool design.
+2017.07.05   2.0   AGD                           Writing           Abstract        Lecture presentation writing.
+2017.07.05   0.5   Rig                           Maintenance       Personal        Update backup.
+2017.07.05   1.0   The Cosmic Affliction         Composition       Audio           Strider composition.
+2017.07.04   1.0   V-OS                          Writing           Abstract        Verse writing.
+2017.07.04   0.5   Ontologica                    Design            Visual          Create new font material, take pictures.
+2017.07.03   0.5   The Cosmic Affliction         Design            Audio           Album review.
+2017.07.03   1.5   Tinker                        Design            Abstract        Game design conceptualization.
+2017.07.03   0.5   Log                           Development       Code            Graph algorithm rework.
 2017.07.02   1.0   Purity                        Development       Visual          Change sample Purity site design, testing.
 2017.07.02   6.0   Log                           Development       Code            Visual redesign, refactoring, clean up.
 2017.07.02   4.0   Log                           Development       Visual          Visual redesign.
@@ -357,7 +368,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.07   0.5   Doodle                        Graphic           Visual          Script edits.
 2017.03.06   2.0   Doodle                        Graphic           Visual          Rework script and create font.
 2017.03.06   0.5   Study                         Research          Abstract        Cybernetics.
-2017.03.05   0.5   Various                       Design            Abstract        Game design curriculum writing.
+2017.03.05   0.5   AGD                           Design            Abstract        Game design curriculum writing.
 2017.03.05   4.0   Drone Dreams                  Development       Code            PureData patch development.
 2017.03.05   0.5   Drone Dreams                  Research          Code            PureData research.
 2017.03.05   1.0   Jam                           Acoustic          Audio           Guitar practice.
@@ -382,7 +393,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.25   5.0   Doodle                        Graphic           Visual          Identity logo design and creation.
 2017.02.25   1.0   Quro                          Filming           Visual          Quro video footage collection.
 2017.02.24   3.0   Doodle                        3D                Visual          Rendering research and experimentation.
-2017.02.24   0.0   Various                       Event             Personal        Interview for accelerated game design camp teaching job.
+2017.02.24   0.0   AGD                           Event             Personal        Interview for accelerated game design camp teaching job.
 2017.02.23   3.0   Doodle                        3D                Visual          Micropolygon displacement, lighting and rendering.
 2017.02.23   0.5   V-OS                          Design            Visual          Aesthetic experimentation.
 2017.02.23   1.0   Elyium                        Writing           Abstract        V-OS page.
@@ -434,7 +445,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.05   2.5   Jam                           Acoustic          Audio           Guitar practice, sound experimentation.
 2017.02.05   1.0   Ontologica                    Development       Visual          Rebuild level in Unreal.
 2017.02.04   9.0   Elyium                        Development       Code            Preliminary infrastructure development, image-to-ascii algorithm.
-2017.02.04   1.0   VisN                          Composition       Audio           Edit Mantycore reading, add to Unity scene.
+2017.02.04   1.0   VisN                          Recording         Audio           Edit Mantycore reading, add to Unity scene.
 2017.02.03   4.5   VisN                          Development       Code            VisN development in Unity.
 2017.02.03   2.0   V-OS                          Writing           Abstract        V-OS writing edit, extra organization, Nihilim and Technomancers pages.
 2017.02.03   3.0   Rig                           Maintenance       Personal        Install programs on fresh OS.

@@ -60,7 +60,7 @@ function timeline($q) {
 			echo
 			'
 			<svg class="timeline-circle" style="left: 0%;">
-				<circle cx="16" cy="16" r="7" stroke="#fff" stroke-width="2.7" fill="#000"/>
+				<circle cx="16" cy="16" r="7" stroke="#000" stroke-width="2.7" fill="#000"/>
 			</svg>
 			';
 		}
