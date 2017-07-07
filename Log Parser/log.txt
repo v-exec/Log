@@ -37,6 +37,11 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.06   1.0   Visor                         Writing           Abstract        Documentation, V-OS page.
+2017.07.06   1.5   Visor                         Graphic           Visual          Logo.
+2017.07.06   0.5   ARD                           Writing           Personal        First presentation migration to Visor.
+2017.07.06   6.5   Visor                         Development       Code            Presentation tool development.
+2017.07.06   2.0   Visor                         Development       Visual          Presentation tool development.
 2017.07.05   1.0   Visor                         Development       Code            Presentation tool development.
 2017.07.05   0.5   Visor                         Research          Code            Presentation tool design.
 2017.07.05   1.0   Visor                         Design            Visual          Presentation tool design.
