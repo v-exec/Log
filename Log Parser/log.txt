@@ -37,9 +37,14 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.07   1.5   V-OS                          Writing           Abstract        Verse fixes, navigation pages.
+2017.07.07   0.5   Qurotema                      Editing           Visual          Gates of Qurotema.
+2017.07.07   1.5   Qurotema                      Illustration      Visual          Gates of Qurotema.
+2017.07.07   1.0   Qurotema                      Writing           Abstract        Story writing.
+2017.07.07   1.0   AGD                           Writing           Abstract        Lecture presentation writing.
 2017.07.06   1.0   Visor                         Writing           Abstract        Documentation, V-OS page.
 2017.07.06   1.5   Visor                         Graphic           Visual          Logo.
-2017.07.06   0.5   ARD                           Writing           Personal        First presentation migration to Visor.
+2017.07.06   0.5   AGD                           Writing           Personal        First presentation migration to Visor.
 2017.07.06   6.5   Visor                         Development       Code            Presentation tool development.
 2017.07.06   2.0   Visor                         Development       Visual          Presentation tool development.
 2017.07.05   1.0   Visor                         Development       Code            Presentation tool development.
@@ -369,7 +374,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.07   3.5   Study                         Writing           Abstract        Noise and communication theory.
 2017.03.07   1.0   Drone Dreams                  Research          Code            NodeJS and server research.
 2017.03.07   0.5   Jam                           Acoustic          Audio           Guitar practice.
-2017.03.07   2.0   Quro                          Editing           Visual          Edit and upload Quro video.
+2017.03.07   2.0   Qurotema                      Editing           Visual          Edit and upload Quro video.
 2017.03.07   0.5   Doodle                        Graphic           Visual          Script edits.
 2017.03.06   2.0   Doodle                        Graphic           Visual          Rework script and create font.
 2017.03.06   0.5   Study                         Research          Abstract        Cybernetics.
@@ -383,7 +388,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.03   1.0   Drone Dreams                  Research          Code            Tools research.
 2017.03.02   0.5   Elyium                        Graphic           Visual          Icons and interface elements creation.
 2017.03.02   1.0   Doodle                        Editing           Visual          Randomly generated webding animation.
-2017.03.02   1.5   Quro                          Filming           Visual          Quro video footage collection.
+2017.03.02   1.5   Qurotema                      Filming           Visual          Quro video footage collection.
 2017.03.01   7.0   Elyium                        Development       Code            Narrative interfacing, data structure refinement, conditional conflicts development.
 2017.02.28   0.5   V-OS                          Writing           Abstract        Documentation rewrite.
 2017.02.28   1.5   V-OS                          Design            Abstract        Project reorganization.
@@ -396,7 +401,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.26   2.0   Elyium                        Development       Code            Interface expansion.
 2017.02.26   2.0   Doodle                        Graphic           Visual          Identity design visual review.
 2017.02.25   5.0   Doodle                        Graphic           Visual          Identity logo design and creation.
-2017.02.25   1.0   Quro                          Filming           Visual          Quro video footage collection.
+2017.02.25   1.0   Qurotema                      Filming           Visual          Quro video footage collection.
 2017.02.24   3.0   Doodle                        3D                Visual          Rendering research and experimentation.
 2017.02.24   0.0   AGD                           Event             Personal        Interview for accelerated game design camp teaching job.
 2017.02.23   3.0   Doodle                        3D                Visual          Micropolygon displacement, lighting and rendering.
@@ -437,7 +442,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.10   2.0   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.10   3.5   Elyium                        Development       Code            Connecting modules, interface development, and database management.
 2017.02.10   0.5   Elyium                        Graphic           Visual          Interface design.
-2017.02.10   0.5   Quro                          Filming           Visual          Record video samples.
+2017.02.10   0.5   Qurotema                      Filming           Visual          Record video samples.
 2017.02.09   0.5   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.09   1.0   Doodle                        Editing           Visual          Music visualization.
 2017.02.08   0.5   Elyium                        Design            Code            Database design.
@@ -476,17 +481,17 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.01.24   1.0   V-OS                          Design            Personal        V-OS mail setup, profile cleanup.
 2017.01.23   0.5   Doodle                        Graphic           Visual          Atmos remaster.
 2017.01.23   1.5   Study                         Research          Abstract        Simulation, simulacra, and materiality.
-2017.01.22   3.0   Quro                          Graphic           Visual          Quro cover art.
+2017.01.22   3.0   Qurotema                      Graphic           Visual          Quro cover art.
 2017.01.22   2.0   V-OS                          Writing           Abstract        V-OS Quro page and projects narrative rewrite.
 2017.01.22   0.0   Various                       Event             Personal        Joined Merveilles.
 2017.01.21   3.5   Tinker                        Development       Code            Image processing in Processing.
 2017.01.21   1.0   Rig                           Maintenance       Personal        Update backup.
-2017.01.21   2.0   Quro                          Composition       Audio           Mixing and tuning.
+2017.01.21   2.0   Qurotema                      Composition       Audio           Mixing and tuning.
 2017.01.20   2.0   V-OS                          Writing           Abstract        ScopeOne documentation and V-OS verse writing.
 2017.01.19   3.0   Study                         Research          Code            Pixel sorting and vector math.
 2017.01.19   0.0   Various                       Event             Personal        Begin time tracking seriously.
-2017.01.18   6.0   Quro                          Composition       Audio           Composition and mixing.
-2017.01.17   2.5   Quro                          Recording         Audio           Recording room sounds for soundscape samples.
+2017.01.18   6.0   Qurotema                      Composition       Audio           Composition and mixing.
+2017.01.17   2.5   Qurotema                      Recording         Audio           Recording room sounds for soundscape samples.
 2017.01.16   0.5   Study                         Research          Abstract        Image and representation in new media.
 2017.01.04   5.0   V-OS                          Development       Code            PHP page generation system expansion.
 2017.01.02   4.0   V-OS                          Development       Code            Bugfixes, PHP optimization and refactoring.
