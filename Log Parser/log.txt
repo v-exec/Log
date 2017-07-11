@@ -37,6 +37,14 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.11   0.5   AGD                           Writing           Abstract        Lecture presentation writing.
+2017.07.10   1.0   Datum                         Development       Code            Movement system.
+2017.07.10   0.5   The Cosmic Affliction         Design            Audio           Album review.
+2017.07.10   0.5   AGD                           Writing           Abstract        Lecture presentation writing.
+2017.07.09   0.5   Study                         Research          Abstract        Storytelling in games.
+2017.07.09   2.0   AGD                           Writing           Abstract        Lecture presentation writing.
+2017.07.08   1.5   AGD                           Writing           Abstract        Lecture presentation writing.
+2017.07.08   0.5   Doodle                        Editing           Visual          Photo editing.
 2017.07.07   1.5   V-OS                          Writing           Abstract        Verse fixes, navigation pages.
 2017.07.07   0.5   Qurotema                      Editing           Visual          Gates of Qurotema.
 2017.07.07   1.5   Qurotema                      Illustration      Visual          Gates of Qurotema.
@@ -56,7 +64,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.07.04   1.0   V-OS                          Writing           Abstract        Verse writing.
 2017.07.04   0.5   Ontologica                    Design            Visual          Create new font material, take pictures.
 2017.07.03   0.5   The Cosmic Affliction         Design            Audio           Album review.
-2017.07.03   1.5   Tinker                        Design            Abstract        Game design conceptualization.
+2017.07.03   1.5   Datum                         Design            Abstract        Game design conceptualization.
 2017.07.03   0.5   Log                           Development       Code            Graph algorithm rework.
 2017.07.02   1.0   Purity                        Development       Visual          Change sample Purity site design, testing.
 2017.07.02   6.0   Log                           Development       Code            Visual redesign, refactoring, clean up.
