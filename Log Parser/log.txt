@@ -1,7 +1,7 @@
 DIVISIONS                  Task divisions (thoughts)
 
 Abstract                   Thinking the untangible
-Code                       Systems and coding
+Code                       Systems, coding, and tech
 Visual                     Graphics, video, and images
 Audio                      Music and audio
 Personal                   Maintenance, personal curiosities, and mindless tasks
@@ -37,6 +37,23 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.16   4.0   Datum                         Development       Code            Movement system, core and parts physics.
+2017.07.16   1.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
+2017.07.15   2.0   Tinker                        Development       Code            Phone, tablet, and laptop debugging.
+2017.07.15   1.0   Doodle                        Editing           Visual          Experimental self-portrait.
+2017.07.15   0.5   Doodle                        Illustration      Visual          Experimental self-portrait.
+2017.07.15   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.07.15   2.0   AGD                           Development       Code            Example game development.
+2017.07.15   0.5   The Cosmic Affliction         Composition       Audio           Strider snare and mix fixes.
+2017.07.14   0.5   The Cosmic Affliction         Design            Audio           Album review.
+2017.07.14   1.0   Doodle                        Photography       Visual          Long walk outing.
+2017.07.14   1.5   AGD                           Development       Code            Example game development.
+2017.07.14   0.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
+2017.07.13   1.5   Doodle                        Editing           Visual          Lowe outing pictures editing.
+2017.07.13   0.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
+2017.07.13   0.5   V-OS                          Development       Visual          Small visual tweaks across V-OS network.
+2017.07.12   0.5   Jam                           Acoustic          Audio           Guitar and vocals practice.
+2017.07.12   2.5   AGD                           Writing           Abstract        Lecture presentation writing.
 2017.07.11   0.5   AGD                           Writing           Abstract        Lecture presentation writing.
 2017.07.10   1.0   Datum                         Development       Code            Movement system.
 2017.07.10   0.5   The Cosmic Affliction         Design            Audio           Album review.
@@ -411,7 +428,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.25   5.0   Doodle                        Graphic           Visual          Identity logo design and creation.
 2017.02.25   1.0   Qurotema                      Filming           Visual          Quro video footage collection.
 2017.02.24   3.0   Doodle                        3D                Visual          Rendering research and experimentation.
-2017.02.24   0.0   AGD                           Event             Personal        Interview for accelerated game design camp teaching job.
+2017.02.24   0.5   AGD                           Event             Personal        Interview for accelerated game design camp teaching job.
 2017.02.23   3.0   Doodle                        3D                Visual          Micropolygon displacement, lighting and rendering.
 2017.02.23   0.5   V-OS                          Design            Visual          Aesthetic experimentation.
 2017.02.23   1.0   Elyium                        Writing           Abstract        V-OS page.

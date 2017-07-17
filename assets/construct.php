@@ -69,9 +69,8 @@ function logs($h) {
 	echo '<div class="divider"></div>';
 
 	//division measures
-	echo'
-	<a href="divisions" class="title">Divisions</a>
-	';
+	echo'<a href="divisions" class="title">Divisions</a>';
+	
 	echo'<div class="spacer" style="height:0px;"></div>';
 
 	$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
@@ -79,9 +78,8 @@ function logs($h) {
 	echo '<div class="divider" style="margin-top:30px;"></div>';
 
 	//tasks measures
-	echo'
-	<a href="tasks" class="title">Tasks</a>
-	';
+	echo'<a href="tasks" class="title">Tasks</a>';
+	
 	echo'<div class="spacer" style="height:0px;"></div>';
 
 	$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
@@ -89,9 +87,8 @@ function logs($h) {
 	echo '<div class="divider" style="margin-top:30px;"></div>';
 
 	//projects measures
-	echo'
-	<a href="projects" class="title">Projects</a>
-	';
+	echo'<a href="projects" class="title">Projects</a>';
+	
 	echo'<div class="spacer" style="height:0px;"></div>';
 
 	$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by hours desc;';

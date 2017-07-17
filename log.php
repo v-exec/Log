@@ -24,7 +24,7 @@ include 'assets/construct.php';
 	<meta charset="UTF-8">
 	<title>V · Log</title>
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=0.77">
 
 	<meta property="og:url" content="http://log.v-os.ca/">
 	<meta property="og:title" content="V-OS">
