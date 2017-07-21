@@ -37,6 +37,20 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.20   2.0   AGD                           Development       Code            Example game development.
+2017.07.20   2.5   The Cosmic Affliction         Writing           Abstract        Publishing.
+2017.07.19   0.5   AGD                           Development       Code            Example game development.
+2017.07.19   0.5   AGD                           Research          Code            Example game development.
+2017.07.19   2.5   The Cosmic Affliction         Composition       Audio           Album tracks re-mixing.
+2017.07.19   1.0   The Cosmic Affliction         Design            Audio           Album review.
+2017.07.18   4.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
+2017.07.18   0.5   The Cosmic Affliction         Recording         Audio           Dark Dye sample recording.
+2017.07.18   0.5   AGD                           Development       Code            Example game development.
+2017.07.18   0.5   AGD                           Research          Code            Example game development.
+2017.07.18   0.5   AGD                           Design            Abstract        Tutorial details planning.
+2017.07.17   0.5   Doodle                        Photography       Visual          Self picture.
+2017.07.17   0.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
+2017.07.17   2.0   Datum                         Development       Code            Movement system, core and parts physics.
 2017.07.16   4.0   Datum                         Development       Code            Movement system, core and parts physics.
 2017.07.16   1.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
 2017.07.15   2.0   Tinker                        Development       Code            Phone, tablet, and laptop debugging.
