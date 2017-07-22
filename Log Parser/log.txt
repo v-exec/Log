@@ -37,7 +37,12 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.07.20   2.0   AGD                           Development       Code            Example game development.
+2017.07.21   0.5   Rig                           Research          Personal        Streaming setup.
+2017.07.21   2.5   AGD                           Composition       Audio           Soundtrack and sound effects.
+2017.07.21   2.5   AGD                           Development       Code            Example game development.
+2017.07.21   0.5   AGD                           Research          Visual          Asset research.
+2017.07.20   0.5   Various                       Writing           Personal        CV update.
+2017.07.20   1.5   AGD                           Development       Code            Example game development.
 2017.07.20   2.5   The Cosmic Affliction         Writing           Abstract        Publishing.
 2017.07.19   0.5   AGD                           Development       Code            Example game development.
 2017.07.19   0.5   AGD                           Research          Code            Example game development.
