@@ -36,6 +36,8 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.24   1.5   Doodle                        Photography       Visual          Recent photo edits.
+2017.07.24   0.5   Study                         Research          Abstract        Cryptocurrency.
 2017.07.23   2.0   Doodle                        Photography       Visual          Trip to Montreal's events.
 2017.07.22   0.5   AGD                           Design            Abstract        Level design.
 2017.07.22   0.5   AGD                           Writing           Code            Documentation.
