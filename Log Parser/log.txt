@@ -36,6 +36,13 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.26   1.5   V-OS                          Development       Code            Footer rework.
+2017.07.26   0.5   V-OS                          Design            Visual          Footer rework.
+2017.07.26   1.0   Doodle                        Photography       Visual          Recent photo edits.
+2017.07.26   1.0   Purity                        Development       Code            Small fixes, documentation, example site styling tuning.
+2017.07.25   1.0   Study                         Research          Abstract        Head death life.
+2017.07.25   2.5   Purity                        Development       Code            New formatting implementation, styling, documentation.
+2017.07.25   0.5   Purity                        Design            Abstract        New formatting implementation.
 2017.07.24   1.5   Doodle                        Photography       Visual          Recent photo edits.
 2017.07.24   0.5   Study                         Research          Abstract        Cryptocurrency.
 2017.07.23   2.0   Doodle                        Photography       Visual          Trip to Montreal's events.

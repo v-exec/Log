@@ -80,9 +80,10 @@ include 'assets/construct.php';
 					$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
 					$difference = $now->diff($recent)->format("%a");
 					if ($difference == 0) echo "today";
-					else if ($difference == 1) echo $difference." day ago</a>";
-					else echo $difference." days ago</a>";
+					else if ($difference == 1) echo $difference." day ago";
+					else echo $difference." days ago";
 					?>
+					</a>
 				</span>
 				<span class="footer-text">
 					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);?> hours</a><br>
