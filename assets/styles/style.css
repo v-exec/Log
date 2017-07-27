@@ -3,8 +3,8 @@
 /*
 interface: #000;
 main: #fff;
-secondary: #f7f7f7;
-scrollbar: #c1c1c1;
+secondary: #eee;
+scrollbar: #bbb;
 */
 
 /*-----------GENERAL-----------*/
@@ -19,7 +19,7 @@ html {
 body {
 	font-family: "Roboto";
 	color: #000;
-	background-color: #f7f7f7;
+	background-color: #fff;
 	overflow-x: hidden;
 }
 
@@ -36,21 +36,21 @@ a:hover {
 
 ::-moz-selection {
 	color: #000;
-	background: #f7f7f7;
+	background: #eee;
 }
 
 ::selection {
 	color: #000;
-	background: #f7f7f7;
+	background: #eee;
 }
 
 ::-webkit-scrollbar {
 	width: 6px;
-	background-color: #f7f7f7;
+	background-color: #eee;
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #c1c1c1;
+	background-color: #bbb;
 }
 
 .spacer {
@@ -100,7 +100,7 @@ a:hover {
 
 #footer {
 	width: 100%;
-	background-color: #f7f7f7;
+	border-top: solid 1px #eee;
 }
 
 #body-content,
@@ -113,45 +113,30 @@ a:hover {
 
 #footer-content {
 	overflow: auto;
-	padding-bottom: 30px;
 	padding-top: 30px;
 }
 
-.footer-image {
-	width: 30px;
-	margin-right: 10px;
-	opacity: 0.3;
-}
-
-.footer-image:hover {
-	opacity: 1;
-}
-
-.footer-left,
-.footer-right {
-	width: 250px;
-	height: 75px;
+.footer-left {
 	float: left;
-	clear: left;
 }
 
 .footer-right {
-	width: 140px;
 	float: right;
-	clear: right;
-}
-
-.footer-text,
-.footer-stats {
-	display: block;
-	margin-top: 10px;
-	font-weight: 300;
-	font-size: 13px;
-}
-
-.footer-stats {
-	margin-top: 0px;
 	text-align: right;
+}
+
+.footer-text {
+	display: inline-block;
+	vertical-align: top;
+	color: #000;
+	font-size: 13px;
+	opacity: 0.8;
+	margin-right: 40px;
+}
+
+.footer-right .footer-text {
+	margin-right: 0px;
+	margin-left: 40px;
 }
 
 /*-----------MEASURE-----------*/

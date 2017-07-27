@@ -49,56 +49,47 @@ include 'assets/construct.php';
 </head>
 
 <body>
-<div id="body">
-	<div id="body-content">
-		<div id="header">
-			<div class="divider"></div>
-			<a href="home" class="title">Home</a>
-			<span class="dot">.</span>
-			<a href="logs" class="title">Logs</a>
-			<a class="site" href="http://v-os.ca">V-OS</a>
-		</div>
-		<?php loadlog();?>
-	</div>
-</div>
-    
-<div id="footer">
-	<div id="footer-content">
-		<div class="footer-left">
-			<a href="https://github.com/v-exec"><img class="footer-image" src="assets/icons/githubicon.png"></a>
-			<a href="https://twitter.com/v_exec"><img class="footer-image" src="assets/icons/twittericon.png"></a>
-			<a href="https://ca.linkedin.com/in/victor-ivanov"><img class="footer-image" src="assets/icons/linkedinicon.png"></a>
-			<br>
-			<span class="footer-text">
-			Victor Ivanov - <i>me@v-os.ca</i>
-			<br>
-			Multidisciplinary designer and developer.
-			</span>
-		</div>
-		<div class="footer-right">
-			<span class="footer-stats">
-			<?php echo getnum("select count(*) as num_proj from project;", "num_proj");?> projects
-			<br>
-			<?php echo number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);?> hours
-			<br>
-			<?php echo getnum("select count(*) as num_logs from log;", "num_logs");?> logs
-			<br>
-			<?php echo getnum("select count(distinct(date)) as num_days from log;", "num_days");?> days
-			<br>
-			updated
-			<?php
-			$now = new DateTime();
-			$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
-			$difference = $now->diff($recent)->format("%a");
-			if ($difference == 0) echo "today";
-			else if ($difference == 1) echo $difference." day ago";
-			else echo $difference." days ago";
-			?>
-			<br>
-			</span>
+	<div id="body">
+		<div id="body-content">
+			<div id="header">
+				<div class="divider"></div>
+				<a href="home" class="title">Home</a>
+				<span class="dot">.</span>
+				<a href="logs" class="title">Logs</a>
+				<a class="site" href="http://v-os.ca">V-OS</a>
+			</div>
+			<?php loadlog();?>
 		</div>
 	</div>
-</div>
-    
+
+	<div id="footer">
+		<div id="footer-content">
+			<div class="footer-left">
+				<span class="footer-text">
+					<a class="neutral-link" href="http://v-os.ca/me">Victor Ivanov</a>
+					<br>
+					<a class="neutral-link" href="http://v-os.ca/site">V-OS</a> · <a class="neutral-link" href="http://log.v-os.ca">LOG</a>
+				</span>
+			</div>
+			<div class="footer-right">
+				<span class="footer-text">
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getnum("select count(distinct(date)) as num_days from log;", "num_days");?> days</a><br>
+					<a href="http://log.v-os.ca" class="neutral-link">updated
+					<?php
+					$now = new DateTime();
+					$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
+					$difference = $now->diff($recent)->format("%a");
+					if ($difference == 0) echo "today";
+					else if ($difference == 1) echo $difference." day ago</a>";
+					else echo $difference." days ago</a>";
+					?>
+				</span>
+				<span class="footer-text">
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);?> hours</a><br>
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getnum("select count(*) as num_logs from log;", "num_logs");?> logs</a>
+				</span>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
