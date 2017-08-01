@@ -22,7 +22,7 @@ Photography                Picture Taking and Editing
 Composition                Composing, Producing, and Mixing
 Acoustic                   Instrument Play and Recording
 Performance                Audio and Visual Performance
-Research                   Learning, Testing, and Studying
+Research                   Learning, Testing, Studying, and Teaching
 Maintenance                Personal Organization and Maintenance
 Event                      Noteworthy Event
 
@@ -36,6 +36,19 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.07.31   4.5   Di                            Modeling          Visual          Character modeling practice.
+2017.07.31   4.0   AGD                           Research          Abstract        Teaching.
+2017.07.31   1.0   AGD                           Development       Code            Example game.
+2017.07.30   2.5   Di                            Modeling          Visual          Character modeling practice.
+2017.07.29   0.5   Di                            3D                Visual          Character rendering practice.
+2017.07.29   7.0   Di                            Modeling          Visual          Character modeling practice.
+2017.07.29   3.0   Di                            Illustration      Visual          Character drawing practice.
+2017.07.28   2.0   Di                            Writing           Abstract        Character writing.
+2017.07.28   0.5   Study                         Research          Personal        Self-assessment.
+2017.07.28   3.0   V-OS                          Writing           Abstract        Lifeset.
+2017.07.28   0.5   Study                         Research          Audio           Sequencer electronic setup.
+2017.07.27   0.5   V-OS                          Writing           Abstract        Lifeset.
+2017.07.27   0.5   Study                         Research          Abstract        Effects of regular usage of pornography.
 2017.07.26   1.5   V-OS                          Development       Code            Footer rework.
 2017.07.26   0.5   V-OS                          Design            Visual          Footer rework.
 2017.07.26   1.0   Doodle                        Photography       Visual          Recent photo edits.
