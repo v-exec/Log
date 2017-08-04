@@ -36,9 +36,18 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.03   3.0   AGD                           Development       Code            Game development help.
+2017.08.03   2.0   AGD                           Research          Abstract        Teaching.
+2017.08.02   2.5   Sira                          Photography       Visual          Photo edits.
+2017.08.02   0.5   V-OS                          Writing           Abstract        Small rewrites and styling tuning.
+2017.08.02   1.5   AGD                           Research          Abstract        Teaching.
+2017.08.02   3.5   AGD                           Development       Code            Example game and help.
+2017.08.01   4.0   Di                            Modeling          Visual          Character modeling practice.
+2017.08.01   3.0   AGD                           Research          Abstract        Teaching and brainstorming.
+2017.08.01   1.5   AGD                           Development       Code            Example game and help.
 2017.07.31   4.5   Di                            Modeling          Visual          Character modeling practice.
-2017.07.31   4.0   AGD                           Research          Abstract        Teaching.
-2017.07.31   1.0   AGD                           Development       Code            Example game.
+2017.07.31   3.5   AGD                           Research          Abstract        Teaching.
+2017.07.31   1.5   AGD                           Development       Code            Example game and help.
 2017.07.30   2.5   Di                            Modeling          Visual          Character modeling practice.
 2017.07.29   0.5   Di                            3D                Visual          Character rendering practice.
 2017.07.29   7.0   Di                            Modeling          Visual          Character modeling practice.
@@ -51,14 +60,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.07.27   0.5   Study                         Research          Abstract        Effects of regular usage of pornography.
 2017.07.26   1.5   V-OS                          Development       Code            Footer rework.
 2017.07.26   0.5   V-OS                          Design            Visual          Footer rework.
-2017.07.26   1.0   Doodle                        Photography       Visual          Recent photo edits.
+2017.07.26   1.0   Sira                          Photography       Visual          Photo edits.
 2017.07.26   1.0   Purity                        Development       Code            Small fixes, documentation, example site styling tuning.
 2017.07.25   1.0   Study                         Research          Abstract        Head death life.
 2017.07.25   2.5   Purity                        Development       Code            New formatting implementation, styling, documentation.
 2017.07.25   0.5   Purity                        Design            Abstract        New formatting implementation.
-2017.07.24   1.5   Doodle                        Photography       Visual          Recent photo edits.
+2017.07.24   1.5   Sira                          Photography       Visual          Photo edits.
 2017.07.24   0.5   Study                         Research          Abstract        Cryptocurrency.
-2017.07.23   2.0   Doodle                        Photography       Visual          Trip to Montreal's events.
+2017.07.23   2.0   Sira                          Photography       Visual          Trip to Montreal's events.
 2017.07.22   0.5   AGD                           Design            Abstract        Level design.
 2017.07.22   0.5   AGD                           Writing           Code            Documentation.
 2017.07.22   0.5   AGD                           Development       Code            Example game development.
