@@ -36,6 +36,9 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.05   2.0   Jam                           Composition       Audio           Ether Sphere composition.
+2017.08.04   3.0   AGD                           Development       Code            Game development help.
+2017.08.04   1.5   AGD                           Research          Abstract        Teaching.
 2017.08.03   3.0   AGD                           Development       Code            Game development help.
 2017.08.03   2.0   AGD                           Research          Abstract        Teaching.
 2017.08.02   2.5   Sira                          Photography       Visual          Photo edits.
