@@ -36,6 +36,30 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.14   1.0   DimoRat                       Development       Code            Game development.
+2017.08.14   1.0   Di                            Graphic           Visual          Image editing.
+2017.08.14   1.5   Di                            Modeling          Visual          Character modeling.
+2017.08.14   0.5   V-OS                          Writing           Abstract        Visual tweaks, small writing fixes, small reorganization.
+2017.08.13   1.0   DimoRat                       Development       Code            Game development.
+2017.08.12   0.5   Study                         Research          Abstract        Fighting systems.
+2017.08.12   0.5   DimoRat                       Development       Code            Game development.
+2017.08.11   0.5   Jam                           Composition       Audio           Ether Sphere composition.
+2017.08.11   0.5   Di                            Modeling          Visual          Character modeling.
+2017.08.11   0.5   Doodle                        Illustration      Visual          Pixel art.
+2017.08.11   0.0   AGD                           Event             Abstract        Camp end.
+2017.08.11   3.5   AGD                           Development       Code            Game development help.
+2017.08.10   0.5   The Cosmic Affliction         Maintenance       Personal        Platform releases.
+2017.08.10   0.5   DimoRat                       Design            Abstract        Theoretical game design.
+2017.08.10   3.5   AGD                           Development       Code            Game development help.
+2017.08.09   1.0   DimoRat                       Design            Abstract        Theoretical game design.
+2017.08.09   2.5   AGD                           Development       Code            Game development help.
+2017.08.09   1.0   AGD                           Research          Abstract        Teaching.
+2017.08.08   1.0   DimoRat                       Design            Abstract        Theoretical game design.
+2017.08.08   1.5   AGD                           Research          Abstract        Teaching.
+2017.08.07   0.5   Jam                           Acoustic          Audio           Vocals practice.
+2017.08.07   3.0   AGD                           Development       Code            Game development help.
+2017.08.07   1.0   AGD                           Research          Abstract        Teaching.
+2017.08.06   1.0   Jam                           Composition       Audio           Ether Sphere composition.
 2017.08.05   2.0   Jam                           Composition       Audio           Ether Sphere composition.
 2017.08.04   3.0   AGD                           Development       Code            Game development help.
 2017.08.04   1.5   AGD                           Research          Abstract        Teaching.
@@ -45,16 +69,17 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.02   0.5   V-OS                          Writing           Abstract        Small rewrites and styling tuning.
 2017.08.02   1.5   AGD                           Research          Abstract        Teaching.
 2017.08.02   3.5   AGD                           Development       Code            Example game and help.
-2017.08.01   4.0   Di                            Modeling          Visual          Character modeling practice.
+2017.08.01   4.0   Di                            Modeling          Visual          Character modeling.
 2017.08.01   3.0   AGD                           Research          Abstract        Teaching and brainstorming.
 2017.08.01   1.5   AGD                           Development       Code            Example game and help.
-2017.07.31   4.5   Di                            Modeling          Visual          Character modeling practice.
+2017.07.31   4.5   Di                            Modeling          Visual          Character modeling.
 2017.07.31   3.5   AGD                           Research          Abstract        Teaching.
 2017.07.31   1.5   AGD                           Development       Code            Example game and help.
-2017.07.30   2.5   Di                            Modeling          Visual          Character modeling practice.
-2017.07.29   0.5   Di                            3D                Visual          Character rendering practice.
-2017.07.29   7.0   Di                            Modeling          Visual          Character modeling practice.
-2017.07.29   3.0   Di                            Illustration      Visual          Character drawing practice.
+2017.07.31   0.0   AGD                           Event             Abstract        Camp beginning.
+2017.07.30   2.5   Di                            Modeling          Visual          Character modeling.
+2017.07.29   0.5   Di                            3D                Visual          Character rendering.
+2017.07.29   7.0   Di                            Modeling          Visual          Character modeling.
+2017.07.29   3.0   Di                            Illustration      Visual          Character drawing.
 2017.07.28   2.0   Di                            Writing           Abstract        Character writing.
 2017.07.28   0.5   Study                         Research          Personal        Self-assessment.
 2017.07.28   3.0   V-OS                          Writing           Abstract        Lifeset.
