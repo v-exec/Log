@@ -36,6 +36,10 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.16   0.5   DimoRat                       Development       Code            Game development.
+2017.08.16   3.0   Maintenance                   Graphic           Visual          CV rework.
+2017.08.15   0.5   Study                         Research          Abstract        Story of Genesis.
+2017.08.14   0.5   V-OS                          Writing           Abstract        List sorting, page writing.
 2017.08.14   1.0   DimoRat                       Development       Code            Game development.
 2017.08.14   1.0   Di                            Graphic           Visual          Image editing.
 2017.08.14   1.5   Di                            Modeling          Visual          Character modeling.
