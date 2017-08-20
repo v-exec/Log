@@ -1,5 +1,5 @@
 <?php
-//creates loglist of given query ($q), limit to 20 on ($limit) true
+//creates loglist of given query ($q), limit to 10 logs
 function loglist($q) {
 	$conn = connect();
 	$result = $conn->query($q);
@@ -13,7 +13,9 @@ function loglist($q) {
 		}
 
 		//display logs
-		if (sizeof($rows) > 20) $size = 20;
+		$displayLogCount = 10;
+
+		if (sizeof($rows) > $displayLogCount) $size = $displayLogCount;
 		else $size = sizeof($rows);
 
 		for ($i = 0; $i < $size; $i++) {

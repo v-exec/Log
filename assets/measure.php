@@ -1,5 +1,6 @@
 <?php
-//creates the measures for tasks/projects/divisions of given query ($q), calculates percentage of time of total given hours ($h), and creates measure slices according to divisions
+//creates the measures for tasks/projects/divisions of given query ($q), calculates percentage of time of total given hours ($h), and creates measure slices according to divisions,
+//using page type ($t) as indicator of what links to draw when querying database
 function measures($q, $h, $t) {
 	//get location
 	global $l;

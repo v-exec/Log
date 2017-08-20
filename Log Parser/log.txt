@@ -36,8 +36,18 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.19   1.0   Log                           Development       Code            Documentation, small automations.
+2017.08.19   0.5   Rig                           Maintenance       Personal        Update backup.
+2017.08.19   0.5   Doodle                        Videography       Visual          Dodger video.
+2017.08.19   1.5   V-OS                          Development       Visual          Styling changes.
+2017.08.19   1.0   Various                       Maintenance       Abstract        Constellation changes, Constellation and Dodger pages, Github links update.
+2017.08.18   1.0   Doodle                        3D                Visual          Material rendering.
+2017.08.18   1.5   Study                         Research          Visual          3D scenery.
+2017.08.17   0.5   Jam                           Composition       Audio           Ether Sphere composition.
+2017.08.17   1.0   Study                         Research          Abstract        Cyberpunk narrative.
+2017.08.17   1.0   DimoRat                       Development       Code            Game development.
 2017.08.16   0.5   DimoRat                       Development       Code            Game development.
-2017.08.16   3.0   Maintenance                   Graphic           Visual          CV rework.
+2017.08.16   3.0   Various                       Graphic           Visual          CV rework.
 2017.08.15   0.5   Study                         Research          Abstract        Story of Genesis.
 2017.08.14   0.5   V-OS                          Writing           Abstract        List sorting, page writing.
 2017.08.14   1.0   DimoRat                       Development       Code            Game development.
@@ -52,7 +62,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.11   0.5   Doodle                        Illustration      Visual          Pixel art.
 2017.08.11   0.0   AGD                           Event             Abstract        Camp end.
 2017.08.11   3.5   AGD                           Development       Code            Game development help.
-2017.08.10   0.5   The Cosmic Affliction         Maintenance       Personal        Platform releases.
+2017.08.10   0.5   The Cosmic Affliction         Maintenance       Abstract        Platform releases.
 2017.08.10   0.5   DimoRat                       Design            Abstract        Theoretical game design.
 2017.08.10   3.5   AGD                           Development       Code            Game development help.
 2017.08.09   1.0   DimoRat                       Design            Abstract        Theoretical game design.
@@ -440,7 +450,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.25   2.0   Elyium                        Development       Code            Interface refactoring.
 2017.03.24   1.0   V-OS                          Writing           Abstract        Temporalis and verse writing.
 2017.03.24   0.5   Jam                           Acoustic          Audio           Recording experimentation, minor vocals practice.
-2017.03.24   0.5   V-OS                          Writing           Abstract        CloudCrusher (SkyCandy) documentation and V-OS page.
+2017.03.24   0.5   Various                       Writing           Abstract        CloudCrusher (SkyCandy) documentation and V-OS page.
 2017.03.24   2.0   Elyium                        Development       Code            Entity spawning system.
 2017.03.23   1.5   Study                         Writing           Abstract        Body and embodiment in new media.
 2017.03.23   2.0   Tinker                        Research          Code            Arduino help/teaching.

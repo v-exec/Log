@@ -1,5 +1,5 @@
 <?php
-//creates timeline of given project/task through query ($q) with intervals at ($t)
+//creates timeline of given project/task through query ($q)
 function timeline($q) {
 	$conn = connect();
 	$result = $conn->query($q);
@@ -12,12 +12,30 @@ function timeline($q) {
 			array_push($rows, [$row['date'], $row['hours']]);
 		}
 
-		//get proper phrasing for hour and log numbers
+		//get timespan of timeline
 		$first = new DateTime($rows[sizeof($rows)-1][0]);
 		$last = new DateTime($rows[0][0]);
 		$difference = $last->diff($first)->format("%a");
-		$t = number_format((sizeof($rows) / 50), 2);
-		if ($t < 1) $t = 1;
+
+		//get number of separate days
+		$days = 0;
+		$savedDate = '';
+		for ($i = 0; $i < sizeof($rows); $i++) {
+			if ($rows[$i] != $savedDate) {
+				$savedDate = $rows[0];
+				$days++;
+			}
+		}
+
+		//get resolution for how many days/dots to render (50 days + ~15% of anything above 50 days)
+		$t = 1;
+		$dotDelimiter = 50;
+
+		if ($days < $dotDelimiter) $t = 1;
+		else {
+			$left = $days - $dotDelimiter;
+			$t = 1 + ($left / $dotDelimiter / 2);
+		}
 
 		//setup timeline layout
 		echo
@@ -43,7 +61,7 @@ function timeline($q) {
 				$old = new DateTime($rows[$i - 1][0]);
 				$oldPosition = ($old->diff($first)->format("%a")) / $difference;
 
-				if ($now != $old && ($oldPosition - $position) > 0.001) {
+				if ($now != $old && ($oldPosition - $position) > 0.0001) {
 
 					if ($rows[$i][1] >= $threshold) $fill = '#000';
 					else $fill = '#fff';

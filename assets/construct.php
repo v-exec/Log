@@ -104,27 +104,31 @@ function home() {
 	timeline('select log.date, sum(log.time) as hours from log group by date order by log.id asc;');
 
 	//120 day graph
+	$days = 120;
+
 	$now = new DateTime();
 	$now = $now->format('Y-m-d');
 
 	$old = new DateTime($now);
-	$old = $old->sub(new DateInterval('P119D'));
+	$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
 	$old = $old->format('Y-m-d');
 
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours, 120);
+	longgraph($query, $hours, $days);
 
 	//14 day graph
+	$days = 14;
+
 	$old = new DateTime($now);
-	$old = $old->sub(new DateInterval('P13D'));
+	$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
 	$old = $old->format('Y-m-d');
 
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours, 14);
+	longgraph($query, $hours, $days);
 }
 
 //creates detailed page for project/task/division ($type) of given l ($l), using total hours ($h)
