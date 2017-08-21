@@ -9,7 +9,7 @@ inDivisions = false;
 inTasks = false;
 
 #file setup
-output = File.open("parse.txt", "w")
+output = File.open("parse.sql", "w")
 source = File.open("log.txt", "r")
 
 #for each line in source
