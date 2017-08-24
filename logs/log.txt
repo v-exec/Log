@@ -36,8 +36,17 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.08.20   2.5   Log                           Research          Code            Shell scripting.
-2017.08.20   2.5   Tinker                        Development       Code            Rotonde study and client hacking.
+2017.08.24   1.0   Rig                           Research          Code            Linux set up and tinkering.
+2017.08.23   6.5   Rig                           Research          Code            Linux set up and tinkering.
+2017.08.22   4.5   Rig                           Research          Abstract        Linux set up and tinkering.
+2017.08.22   0.5   Study                         Research          Code            Operating systems.
+2017.08.22   1.5   Rotonde                       Development       Code            Styling, original json access, position per post data.
+2017.08.22   0.5   Log                           Research          Code            Shell scripting.
+2017.08.21   0.5   Log                           Research          Code            Shell scripting.
+2017.08.21   2.0   Flora                         Photography       Visual          Picture taking, organization, and editing.
+2017.08.21   1.5   Rotonde                       Development       Code            Styling, connection check, documentation.
+2017.08.20   2.5   Log                           Research          Code            Shell scripting, command-line mySQL updating and git control.
+2017.08.20   2.5   Rotonde                       Development       Code            Rotonde study and client hacking.
 2017.08.20   2.0   DimoRat                       Development       Code            Game development - UI and collisions.
 2017.08.19   1.0   Log                           Development       Code            Documentation, small automations.
 2017.08.19   0.5   Rig                           Maintenance       Personal        Update backup.

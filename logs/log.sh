@@ -19,6 +19,13 @@ d() {
 	mysql -h $h -u $u --password=$p
 }
 
+h() {
+	echo "commands:"
+	echo "parse      parses log"
+	echo "repo       updates repository"
+	echo "database   logs into database"
+}
+
 while true
 do
 	echo -n "log_q>"
@@ -27,6 +34,7 @@ do
 	if [ $text = "parse" ]; then p
 	elif [ $text = "repo" ]; then r
 	elif [ $text = "database" ]; then d
+	elif [ $text = "help" ]; then h
 	elif [ $text = "exit" ]; then exit
 	fi
 done
