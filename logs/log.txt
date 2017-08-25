@@ -36,6 +36,9 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.24   1.0   Study                         Research          Personal        Nutrition.
+2017.08.24   0.5   Jam                           Acoustic          Audio           Vocals practice.
+2017.08.24   1.0   DimoRat                       Development       Code            Collisions and damage.
 2017.08.24   1.0   Rig                           Research          Code            Linux set up and tinkering.
 2017.08.23   6.5   Rig                           Research          Code            Linux set up and tinkering.
 2017.08.22   4.5   Rig                           Research          Abstract        Linux set up and tinkering.
@@ -47,7 +50,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.21   1.5   Rotonde                       Development       Code            Styling, connection check, documentation.
 2017.08.20   2.5   Log                           Research          Code            Shell scripting, command-line mySQL updating and git control.
 2017.08.20   2.5   Rotonde                       Development       Code            Rotonde study and client hacking.
-2017.08.20   2.0   DimoRat                       Development       Code            Game development - UI and collisions.
+2017.08.20   2.0   DimoRat                       Development       Code            UI and collisions.
 2017.08.19   1.0   Log                           Development       Code            Documentation, small automations.
 2017.08.19   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.08.19   0.5   Doodle                        Videography       Visual          Dodger video.
@@ -57,18 +60,18 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.18   1.5   Study                         Research          Visual          3D scenery.
 2017.08.17   0.5   Jam                           Composition       Audio           Ether Sphere composition.
 2017.08.17   1.0   Study                         Research          Abstract        Cyberpunk narrative.
-2017.08.17   1.0   DimoRat                       Development       Code            Game development - player states, stamina, animations.
-2017.08.16   0.5   DimoRat                       Development       Code            Game development - player states, controls, stamina.
+2017.08.17   1.0   DimoRat                       Development       Code            Player states, stamina, animations.
+2017.08.16   0.5   DimoRat                       Development       Code            Player states, controls, stamina.
 2017.08.16   3.0   Various                       Graphic           Visual          CV rework.
 2017.08.15   0.5   Study                         Research          Abstract        Story of Genesis.
 2017.08.14   0.5   V-OS                          Writing           Abstract        List sorting, page writing.
-2017.08.14   1.0   DimoRat                       Development       Code            Game development - player states.
+2017.08.14   1.0   DimoRat                       Development       Code            Player states.
 2017.08.14   1.0   Di                            Graphic           Visual          Image editing.
 2017.08.14   1.5   Di                            Modeling          Visual          Character modeling.
 2017.08.14   0.5   V-OS                          Writing           Abstract        Visual tweaks, small writing fixes, small reorganization.
-2017.08.13   1.0   DimoRat                       Development       Code            Game development - main setup.
+2017.08.13   1.0   DimoRat                       Development       Code            Main setup.
 2017.08.12   0.5   Study                         Research          Abstract        Fighting systems.
-2017.08.12   0.5   DimoRat                       Development       Code            Game development - main setup.
+2017.08.12   0.5   DimoRat                       Development       Code            Main setup.
 2017.08.11   0.5   Jam                           Composition       Audio           Ether Sphere composition.
 2017.08.11   0.5   Di                            Modeling          Visual          Character modeling.
 2017.08.11   0.5   Doodle                        Illustration      Visual          Pixel art.
