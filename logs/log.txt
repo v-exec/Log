@@ -36,6 +36,8 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.25   8.5   Rotonde                       Development       Code            Rewrite client in javascript.
+2017.08.25   0.5   Study                         Research          Personal        Stunts.
 2017.08.24   1.0   Study                         Research          Personal        Nutrition.
 2017.08.24   0.5   Jam                           Acoustic          Audio           Vocals practice.
 2017.08.24   1.0   DimoRat                       Development       Code            Collisions and damage.
