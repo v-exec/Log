@@ -36,6 +36,8 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.26   1.5   Rig                           Research          Code            Linux set up and tinkering.
+2017.08.26   3.0   Rotonde                       Research          Code            Cross-domain request research.
 2017.08.25   8.5   Rotonde                       Development       Code            Rewrite client in javascript.
 2017.08.25   0.5   Study                         Research          Personal        Stunts.
 2017.08.24   1.0   Study                         Research          Personal        Nutrition.
