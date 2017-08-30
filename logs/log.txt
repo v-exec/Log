@@ -36,6 +36,9 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.29   1.5   V-OS                          Writing           Abstract        Rewrites and cleanup.
+2017.08.29   2.0   V-OS                          Design            Visual          Visual overhaul.
+2017.08.29   0.5   Purity                        Development       Code            Small pageflow fix.
 2017.08.28   4.0   V-OS                          Development       Visual          Visual overhaul.
 2017.08.28   2.0   V-OS                          Design            Visual          Visual overhaul.
 2017.08.28   0.5   Purity                        Development       Code            Small pageflow fix.
