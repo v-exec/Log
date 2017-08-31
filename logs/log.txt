@@ -36,6 +36,10 @@ Event                      Noteworthy Event
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
+2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version release.
+2017.08.30   1.0   V-OS                          Development       Visual          Testing new headers.
+2017.08.30   3.5   V-OS                          Research          Visual          Testing new headers.
 2017.08.29   1.5   V-OS                          Writing           Abstract        Rewrites and cleanup.
 2017.08.29   2.0   V-OS                          Design            Visual          Visual overhaul.
 2017.08.29   0.5   Purity                        Development       Code            Small pageflow fix.
