@@ -128,9 +128,8 @@ a:hover {
 .footer-text {
 	display: inline-block;
 	vertical-align: top;
-	color: #000;
+	color: #777;
 	font-size: 13px;
-	opacity: 0.8;
 	margin-right: 40px;
 }
 
