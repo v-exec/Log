@@ -176,7 +176,7 @@ function spec($l, $type) {
 
 		$hours = getNum('select sum(time) as num_hours, '.$type.'.name as type from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$type.'.name = '."'".$l."'".';', 'num_hours');
 
-		if ($type = 'division') {
+		if ($type == 'division') {
 			 $query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
 			longgraph($query, $hours, $days, 2);
 		}
