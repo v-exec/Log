@@ -20,10 +20,12 @@ function title($q) {
 	//display title data
 	echo
 	'
-	<a href="'.$l.'" class="title">'.ucfirst($l).'</a>
-	<div class="title-stats">
-		<span class="title-text">'.number_format($hours, 0).' '.$hourphrase.'</span>
-		<span class="title-text">'.$logs.' '.$logphrase.'</span>
+	<div class="title-container">
+		<a href="'.$l.'" class="title">'.ucfirst($l).'</a>
+		<div class="title-stats">
+			<span class="title-text">'.number_format($hours, 0).' '.$hourphrase.'</span>
+			<span class="title-text">'.$logs.' '.$logphrase.'</span>
+		</div>
 	</div>
 	';
 

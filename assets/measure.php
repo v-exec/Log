@@ -29,6 +29,15 @@ function measures($q, $h, $t) {
 			if ($rows[$i][1] > $maxSize) $maxSize = $rows[$i][1];
 		}
 
+		//container
+		echo '<div class="measures-container">';
+		
+		//title
+		if ($t === 'task') echo '<a href="tasks" class="measures-title">Tasks</a>';
+		else if ($t === 'project') echo '<a href="projects" class="measures-title">Projects</a>';
+		else if ($t === 'division') echo '<a href="divisions" class="measures-title">Divisions</a>';
+		echo '<div style="width: 100%; height: 0;"></div>';
+
 		//create all measures
 		for ($i = 0; $i < sizeof($rows); $i++) {
 
@@ -117,6 +126,9 @@ function measures($q, $h, $t) {
 			</div>
 			';
 		}
+
+		//close container
+		echo '</div>';
 	}
 	$conn->close();
 }

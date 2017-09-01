@@ -4,7 +4,6 @@ function loglist($q) {
 	$conn = connect();
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
-		echo '<div class="spacer"></div>';
 		$rows = array();
 
 		//get query results
@@ -18,11 +17,14 @@ function loglist($q) {
 		if (sizeof($rows) > $displayLogCount) $size = $displayLogCount;
 		else $size = sizeof($rows);
 
+		//container
+		echo '<div class="loglist-container">';
+
 		for ($i = 0; $i < $size; $i++) {
 			$date = new DateTime($rows[$i][0]);
 			echo
 			'
-			<div class="loglist-container">
+			<div class="loglist-item-container">
 				<div class="loglist-date">
 					<span class="loglist-text">'.$date->format('Y.m.d').'</span>
 				</div>
@@ -41,6 +43,9 @@ function loglist($q) {
 			</div>
 			';
 		}
+
+		//close container
+		echo '</div>';
 	}
 	$conn->close();
 }

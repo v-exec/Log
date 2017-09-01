@@ -61,7 +61,7 @@ insert into project (name) values ('Drone Dreams');
 insert into project (name) values ('Interactive Narratives');
 insert into project (name) values ('VisN');
 insert into project (name) values ('None');
-insert into log (date, time, project_id, task_id, division_id, details) values ('2017.08.31', '4.0', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Graph backend rework, empty log implementation, redesign prep, page layout tinker, log visual reorganization.');
+insert into log (date, time, project_id, task_id, division_id, details) values ('2017.08.31', '5.5', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Graph backend rework, empty log implementation, redesign prep, page layout tinker, log visual reorganization.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.08.30', '0.5', (select id from project where name = 'Study'), (select id from task where name = 'Research'), (select id from division where name = 'Abstract'), 'Combat systems.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.08.30', '0.5', (select id from project where name = 'Seven'), (select id from task where name = 'Design'), (select id from division where name = 'Code'), 'Clean-up, web version release.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.08.30', '1.0', (select id from project where name = 'V-OS'), (select id from task where name = 'Development'), (select id from division where name = 'Visual'), 'Testing new headers.');

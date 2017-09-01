@@ -5,7 +5,7 @@ include 'assets/title.php';
 include 'assets/timeline.php';
 include 'assets/measure.php';
 include 'assets/list.php';
-include 'assets/longgraph.php';
+include 'assets/graph.php';
 
 //logic and pageflow for log layout
 function loadlog() {
@@ -75,7 +75,7 @@ function home($h) {
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".'  order by log.id asc;';
 
-	longgraph($query, $hours, $days, 0);
+	graph($query, $hours, $days, 0);
 
 	//14 day graph
 	$days = 14;
@@ -87,33 +87,17 @@ function home($h) {
 	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
 	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	longgraph($query, $hours, $days, 0);
-
-	echo '<div class="divider"></div>';
+	graph($query, $hours, $days, 0);
 
 	//division measures
-	echo'<a href="divisions" class="title">Divisions</a>';
-	
-	echo'<div class="spacer"></div>';
-
 	$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
 	measures($query, $h, 'division');
-	echo '<div class="divider"></div>';
 
 	//tasks measures
-	echo'<a href="tasks" class="title">Tasks</a>';
-	
-	echo'<div class="spacer"></div>';
-
 	$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
 	measures($query, $h, 'task');
-	echo '<div class="divider"></div>';
 
 	//projects measures
-	echo'<a href="projects" class="title">Projects</a>';
-	
-	echo'<div class="spacer"></div>';
-
 	$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by hours desc;';
 	measures($query, $h, 'project');
 }
@@ -153,6 +137,7 @@ function spec($l, $type) {
 
 		//get timespan
 		$first = new DateTime($rows[sizeof($rows)-1][0]);
+		$first = $first->sub(new DateInterval('P1D'));
 		$last = new DateTime($rows[0][0]);
 		$difference = $last->diff($first)->format("%a");
 
@@ -178,43 +163,23 @@ function spec($l, $type) {
 
 		if ($type == 'division') {
 			 $query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-			longgraph($query, $hours, $days, 2);
+			graph($query, $hours, $days, 2);
 		}
 		else {
 			$query = 'select division.name as title, log.date, log.time as hours, '.$type.'.name as type from log left join division on division.id = log.division_id join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-			longgraph($query, $hours, $days, 1);
+			graph($query, $hours, $days, 1);
 		}
 	}
 
-	echo '<div class="divider"></div>';
-
 	//if not division, make division measures
 	if ($type != 'division') {
-		echo'<a href="divisions" class="title">Divisions</a>';
-		echo'<div class="spacer"></div>';
 		$query = 'select '.$type.'.name as main, division.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;';
 		measures($query, $h, 'division');
-	} else {
-		echo'<a href="projects" class="title">Projects</a>';
-		echo'<div class="spacer"></div>';
-	}
-	
-	//measure title
-	if ($type == 'project') {
-		echo '<div class="divider"></div>';
-		echo'<a href="tasks" class="title">Tasks</a>';
-		echo'<div class="spacer"></div>';
-	} else if ($type == 'task') {
-		echo '<div class="divider"></div>';
-		echo'<a href="projects" class="title">Projects</a>';
-		echo'<div class="spacer"></div>';
 	}
 
 	//measures
 	$query = 'select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;';
 	measures($query, $h, $typeOpp);
-
-	echo '<div class="divider" style="margin-bottom: 75px;"></div>';
 
 	//loglist
 	$query = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;';

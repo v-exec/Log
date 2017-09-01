@@ -1,6 +1,6 @@
 <?php
 //creates graph of delimited days of logs ($n number of logs) within the contextual location ($spec 0 = all logs, $spec 1 = project/task, $spec 2 = division) and each division's daily involvement, using total log hours ($h), through given query ($q)
-function longgraph($q, $h, $n, $spec) {
+function graph($q, $h, $n, $spec) {
 	//get colors
 	global $abstractColor;
 	global $codeColor;
@@ -91,7 +91,11 @@ function longgraph($q, $h, $n, $spec) {
 		}
 		if ($max == 0) $max = 1;
 
-		echo '<div class="long-graph-container">';
+		echo
+		'
+		<div class="graph-container">
+			<div class="graph-bar-container">
+		';
 
 		//go through each day
 		for ($i = 0; $i < sizeof($days); $i++) {
@@ -131,7 +135,7 @@ function longgraph($q, $h, $n, $spec) {
 				}
 			}
 
-			echo '<div class="long-graph-day" style="width:'.(100 / sizeof($days)).'%">';
+			echo '<div class="graph-day" style="width:'.(100 / sizeof($days)).'%">';
 
 			//sort values to determine render order
 			$values = array($codeTime, $abstractTime, $visualTime, $audioTime, $personalTime);
@@ -157,7 +161,7 @@ function longgraph($q, $h, $n, $spec) {
 					$height += ($personalTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
 						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($personalTime / $max) * $graphHeight) + 1).'" fill="'.$personalColor.'"/>
 					</svg>
 					';
@@ -166,7 +170,7 @@ function longgraph($q, $h, $n, $spec) {
 					$height += ($codeTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
 						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($codeTime / $max) * $graphHeight) + 1).'" fill="'.$codeColor.'"/>
 					</svg>
 					';
@@ -175,7 +179,7 @@ function longgraph($q, $h, $n, $spec) {
 					$height += ($abstractTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
 						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($abstractTime / $max) * $graphHeight) + 1).'" fill="'.$abstractColor.'"/>
 					</svg>
 					';
@@ -184,7 +188,7 @@ function longgraph($q, $h, $n, $spec) {
 					$height += ($visualTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
 						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($visualTime / $max) * $graphHeight) + 1).'" fill="'.$visualColor.'"/>
 					</svg>
 					';
@@ -193,7 +197,7 @@ function longgraph($q, $h, $n, $spec) {
 					$height += ($audioTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="long-graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
 						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($audioTime / $max) * $graphHeight) + 1).'" fill="'.$audioColor.'"/>
 					</svg>
 					';
@@ -208,22 +212,23 @@ function longgraph($q, $h, $n, $spec) {
 		if ($h <= 0) $h = 0.1;
 		echo
 			'
-			<div class="graph-legend">
-				<span class="graph-legend-text">Code</span>
-				<span class="graph-legend-num" style="color:'.$codeColor.'">'.number_format((($totalCode / $h) * 100), 2). '%'.'</span>
+				<div class="graph-legend">
+					<span class="graph-legend-text">Code</span>
+					<span class="graph-legend-num" style="color:'.$codeColor.'">'.number_format((($totalCode / $h) * 100), 2). '%'.'</span>
 
-				<span class="graph-legend-text">Abstract</span>
-				<span class="graph-legend-num" style="color:'.$abstractColor.'">'.number_format((($totalAbstract / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-text">Abstract</span>
+					<span class="graph-legend-num" style="color:'.$abstractColor.'">'.number_format((($totalAbstract / $h) * 100), 2). '%'.'</span>
 
-				<span class="graph-legend-text">Visual</span>
-				<span class="graph-legend-num" style="color:'.$visualColor.'">'.number_format((($totalVisual / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-text">Visual</span>
+					<span class="graph-legend-num" style="color:'.$visualColor.'">'.number_format((($totalVisual / $h) * 100), 2). '%'.'</span>
 
-				<span class="graph-legend-text">Audio</span>
-				<span class="graph-legend-num" style="color:'.$audioColor.'">'.number_format((($totalAudio / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-text">Audio</span>
+					<span class="graph-legend-num" style="color:'.$audioColor.'">'.number_format((($totalAudio / $h) * 100), 2). '%'.'</span>
 
-				<span class="graph-stats-text">'.sizeof($days).' days</span>
-				<span class="graph-stats-text">'.number_format($h, 0).' hours</span>
-				<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio + $totalPersonal) / sizeof($days), 1).' h/d</span>
+					<span class="graph-stats-text">'.sizeof($days).' days</span>
+					<span class="graph-stats-text">'.number_format($h, 0).' hours</span>
+					<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio + $totalPersonal) / sizeof($days), 1).' h/d</span>
+				</div>
 			</div>
 			';
 	}

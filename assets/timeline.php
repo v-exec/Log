@@ -1,6 +1,9 @@
 <?php
 //creates timeline of given project/task through query ($q)
 function timeline($q) {
+	//fill color
+	$fillColor = '#000';
+
 	$conn = connect();
 	$result = $conn->query($q);
 
@@ -40,12 +43,12 @@ function timeline($q) {
 		//setup timeline layout
 		echo
 		'
-		<div class="spacer" style="height: 15px;"></div>
-		<span class="timeline-date-begin">'.$first->format('Y.m.d').'</span>
-		<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
 		<div class="timeline-container">
-			<div class="timeline"></div>
-			<div class="timeline-circle-container">
+			<span class="timeline-date-begin">'.$first->format('Y.m.d').'</span>
+			<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
+			<div class="timeline-bar-container">
+				<div class="timeline"></div>
+				<div class="timeline-circle-container">
 		';
 
 		//fill threshold (timeline node is filled if hours per day are higher than $threshold)
@@ -62,13 +65,13 @@ function timeline($q) {
 
 				if ($now != $old && ($oldPosition - $position) > 0.0001) {
 
-					if ($rows[$i][1] >= $threshold) $fill = '#000';
+					if ($rows[$i][1] >= $threshold) $fill = $fillColor;
 					else $fill = '#fff';
 					
 					echo
 					'
 					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
-						<circle cx="16" cy="16" r="7" stroke="#000" stroke-width="2.7" fill="'.$fill.'"/>
+						<circle cx="16" cy="16" r="7" stroke='.$fillColor.' stroke-width="2.7" fill="'.$fill.'"/>
 					</svg>
 					';
 				}
@@ -77,7 +80,7 @@ function timeline($q) {
 			echo
 			'
 			<svg class="timeline-circle" style="left: 0%;">
-				<circle cx="16" cy="16" r="7" stroke="#000" stroke-width="2.7" fill="#000"/>
+				<circle cx="16" cy="16" r="7" stroke="'.$fillColor.'"" stroke-width="2.7" fill="'.$fillColor.'"/>
 			</svg>
 			';
 		}
@@ -85,6 +88,7 @@ function timeline($q) {
 		//end timeline layout
 		echo
 		'
+		</div>
 		</div>
 		</div>
 		';

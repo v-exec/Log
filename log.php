@@ -52,8 +52,7 @@ include 'assets/construct.php';
 	<div id="body">
 		<div id="body-content">
 			<div id="header">
-				<div class="divider" style="margin-top: 0;"></div>
-				<a href="home" class="title">Home</a>
+				<a href="home" class="log-title">LOG</a>
 				<a class="site" href="http://v-os.ca">V-OS</a>
 			</div>
 			<?php loadlog();?>

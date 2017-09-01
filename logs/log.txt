@@ -39,7 +39,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.08.31   4.0   Log                           Development       Code            Graph backend rework, empty log implementation, redesign prep, page layout tinker, log visual reorganization.
+2017.08.31   5.5   Log                           Development       Code            Graph backend rework, empty log implementation, redesign prep, page layout tinker, log visual reorganization.
 2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
 2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version release.
 2017.08.30   1.0   V-OS                          Development       Visual          Testing new headers.

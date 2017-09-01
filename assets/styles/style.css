@@ -1,13 +1,4 @@
-﻿/*-----------COLORS-----------*/
-
-/*
-interface: #000;
-main: #fff;
-secondary: #eee;
-scrollbar: #bbb;
-*/
-
-/*-----------GENERAL-----------*/
+﻿/*-----------GENERAL-----------*/
 html {
   box-sizing: border-box;
 }
@@ -18,16 +9,18 @@ html {
 
 body {
 	font-family: "Roboto";
-	color: #000;
+	color: #777;
 	background-color: #fff;
 	overflow-x: hidden;
+	font-size: 13px;
+	font-weight: 300;
 }
 
 a {
 	display: inline;
 	text-decoration: none;
 	font-weight: 400;
-	color: inherit;
+	color: #000;
 }
 
 a:hover {
@@ -53,30 +46,14 @@ a:hover {
 	background-color: #bbb;
 }
 
-.spacer {
-	width: 100%;
-	height: 0;
-}
-
 /*-----------HEADER-----------*/
 #header {
-	margin-bottom: 60px;
-	text-align: left;
+	padding: 40px;
+	border-bottom: solid 1px #eee;
 }
 
-.divider {
-	position: relative;
-	width: 100%;
-	height: 1px;
-	background-color: #000;
-	margin: auto;
-	margin-bottom: 8px;
-	margin-top: 40px;
-}
-
-.title,
-.site,
-.dot {
+.log-title,
+.site {
 	font-size: 26px;
 }
 
@@ -85,35 +62,38 @@ a:hover {
 	clear: right;
 }
 
-.dot {
-	display: inline-block;
-	margin: 0;
-	padding: 0;
-}
-
 /*-----------STATIC (BODY + FOOTER)-----------*/
 #body {
-	position: relative;
 	width: 100%;
-	background-color: #fff;
-}
-
-#footer {
-	width: 100%;
-	border-top: solid 1px #eee;
 }
 
 #body-content,
-#footer-content {
-	max-width: 1675px;
-	padding: 50px;
-	padding-bottom: 40px;
+#footer {
+	max-width: 1400px;
 	margin: auto;
 }
 
+#body-content {
+	margin-top: 80px;
+	border-left: solid 1px #eee;
+	border-right: solid 1px #eee;
+	border-top: solid 1px #eee;
+}
+
+#footer {
+	border-left: solid 1px #eee;
+	border-right: solid 1px #eee;
+	border-bottom: solid 1px #eee;
+	margin-bottom: 80px;
+}
+
+#footer a {
+	color: #777;
+}
+
 #footer-content {
+	padding: 30px 40px 30px 40px;
 	overflow: auto;
-	padding-top: 30px;
 }
 
 .footer-left {
@@ -128,8 +108,6 @@ a:hover {
 .footer-text {
 	display: inline-block;
 	vertical-align: top;
-	color: #777;
-	font-size: 13px;
 	margin-right: 40px;
 }
 
@@ -139,12 +117,23 @@ a:hover {
 }
 
 /*-----------MEASURE-----------*/
+.measures-container {
+	padding: 40px 40px 29px 40px;
+	border-bottom: solid 1px #eee;
+}
+
+.measures-title {
+	display: inline-block;
+	font-size: 26px;
+	text-align: left;
+}
+
 .measure-container {
 	display: inline-block;
 	width: 24.7%;
 	height: 110px;
 	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-bottom: 80px;
 	text-align: center;
 }
 
@@ -168,13 +157,16 @@ a:hover {
 }
 
 .measure-text {
-	font-size: 13px;
-	font-weight: 300;
-	margin: 1px;
+	margin-bottom: 1px;
 }
 
 /*-----------LOGLIST-----------*/
 .loglist-container {
+	padding: 40px 40px 5px 40px;
+	border-bottom: solid 1px #eee;
+}
+
+.loglist-item-container {
 	width: 100%;
 	height: 50px;
 	margin-top: 5px;
@@ -212,20 +204,21 @@ a:hover {
 .loglist-text {
 	margin: 0;
 	color: inherit;
-	font-size: 13px;
-	font-weight: 300;
 }
 
 /*-----------TIMELINE-----------*/
 .timeline-container {
 	position: relative;
+	padding: 40px;
+	border-bottom: solid 1px #eee;
+}
+
+.timeline-bar-container {
+	position: relative;
 	width: 100%;
 	height: 32px;
-	margin: auto;
-	margin-bottom: 0;
-	margin-top: 5px;
-	border-left: solid 1px #000;
-	border-right: solid 1px #000;
+	border-left: solid 1px #777;
+	border-right: solid 1px #777;
 }
 
 .timeline {
@@ -233,22 +226,20 @@ a:hover {
 	width: 100%;
 	height: 1px;
 	top: 16px;
-	background-color: #000;
+	background-color: #777;
 }
 
 .timeline-date-begin,
 .timeline-date-end {
 	display: inline-block;
-	margin: 0;
-	width: 70px;
-	font-size: 13px;
-	font-weight: 300;
+	position: absolute;
+	left: 40px;
+	top: 24px;
 }
 
 .timeline-date-end {
-	float: right;
-	clear: right;
 	text-align: right;
+	right: 40px;
 }
 
 .timeline-circle-container {
@@ -265,11 +256,33 @@ a:hover {
 }
 
 /*-----------GRAPH-----------*/
-.graph-legend-text,
-.graph-legend-num,
-.graph-stats-text {
-	font-size: 13px;
-	font-weight: 300;
+.graph-container {
+	padding: 40px;
+	border-bottom: solid 1px #eee;
+}
+
+.graph-bar-container {
+	position: relative;
+	width: 100%;
+	height: 200px;
+	margin: auto;
+	overflow: hidden;
+	border-bottom: solid 1px #777;
+}
+
+.graph-day {
+	display: inline-block;
+	height: 100%;
+}
+
+.graph-bar {
+	position: absolute;
+	height: 100%;
+	width: 50px;
+}
+
+.graph-legend {
+	margin-top: 10px;
 }
 
 .graph-legend-num {
@@ -282,41 +295,14 @@ a:hover {
 	margin-left: 8px;
 }
 
-/*-----------LONG GRAPH-----------*/
-.long-graph-container {
-	position: relative;
-	width: 100%;
-	height: 200px;
-	margin: auto;
-	margin-top: 40px;
-	overflow: hidden;
-	white-space: nowrap;
-	border-bottom: solid 1px #000;
-}
-
-.long-graph-day {
-	display: inline-block;
-	margin: 0;
-	height: 100%;
-}
-
-.long-graph-bar {
-	position: absolute;
-	margin: 0;
-	height: 100%;
-	width: 50px;
-}
-
-.graph-legend {
-	width: 100%;
-	height: 20px;
-	margin-top: 10px;
-}
-
 /*-----------TITLE-----------*/
+.title-container {
+	padding: 40px;
+	border-bottom: solid 1px #eee;
+}
+
 .title {
 	font-size: 26px;
-	margin-bottom: 20px;
 	text-align: left;
 }
 
@@ -330,9 +316,6 @@ a:hover {
 
 .title-text {
 	display: block;
-	margin: 0;
-	font-size: 13px;
-	font-weight: 300;
 }
 
 /*-----------MEDIA-----------*/
@@ -363,28 +346,6 @@ a:hover {
 @media (max-width: 615px) {
 	.measure-container {
 		width: 100%;
-	}
-
-	#body-content,
-	#footer-content {
-		padding-left: 20px;
-		padding-right: 20px;
-	}
-}
-
-@media (max-width: 440px) {
-	.footer-right {
-		float: none;
-		height: auto;
-	}
-
-	.footer-left {
-		float: none;
-		margin-bottom: 20px;
-	}
-
-	.footer-stats {
-		text-align: left;
 	}
 }
 
