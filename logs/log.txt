@@ -5,6 +5,7 @@ Code                       Systems, coding, and tech
 Visual                     Graphics, video, and images
 Audio                      Music and audio
 Personal                   Maintenance, personal curiosities, and mindless tasks
+None                       Nothing
 
 TASKS                      Task types (actions)
 
@@ -25,6 +26,7 @@ Performance                Audio and Visual Performance
 Research                   Learning, Testing, Studying, and Teaching
 Maintenance                Personal Organization and Maintenance
 Event                      Noteworthy Event
+None                       Nothing
 
 #ARCH PROJECTS             Overarching activities that are individually too small to be considered as projects but add up to significant amounts of time, long-term
 
@@ -33,9 +35,11 @@ Event                      Noteworthy Event
 #Doodle                    Visual activities
 #Tinker                    Development and design activities
 #Various                   Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
+#None                      Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.08.31   4.0   Log                           Development       Code            Graph backend rework, empty log implementation, redesign prep, page layout tinker, log visual reorganization.
 2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
 2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version release.
 2017.08.30   1.0   V-OS                          Development       Visual          Testing new headers.
@@ -43,6 +47,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.29   1.5   V-OS                          Writing           Abstract        Rewrites and cleanup.
 2017.08.29   2.0   V-OS                          Design            Visual          Visual overhaul.
 2017.08.29   0.5   Purity                        Development       Code            Small pageflow fix.
+2017.08.28   0.0   Various                       Development       Visual          Visual overhaul.
 2017.08.28   4.0   V-OS                          Development       Visual          Visual overhaul.
 2017.08.28   2.0   V-OS                          Design            Visual          Visual overhaul.
 2017.08.28   0.5   Purity                        Development       Code            Small pageflow fix.
@@ -648,7 +653,19 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.01.18   6.0   Qurotema                      Composition       Audio           Composition and mixing.
 2017.01.17   2.5   Qurotema                      Acoustic          Audio           Recording room sounds for soundscape samples.
 2017.01.16   0.5   Study                         Research          Abstract        Image and representation in new media.
+2017.01.15
+2017.01.14
+2017.01.13
+2017.01.12
+2017.01.11
+2017.01.10
+2017.01.09
+2017.01.08
+2017.01.07
+2017.01.06
+2017.01.05
 2017.01.04   5.0   V-OS                          Development       Code            PHP page generation system expansion.
+2017.01.03
 2017.01.02   4.0   V-OS                          Development       Code            Bugfixes, PHP optimization and refactoring.
 2017.01.02   0.0   V-OS                          Event             Personal        Purchase v-os.ca.
 2017.01.01   1.0   V-OS                          Research          Abstract        Domains.

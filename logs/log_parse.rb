@@ -60,11 +60,50 @@ source.each do |line|
 	#push logs to logs
 	if not inTasks and not inDivisions
 		#get date, time, project, and task name
-		date = line[0, 13].strip
-		time = line[13, 5].strip
-		project = line[19, 29].strip
-		task = line[49, 17].strip
-		division = line[67, 15].strip
+		date = line[0, 13]
+
+		#if empty, error
+		if not date
+			puts 'date missing'
+		else
+			date = date.strip
+		end
+
+		time = line[13, 5]
+
+		#if empty, make 0.0
+		if not time
+			time = "0.0"
+		else
+			time = time.strip
+		end
+
+		project = line[19, 29]
+
+		#if empty, make "None"
+		if not project
+			project = "None"
+		else
+			project = project.strip
+		end
+
+		task = line[49, 17]
+
+		#if empty, make "None"
+		if not task
+			task = "None"
+		else
+			task = task.strip
+		end
+
+		division = line[67, 15]
+
+		#if empty, make "None"
+		if not division
+			division = "None"
+		else
+			division = division.strip
+		end
 
 		#project name apostrophe escape
 		project.gsub!("'", %q(\\\'))
@@ -90,17 +129,17 @@ source.each do |line|
 		end
 
 		#push project to projects array if element doesn't already exist
-		if not project.empty? and not projects.index(project)
+		if not projects.index(project)
 			projects.push(project)
 		end
 
 		#error if found task that isn't already in tasks
-		if not task.empty? and not tasks.index(task)
+		if not tasks.index(task)
 			puts 'found invalid task'
 		end
 
 		#error if found division that isn't already in divisions
-		if not division.empty? and not division.index(division)
+		if not division.index(division)
 			puts 'found invalid division'
 		end
 

@@ -45,7 +45,6 @@ function timeline($q) {
 		<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
 		<div class="timeline-container">
 			<div class="timeline"></div>
-			<div class="timeline-marker-begin"></div>
 			<div class="timeline-circle-container">
 		';
 
@@ -87,9 +86,6 @@ function timeline($q) {
 		echo
 		'
 		</div>
-		<svg class="timeline-marker-end">
-			<live x1="0" y1="0" x2="0" y2="10" stroke-width="4"/>
-		</svg>
 		</div>
 		';
 	}

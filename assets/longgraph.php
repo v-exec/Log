@@ -1,12 +1,14 @@
 <?php
-//creates graph of last number of days of logs ($n) and each division's daily involvement, using total log hours ($h), through given query ($q)
-function longgraph($q, $h, $n) {
+//creates graph of delimited days of logs ($n number of logs) within the contextual location ($spec 0 = all logs, $spec 1 = project/task, $spec 2 = division) and each division's daily involvement, using total log hours ($h), through given query ($q)
+function longgraph($q, $h, $n, $spec) {
 	//get colors
 	global $abstractColor;
 	global $codeColor;
 	global $audioColor;
 	global $visualColor;
 	global $personalColor;
+
+	global $l;
 
 	$conn = connect();
 	$result = $conn->query($q);
@@ -16,7 +18,8 @@ function longgraph($q, $h, $n) {
 
 		//get query results
 		while ($row = $result->fetch_assoc()) {
-			array_push($rows, [$row['date'], $row['title'], $row['hours']]);
+			if ($spec == 1) array_push($rows, [$row['date'], $row['title'], $row['hours'], $row['type']]);
+			else if ($spec == 0 || $spec == 2) array_push($rows, [$row['date'], $row['title'], $row['hours']]);
 		}
 
 		//days array holds all days and their logs
@@ -27,9 +30,13 @@ function longgraph($q, $h, $n) {
 		$now = $rows[0][0];
 
 		//get date offset
-		$today = new DateTime();
-		$recent = new DateTime($now);
-		$difference = $today->diff($recent)->format("%a");
+		if (!$spec) {
+			$today = new DateTime();
+			$recent = new DateTime($now);
+			$difference = $today->diff($recent)->format("%a");
+		} else {
+			$difference = 0;
+		}
 
 		//fill $days array with set number of days ($n)
 		for ($i = 0; $i < $n; $i++) {
@@ -38,7 +45,7 @@ function longgraph($q, $h, $n) {
 
 		$dayCount = $n + - 1 - $difference;
 
-		//pass through all logs, separate them into each $day, and then put every $day into $days
+		//pass through all logs, separate them into each $day, fill each $day with its respective logs, and then put every $day into $days
 		for ($i = 0; $i < sizeof($rows); $i++) {
 			if ($now != $rows[$i][0]) {
 				$now = $rows[$i][0];
@@ -48,7 +55,15 @@ function longgraph($q, $h, $n) {
 
 				$day = array();
 			}
-			array_push($day, [$rows[$i][1], $rows[$i][2]]);
+			if ($spec == 1) {
+				if (strtolower($rows[$i][3]) === $l) array_push($day, [$rows[$i][1], $rows[$i][2]]);
+				else array_push($day, $rows[$i][1], 0);
+			} else if ($spec == 0) {
+				array_push($day, [$rows[$i][1], $rows[$i][2]]);
+			} else if ($spec == 2) {
+				if (strtolower($rows[$i][1]) === $l) array_push($day, [$rows[$i][1], $rows[$i][2]]);
+				else array_push($day, $rows[$i][1], 0);
+			}
 		}
 
 		//add last element
@@ -74,6 +89,7 @@ function longgraph($q, $h, $n) {
 
 			if ($hours > $max) $max = $hours;
 		}
+		if ($max == 0) $max = 1;
 
 		echo '<div class="long-graph-container">';
 
@@ -189,8 +205,8 @@ function longgraph($q, $h, $n) {
 		echo '</div>';
 
 		//create legend
-		if ($h > 0) {
-			echo
+		if ($h <= 0) $h = 0.1;
+		echo
 			'
 			<div class="graph-legend">
 				<span class="graph-legend-text">Code</span>
@@ -210,7 +226,6 @@ function longgraph($q, $h, $n) {
 				<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio + $totalPersonal) / sizeof($days), 1).' h/d</span>
 			</div>
 			';
-		}
 	}
 }
 ?>

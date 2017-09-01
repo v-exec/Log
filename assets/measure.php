@@ -33,7 +33,7 @@ function measures($q, $h, $t) {
 		for ($i = 0; $i < sizeof($rows); $i++) {
 
 			//don't include 'personal' division unless it's particularly relevant
-			if ($h > 10 && $rows[$i][0] == 'Personal' && ($rows[$i][1] / $h * 100) < 5) continue;
+			if ($h > 10 && $rows[$i][0] == 'Personal' && ($rows[$i][1] / $h * 100) < 5 || $rows[$i][0] == 'None') continue;
 
 			//get measure division ratio
 			$pageType = checkType($l);

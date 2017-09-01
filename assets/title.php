@@ -20,7 +20,6 @@ function title($q) {
 	//display title data
 	echo
 	'
-	<div class="spacer"></div>
 	<a href="'.$l.'" class="title">'.ucfirst($l).'</a>
 	<div class="title-stats">
 		<span class="title-text">'.number_format($hours, 0).' '.$hourphrase.'</span>
