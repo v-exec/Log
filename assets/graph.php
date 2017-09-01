@@ -232,5 +232,77 @@ function graph($q, $h, $n, $spec) {
 			</div>
 			';
 	}
+	$conn->close();
+}
+
+//sets up graph delimitations (to specific number of days $d if set) (according to contextual topic if $s, by using type $t)
+function setupGraph($s, $d, $t) {
+	$graphData = array();
+
+	//if spec page, find delimitations of contextual topic's logs (limit to 120 days)
+	if ($s) {
+		global $l;
+
+		$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$t.'.name = '."'".$l."'".' group by date order by log.id asc;';
+
+		$conn = connect();
+		$result = $conn->query($query);
+
+		if ($result->num_rows > 0) {
+			$rows = array();
+
+			//get query results
+			while ($row = $result->fetch_assoc()) {
+				array_push($rows, [$row['date'], $row['hours']]);
+			}
+
+			//if no specified day number is set, get timespan dynamically
+			if ($d == 0) {
+				$first = new DateTime($rows[sizeof($rows)-1][0]);
+				$first = $first->sub(new DateInterval('P1D'));
+				$last = new DateTime($rows[0][0]);
+				$difference = $last->diff($first)->format("%a");
+			} else {
+				$last = new DateTime($rows[0][0]);
+				$first = $last->sub(new DateInterval('P'.$d.'D'));
+				$difference = $last->diff($first)->format("%a");
+			}
+
+			//limit to 120
+			if ($difference > 120) {
+				$first = new DateTime($rows[0][0]);
+				$first = $first->sub(new DateInterval('P'.(120).'D'));
+				$difference = $last->diff($first)->format("%a");
+			}
+
+			$days = $difference;
+
+			if ($days <= 0) $days = 1;
+
+			$now = $last;
+			$now = $now->format('Y-m-d');
+
+			$old = new DateTime($now);
+			$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
+			$old = $old->format('Y-m-d');
+
+			$hours = getNum('select sum(time) as num_hours, '.$t.'.name as type from log left join '.$t.' on '.$t.'.id = log.'.$t.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$t.'.name = '."'".$l."'".';', 'num_hours');
+
+			$conn->close();
+
+			return array($old, $now, $hours, $days);
+		}
+	} else {
+		$now = new DateTime();
+		$now = $now->format('Y-m-d');
+
+		$old = new DateTime($now);
+		$old = $old->sub(new DateInterval('P'.($d - 1).'D'));
+		$old = $old->format('Y-m-d');
+
+		$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
+
+		return array($old, $now, $hours);
+	}
 }
 ?>

@@ -74,9 +74,10 @@ include 'assets/construct.php';
 					<a href="http://log.v-os.ca" class="neutral-link">updated
 					<?php
 					$now = new DateTime();
+					$now = $now->sub(new DateInterval('P1D'));
 					$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
 					$difference = $now->diff($recent)->format("%a");
-					if ($difference == 0) echo "today";
+					if ($difference <= 0) echo "today";
 					else if ($difference == 1) echo $difference." day ago";
 					else echo $difference." days ago";
 					?>

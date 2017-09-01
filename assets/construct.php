@@ -63,31 +63,15 @@ function home($h) {
 
 	//120 day graph
 	$days = 120;
-
-	$now = new DateTime();
-	$now = $now->format('Y-m-d');
-
-	$old = new DateTime($now);
-	$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
-	$old = $old->format('Y-m-d');
-
-	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
-
-	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".'  order by log.id asc;';
-
-	graph($query, $hours, $days, 0);
+	$graphData = setupGraph(false, $days, null);
+	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".'  order by log.id asc;';
+	graph($query, $graphData[2], $days, 0);
 
 	//14 day graph
 	$days = 14;
-
-	$old = new DateTime($now);
-	$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
-	$old = $old->format('Y-m-d');
-
-	$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
-
-	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-	graph($query, $hours, $days, 0);
+	$graphData = setupGraph(false, $days, null);
+	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
+	graph($query, $graphData[2], $days, 0);
 
 	//division measures
 	$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
@@ -102,7 +86,7 @@ function home($h) {
 	measures($query, $h, 'project');
 }
 
-//creates detailed page for project/task/division ($type) of given location ($l), using total hours ($h)
+//creates detailed page for project/task/division ($type) of given location ($l), using total hours ($h) of contextual topic
 function spec($l, $type) {
 	//get type of page
 	if ($type == 'task') $typeOpp = 'project';
@@ -121,54 +105,13 @@ function spec($l, $type) {
 	timeline($query);
 
 	//graph
-	//find extremity days for graph
-	$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
-
-	$conn = connect();
-	$result = $conn->query($query);
-
-	if ($result->num_rows > 0) {
-		$rows = array();
-
-		//get query results
-		while ($row = $result->fetch_assoc()) {
-			array_push($rows, [$row['date'], $row['hours']]);
-		}
-
-		//get timespan
-		$first = new DateTime($rows[sizeof($rows)-1][0]);
-		$first = $first->sub(new DateInterval('P1D'));
-		$last = new DateTime($rows[0][0]);
-		$difference = $last->diff($first)->format("%a");
-
-		//limit to 120
-		if ($difference > 120) {
-				$first = new DateTime($rows[0][0]);
-				$first = $first->sub(new DateInterval('P'.(120).'D'));
-				$difference = $last->diff($first)->format("%a");
-		}
-
-		$days = $difference;
-
-		if ($days <= 0) $days = 1;
-
-		$now = $last;
-		$now = $now->format('Y-m-d');
-
-		$old = new DateTime($now);
-		$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
-		$old = $old->format('Y-m-d');
-
-		$hours = getNum('select sum(time) as num_hours, '.$type.'.name as type from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$type.'.name = '."'".$l."'".';', 'num_hours');
-
-		if ($type == 'division') {
-			 $query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-			graph($query, $hours, $days, 2);
-		}
-		else {
-			$query = 'select division.name as title, log.date, log.time as hours, '.$type.'.name as type from log left join division on division.id = log.division_id join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' order by log.id asc;';
-			graph($query, $hours, $days, 1);
-		}
+	$graphData = setupGraph(true, 0, $type);
+	if ($type == 'division') {
+		$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
+		graph($query, $graphData[2], $graphData[3], 2);
+	} else {
+		$query = 'select division.name as title, log.date, log.time as hours, '.$type.'.name as type from log left join division on division.id = log.division_id join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
+		graph($query, $graphData[2], $graphData[3], 1);
 	}
 
 	//if not division, make division measures
