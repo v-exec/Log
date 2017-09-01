@@ -319,6 +319,13 @@ a:hover {
 }
 
 /*-----------MEDIA-----------*/
+@media (max-width: 1400px) {
+	#body-content,
+	#footer {
+		margin: 0;
+	}
+}
+
 @media (max-width: 1150px) {
 	.measure-container {
 		width: 49.5%;
