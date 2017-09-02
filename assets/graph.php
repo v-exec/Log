@@ -161,44 +161,44 @@ function graph($q, $h, $n, $spec) {
 					$height += ($personalTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
-						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($personalTime / $max) * $graphHeight) + 1).'" fill="'.$personalColor.'"/>
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
+						<rect width="100%" height="'.((($personalTime / $max) * $graphHeight) + 1).'" fill="'.$personalColor.'"/>
 					</svg>
 					';
 					$personalDone = true;
-				}else if ($values[$j] == $codeTime && !$codeDone) {
+				} else if ($values[$j] == $codeTime && !$codeDone) {
 					$height += ($codeTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
-						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($codeTime / $max) * $graphHeight) + 1).'" fill="'.$codeColor.'"/>
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
+						<rect width="100%" height="'.((($codeTime / $max) * $graphHeight) + 1).'" fill="'.$codeColor.'"/>
 					</svg>
 					';
 					$codeDone = true;
-				}else if ($values[$j] == $abstractTime && !$abstractDone) {
+				} else if ($values[$j] == $abstractTime && !$abstractDone) {
 					$height += ($abstractTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
-						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($abstractTime / $max) * $graphHeight) + 1).'" fill="'.$abstractColor.'"/>
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
+						<rect width="100%" height="'.((($abstractTime / $max) * $graphHeight) + 1).'" fill="'.$abstractColor.'"/>
 					</svg>
 					';
 					$abstractDone = true;
-				}else if ($values[$j] == $visualTime && !$visualDone) {
+				} else if ($values[$j] == $visualTime && !$visualDone) {
 					$height += ($visualTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
-						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($visualTime / $max) * $graphHeight) + 1).'" fill="'.$visualColor.'"/>
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
+						<rect width="100%" height="'.((($visualTime / $max) * $graphHeight) + 1).'" fill="'.$visualColor.'"/>
 					</svg>
 					';
 					$visualDone = true;
-				}else if ($values[$j] == $audioTime && !$audioDone) {
+				} else if ($values[$j] == $audioTime && !$audioDone) {
 					$height += ($audioTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px; width:'.($barWidthModifier / sizeof($days)).'">
-						<rect width="'.($barWidthModifier / sizeof($days)).'" height="'.((($audioTime / $max) * $graphHeight) + 1).'" fill="'.$audioColor.'"/>
+					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
+						<rect width="100%" height="'.((($audioTime / $max) * $graphHeight) + 1).'" fill="'.$audioColor.'"/>
 					</svg>
 					';
 					$audioDone = true;
@@ -239,7 +239,7 @@ function graph($q, $h, $n, $spec) {
 function setupGraph($s, $d, $t) {
 	$graphData = array();
 
-	//if spec page, find delimitations of contextual topic's logs (limit to 120 days)
+	//if spec page, find delimitations of contextual topic's logs
 	if ($s) {
 		global $l;
 
@@ -265,13 +265,6 @@ function setupGraph($s, $d, $t) {
 			} else {
 				$last = new DateTime($rows[0][0]);
 				$first = $last->sub(new DateInterval('P'.$d.'D'));
-				$difference = $last->diff($first)->format("%a");
-			}
-
-			//limit to 120
-			if ($difference > 120) {
-				$first = new DateTime($rows[0][0]);
-				$first = $first->sub(new DateInterval('P'.(120).'D'));
 				$difference = $last->diff($first)->format("%a");
 			}
 

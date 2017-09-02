@@ -272,13 +272,15 @@ a:hover {
 
 .graph-day {
 	display: inline-block;
+	position: relative;
 	height: 100%;
+	border-right: solid 1px #fff;
 }
 
 .graph-bar {
 	position: absolute;
 	height: 100%;
-	width: 50px;
+	width: 100%;
 }
 
 .graph-legend {
