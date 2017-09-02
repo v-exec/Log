@@ -39,7 +39,8 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.09.01   1.0   Log                           Development       Code            Refactoring.
+2017.09.01   0.5   Study                         Research          Personal        Art construction.
+2017.09.01   2.0   Log                           Development       Code            Refactoring, graph visualization rework.
 2017.08.31   6.0   Log                           Development       Code            Graph backend rework, empty log implementation, visual redesign and reorganization, page layout tinkering, refactoring.
 2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
 2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version release.
