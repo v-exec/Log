@@ -102,7 +102,7 @@ function measures($q, $h, $t) {
 					//outputs division slice
 					echo
 					'
-					<g transform="translate(45 45) rotate(-90) scale(1 -1)">
+					<g transform="translate(47 47) rotate(-90) scale(1 -1)">
 						<path d="'.createSvgArc(0, 0, round(($rows[$i][1]/$maxSize * 40) + 4), $oldDegree, $degree).'" fill="'.$color.'"/>
 					</g>
 					';
