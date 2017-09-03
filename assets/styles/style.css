@@ -131,15 +131,14 @@ a:hover {
 .measure-container {
 	display: inline-block;
 	width: 24.7%;
-	height: 110px;
-	margin-top: 40px;
-	margin-bottom: 80px;
+	height: 90px;
+	margin: 40px 0 40px 0;
 	text-align: center;
 }
 
 .measure-circle {
-	width: 110px;
-	height: 110px;
+	width: 90px;
+	height: 90px;
 }
 
 .measure-info {

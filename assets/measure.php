@@ -36,7 +36,8 @@ function measures($q, $h, $t) {
 		if ($t === 'task') echo '<a href="tasks" class="measures-title">Tasks</a>';
 		else if ($t === 'project') echo '<a href="projects" class="measures-title">Projects</a>';
 		else if ($t === 'division') echo '<a href="divisions" class="measures-title">Divisions</a>';
-		echo '<div style="width: 100%; height: 0;"></div>';
+
+		echo '<div style="width: 100%";></div>';
 
 		//create all measures
 		for ($i = 0; $i < sizeof($rows); $i++) {
@@ -101,7 +102,7 @@ function measures($q, $h, $t) {
 					//outputs division slice
 					echo
 					'
-					<g transform="translate(55 55) rotate(-90) scale(1 -1)">
+					<g transform="translate(45 45) rotate(-90) scale(1 -1)">
 						<path d="'.createSvgArc(0, 0, round(($rows[$i][1]/$maxSize * 40) + 4), $oldDegree, $degree).'" fill="'.$color.'"/>
 					</g>
 					';
