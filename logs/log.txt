@@ -39,9 +39,16 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.05   0.0   Various                       Event             Personal        Semester beginning.
+2017.09.04   1.0   Study                         Research          Abstract        Storytelling, writing study.
+2017.09.03   0.5   Study                         Research          Abstract        Game exploration design.
+2017.09.02   0.5   Log                           Development       Visual          Measures layout and sizing tinkering.
+2017.09.02   1.0   Study                         Research          Abstract        Game progression, dialog systems, and exploration.
+2017.09.02   0.5   Study                         Research          Personal        Console emulation.
 2017.09.01   0.5   Study                         Research          Personal        Art construction.
 2017.09.01   2.0   Log                           Development       Code            Refactoring, graph visualization rework.
-2017.08.31   6.0   Log                           Development       Code            Graph backend rework, empty log implementation, visual redesign and reorganization, page layout tinkering, refactoring.
+2017.08.31   1.0   Log                           Development       Visual          Visual redesign and reorganization, page layout tinkering.
+2017.08.31   5.0   Log                           Development       Code            Graph backend rework, empty log implementation, refactoring.
 2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
 2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version release.
 2017.08.30   1.0   V-OS                          Development       Visual          Testing new headers.
