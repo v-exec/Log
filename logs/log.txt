@@ -39,6 +39,12 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.05   0.5   Doodle                        Graphic           Visual          Acidic archives logo creation.
+2017.09.05   1.0   Study                         Research          Code            MaxMSP study.
+2017.09.05   2.5   Study                         Research          Audio           Sound theory.
+2017.09.05   3.5   Study                         Research          Abstract        Game design theory.
+2017.09.05   0.5   Visor                         Development       Code            Manual file upload.
+2017.09.05   1.5   Visor                         Research          Code            Manual file upload.
 2017.09.05   0.0   Various                       Event             Personal        Semester beginning.
 2017.09.04   1.0   Study                         Research          Abstract        Storytelling, writing study.
 2017.09.03   0.5   Study                         Research          Abstract        Game exploration design.
