@@ -17,8 +17,7 @@ Graphic                    2D Graphic Development
 Illustration               Drawing
 3D                         Generating, Texturing, Lighting, and Rendering
 Modeling                   Modeling, Sculpting, Rigging, and Animating
-Filming                    Video Filming
-Videography                Video Editing
+Videography                Video FIlming and Editing
 Photography                Picture Taking and Editing
 Composition                Composing, Producing, and Mixing
 Acoustic                   Instrument Play and Recording
@@ -30,23 +29,25 @@ None                       Nothing
 
 #ARCH PROJECTS             Overarching activities that are individually too small to be considered as projects but add up to significant amounts of time, long-term
 
-#Study                     Learning activities
-#Jam                       Audio activities
-#Doodle                    Visual activities
-#Tinker                    Development and design activities
+#Study                     Learning activities (abstract)
+#Jam                       Audio activities (audio)
+#Doodle                    Visual activities (visual)
+#Tinker                    Development and design activities (code)
 #Various                   Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
 #None                      Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.07   0.5   Study                         Research          Abstract        Quest design study.
+2017.09.07   1.0   Study                         Development       Code            MaxMSP study.
+2017.09.07   1.0   TA253                         Research          Abstract        Curriculum and class design review.
 2017.09.06   0.5   Acid Archives                 Research          Audio           Mood experimentation and research.
-2017.09.06   0.5   Doodle                        Modeling          Visual          Simple modeling practice.
 2017.09.06   3.0   Doodle                        Modeling          Visual          Simple modeling practice.
 2017.09.06   1.0   Tinker                        Development       Code            CART351 site setup.
 2017.09.06   1.0   Purity                        Development       Code            PHP 7.0 debugging.
-2017.09.06   0.5   Study                         Research          Abstract        Acid archives story.
+2017.09.06   0.5   Acid Archives                 Research          Abstract        Acid archives story.
 2017.09.05   0.5   Acid Archives                 Graphic           Visual          Acid archives logo creation.
-2017.09.05   1.0   Study                         Research          Code            MaxMSP study.
+2017.09.05   1.0   Tinker                        Research          Code            MaxMSP study.
 2017.09.05   2.5   Study                         Research          Audio           Sound theory.
 2017.09.05   3.5   Study                         Research          Abstract        Game design theory.
 2017.09.05   0.5   Visor                         Development       Code            Manual file upload.
@@ -315,7 +316,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.10   1.0   Study                         Writing           Personal        Self authoring.
 2017.06.09   1.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.06.08   1.0   Study                         Research          Abstract        Enemy AI, third person combat systems.
-2017.06.07   1.0   Tinker                        Research          Code            Construct 2 engine.
+2017.06.07   1.0   AGD                           Research          Code            Construct 2 engine.
 2017.06.07   1.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.06   1.0   Keyde                         Research          Code            Code review.
 2017.06.05   0.5   The Cosmic Affliction         Design            Audio           Album review.
@@ -569,7 +570,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.03   1.0   Drone Dreams                  Research          Code            Tools research.
 2017.03.02   0.5   Elyium                        Graphic           Visual          Icons and interface elements creation.
 2017.03.02   1.0   Doodle                        Videography       Visual          Randomly generated webding animation.
-2017.03.02   1.5   Qurotema                      Filming           Visual          Quro video footage collection.
+2017.03.02   1.5   Qurotema                      Videography       Visual          Quro video footage collection.
 2017.03.01   7.0   Elyium                        Development       Code            Narrative interfacing, data structure refinement, conditional conflicts development.
 2017.02.28   0.5   V-OS                          Writing           Abstract        Documentation rewrite.
 2017.02.28   1.5   V-OS                          Design            Abstract        Project reorganization.
@@ -580,9 +581,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.27   1.5   Doodle                        Illustration      Visual          Drawing practice.
 2017.02.27   0.5   Study                         Research          Abstract        Interaction in new media.
 2017.02.26   2.0   Elyium                        Development       Code            Interface expansion.
-2017.02.26   2.0   Doodle                        Graphic           Visual          Identity design visual review.
+2017.02.26   2.0   Doodle                        Research          Visual          Identity design visual review.
 2017.02.25   5.0   Doodle                        Graphic           Visual          Identity logo design and creation.
-2017.02.25   1.0   Qurotema                      Filming           Visual          Quro video footage collection.
+2017.02.25   1.0   Qurotema                      Videography       Visual          Quro video footage collection.
 2017.02.24   3.0   Doodle                        3D                Visual          Rendering research and experimentation.
 2017.02.24   0.5   AGD                           Event             Personal        Interview for accelerated game design camp teaching job.
 2017.02.23   3.0   Doodle                        3D                Visual          Micropolygon displacement, lighting and rendering.
@@ -623,7 +624,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.10   2.0   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.10   3.5   Elyium                        Development       Code            Connecting modules, interface development, and database management.
 2017.02.10   0.5   Elyium                        Graphic           Visual          Interface design.
-2017.02.10   0.5   Qurotema                      Filming           Visual          Record video samples.
+2017.02.10   0.5   Qurotema                      Videography       Visual          Record video samples.
 2017.02.09   0.5   Jam                           Composition       Audio           Composition and experimentation.
 2017.02.09   1.0   Doodle                        Videography       Visual          Music visualization.
 2017.02.08   0.5   Elyium                        Design            Code            Database design.
@@ -642,7 +643,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.03   3.0   Rig                           Maintenance       Personal        Install programs on fresh OS.
 2017.02.02   2.0   Elyium                        Development       Code            Accelorometer and location data gathering.
 2017.02.02   2.0   Study                         Linguistics       Abstract        Research language composition and construction.
-2017.02.02   2.0   Doodle                        Videography       Visual          Movie trailer practice.
+2017.02.02   2.0   Doodle                        Videography       Visual          Movie trailer.
 2017.02.01   2.0   Doodle                        Graphic           Visual          Develop shorthand script for personal use.
 2017.02.01   1.5   Rig                           Maintenance       Personal        Reinstall desktop PC.
 2017.01.31   4.0   Study                         Development       Code            Video processing in Processing.

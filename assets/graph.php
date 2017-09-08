@@ -214,20 +214,20 @@ function graph($q, $h, $n, $spec) {
 			'
 				<div class="graph-legend">
 					<span class="graph-legend-text">Code</span>
-					<span class="graph-legend-num" style="color:'.$codeColor.'">'.number_format((($totalCode / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-num" style="color:'.$codeColor.'">'.number_format((($totalCode / $h) * 100), 2, '.', ''). '%'.'</span>
 
 					<span class="graph-legend-text">Abstract</span>
-					<span class="graph-legend-num" style="color:'.$abstractColor.'">'.number_format((($totalAbstract / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-num" style="color:'.$abstractColor.'">'.number_format((($totalAbstract / $h) * 100), 2, '.', ''). '%'.'</span>
 
 					<span class="graph-legend-text">Visual</span>
-					<span class="graph-legend-num" style="color:'.$visualColor.'">'.number_format((($totalVisual / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-num" style="color:'.$visualColor.'">'.number_format((($totalVisual / $h) * 100), 2, '.', ''). '%'.'</span>
 
 					<span class="graph-legend-text">Audio</span>
-					<span class="graph-legend-num" style="color:'.$audioColor.'">'.number_format((($totalAudio / $h) * 100), 2). '%'.'</span>
+					<span class="graph-legend-num" style="color:'.$audioColor.'">'.number_format((($totalAudio / $h) * 100), 2, '.', ''). '%'.'</span>
 
 					<span class="graph-stats-text">'.sizeof($days).' days</span>
-					<span class="graph-stats-text">'.number_format($h, 0).' hours</span>
-					<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio + $totalPersonal) / sizeof($days), 1).' h/d</span>
+					<span class="graph-stats-text">'.number_format($h, 0, '.', '').' hours</span>
+					<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio + $totalPersonal) / sizeof($days), 1, '.', '').' h/d</span>
 				</div>
 			</div>
 			';

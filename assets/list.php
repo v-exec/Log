@@ -29,7 +29,7 @@ function loglist($q) {
 					<span class="loglist-text">'.$date->format('Y.m.d').'</span>
 				</div>
 				<div class="loglist-time">
-					<span class="loglist-text">'.number_format($rows[$i][1], 1).'</span>
+					<span class="loglist-text">'.number_format($rows[$i][1], 1, '.', '').'</span>
 				</div>
 				<div class="loglist-info">
 					<a href="'.$rows[$i][2].'" class="loglist-text">'.$rows[$i][2].'</a>

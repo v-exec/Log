@@ -14,7 +14,7 @@ function title($q) {
 	}
 
 	//get proper phrasing for hour and log numbers
-	$hourphrase = pluralize('hour', number_format($hours, 0));
+	$hourphrase = pluralize('hour', number_format($hours, 0, '.', ''));
 	$logphrase = pluralize('log', $logs);
 	
 	//display title data
@@ -23,7 +23,7 @@ function title($q) {
 	<div class="title-container">
 		<a href="'.$l.'" class="title">'.ucfirst($l).'</a>
 		<div class="title-stats">
-			<span class="title-text">'.number_format($hours, 0).' '.$hourphrase.'</span>
+			<span class="title-text">'.number_format($hours, 0, '.', '').' '.$hourphrase.'</span>
 			<span class="title-text">'.$logs.' '.$logphrase.'</span>
 		</div>
 	</div>

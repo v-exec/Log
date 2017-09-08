@@ -56,7 +56,7 @@ function measures($q, $h, $t) {
 			$ratio = getDivisionRatio($query);
 
 			//get proper phrasing for hour and log numbers
-			$hourphrase = pluralize('hour', number_format($rows[$i][1], 0));
+			$hourphrase = pluralize('hour', number_format($rows[$i][1], 0, '.', ''));
 			$logphrase = pluralize('log', $rows[$i][2] == 1);
 
 			echo
@@ -120,9 +120,9 @@ function measures($q, $h, $t) {
 				</svg>
 				<div class="measure-info">
 					<a href="'.$rows[$i][0].'" class="measure-title">'.$rows[$i][0].'</a>
-					<div class="measure-text">'.number_format($rows[$i][1], 0).' '.$hourphrase.'</div>
+					<div class="measure-text">'.number_format($rows[$i][1], 0, '.', '').' '.$hourphrase.'</div>
 					<div class="measure-text">'.$rows[$i][2].' '.$logphrase.'</div>
-					<div class="measure-text">'.number_format((($rows[$i][1] / $h) * 100), 2).'%</div>
+					<div class="measure-text">'.number_format((($rows[$i][1] / $h) * 100), 2, '.', '').'%</div>
 				</div>
 			</div>
 			';

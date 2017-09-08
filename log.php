@@ -84,7 +84,7 @@ include 'assets/construct.php';
 					</a>
 				</span>
 				<span class="footer-text">
-					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0);?> hours</a><br>
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0, '.', '');?> hours</a><br>
 					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getnum("select count(*) as num_logs from log;", "num_logs");?> logs</a>
 				</span>
 			</div>
