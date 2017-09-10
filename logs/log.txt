@@ -38,6 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.09   0.5   Seven                         Development       Code            Easing, web release.
 2017.09.09   1.0   Purity                        Development       Code            Line endings, site hosting platforms.
 2017.09.09   3.0   Purity                        Development       Code            Visual redesign, optimization.
 2017.09.09   1.5   Study                         Research          Abstract        Information design, and net art.
@@ -69,7 +70,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.31   1.0   Log                           Development       Visual          Visual redesign and reorganization, page layout tinkering.
 2017.08.31   5.0   Log                           Development       Code            Graph backend rework, empty log implementation, refactoring.
 2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
-2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version release.
+2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version documentation.
 2017.08.30   1.0   V-OS                          Development       Visual          Testing new headers.
 2017.08.30   3.5   V-OS                          Research          Visual          Testing new headers.
 2017.08.29   1.5   V-OS                          Writing           Abstract        Rewrites and cleanup.
