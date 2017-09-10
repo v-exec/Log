@@ -38,6 +38,12 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.09   1.0   Purity                        Development       Code            Line endings, site hosting platforms.
+2017.09.09   3.0   Purity                        Development       Code            Visual redesign, optimization.
+2017.09.09   1.5   Study                         Research          Abstract        Information design, and net art.
+2017.09.08   0.5   Acid Archives                 Composition       Audio           Experimentation.
+2017.09.08   2.0   Various                       Performance       Abstract        DPWS Rocket League stream.
+2017.09.08   0.5   Study                         Research          Code            MaxMSP study.
 2017.09.07   0.5   Study                         Research          Abstract        Quest design study.
 2017.09.07   1.0   Study                         Development       Code            MaxMSP study.
 2017.09.07   1.0   TA253                         Research          Abstract        Curriculum and class design review.
