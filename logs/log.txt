@@ -38,6 +38,20 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.13   0.5   The Domain of Thought         Research          Code            Shader code.
+2017.09.13   0.5   Study                         Research          Abstract        Postmodernist philosophy.
+2017.09.13   3.5   Doodle                        Modeling          Visual          Hard-surface modeling.
+2017.09.13   2.0   Study                         Research          Abstract        Net art history.
+2017.09.12   2.0   Tinker                        Development       Code            MaxMSP programming.
+2017.09.12   1.5   Study                         Research          Audio           Audio engineering and acoustic environments.
+2017.09.12   0.5   TA253                         Research          Code            Coding help.
+2017.09.12   3.5   Study                         Research          Abstract        Games, play.
+2017.09.11   3.0   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
+2017.09.11   1.5   Dentatsuna                    Modeling          Visual          Environment modeling.
+2017.09.11   0.5   Study                         Research          Audio           Adaptability of creativity in audio.
+2017.09.11   1.5   Desdemona                     Research          Abstract        Game design reading, dominos study, journal writing.
+2017.09.10   5.5   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
+2017.09.10   3.5   Dentatsuna                    Modeling          Visual          Environment modeling.
 2017.09.09   0.5   Seven                         Development       Code            Easing, web release.
 2017.09.09   1.0   Purity                        Development       Code            Line endings, site hosting platforms.
 2017.09.09   3.0   Purity                        Development       Code            Visual redesign, optimization.
@@ -49,7 +63,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.07   1.0   Study                         Development       Code            MaxMSP study.
 2017.09.07   1.0   TA253                         Research          Abstract        Curriculum and class design review.
 2017.09.06   0.5   Acid Archives                 Research          Audio           Mood experimentation and research.
-2017.09.06   3.0   Doodle                        Modeling          Visual          Simple modeling practice.
+2017.09.06   3.0   Doodle                        Modeling          Visual          Hard-surface modeling.
 2017.09.06   1.0   Tinker                        Development       Code            CART351 site setup.
 2017.09.06   1.0   Purity                        Development       Code            PHP 7.0 debugging.
 2017.09.06   0.5   Acid Archives                 Research          Abstract        Acid archives story.
