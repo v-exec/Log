@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.14   1.0   The Domain of Thought         Development       Code            Shader code.
+2017.09.14   2.0   The Domain of Thought         Research          Code            Shader code.
+2017.09.14   2.0   Desdemona                     Design            Abstract        Game design.
+2017.09.14   1.0   Study                         Research          Abstract        Math types, information architecture on the web.
 2017.09.13   0.5   The Domain of Thought         Research          Code            Shader code.
 2017.09.13   0.5   Study                         Research          Abstract        Postmodernist philosophy.
 2017.09.13   3.5   Doodle                        Modeling          Visual          Hard-surface modeling.
