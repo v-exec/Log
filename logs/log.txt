@@ -38,9 +38,13 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.15   1.0   Perfectus Empatheia           Graphic           Visual          Iconography design and production.
+2017.09.15   5.0   Perfectus Empatheia           Design            Abstract        Game design.
+2017.09.15   0.5   Doodle                        3D                Visual          Shark lighting, texturing, rendering.
+2017.09.15   2.5   Doodle                        Modeling          Visual          Shark modeling.
 2017.09.14   1.0   The Domain of Thought         Development       Code            Shader code.
 2017.09.14   2.0   The Domain of Thought         Research          Code            Shader code.
-2017.09.14   2.0   Desdemona                     Design            Abstract        Game design.
+2017.09.14   2.0   Perfectus Empatheia           Design            Abstract        Game design.
 2017.09.14   1.0   Study                         Research          Abstract        Math types, information architecture on the web.
 2017.09.13   0.5   The Domain of Thought         Research          Code            Shader code.
 2017.09.13   0.5   Study                         Research          Abstract        Postmodernist philosophy.
@@ -53,7 +57,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.11   3.0   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
 2017.09.11   1.5   Dentatsuna                    Modeling          Visual          Environment modeling.
 2017.09.11   0.5   Study                         Research          Audio           Adaptability of creativity in audio.
-2017.09.11   1.5   Desdemona                     Research          Abstract        Game design reading, dominos study, journal writing.
+2017.09.11   1.5   Perfectus Empatheia           Research          Abstract        Game design reading, dominos study, journal writing.
 2017.09.10   5.5   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
 2017.09.10   3.5   Dentatsuna                    Modeling          Visual          Environment modeling.
 2017.09.09   0.5   Seven                         Development       Code            Easing, web release.
