@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.16   1.5   Perfectus Empatheia           Writing           Abstract        Rule writing.
+2017.09.16   2.0   Perfectus Empatheia           Design            Abstract        Game design.
+2017.09.16   8.0   The Domain of Thought         Development       Code            Shading, camera, movement, and event system, rendering, build.
 2017.09.15   1.0   Perfectus Empatheia           Graphic           Visual          Iconography design and production.
 2017.09.15   5.0   Perfectus Empatheia           Design            Abstract        Game design.
 2017.09.15   0.5   Doodle                        3D                Visual          Shark lighting, texturing, rendering.
