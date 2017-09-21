@@ -38,18 +38,34 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.20   1.5   Study                         Research          Abstract        Ryan Whittier Hale art.
+2017.09.20   0.5   Study                         Research          Code            Microprocessors.
+2017.09.20   4.0   Doodle                        Modeling          Visual          Shoe and eyebat modeling.
+2017.09.20   0.5   V-OS                          Design            Abstract        Tiny updates.
+2017.09.20   0.5   Doodle                        Graphic           Visual          Truli rework and selection update.
+2017.09.19   2.0   Study                         Research          Audio           MaxMSP, analog synths, acoustics.
+2017.09.19   2.0   TA253                         Research          Code            Git and coding help.
+2017.09.19   3.0   Perfectus Empatheia           Design            Abstract        Game testing.
+2017.09.18   1.0   DotCycle                      Design            Abstract        Level design.
+2017.09.18   1.0   Study                         Research          Abstract        Kingdom: New Lands gameplay analysis.
+2017.09.18   1.0   Perfectus Empatheia           Design            Abstract        Testing, documentation.
+2017.09.17   0.5   DotCycle                      Design            Abstract        Level design.
+2017.09.17   1.0   DotCycle                      Writing           Abstract        Story writing.
+2017.09.17   3.5   Perfectus Empatheia           Design            Abstract        Deck composition, deck creation, testing.
+2017.09.17   0.5   Perfectus Empatheia           Graphic           Visual          Iconography design and production.
 2017.09.16   1.5   Perfectus Empatheia           Writing           Abstract        Rule writing.
 2017.09.16   2.0   Perfectus Empatheia           Design            Abstract        Game design.
-2017.09.16   8.0   The Domain of Thought         Development       Code            Shading, camera, movement, and event system, rendering, build.
+2017.09.16   0.5   DotCycle                      Design            Abstract        Level design.
+2017.09.16   8.0   DotCycle                      Development       Code            Shading, camera, movement, and event system, rendering, build.
 2017.09.15   1.0   Perfectus Empatheia           Graphic           Visual          Iconography design and production.
 2017.09.15   5.0   Perfectus Empatheia           Design            Abstract        Game design.
 2017.09.15   0.5   Doodle                        3D                Visual          Shark lighting, texturing, rendering.
 2017.09.15   2.5   Doodle                        Modeling          Visual          Shark modeling.
-2017.09.14   1.0   The Domain of Thought         Development       Code            Shader code.
-2017.09.14   2.0   The Domain of Thought         Research          Code            Shader code.
+2017.09.14   1.0   DotCycle                      Development       Code            Shader code.
+2017.09.14   2.0   DotCycle                      Research          Code            Shader code.
 2017.09.14   2.0   Perfectus Empatheia           Design            Abstract        Game design.
 2017.09.14   1.0   Study                         Research          Abstract        Math types, information architecture on the web.
-2017.09.13   0.5   The Domain of Thought         Research          Code            Shader code.
+2017.09.13   0.5   DotCycle                      Research          Code            Shader code.
 2017.09.13   0.5   Study                         Research          Abstract        Postmodernist philosophy.
 2017.09.13   3.5   Doodle                        Modeling          Visual          Hard-surface modeling.
 2017.09.13   2.0   Study                         Research          Abstract        Net art history.
