@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.21   2.0   DotCycle                      Design            Abstract        Level design.
+2017.09.21   3.0   Doodle                        Modeling          Visual          Eyebat modelling.
+2017.09.21   1.0   Perfectus Empatheia           Writing           Abstract        Design journal.
 2017.09.20   1.5   Study                         Research          Abstract        Ryan Whittier Hale art.
 2017.09.20   0.5   Study                         Research          Code            Microprocessors.
 2017.09.20   4.0   Doodle                        Modeling          Visual          Shoe and eyebat modeling.
