@@ -38,6 +38,16 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.23   3.0   DotCycle                      Design            Abstract        Level design.
+2017.09.23   2.5   DotCycle                      Composition       Audio           Sound composition.
+2017.09.23   2.0   Study                         Research          Abstract        Game design, level design, indie game development.
+2017.09.23   1.5   V-OS                          Writing           Abstract        Rewrites.
+2017.09.23   0.5   Study                         Research          Audio           Role of silence in acoustic composition and life.
+2017.09.22   1.0   DotCycle                      Composition       Audio           Sound composition.
+2017.09.22   0.5   Study                         Research          Abstract        Game design study.
+2017.09.22   1.0   Study                         Development       Code            MaxMSP practice.
+2017.09.22   0.5   Doodle                        Graphic           Visual          FLOP cover photo.
+2017.09.22   2.0   Perfectus Empatheia           Graphic           Visual          Visual instructions.
 2017.09.21   2.0   DotCycle                      Design            Abstract        Level design.
 2017.09.21   3.0   Doodle                        Modeling          Visual          Eyebat modelling.
 2017.09.21   1.0   Perfectus Empatheia           Writing           Abstract        Design journal.
