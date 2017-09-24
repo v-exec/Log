@@ -71,7 +71,7 @@ function timeline($q) {
 					echo
 					'
 					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
-						<circle cx="16" cy="16" r="7" stroke='.$fillColor.' stroke-width="2.7" fill="'.$fill.'"/>
+						<circle cx="10" cy="10" r="5" stroke='.$fillColor.' stroke-width="1" fill="'.$fill.'"/>
 					</svg>
 					';
 				}
@@ -80,7 +80,7 @@ function timeline($q) {
 			echo
 			'
 			<svg class="timeline-circle" style="left: 0%;">
-				<circle cx="16" cy="16" r="7" stroke="'.$fillColor.'"" stroke-width="2.7" fill="'.$fillColor.'"/>
+				<circle cx="10" cy="10" r="5" stroke="'.$fillColor.'"" stroke-width="1" fill="'.$fillColor.'"/>
 			</svg>
 			';
 		}

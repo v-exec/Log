@@ -116,7 +116,7 @@ function measures($q, $h, $t) {
 			//outputs middle circle for hollow point and measure data
 			echo
 			'
-					<circle cx="50%" cy="50%" r="'.round(($rows[$i][1]/$maxSize * 32) + 2).'" fill="#fff"/>
+					<circle cx="50%" cy="50%" r="'.round(($rows[$i][1]/$maxSize * 35) + 2).'" fill="#fff"/>
 				</svg>
 				<div class="measure-info">
 					<a href="'.$rows[$i][0].'" class="measure-title">'.$rows[$i][0].'</a>

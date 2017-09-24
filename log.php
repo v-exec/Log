@@ -8,11 +8,11 @@ if (isset($_GET['l'])) {
 	$l = $_GET['l'];
 }
 
-$abstractColor = '#606060';
+$abstractColor = '#DDD';
 $codeColor = '#000';
-$visualColor = '#F91364';
-$audioColor = '#02F2AA';
-$personalColor = '#D7CDCC';
+$visualColor = '#8B87F2';
+$audioColor = '#79F2C3';
+$personalColor = '#AAA';
 
 include 'assets/construct.php';
 ?>

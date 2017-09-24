@@ -268,6 +268,9 @@ function setupGraph($s, $d, $t) {
 				$difference = $last->diff($first)->format("%a");
 			}
 
+			//limit to 120 days
+			if ($difference > 120) $difference = 120;
+
 			$days = $difference;
 
 			if ($days <= 0) $days = 1;
