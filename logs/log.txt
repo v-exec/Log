@@ -38,6 +38,8 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.24   7.5   DotCycle                      Design            Abstract        Level design.
+2017.09.24   0.5   Log                           Design            Visual          Color resample, graph tweaking.
 2017.09.23   3.0   DotCycle                      Design            Abstract        Level design.
 2017.09.23   2.5   DotCycle                      Composition       Audio           Sound composition.
 2017.09.23   2.0   Study                         Research          Abstract        Game design, level design, indie game development.
