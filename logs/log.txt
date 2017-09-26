@@ -38,7 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.09.24   7.5   DotCycle                      Design            Abstract        Level design.
+2017.09.25   1.0   Study                         Research          Personal        Online dating.
+2017.09.25   4.0   DotCycle                      Design            Abstract        Level design, release build, testing, documentation.
+2017.09.25   0.5   V-OS                          Design            Abstract        Review and section reorganization.
+2017.09.24   0.5   DotCycle                      Writing           Abstract        Story revison.
+2017.09.24   6.5   DotCycle                      Design            Abstract        Level design.
 2017.09.24   0.5   Log                           Design            Visual          Color resample, graph tweaking.
 2017.09.23   3.0   DotCycle                      Design            Abstract        Level design.
 2017.09.23   2.5   DotCycle                      Composition       Audio           Sound composition.
