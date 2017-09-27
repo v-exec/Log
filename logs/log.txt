@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.26   1.5   Study                         Research          Audio           Acoustic awareness.
+2017.09.26   2.0   TA253                         Research          Code            Code helping.
+2017.09.26   3.5   Perfectus Empatheia           Design            Abstract        Game testing.
 2017.09.25   1.0   Study                         Research          Personal        Online dating.
 2017.09.25   4.0   DotCycle                      Design            Abstract        Level design, release build, testing, documentation.
 2017.09.25   0.5   V-OS                          Design            Abstract        Review and section reorganization.
