@@ -38,11 +38,15 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.28   1.5   Purity                        Development       Code            Add executable PHP parsing.
+2017.09.28   3.0   Perfectus Empatheia           Design            Abstract        Journal entry, card quantity change and testing, rule examples refinement.
+2017.09.28   1.0   Perfectus Empatheia           Design            Visual          Iconography.
+2017.09.28   3.5   Perfectus Empatheia           Graphic           Visual          Iconography.
 2017.09.27   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.09.27   1.0   Study                         Research          Abstract        Manifold Garden testing.
 2017.09.27   1.0   Perfectus Empatheia           Design            Abstract        Task delegation, time organization, planning.
 2017.09.27   3.5   Doodle                        Modeling          Visual          Eyebat modeling.
-2017.09.27   1.0   Study                         Research          Abstract        Net at review.
+2017.09.27   1.0   Study                         Research          Abstract        Net art review.
 2017.09.26   1.5   Study                         Research          Audio           Acoustic awareness.
 2017.09.26   2.0   TA253                         Research          Code            Code helping.
 2017.09.26   3.5   Perfectus Empatheia           Design            Abstract        Game testing.
