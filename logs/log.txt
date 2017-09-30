@@ -11,7 +11,7 @@ TASKS                      Task types (actions)
 
 Design                     Project Planning, Research, and Organization
 Development                Programming, Testing, Math, and Debugging
-Writing                    Narrative, Storytelling, Research, and Documentation
+Writing                    Narrative, Research, Documentation, and Communication
 Linguistics                Language Development
 Graphic                    2D Graphic Development
 Illustration               Drawing
@@ -38,6 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.29   1.0   Study                         Research          Abstract        User interfacing, game psychology.
+2017.09.29   4.0   LOGO                          Development       Code            Bot and V-OS CLI development.
+2017.09.29   1.0   LOGO                          Design            Abstract        Bot and V-OS CLI development.
+2017.09.29   0.5   Perfectus Empatheia           Writing           Visual          Documentation and communication.
+2017.09.29   2.5   Perfectus Empatheia           Graphic           Visual          Logo and visual support for instructions.
 2017.09.28   1.5   Purity                        Development       Code            Add executable PHP parsing.
 2017.09.28   3.0   Perfectus Empatheia           Design            Abstract        Journal entry, card quantity change and testing, rule examples refinement.
 2017.09.28   1.0   Perfectus Empatheia           Design            Visual          Iconography.
