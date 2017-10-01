@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.09.30   4.0   TA253                         Research          Code            Correction.
+2017.09.30   6.5   LOGO                          Development       Code            Bot and V-OS CLI development.
+2017.09.30   1.0   Eyebat                        Modeling          Visual          Eyebat modeling.
+2017.09.29   1.0   Study                         Research          Abstract        User interfacing, game psychology.
 2017.09.29   1.0   Study                         Research          Abstract        User interfacing, game psychology.
 2017.09.29   4.0   LOGO                          Development       Code            Bot and V-OS CLI development.
 2017.09.29   1.0   LOGO                          Design            Abstract        Bot and V-OS CLI development.
@@ -50,7 +54,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.27   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.09.27   1.0   Study                         Research          Abstract        Manifold Garden testing.
 2017.09.27   1.0   Perfectus Empatheia           Design            Abstract        Task delegation, time organization, planning.
-2017.09.27   3.5   Doodle                        Modeling          Visual          Eyebat modeling.
+2017.09.27   3.5   Eyebat                        Modeling          Visual          Eyebat modeling.
 2017.09.27   1.0   Study                         Research          Abstract        Net art review.
 2017.09.26   1.5   Study                         Research          Audio           Acoustic awareness.
 2017.09.26   2.0   TA253                         Research          Code            Code helping.
@@ -72,11 +76,11 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.22   0.5   Doodle                        Graphic           Visual          FLOP cover photo.
 2017.09.22   2.0   Perfectus Empatheia           Graphic           Visual          Visual instructions.
 2017.09.21   2.0   DotCycle                      Design            Abstract        Level design.
-2017.09.21   3.0   Doodle                        Modeling          Visual          Eyebat modelling.
+2017.09.21   3.0   Eyebat                        Modeling          Visual          Eyebat modelling.
 2017.09.21   1.0   Perfectus Empatheia           Writing           Abstract        Design journal.
 2017.09.20   1.5   Study                         Research          Abstract        Ryan Whittier Hale art.
 2017.09.20   0.5   Study                         Research          Code            Microprocessors.
-2017.09.20   4.0   Doodle                        Modeling          Visual          Shoe and eyebat modeling.
+2017.09.20   4.0   Eyebat                        Modeling          Visual          Shoe and eyebat modeling.
 2017.09.20   0.5   V-OS                          Design            Abstract        Tiny updates.
 2017.09.20   0.5   Doodle                        Graphic           Visual          Truli rework and selection update.
 2017.09.19   2.0   Study                         Research          Audio           MaxMSP, analog synths, acoustics.
