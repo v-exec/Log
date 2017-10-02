@@ -1,7 +1,9 @@
 <?php
-//creates timeline of given project/task through query ($q)
-function timeline($q) {
-	//fill color
+function timeline($l, $type) {
+
+	if ($l == null || $l == 'home') $q = 'select log.date, sum(log.time) as hours from log group by date order by log.id asc;';
+	else $q = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
+
 	$fillColor = '#000';
 
 	$conn = connect();
@@ -10,7 +12,6 @@ function timeline($q) {
 	if ($result->num_rows > 0) {
 		$rows = array();
 
-		//get query results
 		while ($row = $result->fetch_assoc()) {
 			array_push($rows, [$row['date'], $row['hours']]);
 		}

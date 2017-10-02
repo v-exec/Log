@@ -7,10 +7,13 @@ include 'assets/measure.php';
 include 'assets/list.php';
 include 'assets/graph.php';
 
-//logic and pageflow for log layout
+$type = checkType($l);
+
 function loadlog() {
 	global $l;
-	$hours = number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 1);
+	global $type;
+
+	$hours = getAllHours(null, null);
 
 	switch ($l) {
 		case 'home':
@@ -18,114 +21,57 @@ function loadlog() {
 			break;
 
 		case 'divisions':
-			$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
-			measures($query, $hours, 'division');
+			measures($l, 'division', null, $hours);
 			break;
 
 		case 'tasks':
-			$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
-			measures($query, $hours, 'task');
+			measures($l, 'task', null, $hours);
 			break;
 
 		case 'projects':
-			$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by hours desc;';
-			measures($query, $hours, 'project');
+			measures($l, 'project', null, $hours);
 			break;
 
 		default:
-			switch (checkType($l)) {
-				case 'division':
-					spec($l, 'division');
-					break;
-
-				case 'project':
-					spec($l, 'project');
-					break;
-
-				case 'task':
-					spec($l, 'task');
-					break;
-
-				default:
-					echo '<span class="title">No such page exists in the Log.</span>';
-					break;
-			}
+			if ($type != null) spec();
+			else echo '<span style="display: block; border-bottom: solid 1px #eee; width: 100%; padding: 40px; font-size: 24px;">No such page exists in the Log.</span>';
+			break;
 	}
 }
 
-//creates homepage
 function home($h) {
-	//title
-	title('select sum(log.time) as hours, count(*) as logs from log;');
+	global $l;
+	global $type;
 
-	//timeline
-	timeline('select log.date, sum(log.time) as hours from log group by date order by log.id asc;');
+	title($l, $type);
+	timeline($l, $type);
 
-	//120 day graph
-	$days = 120;
-	$graphData = setupGraph(false, $days, null);
-	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".'  order by log.id asc;';
-	graph($query, $graphData[2], $days, 0);
+	graph($l, 120, $type, $h);
+	graph($l, 14, $type, $h);
 
-	//14 day graph
-	$days = 14;
-	$graphData = setupGraph(false, $days, null);
-	$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
-	graph($query, $graphData[2], $days, 0);
-
-	//division measures
-	$query = 'select division.name as title, sum(log.time) as hours, count(*) as logs from log left join division on division.id = log.division_id group by title order by hours desc;';
-	measures($query, $h, 'division');
-
-	//tasks measures
-	$query = 'select task.name as title, sum(log.time) as hours, count(*) as logs from log left join task on task.id = log.task_id group by title order by hours desc;';
-	measures($query, $h, 'task');
-
-	//projects measures
-	$query = 'select project.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id group by title order by hours desc;';
-	measures($query, $h, 'project');
+	measures($l, 'division', null, $h);
+	measures($l, 'task', null, $h);
+	measures($l, 'project', null, $h);
 }
 
-//creates detailed page for project/task/division ($type) of given location ($l), using total hours ($h) of contextual topic
-function spec($l, $type) {
-	//get type of page
-	if ($type == 'task') $typeOpp = 'project';
-	else if ($type == 'project') $typeOpp = 'task';
-	else if ($type == 'division') $typeOpp = 'project';
+function spec() {
+	global $l;
+	global $type;
 
-	//get full number of hours for percentage calculations
-	$h = number_format(getnum('select sum(log.time) as hours from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';', 'hours'), 1);
+	$h = getAllHours($l, $type);
 
-	//title
-	$query = 'select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';';
-	title($query);
+	title($l, $type);
+	timeline($l, $type);
+	graph($l, 0, $type, $h);
 
-	//timeline
-	$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
-	timeline($query);
-
-	//graph
-	$graphData = setupGraph(true, 0, $type);
-	if ($type == 'division') {
-		$query = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
-		graph($query, $graphData[2], $graphData[3], 2);
-	} else {
-		$query = 'select division.name as title, log.date, log.time as hours, '.$type.'.name as type from log left join division on division.id = log.division_id join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
-		graph($query, $graphData[2], $graphData[3], 1);
-	}
-
-	//if not division, make division measures
 	if ($type != 'division') {
-		$query = 'select '.$type.'.name as main, division.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;';
-		measures($query, $h, 'division');
+		measures($l, 'division', $type, $h);
+		measures($l, getOppositeType($type), $type, $h);
+	} else {
+		measures($l, 'task', $type, $h);
+		measures($l, 'project', $type, $h);
 	}
 
-	//measures
-	$query = 'select '.$type.'.name as main, '.$typeOpp.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by title order by hours desc;';
-	measures($query, $h, $typeOpp);
-
-	//loglist
-	$query = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;';
-	loglist($query);
+	loglist($l, $type, 10);
 }
 ?>

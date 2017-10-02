@@ -1,14 +1,18 @@
 <?php
-//creates graph of delimited days of logs ($n number of logs) within the contextual location ($spec 0 = all logs, $spec 1 = project/task, $spec 2 = division) and each division's daily involvement, using total log hours ($h), through given query ($q)
-function graph($q, $h, $n, $spec) {
-	//get colors
+function graph($l, $desiredDays, $type, $h) {
+	$graphData = setupGraph($l, $desiredDays, $type);
+
+	$h = $graphData[2];
+	$desiredDays = $graphData[3];
+
+	if ($type === 'project' || $type === 'task') $q = 'select division.name as title, log.date, log.time as hours, '.$type.'.name as type from log left join division on division.id = log.division_id join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".' order by log.id asc;';
+	else $q = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id where date between '."'".$graphData[0]."'".' and '."'".$graphData[1]."'".'  order by log.id asc;';
+
 	global $abstractColor;
 	global $codeColor;
 	global $audioColor;
 	global $visualColor;
 	global $personalColor;
-
-	global $l;
 
 	$conn = connect();
 	$result = $conn->query($q);
@@ -18,8 +22,8 @@ function graph($q, $h, $n, $spec) {
 
 		//get query results
 		while ($row = $result->fetch_assoc()) {
-			if ($spec == 1) array_push($rows, [$row['date'], $row['title'], $row['hours'], $row['type']]);
-			else if ($spec == 0 || $spec == 2) array_push($rows, [$row['date'], $row['title'], $row['hours']]);
+			if ($type === 'project' || $type === 'task') array_push($rows, [$row['date'], $row['title'], $row['hours'], $row['type']]);
+			else array_push($rows, [$row['date'], $row['title'], $row['hours']]);
 		}
 
 		//days array holds all days and their logs
@@ -30,7 +34,7 @@ function graph($q, $h, $n, $spec) {
 		$now = $rows[0][0];
 
 		//get date offset
-		if (!$spec) {
+		if (!$type) {
 			$today = new DateTime();
 			$recent = new DateTime($now);
 			$difference = $today->diff($recent)->format("%a");
@@ -39,11 +43,11 @@ function graph($q, $h, $n, $spec) {
 		}
 
 		//fill $days array with set number of days ($n)
-		for ($i = 0; $i < $n; $i++) {
+		for ($i = 0; $i < $desiredDays; $i++) {
 			array_push($days, null);
 		}
 
-		$dayCount = $n + - 1 - $difference;
+		$dayCount = $desiredDays + - 1 - $difference;
 
 		//pass through all logs, separate them into each $day, fill each $day with its respective logs, and then put every $day into $days
 		for ($i = 0; $i < sizeof($rows); $i++) {
@@ -55,12 +59,12 @@ function graph($q, $h, $n, $spec) {
 
 				$day = array();
 			}
-			if ($spec == 1) {
+			if ($type == 'project' || $type == 'task') {
 				if (strtolower($rows[$i][3]) === $l) array_push($day, [$rows[$i][1], $rows[$i][2]]);
 				else array_push($day, $rows[$i][1], 0);
-			} else if ($spec == 0) {
+			} else if ($type == null) {
 				array_push($day, [$rows[$i][1], $rows[$i][2]]);
-			} else if ($spec == 2) {
+			} else if ($type == 'division') {
 				if (strtolower($rows[$i][1]) === $l) array_push($day, [$rows[$i][1], $rows[$i][2]]);
 				else array_push($day, $rows[$i][1], 0);
 			}
@@ -235,15 +239,11 @@ function graph($q, $h, $n, $spec) {
 	$conn->close();
 }
 
-//sets up graph delimitations (to specific number of days $d if set) (according to contextual topic if $s, by using type $t)
-function setupGraph($s, $d, $t) {
-	$graphData = array();
+function setupGraph($l, $desiredDays, $type) {
 
 	//if spec page, find delimitations of contextual topic's logs
-	if ($s) {
-		global $l;
-
-		$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$t.'.name = '."'".$l."'".' group by date order by log.id asc;';
+	if ($type != null) {
+		$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
 
 		$conn = connect();
 		$result = $conn->query($query);
@@ -257,7 +257,7 @@ function setupGraph($s, $d, $t) {
 			}
 
 			//if no specified day number is set, get timespan dynamically
-			if ($d == 0) {
+			if ($desiredDays == 0) {
 				$first = new DateTime($rows[sizeof($rows)-1][0]);
 				$first = $first->sub(new DateInterval('P1D'));
 				$last = new DateTime($rows[0][0]);
@@ -282,7 +282,7 @@ function setupGraph($s, $d, $t) {
 			$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
 			$old = $old->format('Y-m-d');
 
-			$hours = getNum('select sum(time) as num_hours, '.$t.'.name as type from log left join '.$t.' on '.$t.'.id = log.'.$t.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$t.'.name = '."'".$l."'".';', 'num_hours');
+			$hours = getNum('select sum(time) as num_hours, '.$type.'.name as type from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$type.'.name = '."'".$l."'".';', 'num_hours');
 
 			$conn->close();
 
@@ -293,12 +293,14 @@ function setupGraph($s, $d, $t) {
 		$now = $now->format('Y-m-d');
 
 		$old = new DateTime($now);
-		$old = $old->sub(new DateInterval('P'.($d - 1).'D'));
+		$old = $old->sub(new DateInterval('P'.($desiredDays - 1).'D'));
 		$old = $old->format('Y-m-d');
 
 		$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
 
-		return array($old, $now, $hours);
+		$days = $desiredDays;
+
+		return array($old, $now, $hours, $days);
 	}
 }
 ?>

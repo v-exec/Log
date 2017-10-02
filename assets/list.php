@@ -1,6 +1,10 @@
 <?php
 //creates loglist of given query ($q), limit to 10 logs
-function loglist($q) {
+function loglist($l, $type, $limit) {
+	
+	if ($l == null || $l == 'home') $q = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id order by log.id asc;';
+	else $q = 'select log.date, log.time, project.name as project, task.name as task, log.details from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;';
+
 	$conn = connect();
 	$result = $conn->query($q);
 	if ($result->num_rows > 0) {
@@ -12,7 +16,7 @@ function loglist($q) {
 		}
 
 		//display logs
-		$displayLogCount = 10;
+		$displayLogCount = $limit;
 
 		if (sizeof($rows) > $displayLogCount) $size = $displayLogCount;
 		else $size = sizeof($rows);

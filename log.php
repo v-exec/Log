@@ -70,22 +70,14 @@ include 'assets/construct.php';
 			</div>
 			<div class="footer-right">
 				<span class="footer-text">
-					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getnum("select count(distinct(date)) as num_days from log;", "num_days");?> days</a><br>
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getAllDays(null, null);?> days</a><br>
 					<a href="http://log.v-os.ca" class="neutral-link">updated
-					<?php
-					$now = new DateTime();
-					$now = $now->sub(new DateInterval('P1D'));
-					$recent = new DateTime(getnum("select max(date) as num_date from log;", "num_date"));
-					$difference = $now->diff($recent)->format("%a");
-					if ($difference <= 0) echo "today";
-					else if ($difference == 1) echo $difference." day ago";
-					else echo $difference." days ago";
-					?>
+					<?php echo getLastUpdate();?>
 					</a>
 				</span>
 				<span class="footer-text">
-					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.number_format(getnum("select sum(time) as num_hours from log;", "num_hours"), 0, '.', '');?> hours</a><br>
-					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getnum("select count(*) as num_logs from log;", "num_logs");?> logs</a>
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getAllHours(null, null);?> hours</a><br>
+					<?php echo '<a href="http://log.v-os.ca" class="neutral-link">'.getAllLogs(null, null);?> logs</a>
 				</span>
 			</div>
 		</div>

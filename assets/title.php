@@ -1,23 +1,21 @@
 <?php
-//creates title of given query ($q)
-function title($q) {
-	global $l;
+function title($l, $type) {
+
+	if ($l == null || $l == 'home') $q = 'select sum(log.time) as hours, count(*) as logs from log;';
+	else $q = 'select sum(log.time) as hours, count(*) as logs from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where '.$type.'.name = '."'".$l."'".';';
 
 	$conn = connect();
 	$result = $conn->query($q);
 
-	//get query results
 	if ($result->num_rows > 0) {
 		$row = $result->fetch_assoc();
 		$hours = $row['hours'];
 		$logs = $row['logs'];
 	}
 
-	//get proper phrasing for hour and log numbers
 	$hourphrase = pluralize('hour', number_format($hours, 0, '.', ''));
 	$logphrase = pluralize('log', $logs);
 	
-	//display title data
 	echo
 	'
 	<div class="title-container">

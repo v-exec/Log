@@ -1,11 +1,9 @@
 <?php
-//creates the measures for tasks/projects/divisions of given query ($q), calculates percentage of time of total given hours ($h), and creates measure slices according to divisions,
-//using page type ($t) as indicator of what links to draw when querying database
-function measures($q, $h, $t) {
-	//get location
-	global $l;
+function measures($l, $measureType, $pageType, $h) {
 
-	//get colors
+	if (!$pageType) $q = 'select '.$measureType.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id group by title order by hours desc;';
+	else $q = 'select '.$pageType.'.name as main, '.$measureType.'.name as title, sum(log.time) as hours, count(*) as logs from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$pageType.'.name = '."'".$l."'".' group by title order by hours desc;';
+	
 	global $abstractColor;
 	global $codeColor;
 	global $audioColor;
@@ -17,7 +15,6 @@ function measures($q, $h, $t) {
 	if ($result->num_rows > 0) {
 		$rows = array();
 
-		//get query results
 		while ($row = $result->fetch_assoc()) {
 			array_push($rows, [$row['title'], $row['hours'], $row['logs']]);
 		}
@@ -33,9 +30,9 @@ function measures($q, $h, $t) {
 		echo '<div class="measures-container">';
 		
 		//title
-		if ($t === 'task') echo '<a href="tasks" class="measures-title">Tasks</a>';
-		else if ($t === 'project') echo '<a href="projects" class="measures-title">Projects</a>';
-		else if ($t === 'division') echo '<a href="divisions" class="measures-title">Divisions</a>';
+		if ($measureType === 'task') echo '<a href="tasks" class="measures-title">Tasks</a>';
+		else if ($measureType === 'project') echo '<a href="projects" class="measures-title">Projects</a>';
+		else if ($measureType === 'division') echo '<a href="divisions" class="measures-title">Divisions</a>';
 
 		echo '<div style="width: 100%";></div>';
 
@@ -46,14 +43,8 @@ function measures($q, $h, $t) {
 			if ($h > 10 && $rows[$i][0] == 'Personal' && ($rows[$i][1] / $h * 100) < 5 || $rows[$i][0] == 'None') continue;
 
 			//get measure division ratio
-			$pageType = checkType($l);
-			if (!$pageType) {
-				$query = 'select '.$t.'.name as title, division.name as division, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$t.'.name = '."'".$rows[$i][0]."'".' group by division;';
-			} else {
-				$query = 'select '.$t.'.name as title, division.name as division, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$t.'.name = '."'".$rows[$i][0]."'".' and '.$pageType.'.name = '."'".$l."'".' group by division;';
-			}
-			
-			$ratio = getDivisionRatio($query);
+			if (!$pageType) $ratio = getDivisionRatio(null, null, $rows[$i][0], $measureType);
+			else $ratio = getDivisionRatio($l, $pageType, $rows[$i][0], $measureType);
 
 			//get proper phrasing for hour and log numbers
 			$hourphrase = pluralize('hour', number_format($rows[$i][1], 0, '.', ''));
