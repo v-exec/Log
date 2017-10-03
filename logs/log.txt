@@ -38,7 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.10.02   1.0   Purity                        Development       Code            Small parsing fixes.
+2017.10.02   0.5   Witer                         Development       Code            Web interfaces.
+2017.10.02   1.0   Witer                         Research          Code            Web interfaces.
+2017.10.02   1.5   Perfectus Empatheia           Design            Visual          Deck printing and organizing.
+2017.10.02   0.5   Jam                           Acoustic          Audio           Guitar and keyboard.
+2017.10.02   1.0   Purity                        Development       Code            Small formatting fixes.
 2017.10.02   0.5   LOGO                          Development       Code            Add index.
 2017.10.01   2.0   Perfectus Empatheia           Graphic           Visual          Visuals cleanup, print sheets.
 2017.10.01   1.0   V-OS                          Development       Code            Styling fixes.
@@ -50,7 +54,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.30   1.0   Eyebat                        Modeling          Visual          Eyebat modeling.
 2017.09.29   1.0   Study                         Research          Abstract        User interfacing, game psychology.
 2017.09.29   1.0   Study                         Research          Abstract        User interfacing, game psychology.
-2017.09.29   4.0   LOGO                          Development       Code            Local commands implementation.
+2017.09.29   1.0   LOGO                          Research          Code            Local commands implementation.
+2017.09.29   3.0   LOGO                          Development       Code            Local commands implementation.
 2017.09.29   1.0   LOGO                          Design            Abstract        Basic setup and speech.
 2017.09.29   0.5   Perfectus Empatheia           Writing           Visual          Documentation and communication.
 2017.09.29   2.5   Perfectus Empatheia           Graphic           Visual          Logo and visual support for instructions.
@@ -79,7 +84,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.23   0.5   Study                         Research          Audio           Role of silence in acoustic composition and life.
 2017.09.22   1.0   DotCycle                      Composition       Audio           Sound composition.
 2017.09.22   0.5   Study                         Research          Abstract        Game design study.
-2017.09.22   1.0   Study                         Development       Code            MaxMSP practice.
+2017.09.22   1.0   Study                         Development       Code            MaxMSP.
 2017.09.22   0.5   Doodle                        Graphic           Visual          FLOP cover photo.
 2017.09.22   2.0   Perfectus Empatheia           Graphic           Visual          Visual instructions.
 2017.09.21   2.0   DotCycle                      Design            Abstract        Level design.
@@ -179,7 +184,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.25   8.5   Rotonde                       Development       Code            Rewrite client in javascript.
 2017.08.25   0.5   Study                         Research          Personal        Stunts.
 2017.08.24   1.0   Study                         Research          Personal        Nutrition.
-2017.08.24   0.5   Jam                           Acoustic          Audio           Vocals practice.
+2017.08.24   0.5   Jam                           Acoustic          Audio           Vocals.
 2017.08.24   1.0   DimoRat                       Development       Code            Collisions and damage.
 2017.08.24   1.0   Rig                           Research          Code            Linux set up and tinkering.
 2017.08.23   6.5   Rig                           Research          Code            Linux set up and tinkering.
@@ -227,7 +232,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.09   1.0   AGD                           Research          Abstract        Teaching.
 2017.08.08   1.0   DimoRat                       Design            Abstract        Theoretical game design.
 2017.08.08   1.5   AGD                           Research          Abstract        Teaching.
-2017.08.07   0.5   Jam                           Acoustic          Audio           Vocals practice.
+2017.08.07   0.5   Jam                           Acoustic          Audio           Vocals.
 2017.08.07   3.0   AGD                           Development       Code            Game development help.
 2017.08.07   1.0   AGD                           Research          Abstract        Teaching.
 2017.08.06   1.0   Jam                           Composition       Audio           Ether Sphere composition.
@@ -294,7 +299,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.07.15   2.0   Tinker                        Development       Code            Phone, tablet, and laptop debugging.
 2017.07.15   1.0   Doodle                        Photography       Visual          Experimental self-portrait.
 2017.07.15   0.5   Doodle                        Illustration      Visual          Experimental self-portrait.
-2017.07.15   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.07.15   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.07.15   2.0   AGD                           Development       Code            Example game development.
 2017.07.15   0.5   The Cosmic Affliction         Composition       Audio           Strider snare and mix fixes.
 2017.07.14   0.5   The Cosmic Affliction         Design            Audio           Album review.
@@ -304,7 +309,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.07.13   1.5   Doodle                        Photography       Visual          Lowe outing pictures editing.
 2017.07.13   0.5   The Cosmic Affliction         Composition       Audio           Dark Dye composition.
 2017.07.13   0.5   V-OS                          Development       Visual          Small visual tweaks across V-OS network.
-2017.07.12   0.5   Jam                           Acoustic          Audio           Guitar and vocals practice.
+2017.07.12   0.5   Jam                           Acoustic          Audio           Guitar and vocals.
 2017.07.12   2.5   AGD                           Writing           Abstract        Lecture presentation writing.
 2017.07.11   0.5   AGD                           Writing           Abstract        Lecture presentation writing.
 2017.07.10   1.0   Datum                         Development       Code            Movement system.
@@ -438,14 +443,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.26   3.0   Keyde                         Development       Code            UI, unique mode tuning, debugging, mode changing, mode transition, color easing, organization.
 2017.05.26   1.0   Keyde                         Design            Visual          UI, mode tuning.
 2017.05.26   0.5   The Cosmic Affliction         Design            Audio           Album review.
-2017.05.25   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.05.25   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.05.25   2.0   Keyde                         Development       Code            UI, menu screen, mode changing, controls.
 2017.05.24   3.0   Keyde                         Development       Visual          Audio implementation, harmonograph documentation.
 2017.05.23   0.5   Study                         Research          Abstract        Alchemy.
 2017.05.23   2.0   Keyde                         Design            Visual          Visuals dissection, modes interaction and transition, UI design.
 2017.05.22   0.5   Keyde                         Development       Visual          Audio implementation and graphics tuning.
 2017.05.22   1.5   Keyde                         Composition       Audio           Composition.
-2017.05.21   0.5   Jam                           Acoustic          Audio           Guitar and vocals practice.
+2017.05.21   0.5   Jam                           Acoustic          Audio           Guitar and vocals.
 2017.05.21   0.5   Keyde                         Composition       Audio           Composition.
 2017.05.21   1.0   V-OS                          Writing           Abstract        Verse writing.
 2017.05.21   0.5   Doodle                        Graphic           Visual          Analog image.
@@ -471,22 +476,22 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.11   0.5   The Cosmic Affliction         Composition       Audio           Thousand Year Dream composition.
 2017.05.11   0.5   The Cosmic Affliction         Design            Audio           Album structure and narrative refining.
 2017.05.11   2.5   Saturn                        Illustration      Visual          Drawing.
-2017.05.10   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.05.10   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.05.10   1.0   Saturn                        3D                Visual          3D fractal scavenging and rendering.
 2017.05.10   2.5   Keyde                         Development       Code            Sprite cloud.
 2017.05.09   1.0   Saturn                        3D                Visual          3D fractal scavenging.
 2017.05.09   1.0   Study                         Research          Abstract        Japanese poverty.
-2017.05.09   1.0   Jam                           Acoustic          Audio           Guitar and vocals practice.
+2017.05.09   1.0   Jam                           Acoustic          Audio           Guitar and vocals.
 2017.05.09   2.0   Keyde                         Research          Visual          Point cloud shaders and visual research.
 2017.05.08   0.5   Keyde                         Composition       Audio           Drone music production.
-2017.05.08   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.05.08   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.05.08   1.0   Keyde                         Design            Visual          Modes and visuals design.
-2017.05.07   1.0   Jam                           Acoustic          Audio           Guitar practice.
+2017.05.07   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.05.07   1.0   Keyde                         Illustration      Visual          Visuals research.
 2017.05.07   0.5   Study                         Research          Code            Neural networks and image processing.
 2017.05.07   0.5   The Cosmic Affliction         Composition       Audio           Spacefarer intro rework.
 2017.05.06   1.0   Study                         Research          Personal        Martial arts styles.
-2017.05.06   2.0   Jam                           Acoustic          Audio           Piano, guitar, vocal practice.
+2017.05.06   2.0   Jam                           Acoustic          Audio           Piano, guitar, vocal.
 2017.05.05   0.5   Doodle                        Graphic           Visual          Material symbol.
 2017.05.05   0.5   The Cosmic Affliction         Composition       Audio           Thousand Year Dream composition.
 2017.05.05   1.0   Study                         Research          Personal        Jordan Peterson: Psychology and interpersonal interaction and relationships.
@@ -494,7 +499,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.04   1.0   Study                         Research          Personal        Jordan Peterson: Psychology and interpersonal interaction and relationships.
 2017.05.04   0.5   The Cosmic Affliction         Design            Audio           Album review.
 2017.05.04   1.5   Rig                           Research          Visual          Microsoft themeing / styling system.
-2017.05.03   1.0   Jam                           Composition       Audio           Mixing and synthesis practice.
+2017.05.03   1.0   Jam                           Composition       Audio           Mixing and synthesis.
 2017.05.03   0.5   Keyde                         Research          Code            Networking research.
 2017.05.03   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer mixing and final compositional touches.
 2017.05.02   2.0   Keyde                         Research          Code            Networking research.
@@ -506,7 +511,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.01   1.5   Keyde                         Design            Abstract        Feature considerations, experience design.
 2017.05.01   1.0   Study                         Research          Abstract        Marxism, political correctness, social sciences.
 2017.04.30   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer structure refinement.
-2017.04.30   0.5   Jam                           Acoustic          Audio           Guitar and keyboard, composition practice.
+2017.04.30   0.5   Jam                           Acoustic          Audio           Guitar and keyboard, composition.
 2017.04.29   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.04.29   0.5   Doodle                        Photography       Visual          Skyventure family photos and videos editing.
 2017.04.29   2.5   V-OS                          Writing           Abstract        Runtime page writing and general updates.
@@ -515,7 +520,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.28   2.0   Keyde                         Development       Code            Procedural geometry.
 2017.04.28   2.0   Keyde                         Research          Code            Procedural geometry.
 2017.04.27   0.5   Study                         Research          Abstract        World-building.
-2017.04.27   1.0   Jam                           Acoustic          Audio           Guitar practice and composition.
+2017.04.27   1.0   Jam                           Acoustic          Audio           Guitar and composition.
 2017.04.26   0.5   Log                           Development       Code            Parsing system and database simplification.
 2017.04.26   2.0   Keyde                         Development       Code            Camera input and quick refactoring.
 2017.04.25   0.5   Saturn                        Graphic           Visual          Terrain and atmospherics compositing.
@@ -523,7 +528,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.25   0.5   Keyde                         Development       Code            Hardware input, data visualization.
 2017.04.25   4.0   Keyde                         Research          Code            Android permissions, hardware input.
 2017.04.24   0.5   Doodle                        3D                Visual          Scene testing.
-2017.04.24   0.5   Doodle                        Illustration      Visual          Drawing practice.
+2017.04.24   0.5   Doodle                        Illustration      Visual          Drawing.
 2017.04.24   1.0   Keyde                         Development       Code            Unity setup.
 2017.04.24   5.0   Keyde                         Research          Code            Foundation development, mobile, location, accelorometer, cardboard, Unity environment, camera integration.
 2017.04.23   0.5   Study                         Research          Abstract        Controls and 3D movement systems.
@@ -554,45 +559,45 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.15   4.0   The Cosmic Affliction         Composition       Audio           Saturn Rain composition, recording, mixing.
 2017.04.14   1.5   Study                         Research          Audio           Composition study.
 2017.04.14   2.5   Study                         Research          Code            Shaders study.
-2017.04.14   1.5   Jam                           Composition       Audio           Composition and synthesis practice.
+2017.04.14   1.5   Jam                           Composition       Audio           Composition and synthesis.
 2017.04.13   0.0   Various                       Event             Personal        Last day of classes.
 2017.04.13   0.5   Drone Dreams                  Performance       Audio           Drone music performance.
 2017.04.12   3.0   Drone Dreams                  Development       Visual          Visuals development.
 2017.04.12   2.5   Log                           Development       Code            Timeline visualization, adjustments.
 2017.04.11   1.0   Elyium                        Design            Visual          Desktop version user interfacing.
 2017.04.11   1.5   Elyium                        Development       Code            Desktop version, organization, future feature set up and conceptualization.
-2017.04.10   1.0   Jam                           Composition       Audio           Mixing and synthesis practice.
+2017.04.10   1.0   Jam                           Composition       Audio           Mixing and synthesis.
 2017.04.10   0.5   Study                         Writing           Abstract        Societies of discipline and control.
 2017.04.09   1.0   Study                         Writing           Abstract        Societies of discipline and control.
-2017.04.09   2.0   Jam                           Composition       Audio           Composition practice.
+2017.04.09   2.0   Jam                           Composition       Audio           Composition.
 2017.04.08   0.5   Drone Dreams                  Research          Code            Local network setup and testing.
 2017.04.08   0.5   Elyium                        Writing           Abstract        Description updates.
 2017.04.08   4.0   Elyium                        Development       Code            Entity interaction system, debugging, custom save file handling.
 2017.04.07   0.5   Drone Dreams                  Composition       Audio           Tracks mix.
-2017.04.07   0.5   Jam                           Acoustic          Audio           Synth keyboard practice.
+2017.04.07   0.5   Jam                           Acoustic          Audio           Synth keyboard.
 2017.04.07   0.5   Elyium                        Writing           Abstract        Entities writing.
 2017.04.06   1.5   Elyium                        Development       Code            Custom save file handling.
 2017.04.06   2.0   Elyium                        Writing           Abstract        Public documentation, guide to writing for Elyium.
 2017.04.06   1.0   Elyium                        Writing           Abstract        Entities writing.
 2017.04.06   0.5   Drone Dreams                  Research          Code            Javascript and html canvas.
 2017.04.05   2.0   Drone Dreams                  Composition       Audio           Composition.
-2017.04.05   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.04.05   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.04.05   3.0   Elyium                        Development       Code            Saving system and input field fix, custom saving implementation, optimizations, debugging.
 2017.04.04   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer composition.
 2017.04.04   0.5   Study                         Research          Abstract        Anthropocene.
 2017.04.04   6.5   Elyium                        Development       Code            Save and load functionality, testing, debugging.
 2017.04.03   5.5   V-OS                          Development       Visual          Log link integration, template system expansion, css fixes, content migration.
-2017.04.02   0.5   Jam                           Composition       Audio           Sound synthesis and composition practice.
+2017.04.02   0.5   Jam                           Composition       Audio           Sound synthesis and composition.
 2017.04.02   2.0   V-OS                          Writing           Abstract        V-OS page for V-OS, LinkedIn page, V-OS rewrites.
 2017.04.02   0.5   Elyium                        Development       Code            Conflict reset feature and writing fix.
-2017.04.02   1.5   Jam                           Acoustic          Audio           Guitar practice.
-2017.04.01   1.0   Jam                           Acoustic          Audio           Guitar practice.
+2017.04.02   1.5   Jam                           Acoustic          Audio           Guitar.
+2017.04.01   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.04.01   3.0   Interactive Narratives        Writing           Abstract        Narrative in interactive media research.
 2017.03.31   0.5   Log                           Development       Code            Apostrophe escape, testing, documentation, bugfixes.
 2017.03.31   1.0   Interactive Narratives        Writing           Abstract        Narrative in interactive media research.
 2017.03.31   0.5   V-OS                          Development       Code            Security testing and development.
 2017.03.30   1.0   Study                         Research          Abstract        MBTI and social typology.
-2017.03.30   1.0   Jam                           Acoustic          Audio           Guitar practice.
+2017.03.30   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.03.30   0.5   Study                         Writing           Abstract        Exploration of societies and control structures.
 2017.03.29   2.0   Drone Dreams                  Composition       Audio           Audio synthesis theory, collaborative experimentation.
 2017.03.29   1.0   Drone Dreams                  Writing           Abstract        Presentation and artist's statement.
@@ -606,7 +611,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.25   0.5   Rig                           Development       Code            Rainmeter skin.
 2017.03.25   2.0   Elyium                        Development       Code            Interface refactoring.
 2017.03.24   1.0   V-OS                          Writing           Abstract        Temporalis and verse writing.
-2017.03.24   0.5   Jam                           Acoustic          Audio           Recording experimentation, minor vocals practice.
+2017.03.24   0.5   Jam                           Acoustic          Audio           Recording experimentation, vocals.
 2017.03.24   0.5   Various                       Writing           Abstract        CloudCrusher (SkyCandy) documentation and V-OS page.
 2017.03.24   2.0   Elyium                        Development       Code            Entity spawning system.
 2017.03.23   1.5   Study                         Writing           Abstract        Body and embodiment in new media.
@@ -617,7 +622,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.21   0.5   Study                         Composition       Audio           Composition and experimentation.
 2017.03.21   0.5   Study                         Research          Abstract        Body and embodiment in new media.
 2017.03.20   0.5   Doodle                        Graphic           Visual          SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
-2017.03.20   0.5   Doodle                        Illustration      Visual          Drawing practice.
+2017.03.20   0.5   Doodle                        Illustration      Visual          Drawing.
 2017.03.19   0.5   Tinker                        Development       Code            Particle system desert in Processing.
 2017.03.19   0.5   Tinker                        Design            Visual          Particle system desert in Processing.
 2017.03.18   1.5   Interactive Narratives        Writing           Abstract        Narrative in interactive media research.
@@ -634,7 +639,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.12   1.0   V-OS                          Writing           Abstract        Log integration.
 2017.03.12   1.0   Log                           Graphic           Visual          Log logo.
 2017.03.12   8.0   Log                           Development       Code            Web development, SQL connectivity, tasks page, and V-OS page.
-2017.03.11   1.0   Jam                           Acoustic          Audio           Guitar practice.
+2017.03.11   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.03.11   1.0   V-OS                          Design            Abstract        Preparation for logging tool page.
 2017.03.11   2.0   Log                           Graphic           Visual          Interface design.
 2017.03.11   2.0   Log                           Design            Abstract        Log organization.
@@ -643,14 +648,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.10   2.5   Log                           Design            Abstract        Database design and development.
 2017.03.10   0.5   Drone Dreams                  Writing           Abstract        Documentation and V-OS page.
 2017.03.10   0.5   Elyium                        Development       Code            Interface refactoring.
-2017.03.10   1.0   Jam                           Acoustic          Audio           Guitar practice.
-2017.03.09   1.0   Jam                           Acoustic          Audio           Guitar practice.
+2017.03.10   1.0   Jam                           Acoustic          Audio           Guitar.
+2017.03.09   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.03.09   4.0   Drone Dreams                  Development       Code            PureData debugging, testing, communication system finalization.
 2017.03.09   0.5   Study                         Research          Abstract        Artificial intelligence.
 2017.03.08   3.5   Drone Dreams                  Development       Code            Communication system development.
 2017.03.07   3.5   Study                         Writing           Abstract        Noise and communication theory.
 2017.03.07   1.0   Drone Dreams                  Research          Code            NodeJS and server research.
-2017.03.07   0.5   Jam                           Acoustic          Audio           Guitar practice.
+2017.03.07   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.03.07   2.0   Qurotema                      Videography       Visual          Edit and upload Quro video.
 2017.03.07   0.5   Doodle                        Graphic           Visual          Script edits.
 2017.03.06   2.0   Doodle                        Graphic           Visual          Rework script and create font.
@@ -658,7 +663,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.05   0.5   AGD                           Design            Abstract        Game design curriculum writing.
 2017.03.05   4.0   Drone Dreams                  Development       Code            PureData patch development.
 2017.03.05   0.5   Drone Dreams                  Research          Code            PureData research.
-2017.03.05   1.0   Jam                           Acoustic          Audio           Guitar practice.
+2017.03.05   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.03.05   1.0   Rig                           Maintenance       Personal        Update backup.
 2017.03.04   0.5   Drone Dreams                  Graphic           Visual          Ven logo creation.
 2017.03.04   4.0   Drone Dreams                  Development       Code            NodeJS setup, server and interface development.
@@ -669,11 +674,11 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.01   7.0   Elyium                        Development       Code            Narrative interfacing, data structure refinement, conditional conflicts development.
 2017.02.28   0.5   V-OS                          Writing           Abstract        Documentation rewrite.
 2017.02.28   1.5   V-OS                          Design            Abstract        Project reorganization.
-2017.02.28   0.5   Doodle                        Illustration      Visual          Drawing practice.
+2017.02.28   0.5   Doodle                        Illustration      Visual          Drawing.
 2017.02.28   3.0   Elyium                        Writing           Abstract        Commentary and additional documentation.
 2017.02.27   1.0   Log                           Research          Code            MySQL study.
 2017.02.27   0.5   Study                         Research          Visual          Rendering study.
-2017.02.27   1.5   Doodle                        Illustration      Visual          Drawing practice.
+2017.02.27   1.5   Doodle                        Illustration      Visual          Drawing.
 2017.02.27   0.5   Study                         Research          Abstract        Interaction in new media.
 2017.02.26   2.0   Elyium                        Development       Code            Interface expansion.
 2017.02.26   2.0   Doodle                        Research          Visual          Identity design visual review.
@@ -694,7 +699,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.21   1.5   Doodle                        3D                Visual          Materials creation, lighting and rendering.
 2017.02.20   3.5   Elyium                        Development       Code            Data structure creation.
 2017.02.20   5.0   Study                         Research          Visual          Blender material system study.
-2017.02.20   1.0   Doodle                        Illustration      Visual          Illustration practice with odd brushes.
+2017.02.20   1.0   Doodle                        Illustration      Visual          Illustration with odd brushes.
 2017.02.19   0.5   Study                         Research          Visual          Blender material system nodes research.
 2017.02.19   4.0   Elyium                        Development       Code            Database, narrative, and interface development.
 2017.02.18   2.5   Elyium                        Design            Code            Database and narrative system redesign.
@@ -729,7 +734,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.06   1.0   Ontologica                    Development       Visual          Refine level, add environment animation.
 2017.02.06   0.5   Study                         Research          Abstract        Computation in new media.
 2017.02.05   4.0   Elyium                        Design            Code            Further development and design for narrative generation.
-2017.02.05   2.5   Jam                           Acoustic          Audio           Guitar practice, sound experimentation.
+2017.02.05   2.5   Jam                           Acoustic          Audio           Guitar, sound experimentation.
 2017.02.05   1.0   Ontologica                    Development       Visual          Rebuild level in Unreal.
 2017.02.04   9.0   Elyium                        Development       Code            Preliminary infrastructure development, image-to-ascii algorithm.
 2017.02.04   1.0   VisN                          Acoustic          Audio           Edit Mantycore reading, add to Unity scene.
