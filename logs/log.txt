@@ -41,8 +41,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.03   2.0   Witer                         Development       Code            Modular interfacing engine.
 2017.10.03   2.5   Study                         Research          Audio           MaxMSP.
 2017.10.03   2.0   TA253                         Research          Code            Code help.
+2017.10.03   1.5   Perfectus Empatheia           Design            Abstract        Testing and feedback.
 2017.10.02   0.5   Witer                         Development       Code            Modular interfacing engine.
 2017.10.02   0.5   Witer                         Research          Code            Modular interfacing engine.
+2017.10.02   1.5   Perfectus Empatheia           Design            Visual          Priting and organizing.
 2017.10.02   0.5   Jam                           Acoustic          Audio           Guitar and keyboard.
 2017.10.02   1.0   Purity                        Development       Code            Small formatting fixes.
 2017.10.02   0.5   LOGO                          Development       Code            Add index.
