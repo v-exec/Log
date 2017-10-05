@@ -38,12 +38,15 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.10.03   2.0   Witer                         Development       Code            Modular interfacing engine.
+2017.10.04   0.5   Doodle                        Graphic           Visual          Give me milk logo.
+2017.10.04   3.0   Study                         Modeling          Visual          UVs.
+2017.10.04   3.5   Wite                          Development       Code            Modular interfacing engine.
+2017.10.03   2.0   Wite                          Development       Code            Modular interfacing engine.
 2017.10.03   2.5   Study                         Research          Audio           MaxMSP.
 2017.10.03   2.0   TA253                         Research          Code            Code help.
 2017.10.03   1.5   Perfectus Empatheia           Design            Abstract        Testing and feedback.
-2017.10.02   0.5   Witer                         Development       Code            Modular interfacing engine.
-2017.10.02   0.5   Witer                         Research          Code            Modular interfacing engine.
+2017.10.02   1.0   Wite                          Development       Code            Modular interfacing engine.
+2017.10.02   0.5   Wite                          Research          Code            Modular interfacing engine.
 2017.10.02   1.5   Perfectus Empatheia           Design            Visual          Priting and organizing.
 2017.10.02   0.5   Jam                           Acoustic          Audio           Guitar and keyboard.
 2017.10.02   1.0   Purity                        Development       Code            Small formatting fixes.
