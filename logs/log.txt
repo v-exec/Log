@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.06   3.0   Wite                          Development       Code            Feed and profile implementation, styling.
+2017.10.06   2.5   TA253                         Research          Code            Correction.
+2017.10.06   1.5   Perfectus Empatheia           Writing           Abstract        Design review.
+2017.10.06   0.5   Doodle                        Graphic           Visual          Give me milk logo rework.
 2017.10.05   0.5   Doodle                        3D                Visual          Give me milk UV map.
 2017.10.05   1.5   Doodle                        Graphic           Visual          Give me milk logo.
 2017.10.05   2.5   Study                         Research          Abstract        Technosphere and personal development, emergence and complex systems, ludology and narratology, religion and intellectualism.
