@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.07   0.5   Study                         Research          Abstract        Chess game strategization.
+2017.10.07   3.5   V-OS                          Writing           Abstract        Documentation and verse writing.
+2017.10.07   3.0   Wite                          Development       Code            Feed and profile styling, faux chat implementation.
+2017.10.06   1.0   Study                         Research          Abstract        Storytelling.
 2017.10.06   3.0   Wite                          Development       Code            Feed and profile implementation, styling.
 2017.10.06   2.5   TA253                         Research          Code            Correction.
 2017.10.06   1.5   Perfectus Empatheia           Writing           Abstract        Design review.
