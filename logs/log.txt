@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.09   4.0   Tinker                        Development       Code            HTML and CSS teaching.
+2017.10.09   4.0   Atomic AI                     3D                Visual          Modifier experimentation and rendering.
+2017.10.09   2.5   Study                         3D                Visual          Texturing and experimental modeling.
 2017.10.08   2.0   V-OS                          Development       Visual          Styling experimentation.
 2017.10.08   1.5   Various                       Performance       Abstract        DPWS Battlefront 2 stream.
 2017.10.08   1.0   Atomic AI                     3D                Visual          Modifier experimentation and rendering.
@@ -52,6 +55,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.05   0.5   Doodle                        3D                Visual          Give me milk UV map.
 2017.10.05   1.5   Doodle                        Graphic           Visual          Give me milk logo.
 2017.10.05   2.5   Study                         Research          Abstract        Technosphere and personal development, emergence and complex systems, ludology and narratology, religion and intellectualism.
+2017.10.05   0.0   Various                       Event             Personal        Obx interview and boarding.
 2017.10.04   0.5   Doodle                        Graphic           Visual          Give me milk logo.
 2017.10.04   3.0   Study                         Modeling          Visual          UVs.
 2017.10.04   3.5   Wite                          Development       Code            Modular interfacing engine.
