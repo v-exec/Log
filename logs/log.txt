@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.10   1.5   Study                         Research          Audio           Synthesizers and synthesis.
+2017.10.10   2.0   TA253                         Research          Code            Code help.
+2017.10.10   3.5   Study                         Research          Abstract        Design, game design, loop of execution and evaluation.
 2017.10.09   4.0   Tinker                        Development       Code            HTML and CSS teaching.
 2017.10.09   4.0   Atomic AI                     3D                Visual          Modifier experimentation and rendering.
 2017.10.09   2.5   Study                         3D                Visual          Texturing and experimental modeling.
