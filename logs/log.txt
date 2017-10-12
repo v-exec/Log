@@ -16,7 +16,7 @@ Linguistics                Language Development
 Graphic                    2D Graphic Development
 Illustration               Drawing
 3D                         Generating, Texturing, Lighting, and Rendering
-Modeling                   Modeling, Sculpting, Rigging, and Animating
+Modeling                   Modeling, Sculpting, Rigging, Texturing, and Animating
 Videography                Video FIlming and Editing
 Photography                Picture Taking and Editing
 Composition                Composing, Producing, and Mixing
@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.11   2.5   Atomic AI                     3D                Visual          Texturing, lighting, and rendering.
+2017.10.11   1.5   Eyebat                        Modeling          Visual          UV unwrapping.
+2017.10.11   2.5   Doodle                        Modeling          Visual          UV unwrapping.
+2017.10.11   1.0   Study                         Research          Abstract        Alternative social media interfacing.
 2017.10.10   1.5   Study                         Research          Audio           Synthesizers and synthesis.
 2017.10.10   2.0   TA253                         Research          Code            Code help.
 2017.10.10   3.5   Study                         Research          Abstract        Design, game design, loop of execution and evaluation.
