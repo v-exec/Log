@@ -38,6 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.17   0.5   Qurotema                      Development       Code            Unreal Engine development.
+2017.10.17   0.5   Study                         Writing           Abstract        Tabletop RPG scenario writing.
+2017.10.17   1.0   Study                         Research          Code            Analog hardware.
+2017.10.17   3.0   TA253                         Research          Code            Code help.
+2017.10.17   3.0   Study                         Research          Abstract        Narrative and storytelling capacity of games.
 2017.10.16   3.5   Tinker                        Development       Code            Javascript.
 2017.10.16   1.5   Qurotema                      Development       Code            Unreal Engine development.
 2017.10.15   1.5   TA253                         Research          Code            Correction.
