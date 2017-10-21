@@ -38,12 +38,17 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.20   6.0   Qurotema                      Modeling          Visual          Procedural textures.
+2017.10.20   1.0   Eyebat                        Modeling          Visual          Texture painting.
+2017.10.19   2.0   Jam                           Acoustic          Audio           Piano, guitar.
+2017.10.19   3.5   Tinker                        Development       Audio           Additive synthesizer programming.
+2017.10.19   0.5   Study                         Writing           Abstract        Tabletop RPG scenario writing.
 2017.10.18   0.5   Jam                           Acoustic          Audio           Piano.
 2017.10.18   2.5   Doodle                        3D                Visual          Texturing.
 2017.10.18   0.5   Study                         Writing           Abstract        Tabletop RPG scenario writing.
-2017.10.17   0.5   Qurotema                      Development       Visual          Unreal Engine development.
+2017.10.17   0.5   Qurotema                      Modeling          Visual          Unreal Engine development.
 2017.10.17   0.5   Study                         Writing           Abstract        Tabletop RPG scenario writing.
-2017.10.17   1.0   Study                         Research          Code            Analog hardware.
+2017.10.17   1.0   Study                         Research          Code            Analog audio synthesis hardware.
 2017.10.17   3.0   TA253                         Research          Code            Code help.
 2017.10.17   3.0   Study                         Research          Abstract        Narrative and storytelling capacity of games.
 2017.10.16   3.5   Tinker                        Development       Code            Javascript.
