@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.21   1.0   Atomic AI                     3D                Visual          Modifier crafting (3).
+2017.10.21   1.0   Eyebat                        Modeling          Visual          Texture painting.
+2017.10.21   3.5   Qurotema                      Modeling          Visual          Procedural textures.
 2017.10.20   6.0   Qurotema                      Modeling          Visual          Procedural textures.
 2017.10.20   1.0   Eyebat                        Modeling          Visual          Texture painting.
 2017.10.19   2.0   Jam                           Acoustic          Audio           Piano, guitar.
