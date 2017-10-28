@@ -15,9 +15,9 @@ Writing                    Narrative, Research, Documentation, and Communication
 Linguistics                Language Development
 Graphic                    2D Graphic Development
 Illustration               Drawing
-3D                         Generating, Lighting, and Rendering
-Modeling                   Modeling, Sculpting, Rigging, Texturing, and Animating
-Videography                Video FIlming and Editing
+3D                         Generation, Animation, Lighting, and Rendering
+Modeling                   Modeling, Sculpting, Rigging, Texturing, Animation
+Videography                Video Filming and Editing
 Photography                Picture Taking and Editing
 Composition                Composing, Producing, and Mixing
 Acoustic                   Instrument Play and Recording
@@ -29,15 +29,29 @@ None                       Nothing
 
 #ARCH PROJECTS             Overarching activities that are individually too small to be considered as projects but add up to significant amounts of time, long-term
 
-#Study                     Learning activities (abstract)
+#Study                     Learning activities
 #Jam                       Audio activities (audio)
 #Doodle                    Visual activities (visual)
-#Tinker                    Development and design activities (code)
+#Tinker                    Development and design activities (code / abstract)
 #Various                   Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
 #None                      Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.10.27   0.5   Jam                           Acoustic          Audio           Piano.
+2017.10.27   1.5   TA253                         Research          Code            Correction.
+2017.10.27   1.0   Study                         Research          Abstract        Game pacing and progression.
+2017.10.26   1.0   Study                         Research          Abstract        Multi-genre and locative games.
+2017.10.25   1.0   Doodle                        3D                Visual          Animation.
+2017.10.25   2.0   Study                         3D                Visual          Animation.
+2017.10.25   1.0   Tinker                        Design            Abstract        Locative game design.
+2017.10.24   2.5   TA253                         Research          Code            Code help.
+2017.10.24   3.0   Study                         Research          Abstract        Tabletop RPG gameplay testing and study.
+2017.10.23   1.0   Qurotema                      Development       Code            Sky and texture animation.
+2017.10.23   3.5   Qurotema                      Modeling          Visual          Procedural textures, lighting, Gates modeling.
+2017.10.23   1.5   Eyebat                        Modeling          Visual          Texturing.
+2017.10.22   1.0   Eyebat                        Modeling          Visual          Texturing.
+2017.10.22   1.5   Qurotema                      Modeling          Visual          Procedural textures.
 2017.10.21   1.0   Atomic AI                     3D                Visual          Modifier crafting (3).
 2017.10.21   1.0   Eyebat                        Modeling          Visual          Texture painting.
 2017.10.21   3.5   Qurotema                      Modeling          Visual          Procedural textures.
