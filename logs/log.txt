@@ -38,11 +38,15 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.02   1.0   Ke                            Graphic           Visual          UI.
+2017.11.02   1.0   Ke                            Design            Abstract        Game design.
+2017.11.02   2.0   Study                         Research          Abstract        Cyberpunk themes.
 2017.11.01   2.5   Eyebat                        Modeling          Visual          Rigging.
 2017.11.01   2.0   Ke                            Research          Abstract        Social space design and game research.
 2017.10.31   1.5   Study                         Research          Code            MaxMSP.
 2017.10.31   2.5   TA253                         Research          Code            Code help.
 2017.10.31   3.5   Study                         Research          Abstract        Narrative methodologies.
+2017.10.30   1.0   Study                         Research          Abstract        Ketogenic diets.
 2017.10.30   0.5   Study                         Research          Abstract        Suspense in narrative media.
 2017.10.30   1.0   NOM                           Videography       Visual          Editing and post processing.
 2017.10.30   3.0   NOM                           3D                Visual          Animation and rendering.
