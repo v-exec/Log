@@ -63,9 +63,9 @@ include 'assets/construct.php';
 		<div id="footer-content">
 			<div class="footer-left">
 				<span class="footer-text">
-					<a class="neutral-link" href="http://v-os.ca/me">Victor Ivanov</a>
+					<a class="neutral-link" href="http://v-os.ca/victor">Victor Ivanov</a>
 					<br>
-					<a class="neutral-link" href="http://v-os.ca/site">V-OS</a> · <a class="neutral-link" href="http://log.v-os.ca">LOG</a>
+					<a class="neutral-link" href="http://v-os.ca/home">V-OS</a> · <a class="neutral-link" href="http://log.v-os.ca">LOG</a>
 				</span>
 			</div>
 			<div class="footer-right">
