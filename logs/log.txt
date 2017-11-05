@@ -38,11 +38,16 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.11.02   1.0   Ke                            Graphic           Visual          UI.
-2017.11.02   1.0   Ke                            Design            Abstract        Game design.
+2017.11.04   1.5   TA253                         Research          Code            Correction.
+2017.11.04   2.5   Relay                         Development       Code            UI.
+2017.11.03   0.5   Relay                         Development       Code            UI.
+2017.11.03   1.5   Relay                         Design            Abstract        Game design.
+2017.11.03   3.0   Relay                         Graphic           Visual          UI.
+2017.11.02   1.0   Relay                         Graphic           Visual          UI.
+2017.11.02   1.0   Relay                         Design            Abstract        Game design.
 2017.11.02   2.0   Study                         Research          Abstract        Cyberpunk themes.
 2017.11.01   2.5   Eyebat                        Modeling          Visual          Rigging.
-2017.11.01   2.0   Ke                            Research          Abstract        Social space design and game research.
+2017.11.01   2.0   Relay                         Research          Abstract        Social space design and game research.
 2017.10.31   1.5   Study                         Research          Code            MaxMSP.
 2017.10.31   2.5   TA253                         Research          Code            Code help.
 2017.10.31   3.5   Study                         Research          Abstract        Narrative methodologies.
