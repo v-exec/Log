@@ -38,6 +38,13 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.06   0.5   Dream Archive                 Writing           Abstract        Collection.
+2017.11.06   0.5   Study                         Research          Abstract        Game classifications.
+2017.11.06   3.0   Relay                         Development       Code            Server.
+2017.11.06   0.5   Jam                           Acoustic          Audio           Piano.
+2017.11.05   1.0   Relay                         Development       Code            Server.
+2017.11.05   1.5   Study                         Research          Abstract        Cooperative game design.
+2017.11.05   0.5   Jam                           Acoustic          Audio           Guitar.
 2017.11.04   1.5   TA253                         Research          Code            Correction.
 2017.11.04   2.5   Relay                         Development       Code            UI.
 2017.11.03   0.5   Relay                         Development       Code            UI.
