@@ -38,9 +38,23 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.11   1.0   Acid Archives                 Composition       Audio           Vocal recording and mixing.
+2017.11.11   1.0   Acid Archives                 Development       Audio           Project set up.
+2017.11.11   3.0   TA253                         Research          Code            Correction.
+2017.11.10   0.5   Visor                         Development       Code            Minor fixes and feature additions.
+2017.11.10   1.0   Cryptonaut                    3D                Visual          Presentation visual support.
+2017.11.10   1.0   Cryptonaut                    Composition       Audio           Music composition.
+2017.11.10   4.5   Cryptonaut                    Writing           Abstract        Game pitch and presentation.
+2017.11.09   3.0   Cryptonaut                    Research          Abstract        Game brainstorming.
+2017.11.09   2.5   Relay                         Development       Code            Server communication.
+2017.11.08   3.0   Eyebat                        3D                Visual          Animation.
+2017.11.08   0.5   Cryptonaut                    Research          Abstract        Game brainstorming.
+2017.11.07   2.0   Study                         Research          Abstract        FLOP - Experimental game prototypes.
+2017.11.07   3.5   TA253                         Research          Code            Code help.
+2017.11.07   3.0   Study                         Research          Abstract        Game classifications.
 2017.11.06   0.5   Dream Archive                 Writing           Abstract        Collection.
 2017.11.06   0.5   Study                         Research          Abstract        Game classifications.
-2017.11.06   3.0   Relay                         Development       Code            Server.
+2017.11.06   3.0   Relay                         Development       Code            Server and user list.
 2017.11.06   0.5   Jam                           Acoustic          Audio           Piano.
 2017.11.05   1.0   Relay                         Development       Code            Server.
 2017.11.05   1.5   Study                         Research          Abstract        Cooperative game design.
