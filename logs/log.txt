@@ -38,6 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.12   6.5   Relay                         Development       Code            Communication framework.
 2017.11.11   1.0   Acid Archives                 Composition       Audio           Vocal recording and mixing.
 2017.11.11   1.0   Acid Archives                 Development       Audio           Project set up.
 2017.11.11   3.0   TA253                         Research          Code            Correction.
