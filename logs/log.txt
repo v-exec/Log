@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.13   0.5   Acid Archives                 Design            Audio           Project planning.
+2017.11.13   2.0   Study                         Research          Personal        Eastern-european history, genetics, emotions as sentience feedback.
+2017.11.13   3.0   Relay                         Development       Code            Dynamic layout and chat system.
+2017.11.12   0.5   Study                         Research          Personal        Cosmetic surgeries.
 2017.11.12   6.5   Relay                         Development       Code            Communication framework.
 2017.11.11   1.0   Acid Archives                 Composition       Audio           Vocal recording and mixing.
 2017.11.11   1.0   Acid Archives                 Development       Audio           Project set up.
@@ -149,7 +153,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.06   0.5   Doodle                        Graphic           Visual          Give me milk logo rework.
 2017.10.05   0.5   Doodle                        3D                Visual          Give me milk UV map.
 2017.10.05   1.5   Doodle                        Graphic           Visual          Give me milk logo.
-2017.10.05   2.5   Study                         Research          Abstract        Technosphere and personal development, emergence and complex systems, ludology and narratology, religion and intellectualism.
+2017.10.05   2.5   Study                         Research          Abstract        Technosphere, personal development, emergence, complex systems, ludology, narratology, religion, and intellectualism.
 2017.10.05   0.0   Various                       Event             Personal        Obx interview and boarding.
 2017.10.04   0.5   Doodle                        Graphic           Visual          Give me milk logo.
 2017.10.04   3.0   Study                         Modeling          Visual          UVs.
@@ -278,7 +282,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.02   0.5   Log                           Development       Visual          Measures layout and sizing tinkering.
 2017.09.02   1.0   Study                         Research          Abstract        Game progression, dialog systems, and exploration.
 2017.09.02   0.5   Study                         Research          Personal        Console emulation.
-2017.09.01   0.5   Study                         Research          Personal        Art construction.
+2017.09.01   0.5   Study                         Research          Abstract        Art construction.
 2017.09.01   2.0   Log                           Development       Code            Refactoring, graph visualization rework.
 2017.08.31   1.0   Log                           Development       Visual          Visual redesign and reorganization, page layout tinkering.
 2017.08.31   5.0   Log                           Development       Code            Graph backend rework, empty log implementation, refactoring.
