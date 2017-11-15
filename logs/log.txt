@@ -38,6 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.14   0.5   Doodle                        Illustration      Visual          Diorama sketching.
+2017.11.14   2.5   Acid Archives                 Development       Code            Modules development.
+2017.11.14   2.5   TA253                         Research          Code            Code help.
+2017.11.14   3.0   Study                         Research          Abstract        Game pitch reviews.
+2017.11.13   0.5   Cryptonaut                    Composition       Audio           Music composition.
 2017.11.13   0.5   Acid Archives                 Design            Audio           Project planning.
 2017.11.13   2.0   Study                         Research          Personal        Eastern-european history, genetics, emotions as sentience feedback.
 2017.11.13   3.0   Relay                         Development       Code            Dynamic layout and chat system.
