@@ -73,6 +73,7 @@ insert into project (name) values ('Drone Dreams');
 insert into project (name) values ('Interactive Narratives');
 insert into project (name) values ('VisN');
 insert into project (name) values ('None');
+insert into log (date, time, project_id, task_id, division_id, details) values ('2017.11.15', '5.0', (select id from project where name = 'Doodle'), (select id from task where name = '3D'), (select id from division where name = 'Visual'), 'Lighting and rendering.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.11.14', '0.5', (select id from project where name = 'Doodle'), (select id from task where name = 'Illustration'), (select id from division where name = 'Visual'), 'Diorama sketching.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.11.14', '2.5', (select id from project where name = 'Acid Archives'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Modules development.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2017.11.14', '2.5', (select id from project where name = 'TA253'), (select id from task where name = 'Research'), (select id from division where name = 'Code'), 'Code help.');

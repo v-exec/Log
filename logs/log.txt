@@ -38,6 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.15   5.0   Doodle                        3D                Visual          Lighting and rendering.
 2017.11.14   0.5   Doodle                        Illustration      Visual          Diorama sketching.
 2017.11.14   2.5   Acid Archives                 Development       Code            Modules development.
 2017.11.14   2.5   TA253                         Research          Code            Code help.
