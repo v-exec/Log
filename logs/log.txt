@@ -1,6 +1,6 @@
 DIVISIONS                  Task divisions (thoughts)
 
-Abstract                   Design, and the untangible
+Abstract                   Design, and the intangible
 Code                       Systems, coding, and tech
 Visual                     Graphics, video, and images
 Audio                      Music and audio
@@ -38,6 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.16   0.5   Relay                         Development       Code            Mapbox implementation.
+2017.11.16   1.0   Relay                         Research          Code            Mapbox API.
+2017.11.16   3.0   Doodle                        3D                Visual          Lighting, rendering, shaders.
+2017.11.16   0.5   V-OS                          Writing           Abstract        Timekeeping review.
+2017.11.16   1.5   Various                       Performance       Abstract        Artist interview.
 2017.11.15   5.0   Doodle                        3D                Visual          Lighting and rendering.
 2017.11.14   0.5   Doodle                        Illustration      Visual          Diorama sketching.
 2017.11.14   2.5   Acid Archives                 Development       Code            Modules development.
