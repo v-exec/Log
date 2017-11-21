@@ -38,6 +38,21 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.20   0.5   Relay                         Writing           Abstract        Documentation.
+2017.11.20   2.5   Study                         Research          Code            Debugging, websocket.
+2017.11.20   9.0   Study                         Development       Code            Full hacking system development and implementation, debugging, refactoring.
+2017.11.19   1.0   Study                         Research          Abstract        Cooperative game design.
+2017.11.19   1.0   Relay                         Development       Code            Debugging and hack progress broadcast.
+2017.11.19   0.5   Jam                           Acoustic          Audio           Vocals.
+2017.11.19   1.5   Delta                         Development       Code            Kinect depth point cloud webcam filter.
+2017.11.18   3.0   Delta                         Development       Code            Kinect depth point cloud webcam filter.
+2017.11.18   1.0   Study                         Research          Abstract        Game showcase visit.
+2017.11.18   2.0   Relay                         Development       Code            Location tracking, marker, and hack tracking implementation.
+2017.11.18   2.0   TA253                         Research          Code            Correction.
+2017.11.17   1.0   Doodle                        3D                Visual          Lighting, rendering.
+2017.11.17   0.5   Qurotema                      Research          Code            Shader research.
+2017.11.17   5.5   Delta                         Development       Code            Live ASCII and pseudo 3D point cloud webcam filters.
+2017.11.16   0.5   Delta                         Development       Code            Live ASCII webcam filter.
 2017.11.16   0.5   Relay                         Development       Code            Mapbox implementation.
 2017.11.16   1.0   Relay                         Research          Code            Mapbox API.
 2017.11.16   3.0   Doodle                        3D                Visual          Lighting, rendering, shaders.
