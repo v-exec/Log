@@ -38,6 +38,14 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.22   4.0   Acid Archives                 Composition       Audio           Samples processing.
+2017.11.22   0.5   Acid Archives                 Acoustic          Audio           Guitar recording.
+2017.11.22   0.5   Cryptonaut                    Writing           Abstract        Design document.
+2017.11.22   2.5   Relay                         Graphic           Visual          Poster design.
+2017.11.21   0.5   Dio                           3D                Visual          Scene composition.
+2017.11.21   1.0   Acid Archives                 Composition       Audio           Samples collection.
+2017.11.21   3.5   TA253                         Research          Code            Code help.
+2017.11.21   2.0   Study                         Research          Abstract        Game mechanics analysis.
 2017.11.20   0.5   Relay                         Writing           Abstract        Documentation.
 2017.11.20   2.5   Study                         Research          Code            Debugging, websocket.
 2017.11.20   9.0   Study                         Development       Code            Full hacking system development and implementation, debugging, refactoring.
