@@ -38,7 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.11.24	 3.5   Acid Archives                 Composition       Audio           Composition.
+2017.11.24   3.5   Acid Archives                 Composition       Audio           Composition.
 2017.11.23   2.0   TA253                         Research          Code            Correction.
 2017.11.23   2.5   Acid Archives                 Composition       Audio           Samples processing and arrangement.
 2017.11.22   4.0   Acid Archives                 Composition       Audio           Samples processing.
