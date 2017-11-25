@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.24	 3.5   Acid Archives                 Composition       Audio           Composition.
+2017.11.23   2.0   TA253                         Research          Code            Correction.
+2017.11.23   2.5   Acid Archives                 Composition       Audio           Samples processing and arrangement.
 2017.11.22   4.0   Acid Archives                 Composition       Audio           Samples processing.
 2017.11.22   0.5   Acid Archives                 Acoustic          Audio           Guitar recording.
 2017.11.22   0.5   Cryptonaut                    Writing           Abstract        Design document.
@@ -303,7 +306,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.06   3.0   Doodle                        Modeling          Visual          Hard-surface modeling.
 2017.09.06   1.0   Tinker                        Development       Code            CART351 site setup.
 2017.09.06   1.0   Purity                        Development       Code            PHP 7.0 debugging.
-2017.09.06   0.5   Acid Archives                 Research          Abstract        Acid archives story.
+2017.09.06   0.5   Acid Archives                 Writing           Abstract        Acid archives story.
 2017.09.05   0.5   Acid Archives                 Graphic           Visual          Acid archives logo creation.
 2017.09.05   1.0   Tinker                        Research          Code            MaxMSP study.
 2017.09.05   2.5   Study                         Research          Audio           Sound theory.
