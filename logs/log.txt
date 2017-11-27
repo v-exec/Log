@@ -38,6 +38,9 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.26   4.5   Acid Archives                 Development       Code            Dynamic sequencing program.
+2017.11.26   0.5   Acid Archives                 Composition       Audio           Samples tuning.
+2017.11.25   4.0   Acid Archives                 Composition       Audio           Composition, samples exporting.
 2017.11.24   3.5   Acid Archives                 Composition       Audio           Composition.
 2017.11.23   2.0   TA253                         Research          Code            Correction.
 2017.11.23   2.5   Acid Archives                 Composition       Audio           Samples processing and arrangement.
