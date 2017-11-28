@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.27   0.5   Acid Archives                 Writing           Abstract        Report.
+2017.11.27   1.5   Relay                         Writing           Abstract        Presentation preparation and documentation.
+2017.11.27   0.5   Acid Archives                 Composition       Audio           Composition.
+2017.11.27   1.0   Dio                           3D                Visual          Scene composition.
 2017.11.26   4.5   Acid Archives                 Development       Code            Dynamic sequencing program.
 2017.11.26   1.0   Acid Archives                 Composition       Audio           Samples tuning, static composition.
 2017.11.25   4.0   Acid Archives                 Composition       Audio           Composition, samples exporting.
