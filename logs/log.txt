@@ -38,6 +38,13 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.28   1.0   Dio                           3D                Visual          Scene composition.
+2017.11.28   1.5   Study                         Research          Audio           MaxMSP projects.
+2017.11.28   0.5   Acid Archives                 Performance       Audio           Presentation.
+2017.11.28   3.5   TA253                         Research          Code            Code help.
+2017.11.28   0.5   Cryptonaut                    Writing           Abstract        Design document.
+2017.11.28   2.5   Cryptonaut                    Research          Abstract        Design document team discussions.
+2017.11.28   0.5   Study                         Research          Abstract        Defining games and play, valuing the user.
 2017.11.27   0.5   Acid Archives                 Writing           Abstract        Report.
 2017.11.27   1.5   Relay                         Writing           Abstract        Presentation preparation and documentation.
 2017.11.27   0.5   Acid Archives                 Composition       Audio           Composition.
