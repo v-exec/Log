@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.11.29   1.0   Acid Archives                 Writing           Abstract        Report.
+2017.11.29   1.0   Visor                         Development       Code            Feature additions.
+2017.11.29   2.0   Dio                           3D                Visual          Materials and scene composition.
+2017.11.29   1.0   Study                         3D                Visual          Modeling tricks.
 2017.11.28   1.0   Dio                           3D                Visual          Scene composition.
 2017.11.28   1.5   Study                         Research          Audio           MaxMSP projects.
 2017.11.28   0.5   Acid Archives                 Performance       Audio           Presentation.
