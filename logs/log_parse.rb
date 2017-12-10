@@ -163,6 +163,10 @@ output.printf "alter table project AUTO_INCREMENT = 1;\n"
 output.printf "alter table task AUTO_INCREMENT = 1;\n"
 output.printf "alter table division AUTO_INCREMENT = 1;\n"
 
+#set proper encoding
+output.printf "SET CHARACTER SET 'utf8';\n"
+output.printf "SET NAMES 'utf8';\n"
+
 #for each element in each table array, print mySQL entry command
 divisions.each do |division|
 	output.printf "insert into division (name) values ('%s');\n", division

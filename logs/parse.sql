@@ -7,6 +7,8 @@ alter table log AUTO_INCREMENT = 1;
 alter table project AUTO_INCREMENT = 1;
 alter table task AUTO_INCREMENT = 1;
 alter table division AUTO_INCREMENT = 1;
+set character set 'utf8';
+set names 'utf8';
 insert into division (name) values ('Abstract');
 insert into division (name) values ('Code');
 insert into division (name) values ('Visual');

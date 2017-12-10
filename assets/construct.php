@@ -34,7 +34,7 @@ function loadlog() {
 
 		default:
 			if ($type != null) spec();
-			else echo '<span style="display: block; border-bottom: solid 1px #eee; width: 100%; padding: 40px; font-size: 24px;">No such page exists in the Log.</span>';
+			else echo '<span style="display: block; border-bottom: solid 1px #ccc; width: 100%; padding: 40px; font-size: 24px;">No such page exists in the Log.</span>';
 			break;
 	}
 }

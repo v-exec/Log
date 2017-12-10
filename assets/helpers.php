@@ -5,6 +5,7 @@ function connect() {
 	global $password;
 	global $database;
 	$conn = new mysqli($servername, $username, $password, $database);
+	$conn->set_charset("utf8");
 	return $conn;
 }
 
