@@ -38,6 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.12.09   0.5   Log                           Development       Code            Add UTF8 support.
 2017.12.09   1.0   V-OS                          Design            Visual          Color changes, alternate layout experimentation.
 2017.12.09   3.5   Study                         Linguistics       Personal        Japanese.
 2017.12.08   0.5   Study                         Linguistics       Personal        Japanese.
