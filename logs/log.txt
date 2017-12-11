@@ -38,6 +38,8 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.12.10   0.5   Various                       Research          Abstract        Clothing search engine business considerations.
+2017.12.10   3.0   Study                         Linguistics       Personal        Japanese.
 2017.12.10   0.5   V-OS                          Development       Code            Touch-ups for open source release.
 2017.12.09   0.5   Log                           Development       Code            Add UTF8 support.
 2017.12.09   1.0   V-OS                          Design            Visual          Color changes, alternate layout experimentation.
