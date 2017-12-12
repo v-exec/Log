@@ -53,7 +53,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.12.07   0.5   Japanese                      Linguistics       Personal        Japanese.
 2017.12.07   1.5   V-OS                          Writing           Abstract        Verse writing.
 2017.12.06   3.5   V-OS                          Writing           Abstract        Verse writing, reorganization, project documentation publishing.
-2017.12.06   0.5   Japanese                      Research          Personal        Japanese sex culture.
+2017.12.06   0.5   Study                         Research          Personal        Japanese sex culture.
 2017.12.05   1.0   TA253                         Research          Code            Code help.
 2017.12.05   2.5   TA253                         Research          Abstract        Experimental code media.
 2017.12.05   3.0   Study                         Research          Abstract        Web-based social tools.
