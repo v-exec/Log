@@ -7,7 +7,7 @@ Audio                      Music and Audio
 Personal                   Maintenance, Personal Curiosities, and Mindless Tasks
 None                       Nothing
 
-TASKS                      Task types (actions)
+TASKS                      Task types (actions - learning about~)
 
 Design                     Project Planning, Research, and Organization
 Development                Programming, Testing, Math, and Debugging
@@ -38,8 +38,11 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.12.12   0.5   Study                         Illustration      Visual          Illustration study.
+2017.12.12   2.0   Japanese                      Linguistics       Personal        Japanese.
+2017.12.12   0.5   Architects of Souls           Writing           Abstract        Narrative development.
 2017.12.11   3.5   Japanese                      Linguistics       Personal        Japanese.
-2017.12.11   0.5   Abyssal Truth                 Composition       Audio           Music composition.
+2017.12.11   0.5   Architects of Souls           Composition       Audio           Music composition.
 2017.12.10   0.5   Various                       Research          Abstract        Clothing search engine business considerations.
 2017.12.10   3.0   Japanese                      Linguistics       Personal        Japanese.
 2017.12.10   0.5   V-OS                          Development       Code            Touch-ups for open source release.
@@ -89,20 +92,20 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.11.28   0.5   Study                         Research          Abstract        Defining games and play, valuing the user.
 2017.11.27   0.5   Acid Archives                 Writing           Abstract        Report.
 2017.11.27   1.5   Relay                         Writing           Abstract        Presentation preparation and documentation.
-2017.11.27   0.5   Acid Archives                 Composition       Audio           Composition.
+2017.11.27   0.5   Architects of Souls           Composition       Audio           Composition.
 2017.11.27   1.0   Moré                          3D                Visual          Scene composition.
 2017.11.26   4.5   Acid Archives                 Development       Code            Dynamic sequencing program.
-2017.11.26   1.0   Acid Archives                 Composition       Audio           Samples tuning, static composition.
-2017.11.25   4.0   Acid Archives                 Composition       Audio           Composition, samples exporting.
-2017.11.24   3.5   Acid Archives                 Composition       Audio           Composition.
+2017.11.26   1.0   Architects of Souls           Composition       Audio           Samples tuning, static composition.
+2017.11.25   4.0   Architects of Souls           Composition       Audio           Composition, samples exporting.
+2017.11.24   3.5   Architects of Souls           Composition       Audio           Composition.
 2017.11.23   2.0   TA253                         Research          Code            Correction.
-2017.11.23   2.5   Acid Archives                 Composition       Audio           Samples processing and arrangement.
-2017.11.22   4.0   Acid Archives                 Composition       Audio           Samples processing.
-2017.11.22   0.5   Acid Archives                 Acoustic          Audio           Guitar recording.
+2017.11.23   2.5   Architects of Souls           Composition       Audio           Samples processing and arrangement.
+2017.11.22   4.0   Architects of Souls           Composition       Audio           Samples processing.
+2017.11.22   0.5   Architects of Souls           Acoustic          Audio           Guitar recording.
 2017.11.22   0.5   Cryptonaut                    Writing           Abstract        Design document.
 2017.11.22   2.5   Relay                         Graphic           Visual          Poster design.
 2017.11.21   0.5   Moré                          3D                Visual          Scene composition.
-2017.11.21   1.0   Acid Archives                 Composition       Audio           Samples collection.
+2017.11.21   1.0   Architects of Souls           Composition       Audio           Samples collection.
 2017.11.21   3.5   TA253                         Research          Code            Code help.
 2017.11.21   2.0   Study                         Research          Abstract        Game mechanics analysis.
 2017.11.20   0.5   Relay                         Writing           Abstract        Documentation.
@@ -130,18 +133,18 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.11.14   2.5   Acid Archives                 Development       Code            Modules development.
 2017.11.14   2.5   TA253                         Research          Code            Code help.
 2017.11.14   3.0   Study                         Research          Abstract        Game pitch reviews.
-2017.11.13   0.5   Abyssal Truth                 Composition       Audio           Music composition.
+2017.11.13   0.5   Architects of Souls           Composition       Audio           Music composition.
 2017.11.13   0.5   Acid Archives                 Design            Audio           Project planning.
 2017.11.13   2.0   Study                         Research          Personal        Eastern-european history, genetics, emotions as sentience feedback.
 2017.11.13   3.0   Relay                         Development       Code            Dynamic layout and chat system.
 2017.11.12   0.5   Study                         Research          Personal        Cosmetic surgeries.
 2017.11.12   6.5   Relay                         Development       Code            Communication framework.
-2017.11.11   1.0   Acid Archives                 Composition       Audio           Vocal recording and mixing.
+2017.11.11   1.0   Architects of Souls           Composition       Audio           Vocal recording and mixing.
 2017.11.11   1.0   Acid Archives                 Development       Audio           Project set up.
 2017.11.11   3.0   TA253                         Research          Code            Correction.
 2017.11.10   0.5   Visor                         Development       Code            Minor fixes and feature additions.
 2017.11.10   1.0   Cryptonaut                    3D                Visual          Presentation visual support.
-2017.11.10   1.0   Abyssal Truth                 Composition       Audio           Music composition.
+2017.11.10   1.0   Architects of Souls           Composition       Audio           Music composition.
 2017.11.10   4.5   Cryptonaut                    Writing           Abstract        Game pitch and presentation.
 2017.11.09   3.0   Cryptonaut                    Research          Abstract        Game brainstorming.
 2017.11.09   2.5   Relay                         Development       Code            Server communication.
