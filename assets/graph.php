@@ -154,6 +154,7 @@ function graph($l, $desiredDays, $type, $h) {
 
 			//saves height for each bar - determining total height, allowing bar stacks
 			$height = 0;
+			$oldHeight = 0;
 
 			//graph data for rendering measurements
 			$graphHeight = 200;
@@ -161,48 +162,60 @@ function graph($l, $desiredDays, $type, $h) {
 
 			//render all bars for the day
 			for ($j = 0; $j < sizeof($values); $j++) {
+				$spacing = 1;
+
 				if ($values[$j] == $personalTime && !$personalDone) {
+					$oldHeight = $height;
+					if ($oldHeight == 0) $spacing = 0;
 					$height += ($personalTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
-						<rect width="100%" height="'.((($personalTime / $max) * $graphHeight) + 1).'" fill="'.$personalColor.'"/>
+					<svg class="graph-bar" style="height: '.($height - $oldHeight - $spacing).'px; margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($oldHeight).'px;">
+						<rect width="100%" height="'.(($personalTime / $max) * $graphHeight).'" fill="'.$personalColor.'"/>
 					</svg>
 					';
 					$personalDone = true;
 				} else if ($values[$j] == $codeTime && !$codeDone) {
+					$oldHeight = $height;
+					if ($oldHeight == 0) $spacing = 0;
 					$height += ($codeTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
-						<rect width="100%" height="'.((($codeTime / $max) * $graphHeight) + 1).'" fill="'.$codeColor.'"/>
+					<svg class="graph-bar" style="height: '.($height - $oldHeight - $spacing).'px; margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($oldHeight).'px;">
+						<rect width="100%" height="'.(($codeTime / $max) * $graphHeight).'" fill="'.$codeColor.'"/>
 					</svg>
 					';
 					$codeDone = true;
 				} else if ($values[$j] == $abstractTime && !$abstractDone) {
+					$oldHeight = $height;
+					if ($oldHeight == 0) $spacing = 0;
 					$height += ($abstractTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
-						<rect width="100%" height="'.((($abstractTime / $max) * $graphHeight) + 1).'" fill="'.$abstractColor.'"/>
+					<svg class="graph-bar" style="height: '.($height - $oldHeight - $spacing).'px; margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($oldHeight).'px;">
+						<rect width="100%" height="'.(($abstractTime / $max) * $graphHeight).'" fill="'.$abstractColor.'"/>
 					</svg>
 					';
 					$abstractDone = true;
 				} else if ($values[$j] == $visualTime && !$visualDone) {
+					$oldHeight = $height;
+					if ($oldHeight == 0) $spacing = 0;
 					$height += ($visualTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
-						<rect width="100%" height="'.((($visualTime / $max) * $graphHeight) + 1).'" fill="'.$visualColor.'"/>
+					<svg class="graph-bar" style="height: '.($height - $oldHeight - $spacing).'px; margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($oldHeight).'px;">
+						<rect width="100%" height="'.(($visualTime / $max) * $graphHeight).'" fill="'.$visualColor.'"/>
 					</svg>
 					';
 					$visualDone = true;
 				} else if ($values[$j] == $audioTime && !$audioDone) {
+					$oldHeight = $height;
+					if ($oldHeight == 0) $spacing = 0;
 					$height += ($audioTime / $max) * $graphHeight;
 					echo
 					'
-					<svg class="graph-bar" style="margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($height).'px;">
-						<rect width="100%" height="'.((($audioTime / $max) * $graphHeight) + 1).'" fill="'.$audioColor.'"/>
+					<svg class="graph-bar" style="height: '.($height - $oldHeight - $spacing).'px; margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($oldHeight).'px;">
+						<rect width="100%" height="'.(($audioTime / $max) * $graphHeight).'" fill="'.$audioColor.'"/>
 					</svg>
 					';
 					$audioDone = true;

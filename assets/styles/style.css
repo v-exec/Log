@@ -274,12 +274,10 @@ a:hover {
 	position: relative;
 	height: 100%;
 	border-right: solid 1px #fff;
-	border-left: solid 1px #fff;
 }
 
 .graph-bar {
 	position: absolute;
-	height: 100%;
 	width: 100%;
 }
 
