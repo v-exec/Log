@@ -4,7 +4,7 @@ Abstract                   Design, and the Intangible
 Code                       Systems, Coding, and Tech
 Visual                     Graphics, Video, and Images
 Audio                      Music and Audio
-Personal                   Maintenance, Personal Curiosities, and Mindless Tasks
+Personal                   Personal Curiosities, Matters, Development, and Mindless Tasks
 None                       Nothing
 
 TASKS                      Task types (actions - learning about~)
@@ -38,6 +38,17 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.12.18   1.0   Log                           Development       Code            Rework graph drawing method.
+2017.12.18   2.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.18   1.5   Various                       Writing           Abstract        Letter of intent.
+2017.12.17   2.0   Japanese                      Linguistics       Personal        Japanese.
+2017.12.16   2.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.16   1.0   Study                         Research          Personal        Japan exchange details, course form.
+2017.12.15   2.0   Study                         Research          Personal        Japan exchange details, course form.
+2017.12.15   0.5   Wite                          Writing           Abstract        Documentation.
+2017.12.14   2.5   Study                         Research          Personal        Japan exchange details, course form.
+2017.12.13   2.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.13   1.5   Study                         Research          Personal        Japan exchange details.
 2017.12.12   0.5   Study                         Illustration      Visual          Illustration study.
 2017.12.12   2.0   Japanese                      Linguistics       Personal        Japanese.
 2017.12.12   0.5   Architects of Souls           Writing           Abstract        Narrative development.
