@@ -4,7 +4,7 @@ Abstract                   Design, and the Intangible
 Code                       Systems, Coding, and Tech
 Visual                     Graphics, Video, and Images
 Audio                      Music and Audio
-Personal                   Personal Curiosities, Matters, Development, and Mindless Tasks
+Personal                   Personal Curiosities, Matters, and Mindless Tasks
 None                       Nothing
 
 TASKS                      Task types (actions - learning about~)
@@ -39,32 +39,32 @@ None                       Nothing
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
 2017.12.18   1.0   Log                           Development       Code            Rework graph drawing method.
-2017.12.18   2.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.18   2.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.18   1.5   Various                       Writing           Abstract        Letter of intent.
-2017.12.17   2.0   Japanese                      Linguistics       Personal        Japanese.
-2017.12.16   2.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.17   2.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.16   2.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.16   1.0   Study                         Research          Personal        Japan exchange details, course form.
 2017.12.15   2.0   Study                         Research          Personal        Japan exchange details, course form.
 2017.12.15   0.5   Wite                          Writing           Abstract        Documentation.
 2017.12.14   2.5   Study                         Research          Personal        Japan exchange details, course form.
-2017.12.13   2.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.13   2.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.13   1.5   Study                         Research          Personal        Japan exchange details.
 2017.12.12   0.5   Study                         Illustration      Visual          Illustration study.
-2017.12.12   2.0   Japanese                      Linguistics       Personal        Japanese.
+2017.12.12   2.0   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.12   0.5   Architects of Souls           Writing           Abstract        Narrative development.
-2017.12.11   3.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.11   3.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.11   0.5   Architects of Souls           Composition       Audio           Music composition.
 2017.12.10   0.5   Various                       Research          Abstract        Clothing search engine business considerations.
-2017.12.10   3.0   Japanese                      Linguistics       Personal        Japanese.
+2017.12.10   3.0   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.10   0.5   V-OS                          Development       Code            Touch-ups for open source release.
 2017.12.09   0.5   Log                           Development       Code            Add UTF8 support.
 2017.12.09   1.0   V-OS                          Design            Visual          Color changes, alternate layout experimentation.
-2017.12.09   3.5   Japanese                      Linguistics       Personal        Japanese.
-2017.12.08   0.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.09   3.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.08   0.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.08   3.0   Relay                         Videography       Visual          Filming, editing, video production and submission.
 2017.12.08   1.0   Rig                           Maintenance       Personal        Backup.
 2017.12.07   1.0   Study                         Research          Personal        Cultural connotations of hair.
-2017.12.07   0.5   Japanese                      Linguistics       Personal        Japanese.
+2017.12.07   0.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.07   1.5   V-OS                          Writing           Abstract        Verse writing.
 2017.12.06   3.5   V-OS                          Writing           Abstract        Verse writing, reorganization, project documentation publishing.
 2017.12.06   0.5   Study                         Research          Personal        Japanese sex culture.
@@ -74,8 +74,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.12.04   0.5   Study                         Research          Personal        Contemporary phones.
 2017.12.04   0.5   Relay                         Writing           Abstract        Documentation.
 2017.12.04   0.5   Study                         Research          Personal        Japan exchange details.
-2017.12.04   2.0   Japanese                      Linguistics       Personal        Japanese.
-2017.12.03   1.0   Japanese                      Linguistics       Personal        Japanese.
+2017.12.04   2.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.03   1.0   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.03   1.0   Study                         Research          Abstract        Environmental storytelling and shader concepts.
 2017.12.03   1.0   Moré                          3D                Visual          Rendering and post-processing.
 2017.12.02   0.5   Cryptonaut                    Writing           Abstract        Site tweaking, content migration.
