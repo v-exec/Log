@@ -1,7 +1,7 @@
 RewriteEngine on
 
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://v-os.ca/$1 [R,L]
+RewriteRule ^(.*)$ https://log.v-os.ca/$1 [R,L]
 
 DirectoryIndex log.php
 
