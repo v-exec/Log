@@ -38,6 +38,24 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2017.12.25   2.0   Doodle                        Illustration      Visual          Illustration study.
+2017.12.25   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.24   2.0   Doodle                        Illustration      Visual          Illustration study.
+2017.12.24   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.23   1.5   Doodle                        Illustration      Visual          Illustration study.
+2017.12.23   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.22   2.5   Doodle                        Illustration      Visual          Illustration study.
+2017.12.21   1.0   Doodle                        Illustration      Visual          Illustration study.
+2017.12.21   1.0   Study                         Research          Personal        Psychadelics, ayahuasca.
+2017.12.21   1.0   Study                         Research          Abstract        Cryptocurrency trading.
+2017.12.21   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.20   0.5   UbiCom                        Writing           Abstract        Independant study letter.
+2017.12.20   0.5   Rig                           Maintenance       Abstract        Phone setup.
+2017.12.20   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.19   0.5   Purity                        Development       Code            Subfolder and line break handling.
+2017.12.19   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.19   0.5   Various                       Writing           Abstract        Letter of intent.
+2017.12.19   1.0   UbiCom                        Research          Abstract        Team introduction and role considerations.
 2017.12.18   1.0   Log                           Development       Code            Rework graph drawing method.
 2017.12.18   2.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.18   1.5   Various                       Writing           Abstract        Letter of intent.
@@ -49,7 +67,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.12.14   2.5   Study                         Research          Personal        Japan exchange details, course form.
 2017.12.13   2.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.13   1.5   Study                         Research          Personal        Japan exchange details.
-2017.12.12   0.5   Study                         Illustration      Visual          Illustration study.
+2017.12.12   0.5   Doodle                        Illustration      Visual          Illustration study.
 2017.12.12   2.0   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.12   0.5   Architects of Souls           Writing           Abstract        Narrative development.
 2017.12.11   3.5   Japanese                      Linguistics       Abstract        Japanese.
