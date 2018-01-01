@@ -38,21 +38,21 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2017.11.31   0.5   Jam                           Acoustic          Audio           Vocals.
+2017.12.31   0.5   Jam                           Acoustic          Audio           Vocals.
 2017.12.31   1.0   Purity                        Development       Code            API development.
 2017.12.31   2.5   Doodle                        Illustration      Visual          Illustration study.
 2017.12.30   1.0   Doodle                        Illustration      Visual          Illustration study.
-2017.11.29   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.29   0.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.29   1.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.28   0.5   Doodle                        Illustration      Visual          Illustration study.
-2017.11.28   0.5   Japanese                      Linguistics       Abstract        Japanese.
-2017.11.28   1.0   Jam                           Composition       Audio           Composition practice.
-2017.11.28   1.0   Jam                           Acoustic          Audio           Piano.
-2017.11.27   0.5   Jam                           Acoustic          Audio           Vocals.
+2017.12.28   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.28   1.0   Jam                           Composition       Audio           Composition practice.
+2017.12.28   1.0   Jam                           Acoustic          Audio           Piano.
+2017.12.27   0.5   Jam                           Acoustic          Audio           Vocals.
 2017.12.27   0.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.27   2.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.26   0.5   Japanese                      Linguistics       Abstract        Japanese.
-2017.11.26   1.5   Jam                           Acoustic          Audio           Vocals.
+2017.12.26   1.5   Jam                           Acoustic          Audio           Vocals.
 2017.12.26   1.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.25   2.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.25   0.5   Japanese                      Linguistics       Abstract        Japanese.
