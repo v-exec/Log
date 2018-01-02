@@ -38,6 +38,8 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.01.01   1.5   Doodle                        Illustration      Visual          Illustration study.
+2018.01.01   1.0   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.31   0.5   Jam                           Acoustic          Audio           Vocals.
 2017.12.31   1.0   Purity                        Development       Code            API development.
 2017.12.31   3.5   Doodle                        Illustration      Visual          Illustration study.
