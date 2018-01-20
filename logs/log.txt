@@ -40,7 +40,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 
 2018.01.19   0.5   Various                       Graphic           Visual          CV update.
 2018.01.19   1.0   Various                       Maintenance       Abstract        Japan, independant study, and Ubisoft applications.
-2018.01.19   1.0   Purity                        Development       Code            Refine tag cleaning for more liberal formatting.
+2018.01.19   1.5   Purity                        Development       Code            Refine tag cleaning for more liberal formatting.
 2018.01.19   0.5   DotCycle                      Maintenance       Abstract        Video and code documentation.
 2018.01.19   0.5   Perfectus Empatheia           Writing           Abstract        Documentation.
 2018.01.19   3.0   UbiCom                        Research          Abstract        Meeting, light brainstorm, theme considerations, mentor introductions.
