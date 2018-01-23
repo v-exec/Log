@@ -38,12 +38,24 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.01.22   1.0   Purity                        3D                Visual          Update image.
+2018.01.22   4.0   Purity                        Development       Code            Make page organization folder-based, add exposed path.
+2018.01.22   4.0   UbiCom                        Research          Abstract        Idea management.
+2018.01.21   0.5   Study                         Research          Personal        Personality.
+2018.01.21   0.5   Architects of Souls           Composition       Audio           Quick review.
+2018.01.21   2.5   Doodle                        Modeling          Visual          Holosight texturing.
+2018.01.21   1.5   UbiCom                        Research          Abstract        Brainstorming.
+2018.01.20   2.0   Doodle                        Modeling          Visual          Helmet modeling.
+2018.01.20   1.5   UbiCom                        Research          Abstract        Brainstorming.
+2018.01.20   3.0   Study                         Research          Code            Unity graphics and shaders techniques.
+2018.01.20   3.0   Various                       Writing           Personal        Ubisoft internship application.
 2018.01.19   0.5   Various                       Graphic           Visual          CV update.
 2018.01.19   1.0   Various                       Maintenance       Abstract        Japan, independant study, and Ubisoft applications.
 2018.01.19   1.5   Purity                        Development       Code            Refine tag cleaning for more liberal formatting.
 2018.01.19   0.5   DotCycle                      Maintenance       Abstract        Video and code documentation.
 2018.01.19   0.5   Perfectus Empatheia           Writing           Abstract        Documentation.
 2018.01.19   3.0   UbiCom                        Research          Abstract        Meeting, light brainstorm, theme considerations, mentor introductions.
+2018.01.19   0.0   UbiCom                        Event             Personal        Competition begin.
 2018.01.18   0.5   Obx                           Research          Abstract        Lab and application publishing research.
 2018.01.18   4.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.17   2.0   Obx                           Development       Code            Application updating and debugging.
