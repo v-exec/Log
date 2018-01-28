@@ -30,7 +30,7 @@ None                       Nothing
 #ARCH PROJECTS             Overarching activities that are individually too small to be considered as projects but add up to significant amounts of time, long-term
 
 #Study                     Learning and experimenting - Abstract
-#Jam                       Learning and Experimenting - Audio
+#Jam                       Learning and experimenting - Audio
 #Doodle                    Learning and experimenting - Visual
 #Tinker                    Learning and experimenting - Code
 #Various                   Other activities (given to activities unique and unpopular enough to not have an overarching project designation)
@@ -38,9 +38,26 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.01.27   1.0   UbiCom                        Illustration      Visual          Concept art.
+2018.01.27   1.0   Jam                           Acoustic          Audio           Guitar.
+2018.01.27   1.5   Study                         Research          Abstract        New media artworks.
+2018.01.27   1.5   UbiCom                        Design            Abstract        Scheduling and design doc.
+2018.01.27   4.0   UbiCom                        Development       Code            Movement system work.
+2018.01.26   0.5   Tinker                        Development       Code            Unity graphics experimenation.
+2018.01.26   3.5   Doodle                        3D                Visual          Pillar modelling, texturing, implementation.
+2018.01.26   4.5   UbiCom                        Design            Abstract        Concept work.
+2018.01.25   2.5   UbiCom                        Design            Abstract        Concept work.
+2018.01.25   5.0   Obx                           Development       Code            Application updating and debugging.
+2018.01.24   3.0   Tinker                        Development       Code            Unity graphics experimenation.
+2018.01.24   1.0   Doodle                        3D                Visual          Holosight texturing.
+2018.01.24   2.0   Obx                           Development       Code            Application updating and debugging.
+2018.01.24   0.5   UbiCom                        Design            Abstract        Concept work.
+2018.01.24   2.0   Stopop                        Development       Code            Collision rework, audio implementation.
+2018.01.23   2.0   Various                       Performance       Abstract        Human: Fall Flat stream.
+2018.01.23   1.5   UbiCom                        Design            Abstract        Concept work.
 2018.01.22   1.0   Purity                        3D                Visual          Update image.
 2018.01.22   4.0   Purity                        Development       Code            Make page organization folder-based, add exposed path.
-2018.01.22   4.0   UbiCom                        Research          Abstract        Idea management.
+2018.01.22   4.0   UbiCom                        Design            Abstract        Concept work.
 2018.01.21   0.5   Study                         Research          Personal        Personality.
 2018.01.21   0.5   Architects of Souls           Composition       Audio           Quick review.
 2018.01.21   2.5   Doodle                        Modeling          Visual          Holosight texturing.
