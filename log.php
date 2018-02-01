@@ -67,6 +67,11 @@ include 'assets/construct.php';
 					<br>
 					<a class="neutral-link" href="https://v-os.ca/home">V-OS</a> · <a class="neutral-link" href="https://log.v-os.ca">LOG</a>
 				</span>
+				<span class="footer-text">
+					<a class="neutral-link" href="https://twitter.com/v_exec">Twitter</a>
+					<br>
+					<a class="neutral-link" href="https://github.com/v-exec">Github</a>
+				</span>
 			</div>
 			<div class="footer-right">
 				<span class="footer-text">
