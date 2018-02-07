@@ -38,15 +38,27 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.02.06   3.5   UbiCom                        Development       Code            Shader programming.
+2018.02.06   3.0   UbiCom                        Research          Code            Shader programming.
+2018.02.06   1.0   Obx                           Research          Code            OpenGL research.
+2018.02.05   2.5   Sin-D                         Development       Code            Cindy sculpting.
+2018.02.05   2.5   Sin-D                         Development       Code            Cindy sculpting.
+2018.02.05   1.0   UbiCom                        Development       Code            Shader programming.
+2018.02.05   3.0   UbiCom                        Design            Abstract        Concept work.
+2018.02.04   0.5   Boza                          Graphic           Visual          Event banner production.
+2018.02.04   8.0   Sin-D                         Modeling          Visual          Cindy sculpting.
+2018.02.03   0.5   UbiCom                        Design            Abstract        Scheduling.
+2018.02.03   2.0   UbiCom                        3D                Visual          Base character model rigging.
+2018.02.03   6.0   Sin-D                         Modeling          Visual          Cindy sculpting.
 2018.02.02   1.0   V-OS                          Development       Code            Symbols implementation.
 2018.02.02   2.5   V-OS                          Graphic           Visual          Symbols production.
 2018.02.02   1.0   UbiCom                        3D                Visual          Base character model rigging.
-2018.02.02   1.0   Tinker                        Development       Code            Museum Mayhem shatter threshold development and documentation.
+2018.02.02   1.5   Tinker                        Development       Code            Museum Mayhem shatter threshold development and documentation.
 2018.02.02   2.0   Doodle                        3D                Visual          Retopologizing, normal maps specialties, and sculpting.
 2018.02.02   1.0   Keerosin                      Illustration      Visual          Concept art.
 2018.02.01   0.5   V-OS                          Graphic           Visual          Symbols.
 2018.02.01   1.0   Keerosin                      Illustration      Visual          Concept art.
-2018.02.01   3.5   Obx                           Development       Code            Application updating and debugging.
+2018.02.01   3.5   Obx                           Research          Code            OpenGL research.
 2018.01.31   0.5   Keerosin                      Illustration      Visual          Concept art.
 2018.01.31   0.5   Doodle                        3D                Visual          Unity texture test build.
 2018.01.31   5.0   V-OS                          Development       Code            Redesign.
