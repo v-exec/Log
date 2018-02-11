@@ -39,7 +39,7 @@ None                       Nothing
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
 2018.02.10   1.5   Keerosin                      Illustration      Visual          Concept art.
-2018.02.10   2.5   Keerosin                      3D                Visual          Concept art.
+2018.02.10   2.0   Keerosin                      3D                Visual          Concept art.
 2018.02.10   1.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
 2018.02.10   4.0   Monospace Garden              Development       Code            Game dev.
 2018.02.09   1.0   Monospace Garden              Development       Code            Game dev.

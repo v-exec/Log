@@ -87,7 +87,7 @@ insert into project (name) values ('Interactive Narratives');
 insert into project (name) values ('VisN');
 insert into project (name) values ('None');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2018.02.10', '1.5', (select id from project where name = 'Keerosin'), (select id from task where name = 'Illustration'), (select id from division where name = 'Visual'), 'Concept art.');
-insert into log (date, time, project_id, task_id, division_id, details) values ('2018.02.10', '2.5', (select id from project where name = 'Keerosin'), (select id from task where name = '3D'), (select id from division where name = 'Visual'), 'Concept art.');
+insert into log (date, time, project_id, task_id, division_id, details) values ('2018.02.10', '2.0', (select id from project where name = 'Keerosin'), (select id from task where name = '3D'), (select id from division where name = 'Visual'), 'Concept art.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2018.02.10', '1.0', (select id from project where name = 'UbiCom'), (select id from task where name = 'Design'), (select id from division where name = 'Abstract'), 'Progress overview and tasks documentation.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2018.02.10', '4.0', (select id from project where name = 'Monospace Garden'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Game dev.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2018.02.09', '1.0', (select id from project where name = 'Monospace Garden'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Game dev.');
