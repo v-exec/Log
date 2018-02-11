@@ -38,6 +38,23 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.02.10   1.5   Keerosin                      Illustration      Visual          Concept art.
+2018.02.10   2.5   Keerosin                      3D                Visual          Concept art.
+2018.02.10   1.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
+2018.02.10   4.0   Monospace Garden              Development       Code            Game dev.
+2018.02.09   1.0   Monospace Garden              Development       Code            Game dev.
+2018.02.09   1.0   Sin-D                         Graphic           Visual          Composition.
+2018.02.09   1.5   Sin-D                         3D                Visual          Cindy sculpting and mouth retopologizing.
+2018.02.09   1.5   Keerosin                      3D                Visual          Concept reviews.
+2018.02.08   3.5   Sin-D                         3D                Visual          Cindy sculpting and mouth retopologizing.
+2018.02.08   1.0   Keerosin                      Illustration      Visual          Concept paintover.
+2018.02.08   1.5   Keerosin                      3D                Visual          Blockout modeling.
+2018.02.08   2.0   Obx                           Research          Code            App building, release, and app store uploading.
+2018.02.08   2.0   Obx                           Development       Code            App testing and debugging.
+2018.02.07   2.5   Keerosin                      3D                Visual          Blockout modeling.
+2018.02.07   0.5   UbiCom                        Design            Abstract        Systems design.
+2018.02.07   1.0   Sin-D                         Development       Code            Cindy sculpting.
+2018.02.07   1.5   Monospace Garden              Development       Code            Game dev.
 2018.02.06   3.5   UbiCom                        Development       Code            Shader programming.
 2018.02.06   3.0   UbiCom                        Research          Code            Shader programming.
 2018.02.06   1.0   Obx                           Research          Code            OpenGL research.
@@ -91,7 +108,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.24   1.0   Doodle                        3D                Visual          Holosight texturing.
 2018.01.24   2.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.24   0.5   UbiCom                        Design            Abstract        Concept work.
-2018.01.24   2.0   Stopop                        Development       Code            Collision rework, audio implementation.
+2018.01.24   2.0   Monospace Garden              Development       Code            Collision rework, audio implementation.
 2018.01.23   2.0   Various                       Performance       Abstract        Human: Fall Flat stream.
 2018.01.23   1.5   UbiCom                        Design            Abstract        Concept work.
 2018.01.22   1.0   Purity                        3D                Visual          Update image.
@@ -116,7 +133,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.18   4.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.17   2.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.17   1.0   Tinker                        Research          Code            Source control systems and options.
-2018.01.17   0.5   Stopop                        Development       Code            Game dev.
+2018.01.17   0.5   Monospace Garden              Development       Code            Game dev.
 2018.01.16   0.5   Study                         Research          Abstract        Digital RPGs.
 2018.01.15   3.0   Doodle                        Modeling          Visual          Texturing and rendering practice.
 2018.01.15   0.5   V-OS                          Writing           Abstract        Verse writing.
@@ -124,10 +141,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.14   0.5   Doodle                        Modeling          Visual          Modeling practice.
 2018.01.14   1.5   Study                         Research          Abstract        Digital RPGs.
 2018.01.13   2.0   Doodle                        Modeling          Visual          Modeling practice.
-2018.01.13   4.5   Stopop                        Development       Code            Game dev.
-2018.01.12   2.5   Stopop                        Development       Code            Game dev.
+2018.01.13   4.5   Monospace Garden              Development       Code            Game dev.
+2018.01.12   2.5   Monospace Garden              Development       Code            Game dev.
 2018.01.12   1.5   Doodle                        Modeling          Visual          Baking.
-2018.01.11   4.0   Stopop                        Development       Code            Game dev.
+2018.01.11   4.0   Monospace Garden              Development       Code            Game dev.
 2018.01.11   1.0   Obx                           Research          Abstract        Lab and application publishing research.
 2018.01.11   4.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.10   0.5   V-OS                          Writing           Abstract        Nil Cursors.
