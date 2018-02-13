@@ -41,7 +41,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.12   2.0   V-OS                          Development       Code            Abstracted page references attribute.
 2018.02.12   3.0   Tinker                        Development       Code            Javascript and C# help.
 2018.02.12   0.5   UbiCom                        Development       Code            Shader tweaking.
-2018.02.12   2.5   Simvol                        Development       Code            Add user counter, remove jquery, small refactor.
+2018.02.12   1.5   Simvol                        Development       Code            Add user counter, remove jquery, small refactor.
 2018.02.12   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
 2018.02.11   0.5   V-OS                          Development       Code            Add projects page attribute.
 2018.02.11   1.0   Simvol                        Development       Code            Visual redesign.
