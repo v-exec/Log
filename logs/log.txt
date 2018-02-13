@@ -38,6 +38,17 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.02.12   2.0   V-OS                          Development       Code            Abstracted page references attribute.
+2018.02.12   3.0   Tinker                        Development       Code            Javascript and C# help.
+2018.02.12   0.5   UbiCom                        Development       Code            Shader tweaking.
+2018.02.12   2.5   Simvol                        Development       Code            Add user counter, remove jquery, small refactor.
+2018.02.12   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
+2018.02.11   0.5   V-OS                          Development       Code            Add projects page attribute.
+2018.02.11   1.0   Simvol                        Development       Code            Visual redesign.
+2018.02.11   2.5   Visor                         Development       Code            Visual redesign.
+2018.02.11   1.5   Keerosin                      Illustration      Visual          Concept art.
+2018.02.11   1.0   Keerosin                      3D                Visual          Concept art.
+2018.02.11   1.0   Jam                           Acoustic          Audio           Vocals and piano.
 2018.02.10   1.5   Keerosin                      Illustration      Visual          Concept art.
 2018.02.10   2.0   Keerosin                      3D                Visual          Concept art.
 2018.02.10   1.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
@@ -150,7 +161,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.10   0.5   V-OS                          Writing           Abstract        Nil Cursors.
 2018.01.10   1.5   Obx                           Research          Abstract        Lab and application publishing research.
 2018.01.10   1.5   Obx                           Development       Code            Application updating and debugging.
-2018.01.10   3.5   Nil Cursor                    Modeling          Visual          Character modeling.
+2018.01.10   1.0   Nil Cursor                    3D                Visual          Scene, lighting, rendering.
+2018.01.10   2.5   Nil Cursor                    Modeling          Visual          Character modeling.
 2018.01.09   0.5   Dunes of Simila               3D                Visual          Procedural terrain and displacement study.
 2018.01.09   1.0   V-OS                          Writing           Abstract        Verse and personal writing.
 2018.01.09   1.5   Study                         Research          Abstract        Narrative and aesthetic input (BLAME!).
