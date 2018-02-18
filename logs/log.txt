@@ -7,7 +7,7 @@ Audio                      Music and Audio
 Personal                   Personal Curiosities, Matters, and Mindless Tasks
 None                       Nothing
 
-TASKS                      Task types (actions - learning about~)
+TASKS                      Task types (actions)
 
 Design                     Project Planning, Research, and Organization
 Development                Programming, Testing, Math, and Debugging
@@ -22,7 +22,7 @@ Photography                Picture Taking and Editing
 Composition                Composing, Producing, and Mixing
 Acoustic                   Instrument Play and Recording
 Performance                Audio and Visual Performance
-Research                   Learning the Abstract, Testing, Studying, and Teaching
+Research                   Learning, Testing, Studying, and Teaching
 Maintenance                Personal Organization and Maintenance
 Event                      Noteworthy Event
 None                       Nothing
@@ -38,6 +38,25 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.02.17   2.0   V-OS                          Videography       Visual          Animated gif headers.
+2018.02.17   3.5   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
+2018.02.17   1.0   UbiCom                        Design            Abstract        Organization and scheduling.
+2018.02.17   2.0   Tinker                        Research          Personal        Private virtual network setup.
+2018.02.17   1.0   V-OS                          Writing           Abstract        Timekeeping additions and small rewrites.
+2018.02.16   5.0   Various                       Research          Personal        Private virtual networks and OS debugging.
+2018.02.16   3.0   Doodle                        Research          Visual          Concepts review, pipeline study.
+2018.02.16   0.5   Doodle                        Illustration      Visual          Concept art.
+2018.02.15   1.0   Jam                           Acoustic          Audio           Guitar.
+2018.02.15   1.5   Monospace Garden              Development       Code            Game dev.
+2018.02.15   3.0   Tinker                        Development       Code            Code help.
+2018.02.15   1.0   Obx                           Research          Code            Hololens development technologies.
+2018.02.15   3.0   Tinker                        Research          Code            Raymarching and volumetric graphics rendering.
+2018.02.14   8.0   Monospace Garden              Development       Code            Game dev.
+2018.02.14   1.0   UbiCom                        Design            Abstract        Concept work and testing.
+2018.02.13   1.5   UbiCom                        Design            Abstract        Prototype branch merging, level blockout, movement system critiquing.
+2018.02.13   0.5   Study                         Research          Abstract        Definitions of intellect.
+2018.02.13   1.0   Obx                           Maintenance       Personal        Hardware setup and testing.
+2018.02.13   1.0   Obx                           Research          Code            Hololens development technologies.
 2018.02.12   2.0   V-OS                          Development       Code            Abstracted page references attribute.
 2018.02.12   3.0   Tinker                        Development       Code            Javascript and C# help.
 2018.02.12   0.5   UbiCom                        Development       Code            Shader tweaking.
@@ -82,7 +101,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.02   2.5   V-OS                          Graphic           Visual          Symbols production.
 2018.02.02   1.0   UbiCom                        3D                Visual          Base character model rigging.
 2018.02.02   1.5   Tinker                        Development       Code            Museum Mayhem shatter threshold development and documentation.
-2018.02.02   2.0   Doodle                        3D                Visual          Retopologizing, normal maps specialties, and sculpting.
+2018.02.02   2.0   Doodle                        Research          Visual          Retopologizing, normal maps specialties, and sculpting.
 2018.02.02   1.0   Keerosin                      Illustration      Visual          Concept art.
 2018.02.01   0.5   V-OS                          Graphic           Visual          Symbols.
 2018.02.01   1.0   Keerosin                      Illustration      Visual          Concept art.
@@ -131,7 +150,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.21   1.5   UbiCom                        Research          Abstract        Brainstorming.
 2018.01.20   2.0   Doodle                        Modeling          Visual          Helmet modeling.
 2018.01.20   1.5   UbiCom                        Research          Abstract        Brainstorming.
-2018.01.20   3.0   Study                         Research          Code            Unity graphics and shaders techniques.
+2018.01.20   3.0   Tinker                        Research          Code            Unity graphics and shaders techniques.
 2018.01.20   3.0   Various                       Writing           Personal        Ubisoft internship application.
 2018.01.19   0.5   Various                       Graphic           Visual          CV update.
 2018.01.19   1.0   Various                       Maintenance       Abstract        Japan, independant study, and Ubisoft applications.
@@ -276,7 +295,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.11.29   2.0   Moré                          3D                Visual          Materials and scene composition.
 2017.11.29   1.0   Doodle                        3D                Visual          Modeling tricks.
 2017.11.28   1.0   Moré                          3D                Visual          Scene composition.
-2017.11.28   1.5   Study                         Research          Audio           MaxMSP projects.
+2017.11.28   1.5   Jam                           Research          Audio           MaxMSP projects.
 2017.11.28   0.5   Acid Archives                 Performance       Audio           Presentation.
 2017.11.28   3.5   TA253                         Research          Code            Code help.
 2017.11.28   0.5   Cryptonaut                    Writing           Abstract        Design document.
@@ -362,7 +381,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.11.02   2.0   Study                         Research          Abstract        Cyberpunk themes.
 2017.11.01   2.5   Eyebat                        Modeling          Visual          Rigging.
 2017.11.01   2.0   Relay                         Research          Abstract        Social space design and game research.
-2017.10.31   1.5   Study                         Research          Code            MaxMSP.
+2017.10.31   1.5   Tinker                        Research          Code            MaxMSP.
 2017.10.31   2.5   TA253                         Research          Code            Code help.
 2017.10.31   3.5   Study                         Research          Abstract        Narrative methodologies.
 2017.10.30   1.0   Study                         Research          Abstract        Ketogenic diets.
@@ -398,7 +417,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.18   0.5   Study                         Writing           Abstract        Tabletop RPG scenario writing.
 2017.10.17   0.5   Qurotema                      Modeling          Visual          Unreal Engine development.
 2017.10.17   0.5   Study                         Writing           Abstract        Tabletop RPG scenario writing.
-2017.10.17   1.0   Study                         Research          Code            Analog audio synthesis hardware.
+2017.10.17   1.0   Tinker                        Research          Code            Analog audio synthesis hardware.
 2017.10.17   3.0   TA253                         Research          Code            Code help.
 2017.10.17   3.0   Study                         Research          Abstract        Narrative and storytelling capacity of games.
 2017.10.16   3.5   Tinker                        Development       Code            Javascript.
@@ -421,8 +440,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.11   2.5   Atomic AI                     3D                Visual          Texturing, lighting, and rendering (2).
 2017.10.11   1.5   Eyebat                        Modeling          Visual          UV unwrapping.
 2017.10.11   2.5   Doodle                        Modeling          Visual          UV unwrapping.
-2017.10.11   1.0   Study                         Research          Abstract        Alternative social media interfacing.
-2017.10.10   1.5   Study                         Research          Audio           Synthesizers and synthesis.
+2017.10.11   1.0   Doodle                        Research          Abstract        Alternative social media interfacing.
+2017.10.10   1.5   Jam                           Research          Audio           Synthesizers and synthesis.
 2017.10.10   2.0   TA253                         Research          Code            Code help.
 2017.10.10   3.5   Study                         Research          Abstract        Design, game design, loop of execution and evaluation.
 2017.10.09   4.0   Tinker                        Development       Code            HTML and CSS teaching.
@@ -444,10 +463,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.05   2.5   Study                         Research          Abstract        Technosphere, personal development, emergence, complex systems, ludology, narratology, religion, and intellectualism.
 2017.10.05   0.0   Obx                           Event             Personal        Obx interview and boarding.
 2017.10.04   0.5   Doodle                        Graphic           Visual          Give me milk logo.
-2017.10.04   3.0   Study                         Modeling          Visual          UVs.
+2017.10.04   3.0   Doodle                        Modeling          Visual          UVs.
 2017.10.04   3.5   Wite                          Development       Code            Modular interfacing engine.
 2017.10.03   2.0   Wite                          Development       Code            Modular interfacing engine.
-2017.10.03   2.5   Study                         Research          Audio           MaxMSP.
+2017.10.03   2.5   Jam                           Research          Audio           MaxMSP.
 2017.10.03   2.0   TA253                         Research          Code            Code help.
 2017.10.03   1.5   Perfectus Empatheia           Design            Abstract        Testing and feedback.
 2017.10.02   1.0   Wite                          Development       Code            Modular interfacing engine.
@@ -480,7 +499,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.27   1.0   Perfectus Empatheia           Design            Abstract        Task delegation, time organization, planning.
 2017.09.27   3.5   Eyebat                        Modeling          Visual          Eyebat modeling.
 2017.09.27   1.0   Study                         Research          Abstract        Net art review.
-2017.09.26   1.5   Study                         Research          Audio           Acoustic awareness.
+2017.09.26   1.5   Jam                           Research          Audio           Acoustic awareness.
 2017.09.26   2.0   TA253                         Research          Code            Code helping.
 2017.09.26   3.5   Perfectus Empatheia           Design            Abstract        Game testing.
 2017.09.25   1.0   Study                         Research          Personal        Online dating.
@@ -493,21 +512,21 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.23   2.5   DotCycle                      Composition       Audio           Sound composition.
 2017.09.23   2.0   Study                         Research          Abstract        Game design, level design, indie game development.
 2017.09.23   1.5   V-OS                          Writing           Abstract        Rewrites.
-2017.09.23   0.5   Study                         Research          Audio           Role of silence in acoustic composition and life.
+2017.09.23   0.5   Jam                           Research          Audio           Role of silence in acoustic composition and life.
 2017.09.22   1.0   DotCycle                      Composition       Audio           Sound composition.
 2017.09.22   0.5   Study                         Research          Abstract        Game design study.
-2017.09.22   1.0   Study                         Development       Code            MaxMSP.
+2017.09.22   1.0   Tinker                        Development       Code            MaxMSP.
 2017.09.22   0.5   Doodle                        Graphic           Visual          FLOP cover photo.
 2017.09.22   2.0   Perfectus Empatheia           Graphic           Visual          Visual instructions.
 2017.09.21   2.0   DotCycle                      Design            Abstract        Level design.
 2017.09.21   3.0   Eyebat                        Modeling          Visual          Eyebat modelling.
 2017.09.21   1.0   Perfectus Empatheia           Writing           Abstract        Design journal.
 2017.09.20   1.5   Study                         Research          Abstract        Ryan Whittier Hale art.
-2017.09.20   0.5   Study                         Research          Code            Microprocessors.
+2017.09.20   0.5   Tinker                        Research          Code            Microprocessors.
 2017.09.20   4.0   Eyebat                        Modeling          Visual          Shoe and eyebat modeling.
 2017.09.20   0.5   V-OS                          Design            Abstract        Tiny updates.
 2017.09.20   0.5   Doodle                        Graphic           Visual          Truli rework and selection update.
-2017.09.19   2.0   Study                         Research          Audio           MaxMSP, analog synths, acoustics.
+2017.09.19   2.0   Jam                           Research          Audio           MaxMSP, analog synths, acoustics.
 2017.09.19   2.0   TA253                         Research          Code            Git and coding help.
 2017.09.19   3.0   Perfectus Empatheia           Design            Abstract        Game testing.
 2017.09.18   1.0   DotCycle                      Design            Abstract        Level design.
@@ -528,18 +547,18 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.14   1.0   DotCycle                      Development       Code            Shader code.
 2017.09.14   2.0   DotCycle                      Research          Code            Shader code.
 2017.09.14   2.0   Perfectus Empatheia           Design            Abstract        Game design.
-2017.09.14   1.0   Study                         Research          Abstract        Math types, information architecture on the web.
+2017.09.14   1.0   Tinker                        Research          Abstract        Math types, information architecture on the web.
 2017.09.13   0.5   DotCycle                      Research          Code            Shader code.
 2017.09.13   0.5   Study                         Research          Abstract        Postmodernist philosophy.
 2017.09.13   3.5   Doodle                        Modeling          Visual          Hard-surface modeling.
 2017.09.13   2.0   Study                         Research          Abstract        Net art history.
 2017.09.12   2.0   Tinker                        Development       Code            MaxMSP programming.
-2017.09.12   1.5   Study                         Research          Audio           Audio engineering and acoustic environments.
+2017.09.12   1.5   Jam                           Research          Audio           Audio engineering and acoustic environments.
 2017.09.12   0.5   TA253                         Research          Code            Coding help.
 2017.09.12   3.5   Study                         Research          Abstract        Games, play.
 2017.09.11   3.0   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
 2017.09.11   1.5   Dentatsuna                    Modeling          Visual          Environment modeling.
-2017.09.11   0.5   Study                         Research          Audio           Adaptability of creativity in audio.
+2017.09.11   0.5   Jam                           Research          Audio           Adaptability of creativity in audio.
 2017.09.11   1.5   Perfectus Empatheia           Research          Abstract        Game design reading, dominos study, journal writing.
 2017.09.10   5.5   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
 2017.09.10   3.5   Dentatsuna                    Modeling          Visual          Environment modeling.
@@ -549,9 +568,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.09   1.5   Study                         Research          Abstract        Information design, and net art.
 2017.09.08   0.5   Acid Archives                 Composition       Audio           Experimentation.
 2017.09.08   2.0   Various                       Performance       Abstract        DPWS Rocket League stream.
-2017.09.08   0.5   Study                         Research          Code            MaxMSP study.
+2017.09.08   0.5   Tinker                        Research          Code            MaxMSP study.
 2017.09.07   0.5   Study                         Research          Abstract        Quest design study.
-2017.09.07   1.0   Study                         Development       Code            MaxMSP study.
+2017.09.07   1.0   Tinker                        Research          Code            MaxMSP study.
 2017.09.07   1.0   TA253                         Research          Abstract        Curriculum and class design review.
 2017.09.06   0.5   Acid Archives                 Research          Audio           Mood experimentation and research.
 2017.09.06   3.0   Doodle                        Modeling          Visual          Hard-surface modeling.
@@ -560,7 +579,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.06   0.5   Acid Archives                 Writing           Abstract        Acid archives story.
 2017.09.05   0.5   Acid Archives                 Graphic           Visual          Acid archives logo creation.
 2017.09.05   1.0   Tinker                        Research          Code            MaxMSP study.
-2017.09.05   2.5   Study                         Research          Audio           Sound theory.
+2017.09.05   2.5   Jam                           Research          Audio           Sound theory.
 2017.09.05   3.5   Study                         Research          Abstract        Game design theory.
 2017.09.05   0.5   Visor                         Development       Code            Manual file upload.
 2017.09.05   1.5   Visor                         Research          Code            Manual file upload.
@@ -569,12 +588,12 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.03   0.5   Study                         Research          Abstract        Game exploration design.
 2017.09.02   0.5   Log                           Development       Visual          Measures layout and sizing tinkering.
 2017.09.02   1.0   Study                         Research          Abstract        Game progression, dialog systems, and exploration.
-2017.09.02   0.5   Study                         Research          Personal        Console emulation.
+2017.09.02   0.5   Tinker                        Research          Personal        Console emulation.
 2017.09.01   0.5   Study                         Research          Abstract        Art construction.
 2017.09.01   2.0   Log                           Development       Code            Refactoring, graph visualization rework.
 2017.08.31   1.0   Log                           Development       Visual          Visual redesign and reorganization, page layout tinkering.
 2017.08.31   5.0   Log                           Development       Code            Graph backend rework, empty log implementation, refactoring.
-2017.08.30   0.5   Study                         Research          Abstract        Combat systems.
+2017.08.30   0.5   Tinker                        Research          Abstract        Combat systems.
 2017.08.30   0.5   Seven                         Design            Code            Clean-up, web version documentation.
 2017.08.30   1.0   V-OS                          Development       Visual          Testing new headers.
 2017.08.30   3.5   V-OS                          Research          Visual          Testing new headers.
@@ -601,7 +620,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.24   1.0   Rig                           Research          Code            Linux set up and tinkering.
 2017.08.23   6.5   Rig                           Research          Code            Linux set up and tinkering.
 2017.08.22   4.5   Rig                           Research          Abstract        Linux set up and tinkering.
-2017.08.22   0.5   Study                         Research          Code            Operating systems.
+2017.08.22   0.5   Tinker                        Research          Code            Operating systems.
 2017.08.22   1.5   Rotonde                       Development       Code            Styling, original json access, position per post data.
 2017.08.22   0.5   Log                           Research          Code            Shell scripting.
 2017.08.21   0.5   Log                           Research          Code            Shell scripting.
@@ -616,7 +635,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.19   1.5   V-OS                          Development       Visual          Styling changes.
 2017.08.19   1.0   Various                       Maintenance       Abstract        Constellation changes, Constellation and Dodger pages, Github links update.
 2017.08.18   1.0   Doodle                        3D                Visual          Material rendering.
-2017.08.18   1.5   Study                         Research          Visual          3D scenery.
+2017.08.18   1.5   Doodle                        Research          Visual          3D scenery.
 2017.08.17   0.5   Jam                           Composition       Audio           Ether Sphere composition.
 2017.08.17   1.0   Study                         Research          Abstract        Cyberpunk narrative.
 2017.08.17   1.0   DimoRat                       Development       Code            Player states, stamina, animations.
@@ -629,7 +648,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.08.14   1.5   Di                            Modeling          Visual          Character modeling.
 2017.08.14   0.5   V-OS                          Writing           Abstract        Visual tweaks, small writing fixes, small reorganization.
 2017.08.13   1.0   DimoRat                       Development       Code            Main setup.
-2017.08.12   0.5   Study                         Research          Abstract        Fighting systems.
+2017.08.12   0.5   Tinker                        Research          Abstract        Fighting systems.
 2017.08.12   0.5   DimoRat                       Development       Code            Main setup.
 2017.08.11   0.5   Jam                           Composition       Audio           Ether Sphere composition.
 2017.08.11   0.5   Di                            Modeling          Visual          Character modeling.
@@ -671,7 +690,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.07.28   2.0   Di                            Writing           Abstract        Character writing.
 2017.07.28   0.5   Study                         Research          Personal        Self-assessment.
 2017.07.28   3.0   V-OS                          Writing           Abstract        Lifeset.
-2017.07.28   0.5   Study                         Research          Audio           Sequencer electronic setup.
+2017.07.28   0.5   Jam                           Research          Audio           Sequencer electronic setup.
 2017.07.27   0.5   V-OS                          Writing           Abstract        Lifeset.
 2017.07.27   0.5   Study                         Research          Abstract        Effects of regular usage of pornography.
 2017.07.26   1.5   V-OS                          Development       Code            Footer rework.
@@ -794,7 +813,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.23   2.5   Study                         Research          Personal        Skateboarding.
 2017.06.22   1.5   Log                           Design            Visual          Divisions measures in spec pages, percentage calculate fix and cleaning.
 2017.06.22   0.5   Log                           Design            Abstract        Code division addition.
-2017.06.22   0.5   Study                         Research          Visual          Realistic materials shading.
+2017.06.22   0.5   Jam                           Research          Visual          Realistic materials shading.
 2017.06.22   1.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.21   0.5   The Cosmic Affliction         Acoustic          Audio           Dark Dye composition / experimentation.
 2017.06.21   1.0   Study                         Research          Abstract        First person level design.
@@ -818,7 +837,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.15   2.0   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.14   3.0   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.13   1.0   Boza                          Design            Visual          Boza logo design.
-2017.06.13   0.5   Study                         Graphic           Visual          Realistic 2D/3D package rendering.
+2017.06.13   0.5   Doodle                        Graphic           Visual          Realistic 2D/3D package rendering.
 2017.06.13   2.0   Study                         Research          Abstract        Hallucinogens, DMT.
 2017.06.13   0.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.12   1.0   Study                         Research          Abstract        Hallucinogens, DMT.
@@ -827,7 +846,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.11   2.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.10   1.0   Study                         Writing           Personal        Self authoring.
 2017.06.09   1.5   The Cosmic Affliction         Design            Audio           Album review.
-2017.06.08   1.0   Study                         Research          Abstract        Enemy AI, third person combat systems.
+2017.06.08   1.0   Tinker                        Research          Abstract        Enemy AI, third person combat systems.
 2017.06.07   1.0   AGD                           Research          Code            Construct 2 engine.
 2017.06.07   1.5   The Cosmic Affliction         Composition       Audio           Strider composition.
 2017.06.06   1.0   Keyde                         Research          Code            Code review.
@@ -879,7 +898,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.16   2.0   Keyde                         Development       Visual          Point cloud tuning, size and color scripting, render experimentation.
 2017.05.15   3.5   Keyde                         Design            Visual          Visuals dissection, modes interaction and transition, code review.
 2017.05.14   1.0   Saturn                        Illustration      Visual          Drawing.
-2017.05.13   1.0   Study                         Research          Abstract        Third person combat systems.
+2017.05.13   1.0   Tinker                        Research          Abstract        Third person combat systems.
 2017.05.13   0.5   Saturn                        Illustration      Visual          Drawing.
 2017.05.13   1.0   Keyde                         Development       Code            Touch input, shape parameter mapping, animation, documentation.
 2017.05.12   1.5   Study                         Research          Personal        Alternate modes of transportation.
@@ -900,7 +919,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.08   1.0   Keyde                         Design            Visual          Modes and visuals design.
 2017.05.07   1.0   Jam                           Acoustic          Audio           Guitar.
 2017.05.07   1.0   Keyde                         Illustration      Visual          Visuals research.
-2017.05.07   0.5   Study                         Research          Code            Neural networks and image processing.
+2017.05.07   0.5   Tinker                        Research          Code            Neural networks and image processing.
 2017.05.07   0.5   The Cosmic Affliction         Composition       Audio           Spacefarer intro rework.
 2017.05.06   1.0   Study                         Research          Personal        Martial arts styles.
 2017.05.06   2.0   Jam                           Acoustic          Audio           Piano, guitar, vocal.
@@ -916,7 +935,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.03   1.5   The Cosmic Affliction         Composition       Audio           Spacefarer mixing and final compositional touches.
 2017.05.02   2.0   Keyde                         Research          Code            Networking research.
 2017.05.02   1.5   Rig                           Maintenance       Personal        Take out, tweak, and repair bikes.
-2017.05.02   1.0   Doodle                        3D                Visual          Physics and particle systems in Blender.
+2017.05.02   1.0   Doodle                        Research          Visual          Physics and particle systems in Blender.
 2017.05.02   2.5   The Cosmic Affliction         Composition       Audio           Spacefarer composition finalization, mixing. Thousand Year Dream composition.
 2017.05.01   1.0   Study                         Research          Abstract        Science fiction, storytelling, "The Last Question".
 2017.05.01   0.5   Keyde                         Research          Code            Networking research.
@@ -927,7 +946,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.29   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.04.29   0.5   Doodle                        Photography       Visual          Skyventure family photos and videos editing.
 2017.04.29   2.5   V-OS                          Writing           Abstract        Runtime page writing and general updates.
-2017.04.29   0.5   Study                         Research          Abstract        Time systems.
+2017.04.29   0.5   Tinker                        Research          Abstract        Time systems.
 2017.04.28   0.5   Saturn                        Illustration      Visual          Experimentation.
 2017.04.28   2.0   Keyde                         Development       Code            Procedural geometry.
 2017.04.28   2.0   Keyde                         Research          Code            Procedural geometry.
@@ -943,7 +962,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.24   0.5   Doodle                        Illustration      Visual          Drawing.
 2017.04.24   1.0   Keyde                         Development       Code            Unity setup.
 2017.04.24   5.0   Keyde                         Research          Code            Foundation development, mobile, location, accelorometer, cardboard, Unity environment, camera integration.
-2017.04.23   0.5   Study                         Research          Abstract        Controls and 3D movement systems.
+2017.04.23   0.5   Tinker                        Research          Abstract        Controls and 3D movement systems.
 2017.04.22   6.0   Seven                         Development       Code            Local file handling, standalone application porting, instancing.
 2017.04.22   2.0   Seven                         Research          Code            Local file handling.
 2017.04.22   1.5   Seven                         Design            Code            Local file handling.
@@ -969,8 +988,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.04.16   0.5   Saturn                        Research          Visual          Digital collage study.
 2017.04.16   1.0   The Cosmic Affliction         Composition       Audio           Saturn Rain mixing.
 2017.04.15   4.0   The Cosmic Affliction         Composition       Audio           Saturn Rain composition, recording, mixing.
-2017.04.14   1.5   Study                         Research          Audio           Composition study.
-2017.04.14   2.5   Study                         Research          Code            Shaders study.
+2017.04.14   1.5   Jam                           Research          Audio           Composition study.
+2017.04.14   2.5   Tinker                        Research          Code            Shaders study.
 2017.04.14   1.5   Jam                           Composition       Audio           Composition and synthesis.
 2017.04.13   0.0   Various                       Event             Personal        Last day of classes.
 2017.04.13   0.5   Drone Dreams                  Performance       Audio           Drone music performance.
@@ -1031,7 +1050,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.03.22   2.0   Obx                           Writing           Personal        Obx site population with documentation data.
 2017.03.22   1.5   V-OS                          Writing           Abstract        Writing, titles, personal page, site structure, CV rework.
 2017.03.22   0.5   VisN                          Writing           Abstract        V-OS page.
-2017.03.21   0.5   Study                         Composition       Audio           Composition and experimentation.
+2017.03.21   0.5   Jam                           Composition       Audio           Composition and experimentation.
 2017.03.21   0.5   Study                         Research          Abstract        Body and embodiment in new media.
 2017.03.20   0.5   Doodle                        Graphic           Visual          SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
 2017.03.20   0.5   Doodle                        Illustration      Visual          Drawing.
@@ -1089,7 +1108,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.28   0.5   Doodle                        Illustration      Visual          Drawing.
 2017.02.28   3.0   Elyium                        Writing           Abstract        Commentary and additional documentation.
 2017.02.27   1.0   Log                           Research          Code            MySQL study.
-2017.02.27   0.5   Study                         Research          Visual          Rendering study.
+2017.02.27   0.5   Doodle                        Research          Visual          Rendering study.
 2017.02.27   1.5   Doodle                        Illustration      Visual          Drawing.
 2017.02.27   0.5   Study                         Research          Abstract        Interaction in new media.
 2017.02.26   2.0   Elyium                        Development       Code            Interface expansion.
@@ -1105,14 +1124,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.23   2.0   Tinker                        Development       Code            Unreal engine problem solving.
 2017.02.23   3.0   VisN                          Development       Code            Camera FoV script and HTC Vive port.
 2017.02.22   2.0   V-OS                          Writing           Abstract        V-OS narrative rewrite.
-2017.02.22   0.5   Study                         Research          Visual          Micropolygon displacement research.
-2017.02.21   1.5   Study                         Research          Visual          Micropolygon displacement research.
+2017.02.22   0.5   Doodle                        Research          Visual          Micropolygon displacement.
+2017.02.21   1.5   Doodle                        Research          Visual          Micropolygon displacement.
 2017.02.21   0.5   Elyium                        Design            Visual          Interface design.
 2017.02.21   1.5   Doodle                        3D                Visual          Materials creation, lighting and rendering.
 2017.02.20   3.5   Elyium                        Development       Code            Data structure creation.
-2017.02.20   5.0   Study                         Research          Visual          Blender material system study.
+2017.02.20   5.0   Tinker                        Research          Visual          Blender material system study.
 2017.02.20   1.0   Doodle                        Illustration      Visual          Illustration with odd brushes.
-2017.02.19   0.5   Study                         Research          Visual          Blender material system nodes research.
+2017.02.19   0.5   Doodle                        Research          Visual          Blender material system nodes research.
 2017.02.19   4.0   Elyium                        Development       Code            Database, narrative, and interface development.
 2017.02.18   2.5   Elyium                        Design            Code            Database and narrative system redesign.
 2017.02.18   0.5   Ontologica                    Writing           Abstract        Documentation and V-OS page.
@@ -1158,13 +1177,13 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.02   2.0   Doodle                        Videography       Visual          Movie trailer.
 2017.02.01   2.0   Doodle                        Graphic           Visual          Develop shorthand script for personal use.
 2017.02.01   1.5   Rig                           Maintenance       Personal        Reinstall desktop PC.
-2017.01.31   4.0   Study                         Development       Code            Video processing in Processing.
+2017.01.31   4.0   Tinker                        Development       Code            Video processing in Processing.
 2017.01.31   1.0   VisN                          Research          Visual          Unique typography research.
 2017.01.30   1.5   Namium                        Linguistics       Abstract        Develop more sophisticated name generation for name system, experiment with language.
 2017.01.30   0.5   Study                         Research          Abstract        Medium and media studies.
 2017.01.29   1.0   Namium                        Development       Code            Design and develop simple name generation system.
-2017.01.29   1.0   Study                         Research          Code            Ruby study.
-2017.01.28   2.0   Study                         Research          Code            Ruby study.
+2017.01.29   1.0   Tinker                        Research          Code            Ruby study.
+2017.01.28   2.0   Tinker                        Research          Code            Ruby study.
 2017.01.28   1.0   VisN                          3D                Visual          Cinema4D sketches for Obx.
 2017.01.28   0.0   Various                       Event             Personal        SSD died.
 2017.01.27   2.5   Ontologica                    Development       Code            Ontologica UE4 prototype development.
@@ -1182,7 +1201,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.01.21   1.0   Rig                           Maintenance       Personal        Update backup.
 2017.01.21   2.0   Qurotema                      Composition       Audio           Mixing and tuning.
 2017.01.20   2.0   V-OS                          Writing           Abstract        ScopeOne documentation and V-OS verse writing.
-2017.01.19   3.0   Study                         Research          Code            Pixel sorting and vector math.
+2017.01.19   3.0   Tinker                        Research          Code            Pixel sorting and vector math.
 2017.01.19   0.0   Various                       Event             Personal        Begin time tracking seriously.
 2017.01.18   6.0   Qurotema                      Composition       Audio           Composition and mixing.
 2017.01.17   2.5   Qurotema                      Acoustic          Audio           Recording room sounds for soundscape samples.
