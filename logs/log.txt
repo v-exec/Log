@@ -38,6 +38,10 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.02.18   7.0   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
+2018.02.18   1.5   Jam                           Acoustic          Audio           Vocals.
+2018.02.18   1.0   V-OS                          Writing           Abstract        Organization and narrative concept work.
+2018.02.18   0.5   Delta                         Writing           Abstract        Documentation.
 2018.02.17   2.0   V-OS                          Videography       Visual          Animated gif headers.
 2018.02.17   3.5   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
 2018.02.17   1.0   UbiCom                        Design            Abstract        Organization and scheduling.
@@ -194,7 +198,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.07   4.0   Study                         Research          Abstract        Narrative input (House of Leaves, Divine Comedy, BLAME!) and study on aesthetic's relationship to biology.
 2018.01.07   0.5   Japanese                      Linguistics       Abstract        Japanese.
 2018.01.06   1.0   Doodle                        Illustration      Visual          Illustration study.
-2018.01.06   2.5   Atomic AI                     3D                Visual          Composition and rendering.
+2018.01.06   2.5   Atomic AI                     3D                Visual          Composition and rendering (3-variants).
 2018.01.06   1.0   Japanese                      Linguistics       Abstract        Japanese.
 2018.01.05   0.5   Study                         Research          Abstract        Antisocial personality disorder.
 2018.01.05   3.0   Doodle                        Illustration      Visual          Illustration study.
@@ -350,7 +354,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.11.13   3.0   Relay                         Development       Code            Dynamic layout and chat system.
 2017.11.12   0.5   Study                         Research          Personal        Cosmetic surgeries.
 2017.11.12   6.5   Relay                         Development       Code            Communication framework.
-2017.11.11   1.0   Architects of Souls           Composition       Audio           Vocal recording and mixing.
+2017.11.11   1.0   Architects of Souls           Composition       Audio           Vocals recording and mixing.
 2017.11.11   1.0   Acid Archives                 Development       Audio           Project set up.
 2017.11.11   3.0   TA253                         Research          Code            Correction.
 2017.11.10   0.5   Visor                         Development       Code            Minor fixes and feature additions.
@@ -922,7 +926,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.05.07   0.5   Tinker                        Research          Code            Neural networks and image processing.
 2017.05.07   0.5   The Cosmic Affliction         Composition       Audio           Spacefarer intro rework.
 2017.05.06   1.0   Study                         Research          Personal        Martial arts styles.
-2017.05.06   2.0   Jam                           Acoustic          Audio           Piano, guitar, vocal.
+2017.05.06   2.0   Jam                           Acoustic          Audio           Piano, guitar, vocals.
 2017.05.05   0.5   Doodle                        Graphic           Visual          Material symbol.
 2017.05.05   0.5   The Cosmic Affliction         Composition       Audio           Thousand Year Dream composition.
 2017.05.05   1.0   Study                         Research          Personal        Jordan Peterson: Psychology and interpersonal interaction and relationships.
