@@ -38,6 +38,41 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.02.28   0.5   Study                         Research          Abstract        Graphics effects implementations.
+2018.02.28   0.5   UbiCom                        Design            Abstract        Scheduling and feature design.
+2018.02.28   1.0   UbiCom                        Development       Code            Sanity tweaking and incapacity implementation.
+2018.02.28   1.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.28   1.0   Monospace Garden              Design            Abstract        Design documentation.
+2018.02.28   2.5   Monospace Garden              Development       Code            Tweaking.
+2018.02.27   3.5   Study                         Research          Personal        Japan exchange documentation.
+2018.02.27   5.0   Obx                           Research          Code            Apple iOS release builds and testing.
+2018.02.26   3.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.26   1.0   UbiCom                        Composition       Audio           Theme song composition.
+2018.02.26   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
+2018.02.25   1.0   Various                       Writing           Personal        Self.
+2018.02.25   2.5   Keerosin                      Modeling          Visual          Modeling.
+2018.02.25   0.5   UbiCom                        Development       Code            Sanity tweaking.
+2018.02.25   1.0   Jam                           Acoustic          Audio           Guitar and vocals.
+2018.02.25   2.5   Study                         Research          Personal        Japan exchange documentation.
+2018.02.24   1.5   Keerosin                      Modeling          Visual          Modeling.
+2018.02.24   3.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.24   1.0   Jam                           Acoustic          Audio           Guitar and vocals.
+2018.02.23   1.0   Various                       Research          Personal        Relationships.
+2018.02.23   1.0   Keerosin                      Modeling          Visual          Modeling.
+2018.02.23   2.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.22   0.5   Jam                           Acoustic          Audio           Guitar and vocals.
+2018.02.22   2.5   Study                         Research          Personal        Japan exchange documentation.
+2018.02.22   3.0   Obx                           Research          Code            APK modification, Apple distribution.
+2018.02.21   2.0   Various                       Graphic           Visual          CV update.
+2018.02.21   4.0   UbiCom                        Development       Code            Lighting experimentation.
+2018.02.20   0.5   Rig                           Maintenance       Personal        Backup.
+2018.02.20   0.5   UbiCom                        Design            Code            Lighting experimentation.
+2018.02.20   0.5   Mythaphil                     Graphic           Visual          Song cover.
+2018.02.20   3.5   Mythaphil                     Composition       Audio           Song composition.
+2018.02.20   4.5   Obx                           Research          Code            APK modification, Apple distribution, and Hololens development.
+2018.02.19   1.0   Jam                           Acoustic          Audio           Keyboard.
+2018.02.19   1.5   UbiCom                        Design            Code            Lighting experimentation.
+2018.02.19   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
 2018.02.18   7.0   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
 2018.02.18   1.5   Jam                           Acoustic          Audio           Vocals.
 2018.02.18   1.0   V-OS                          Writing           Abstract        Organization and narrative concept work.
@@ -70,10 +105,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.11   1.0   Simvol                        Development       Code            Visual redesign.
 2018.02.11   2.5   Visor                         Development       Code            Visual redesign.
 2018.02.11   1.5   Keerosin                      Illustration      Visual          Concept art.
-2018.02.11   1.0   Keerosin                      3D                Visual          Concept art.
+2018.02.11   1.0   Keerosin                      Modeling          Visual          Concept art.
 2018.02.11   1.0   Jam                           Acoustic          Audio           Vocals and piano.
 2018.02.10   1.5   Keerosin                      Illustration      Visual          Concept art.
-2018.02.10   2.0   Keerosin                      3D                Visual          Concept art.
+2018.02.10   2.0   Keerosin                      Modeling          Visual          Concept art.
 2018.02.10   1.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
 2018.02.10   4.0   Monospace Garden              Development       Code            Game dev.
 2018.02.09   1.0   Monospace Garden              Development       Code            Game dev.
@@ -82,10 +117,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.09   1.5   Keerosin                      3D                Visual          Concept reviews.
 2018.02.08   3.5   Sin-D                         3D                Visual          Cindy sculpting and mouth retopologizing.
 2018.02.08   1.0   Keerosin                      Illustration      Visual          Concept paintover.
-2018.02.08   1.5   Keerosin                      3D                Visual          Blockout modeling.
+2018.02.08   1.5   Keerosin                      Modeling          Visual          Blockout modeling.
 2018.02.08   2.0   Obx                           Research          Code            App building, release, and app store uploading.
 2018.02.08   2.0   Obx                           Development       Code            App testing and debugging.
-2018.02.07   2.5   Keerosin                      3D                Visual          Blockout modeling.
+2018.02.07   2.5   Keerosin                      Modeling          Visual          Blockout modeling.
 2018.02.07   0.5   UbiCom                        Design            Abstract        Systems design.
 2018.02.07   1.0   Sin-D                         Development       Code            Cindy sculpting.
 2018.02.07   1.5   Monospace Garden              Development       Code            Game dev.
