@@ -80,7 +80,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.22   2.5   Study                         Research          Personal        Japan exchange documentation.
 2018.02.22   3.0   Obx                           Research          Code            APK modification, Apple distribution.
 2018.02.21   2.0   Various                       Graphic           Visual          CV update.
-2018.02.21   4.0   UbiCom                        Development       Code            Lighting experimentation.
+2018.02.21   3.5   UbiCom                        Development       Code            Lighting experimentation.
 2018.02.20   0.5   Rig                           Maintenance       Personal        Backup.
 2018.02.20   0.5   UbiCom                        Design            Code            Lighting experimentation.
 2018.02.20   0.5   Mythaphil                     Graphic           Visual          Song cover.
@@ -89,7 +89,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.19   1.0   Jam                           Acoustic          Audio           Keyboard.
 2018.02.19   1.5   UbiCom                        Design            Code            Lighting experimentation.
 2018.02.19   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
-2018.02.18   7.0   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
+2018.02.18   6.5   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
 2018.02.18   1.5   Jam                           Acoustic          Audio           Vocals.
 2018.02.18   1.0   V-OS                          Writing           Abstract        Organization and narrative concept work.
 2018.02.18   0.5   Delta                         Writing           Abstract        Documentation.
