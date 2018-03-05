@@ -38,7 +38,23 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2018.02.28   0.5   Study                         Research          Abstract        Graphics effects implementations.
+2018.03.04   1.5   Keerosin                      Modeling          Visual          Low poly variant modeling.
+2018.03.04   1.5   UbiCom                        Design            Abstract        Level design, movement design.
+2018.03.04   3.5   UbiCom                        Development       Code            Movement system, github issue resolution.
+2018.03.04   1.5   Jam                           Acoustic          Audio           Vocals.
+2018.03.03   2.0   Jam                           Acoustic          Audio           Vocals, production.
+2018.03.03   0.5   UbiCom                        Design            Audio           Audio samples collection.
+2018.03.03   1.5   UbiCom                        Design            Abstract        Level design, movement design.
+2018.03.03   2.0   UbiCom                        Development       Code            Movement system and asset integration.
+2018.03.03   3.0   Keerosin                      Modeling          Visual          Low poly variant modeling.
+2018.03.02   5.5   Various                       Performance       Abstract        Artcade exhibition.
+2018.03.02   2.0   Various                       Maintenance       Personal        Artcade setup.
+2018.03.02   1.0   Keerosin                      Design            Visual          Modeling workflow.
+2018.03.01   2.5   Study                         Design            Abstract        Game design help and discussion.
+2018.03.01   2.0   Keerosin                      Modeling          Visual          Modeling.
+2018.03.01   1.0   Study                         Research          Personal        Japan exchange documentation.
+2018.03.01   3.5   Obx                           Research          Code            Apple iOS release builds and testing.
+2018.02.28   0.5   Study                         Research          Abstract        Graphic effects implementations.
 2018.02.28   0.5   UbiCom                        Design            Abstract        Scheduling and feature design.
 2018.02.28   1.0   UbiCom                        Development       Code            Sanity tweaking and incapacity implementation.
 2018.02.28   1.0   Study                         Research          Personal        Japan exchange documentation.
