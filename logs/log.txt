@@ -38,6 +38,35 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.03.15   2.5   Doodle                        3D                Visual          Greeble.
+2018.03.15   3.5   Obx                           Research          Code            Unity optimization and iOS debugging.
+2018.03.15   1.0   Various                       Research          Abstract        Uni investments and bureaucracy.
+2018.03.15   0.5   Obx                           Research          Code            Touchscreen overview.
+2018.03.14   1.5   Doodle                        3D                Visual          Greeble.
+2018.03.14   0.5   Monospace Garden              Design            Abstract        Design overview.
+2018.03.14   0.5   Jam                           Acoustic          Audio           Piano.
+2018.03.13   2.0   Obx                           Research          Code            Unity optimization, Java testing, iOS debugging.
+2018.03.13   2.5   Eradise                       Research          Code            Animation technologies.
+2018.03.12   1.5   Eradise                       Research          Code            Animations programming and vector math.
+2018.03.12   2.0   Eradise                       Development       Code            Movement and camera system.
+2018.03.12   0.5   UbiCom                        Composition       Audio           Sound effects.
+2018.03.12   2.5   UbiCom                        Design            Abstract        Meeting, level design overview, mechanics overview.
+2018.03.11   3.5   UbiCom                        Design            Abstract        Level design.
+2018.03.11   2.5   UbiCom                        Composition       Audio           Sound effects.
+2018.03.11   1.0   Jam                           Acoustic          Audio           Vocals.
+2018.03.10   1.0   UbiCom                        Composition       Audio           Sound effects.
+2018.03.09   1.0   UbiCom                        Design            Abstract        Art production pipeline.
+2018.03.09   1.0   Eradise                       3D                Visual          Brainstorming and technical planning.
+2018.03.09   3.0   Doodle                        3D                Visual          Displacement maps.
+2018.03.08   2.0   Various                       Research          Personal        Familial future.
+2018.03.08   3.0   Obx                           Research          Code            Apple iOS release builds and Unity testing.
+2018.03.08   2.0   UbiCom                        Design            Abstract        Level design and argumentation.
+2018.03.07   3.0   UbiCom                        Design            Abstract        Level design and argumentation.
+2018.03.07   4.0   Keerosin                      Modeling          Visual          Texturing.
+2018.03.06   1.0   UbiCom                        Development       Code            Movement fixes, climb depracation.
+2018.03.06   3.5   Obx                           Research          Code            Apple iOS release builds and testing.
+2018.03.05   7.0   Keerosin                      Modeling          Visual          UVs, ID maps, low poly variant, sculpting, substance integration.
+2018.03.05   3.0   UbiCom                        Design            Abstract        Meeting, level design overview, mechanics overview.
 2018.03.04   1.5   Keerosin                      Modeling          Visual          Low poly variant modeling.
 2018.03.04   1.5   UbiCom                        Design            Abstract        Level design, movement design.
 2018.03.04   3.5   UbiCom                        Development       Code            Movement system, github issue resolution.
