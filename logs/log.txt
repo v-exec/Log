@@ -38,6 +38,42 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.03.24   0.5   Jam                           Acoustic          Audio           Vocals.
+2018.03.24   1.5   UbiCom                        Composition       Audio           Music.
+2018.03.24   3.5   UbiCom                        Design            Abstract        Level design.
+2018.03.24   0.5   Eradise                       Maintenance       Code            Repository setup.
+2018.03.24   1.0   Eradise                       Development       Code            Movement relationship with camera.
+2018.03.24   1.0   Eradise                       Linguistics       Visual          Typeface.
+2018.03.24   1.0   Various                       Writing           Abstract        Automatons in human social contexts and art curation.
+2018.03.23   1.0   UbiCom                        3D                Visual          Prop modeling and texturing.
+2018.03.23   3.5   UbiCom                        Design            Abstract        Level design.
+2018.03.23   0.5   Eradise                       Linguistics       Visual          Typeface.
+2018.03.23   3.5   Eradise                       Design            Abstract        Environment concept, architecture, planning.
+2018.03.23   1.5   Doodle                        3D                Visual          Physics simulation, concept art techniques.
+2018.03.22   4.0   UbiCom                        Design            Abstract        Level design.
+2018.03.22   1.5   Tinker                        Research          Code            Machine learning system conceptualization.
+2018.03.22   3.0   Obx                           Research          Code            Unity debugging, web dev consultation.
+2018.03.21   0.5   Doodle                        Research          Personal        Cameras.
+2018.03.21   3.0   UbiCom                        Design            Code            Systems balancing and mechanics discussions.
+2018.03.21   2.5   UbiCom                        Design            Abstract        Level design.
+2018.03.21   1.0   Tinker                        Research          Code            Glass shaders and reflection probes.
+2018.03.20   0.5   UbiCom                        Design            Abstract        Level design.
+2018.03.20   0.5   UbiCom                        Composition       Audio           Music.
+2018.03.20   3.0   Doodle                        Research          Visual          Illustration techniques.
+2018.03.20   2.0   Various                       Writing           Abstract        Automatons in human social contexts and art curation.
+2018.03.20   3.0   Obx                           Research          Code            Unity optimization and iOS debugging.
+2018.03.19   1.5   Doodle                        Graphic           Visual          Amis De La Culture logo tracing.
+2018.03.19   0.5   Various                       Research          Abstract        Social bonds in narrative.
+2018.03.19   1.0   UbiCom                        Composition       Audio           Music.
+2018.03.19   3.5   UbiCom                        Research          Abstract        Review and playtesting.
+2018.03.18   2.5   Eradise                       Linguistics       Visual          Typeface.
+2018.03.18   2.0   UbiCom                        Composition       Audio           Music.
+2018.03.18   1.5   UbiCom                        3D                Visual          Prop modeling.
+2018.03.18   4.0   UbiCom                        Design            Abstract        Level design and level components.
+2018.03.17   3.0   UbiCom                        Design            Abstract        Level design and level components.
+2018.03.16   2.0   Eradise                       Design            Abstract        Concept work.
+2018.03.16   2.0   Eradise                       Research          Code            Animation technologies testing.
+2018.03.16   1.0   Doodle                        Research          Visual          3D review.
 2018.03.15   2.5   Doodle                        3D                Visual          Greeble.
 2018.03.15   3.5   Obx                           Research          Code            Unity optimization and iOS debugging.
 2018.03.15   1.0   Various                       Research          Abstract        Uni investments and bureaucracy.
