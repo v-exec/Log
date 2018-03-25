@@ -39,38 +39,38 @@ None                       Nothing
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
 2018.03.24   0.5   Jam                           Acoustic          Audio           Vocals.
-2018.03.24   1.5   UbiCom                        Composition       Audio           Music.
-2018.03.24   3.5   UbiCom                        Design            Abstract        Level design.
+2018.03.24   1.5   You Are Two                   Composition       Audio           Music.
+2018.03.24   3.5   You Are Two                   Design            Abstract        Level design.
 2018.03.24   0.5   Eradise                       Maintenance       Code            Repository setup.
 2018.03.24   1.0   Eradise                       Development       Code            Movement relationship with camera.
 2018.03.24   1.0   Eradise                       Linguistics       Visual          Typeface.
 2018.03.24   1.0   Various                       Writing           Abstract        Automatons in human social contexts and art curation.
-2018.03.23   1.0   UbiCom                        3D                Visual          Prop modeling and texturing.
-2018.03.23   3.5   UbiCom                        Design            Abstract        Level design.
+2018.03.23   1.0   You Are Two                   3D                Visual          Prop modeling and texturing.
+2018.03.23   3.5   You Are Two                   Design            Abstract        Level design.
 2018.03.23   0.5   Eradise                       Linguistics       Visual          Typeface.
 2018.03.23   3.5   Eradise                       Design            Abstract        Environment concept, architecture, planning.
 2018.03.23   1.5   Doodle                        3D                Visual          Physics simulation, concept art techniques.
-2018.03.22   4.0   UbiCom                        Design            Abstract        Level design.
+2018.03.22   4.0   You Are Two                   Design            Abstract        Level design.
 2018.03.22   1.5   Tinker                        Research          Code            Machine learning system conceptualization.
 2018.03.22   3.0   Obx                           Research          Code            Unity debugging, web dev consultation.
 2018.03.21   0.5   Doodle                        Research          Personal        Cameras.
-2018.03.21   3.0   UbiCom                        Design            Code            Systems balancing and mechanics discussions.
-2018.03.21   2.5   UbiCom                        Design            Abstract        Level design.
+2018.03.21   3.0   You Are Two                   Design            Code            Systems balancing and mechanics discussions.
+2018.03.21   2.5   You Are Two                   Design            Abstract        Level design.
 2018.03.21   1.0   Tinker                        Research          Code            Glass shaders and reflection probes.
-2018.03.20   0.5   UbiCom                        Design            Abstract        Level design.
-2018.03.20   0.5   UbiCom                        Composition       Audio           Music.
+2018.03.20   0.5   You Are Two                   Design            Abstract        Level design.
+2018.03.20   0.5   You Are Two                   Composition       Audio           Music.
 2018.03.20   3.0   Doodle                        Research          Visual          Illustration techniques.
 2018.03.20   2.0   Various                       Writing           Abstract        Automatons in human social contexts and art curation.
 2018.03.20   3.0   Obx                           Research          Code            Unity optimization and iOS debugging.
 2018.03.19   1.5   Doodle                        Graphic           Visual          Amis De La Culture logo tracing.
 2018.03.19   0.5   Various                       Research          Abstract        Social bonds in narrative.
-2018.03.19   1.0   UbiCom                        Composition       Audio           Music.
-2018.03.19   3.5   UbiCom                        Research          Abstract        Review and playtesting.
+2018.03.19   1.0   You Are Two                   Composition       Audio           Music.
+2018.03.19   3.5   You Are Two                   Research          Abstract        Review and playtesting.
 2018.03.18   2.5   Eradise                       Linguistics       Visual          Typeface.
-2018.03.18   2.0   UbiCom                        Composition       Audio           Music.
-2018.03.18   1.5   UbiCom                        3D                Visual          Prop modeling.
-2018.03.18   4.0   UbiCom                        Design            Abstract        Level design and level components.
-2018.03.17   3.0   UbiCom                        Design            Abstract        Level design and level components.
+2018.03.18   2.0   You Are Two                   Composition       Audio           Music.
+2018.03.18   1.5   You Are Two                   3D                Visual          Prop modeling.
+2018.03.18   4.0   You Are Two                   Design            Abstract        Level design and level components.
+2018.03.17   3.0   You Are Two                   Design            Abstract        Level design and level components.
 2018.03.16   2.0   Eradise                       Design            Abstract        Concept work.
 2018.03.16   2.0   Eradise                       Research          Code            Animation technologies testing.
 2018.03.16   1.0   Doodle                        Research          Visual          3D review.
@@ -85,32 +85,32 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.03.13   2.5   Eradise                       Research          Code            Animation technologies.
 2018.03.12   1.5   Eradise                       Research          Code            Animations programming and vector math.
 2018.03.12   2.0   Eradise                       Development       Code            Movement and camera system.
-2018.03.12   0.5   UbiCom                        Composition       Audio           Sound effects.
-2018.03.12   2.5   UbiCom                        Design            Abstract        Meeting, level design overview, mechanics overview.
-2018.03.11   3.5   UbiCom                        Design            Abstract        Level design.
-2018.03.11   2.5   UbiCom                        Composition       Audio           Sound effects.
+2018.03.12   0.5   You Are Two                   Composition       Audio           Sound effects.
+2018.03.12   2.5   You Are Two                   Design            Abstract        Meeting, level design overview, mechanics overview.
+2018.03.11   3.5   You Are Two                   Design            Abstract        Level design.
+2018.03.11   2.5   You Are Two                   Composition       Audio           Sound effects.
 2018.03.11   1.0   Jam                           Acoustic          Audio           Vocals.
-2018.03.10   1.0   UbiCom                        Composition       Audio           Sound effects.
-2018.03.09   1.0   UbiCom                        Design            Abstract        Art production pipeline.
+2018.03.10   1.0   You Are Two                   Composition       Audio           Sound effects.
+2018.03.09   1.0   You Are Two                   Design            Abstract        Art production pipeline.
 2018.03.09   1.0   Eradise                       3D                Visual          Brainstorming and technical planning.
 2018.03.09   3.0   Doodle                        3D                Visual          Displacement maps.
 2018.03.08   2.0   Various                       Research          Personal        Familial future.
 2018.03.08   3.0   Obx                           Research          Code            Apple iOS release builds and Unity testing.
-2018.03.08   2.0   UbiCom                        Design            Abstract        Level design and argumentation.
-2018.03.07   3.0   UbiCom                        Design            Abstract        Level design and argumentation.
+2018.03.08   2.0   You Are Two                   Design            Abstract        Level design and argumentation.
+2018.03.07   3.0   You Are Two                   Design            Abstract        Level design and argumentation.
 2018.03.07   4.0   Keerosin                      Modeling          Visual          Texturing.
-2018.03.06   1.0   UbiCom                        Development       Code            Movement fixes, climb depracation.
+2018.03.06   1.0   You Are Two                   Development       Code            Movement fixes, climb depracation.
 2018.03.06   3.5   Obx                           Research          Code            Apple iOS release builds and testing.
 2018.03.05   7.0   Keerosin                      Modeling          Visual          UVs, ID maps, low poly variant, sculpting, substance integration.
-2018.03.05   3.0   UbiCom                        Design            Abstract        Meeting, level design overview, mechanics overview.
+2018.03.05   3.0   You Are Two                   Design            Abstract        Meeting, level design overview, mechanics overview.
 2018.03.04   1.5   Keerosin                      Modeling          Visual          Low poly variant modeling.
-2018.03.04   1.5   UbiCom                        Design            Abstract        Level design, movement design.
-2018.03.04   3.5   UbiCom                        Development       Code            Movement system, github issue resolution.
+2018.03.04   1.5   You Are Two                   Design            Abstract        Level design, movement design.
+2018.03.04   3.5   You Are Two                   Development       Code            Movement system, github issue resolution.
 2018.03.04   1.5   Jam                           Acoustic          Audio           Vocals.
 2018.03.03   2.0   Jam                           Acoustic          Audio           Vocals, production.
-2018.03.03   0.5   UbiCom                        Design            Audio           Audio samples collection.
-2018.03.03   1.5   UbiCom                        Design            Abstract        Level design, movement design.
-2018.03.03   2.0   UbiCom                        Development       Code            Movement system and asset integration.
+2018.03.03   0.5   You Are Two                   Design            Audio           Audio samples collection.
+2018.03.03   1.5   You Are Two                   Design            Abstract        Level design, movement design.
+2018.03.03   2.0   You Are Two                   Development       Code            Movement system and asset integration.
 2018.03.03   3.0   Keerosin                      Modeling          Visual          Low poly variant modeling.
 2018.03.02   5.5   Various                       Performance       Abstract        Artcade exhibition.
 2018.03.02   2.0   Various                       Maintenance       Personal        Artcade setup.
@@ -120,19 +120,19 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.03.01   1.0   Study                         Research          Personal        Japan exchange documentation.
 2018.03.01   3.5   Obx                           Research          Code            Apple iOS release builds and testing.
 2018.02.28   0.5   Study                         Research          Abstract        Graphic effects implementations.
-2018.02.28   0.5   UbiCom                        Design            Abstract        Scheduling and feature design.
-2018.02.28   1.0   UbiCom                        Development       Code            Sanity tweaking and incapacity implementation.
+2018.02.28   0.5   You Are Two                   Design            Abstract        Scheduling and feature design.
+2018.02.28   1.0   You Are Two                   Development       Code            Sanity tweaking and incapacity implementation.
 2018.02.28   1.0   Study                         Research          Personal        Japan exchange documentation.
 2018.02.28   1.0   Monospace Garden              Design            Abstract        Design documentation.
 2018.02.28   2.5   Monospace Garden              Development       Code            Tweaking.
 2018.02.27   3.5   Study                         Research          Personal        Japan exchange documentation.
 2018.02.27   5.0   Obx                           Research          Code            Apple iOS release builds and testing.
 2018.02.26   3.0   Study                         Research          Personal        Japan exchange documentation.
-2018.02.26   1.0   UbiCom                        Composition       Audio           Theme song composition.
-2018.02.26   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
+2018.02.26   1.0   You Are Two                   Composition       Audio           Theme song composition.
+2018.02.26   3.0   You Are Two                   Design            Abstract        Progress overview and tasks documentation.
 2018.02.25   1.0   Various                       Writing           Personal        Self.
 2018.02.25   2.5   Keerosin                      Modeling          Visual          Modeling.
-2018.02.25   0.5   UbiCom                        Development       Code            Sanity tweaking.
+2018.02.25   0.5   You Are Two                   Development       Code            Sanity tweaking.
 2018.02.25   1.0   Jam                           Acoustic          Audio           Guitar and vocals.
 2018.02.25   2.5   Study                         Research          Personal        Japan exchange documentation.
 2018.02.24   1.5   Keerosin                      Modeling          Visual          Modeling.
@@ -145,22 +145,22 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.22   2.5   Study                         Research          Personal        Japan exchange documentation.
 2018.02.22   3.0   Obx                           Research          Code            APK modification, Apple distribution.
 2018.02.21   2.0   Various                       Graphic           Visual          CV update.
-2018.02.21   3.5   UbiCom                        Development       Code            Lighting experimentation.
+2018.02.21   3.5   You Are Two                   Development       Code            Lighting experimentation.
 2018.02.20   0.5   Rig                           Maintenance       Personal        Backup.
-2018.02.20   0.5   UbiCom                        Design            Code            Lighting experimentation.
+2018.02.20   0.5   You Are Two                   Design            Code            Lighting experimentation.
 2018.02.20   0.5   Mythaphil                     Graphic           Visual          Song cover.
 2018.02.20   3.5   Mythaphil                     Composition       Audio           Song composition.
 2018.02.20   4.5   Obx                           Research          Code            APK modification, Apple distribution, and Hololens development.
 2018.02.19   1.0   Jam                           Acoustic          Audio           Keyboard.
-2018.02.19   1.5   UbiCom                        Design            Code            Lighting experimentation.
-2018.02.19   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
-2018.02.18   6.5   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
+2018.02.19   1.5   You Are Two                   Design            Code            Lighting experimentation.
+2018.02.19   3.0   You Are Two                   Design            Abstract        Progress overview and tasks documentation.
+2018.02.18   6.5   You Are Two                   Design            Code            Prototype branch integration and systems tweaking.
 2018.02.18   1.5   Jam                           Acoustic          Audio           Vocals.
 2018.02.18   1.0   V-OS                          Writing           Abstract        Organization and narrative concept work.
 2018.02.18   0.5   Delta                         Writing           Abstract        Documentation.
 2018.02.17   2.0   V-OS                          Videography       Visual          Animated gif headers.
-2018.02.17   3.5   UbiCom                        Design            Code            Prototype branch integration and systems tweaking.
-2018.02.17   1.0   UbiCom                        Design            Abstract        Organization and scheduling.
+2018.02.17   3.5   You Are Two                   Design            Code            Prototype branch integration and systems tweaking.
+2018.02.17   1.0   You Are Two                   Design            Abstract        Organization and scheduling.
 2018.02.17   2.0   Tinker                        Research          Personal        Private virtual network setup.
 2018.02.17   1.0   V-OS                          Writing           Abstract        Timekeeping additions and small rewrites.
 2018.02.16   5.0   Various                       Research          Personal        Private virtual networks and OS debugging.
@@ -172,16 +172,16 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.15   1.0   Obx                           Research          Code            Hololens development technologies.
 2018.02.15   3.0   Tinker                        Research          Code            Raymarching and volumetric graphics rendering.
 2018.02.14   8.0   Monospace Garden              Development       Code            Game dev.
-2018.02.14   1.0   UbiCom                        Design            Abstract        Concept work and testing.
-2018.02.13   1.5   UbiCom                        Design            Abstract        Prototype branch merging, level blockout, movement system critiquing.
+2018.02.14   1.0   You Are Two                   Design            Abstract        Concept work and testing.
+2018.02.13   1.5   You Are Two                   Design            Abstract        Prototype branch merging, level blockout, movement system critiquing.
 2018.02.13   0.5   Study                         Research          Abstract        Definitions of intellect.
 2018.02.13   1.0   Obx                           Maintenance       Personal        Hardware setup and testing.
 2018.02.13   1.0   Obx                           Research          Code            Hololens development technologies.
 2018.02.12   2.0   V-OS                          Development       Code            Abstracted page references attribute.
 2018.02.12   3.0   Tinker                        Development       Code            Javascript and C# help.
-2018.02.12   0.5   UbiCom                        Development       Code            Shader tweaking.
+2018.02.12   0.5   You Are Two                   Development       Code            Shader tweaking.
 2018.02.12   1.5   Simvol                        Development       Code            Add user counter, remove jquery, small refactor.
-2018.02.12   3.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
+2018.02.12   3.0   You Are Two                   Design            Abstract        Progress overview and tasks documentation.
 2018.02.11   0.5   V-OS                          Development       Code            Add projects page attribute.
 2018.02.11   1.0   Simvol                        Development       Code            Visual redesign.
 2018.02.11   2.5   Visor                         Development       Code            Visual redesign.
@@ -190,7 +190,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.11   1.0   Jam                           Acoustic          Audio           Vocals and piano.
 2018.02.10   1.5   Keerosin                      Illustration      Visual          Concept art.
 2018.02.10   2.0   Keerosin                      Modeling          Visual          Concept art.
-2018.02.10   1.0   UbiCom                        Design            Abstract        Progress overview and tasks documentation.
+2018.02.10   1.0   You Are Two                   Design            Abstract        Progress overview and tasks documentation.
 2018.02.10   4.0   Monospace Garden              Development       Code            Game dev.
 2018.02.09   1.0   Monospace Garden              Development       Code            Game dev.
 2018.02.09   1.0   Sin-D                         Graphic           Visual          Composition.
@@ -202,24 +202,24 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.02.08   2.0   Obx                           Research          Code            App building, release, and app store uploading.
 2018.02.08   2.0   Obx                           Development       Code            App testing and debugging.
 2018.02.07   2.5   Keerosin                      Modeling          Visual          Blockout modeling.
-2018.02.07   0.5   UbiCom                        Design            Abstract        Systems design.
+2018.02.07   0.5   You Are Two                   Design            Abstract        Systems design.
 2018.02.07   1.0   Sin-D                         Development       Code            Cindy sculpting.
 2018.02.07   1.5   Monospace Garden              Development       Code            Game dev.
-2018.02.06   3.5   UbiCom                        Development       Code            Shader programming.
-2018.02.06   3.0   UbiCom                        Research          Code            Shader programming.
+2018.02.06   3.5   You Are Two                   Development       Code            Shader programming.
+2018.02.06   3.0   You Are Two                   Research          Code            Shader programming.
 2018.02.06   1.0   Obx                           Research          Code            OpenGL research.
 2018.02.05   2.5   Sin-D                         Development       Code            Cindy sculpting.
 2018.02.05   2.5   Sin-D                         Development       Code            Cindy sculpting.
-2018.02.05   1.0   UbiCom                        Development       Code            Shader programming.
-2018.02.05   3.0   UbiCom                        Design            Abstract        Concept work.
+2018.02.05   1.0   You Are Two                   Development       Code            Shader programming.
+2018.02.05   3.0   You Are Two                   Design            Abstract        Concept work.
 2018.02.04   0.5   Boza                          Graphic           Visual          Event banner production.
 2018.02.04   8.0   Sin-D                         Modeling          Visual          Cindy sculpting.
-2018.02.03   0.5   UbiCom                        Design            Abstract        Scheduling.
-2018.02.03   2.0   UbiCom                        3D                Visual          Base character model rigging.
+2018.02.03   0.5   You Are Two                   Design            Abstract        Scheduling.
+2018.02.03   2.0   You Are Two                   3D                Visual          Base character model rigging.
 2018.02.03   6.0   Sin-D                         Modeling          Visual          Cindy sculpting.
 2018.02.02   1.0   V-OS                          Development       Code            Symbols implementation.
 2018.02.02   2.5   V-OS                          Graphic           Visual          Symbols production.
-2018.02.02   1.0   UbiCom                        3D                Visual          Base character model rigging.
+2018.02.02   1.0   You Are Two                   3D                Visual          Base character model rigging.
 2018.02.02   1.5   Tinker                        Development       Code            Museum Mayhem shatter threshold development and documentation.
 2018.02.02   2.0   Doodle                        Research          Visual          Retopologizing, normal maps specialties, and sculpting.
 2018.02.02   1.0   Keerosin                      Illustration      Visual          Concept art.
@@ -231,45 +231,45 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.31   5.0   V-OS                          Development       Code            Redesign.
 2018.01.30   2.5   V-OS                          Development       Visual          Redesign.
 2018.01.30   1.0   V-OS                          Design            Visual          Redesign.
-2018.01.30   1.0   UbiCom                        3D                Visual          Base character model tweaking.
+2018.01.30   1.0   You Are Two                   3D                Visual          Base character model tweaking.
 2018.01.30   3.5   Obx                           Development       Code            Application updating and debugging.
-2018.01.29   0.5   UbiCom                        3D                Visual          End scene concept art.
-2018.01.29   0.5   UbiCom                        Modeling          Visual          End scene concept art.
+2018.01.29   0.5   You Are Two                   3D                Visual          End scene concept art.
+2018.01.29   0.5   You Are Two                   Modeling          Visual          End scene concept art.
 2018.01.29   0.5   Namium                        Development       Code            Generation simplification.
 2018.01.29   1.0   Study                         Research          Abstract        New media artworks.
-2018.01.29   3.0   UbiCom                        Design            Abstract        Concept work.
+2018.01.29   3.0   You Are Two                   Design            Abstract        Concept work.
 2018.01.28   1.0   Study                         Research          Abstract        Peterson lectures.
 2018.01.28   0.5   Doodle                        Videography       Visual          Video editing.
 2018.01.28   2.0   Various                       Performance       Abstract        Human: Fall Flat stream.
-2018.01.28   2.5   UbiCom                        Research          Code            Unity graphics and shaders techniques.
+2018.01.28   2.5   You Are Two                   Research          Code            Unity graphics and shaders techniques.
 2018.01.28   0.5   Study                         Research          Abstract        New media artworks.
-2018.01.28   0.5   UbiCom                        Illustration      Visual          Concept art.
-2018.01.27   1.0   UbiCom                        Illustration      Visual          Concept art.
+2018.01.28   0.5   You Are Two                   Illustration      Visual          Concept art.
+2018.01.27   1.0   You Are Two                   Illustration      Visual          Concept art.
 2018.01.27   1.0   Jam                           Acoustic          Audio           Guitar.
 2018.01.27   1.5   Study                         Research          Abstract        New media artworks.
-2018.01.27   2.0   UbiCom                        Design            Abstract        Scheduling and design doc.
-2018.01.27   4.0   UbiCom                        Development       Code            Movement system work.
+2018.01.27   2.0   You Are Two                   Design            Abstract        Scheduling and design doc.
+2018.01.27   4.0   You Are Two                   Development       Code            Movement system work.
 2018.01.26   0.5   Tinker                        Development       Code            Unity graphics experimenation.
 2018.01.26   3.5   Doodle                        3D                Visual          Pillar modelling, texturing, implementation.
-2018.01.26   4.5   UbiCom                        Design            Abstract        Concept work.
-2018.01.25   2.5   UbiCom                        Design            Abstract        Concept work.
+2018.01.26   4.5   You Are Two                   Design            Abstract        Concept work.
+2018.01.25   2.5   You Are Two                   Design            Abstract        Concept work.
 2018.01.25   5.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.24   3.0   Tinker                        Development       Code            Unity graphics experimenation.
 2018.01.24   1.0   Doodle                        3D                Visual          Holosight texturing.
 2018.01.24   2.0   Obx                           Development       Code            Application updating and debugging.
-2018.01.24   0.5   UbiCom                        Design            Abstract        Concept work.
+2018.01.24   0.5   You Are Two                   Design            Abstract        Concept work.
 2018.01.24   2.0   Monospace Garden              Development       Code            Collision rework, audio implementation.
 2018.01.23   2.0   Various                       Performance       Abstract        Human: Fall Flat stream.
-2018.01.23   1.5   UbiCom                        Design            Abstract        Concept work.
+2018.01.23   1.5   You Are Two                   Design            Abstract        Concept work.
 2018.01.22   1.0   Purity                        3D                Visual          Update image.
 2018.01.22   4.0   Purity                        Development       Code            Make page organization folder-based, add exposed path.
-2018.01.22   4.0   UbiCom                        Design            Abstract        Concept work.
+2018.01.22   4.0   You Are Two                   Design            Abstract        Concept work.
 2018.01.21   0.5   Study                         Research          Personal        Personality.
 2018.01.21   0.5   Architects of Souls           Composition       Audio           Quick review.
 2018.01.21   2.5   Doodle                        Modeling          Visual          Holosight texturing.
-2018.01.21   1.5   UbiCom                        Research          Abstract        Brainstorming.
+2018.01.21   1.5   You Are Two                   Research          Abstract        Brainstorming.
 2018.01.20   2.0   Doodle                        Modeling          Visual          Helmet modeling.
-2018.01.20   1.5   UbiCom                        Research          Abstract        Brainstorming.
+2018.01.20   1.5   You Are Two                   Research          Abstract        Brainstorming.
 2018.01.20   3.0   Tinker                        Research          Code            Unity graphics and shaders techniques.
 2018.01.20   3.0   Various                       Writing           Personal        Ubisoft internship application.
 2018.01.19   0.5   Various                       Graphic           Visual          CV update.
@@ -277,8 +277,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.19   1.5   Purity                        Development       Code            Refine tag cleaning for more liberal formatting.
 2018.01.19   0.5   DotCycle                      Maintenance       Abstract        Video and code documentation.
 2018.01.19   0.5   Perfectus Empatheia           Writing           Abstract        Documentation.
-2018.01.19   3.0   UbiCom                        Research          Abstract        Meeting, light brainstorm, theme considerations, mentor introductions.
-2018.01.19   0.0   UbiCom                        Event             Personal        Competition begin.
+2018.01.19   3.0   You Are Two                   Research          Abstract        Meeting, light brainstorm, theme considerations, mentor introductions.
+2018.01.19   0.0   You Are Two                   Event             Personal        Competition begin.
 2018.01.18   0.5   Obx                           Research          Abstract        Lab and application publishing research.
 2018.01.18   4.0   Obx                           Development       Code            Application updating and debugging.
 2018.01.17   2.0   Obx                           Development       Code            Application updating and debugging.
@@ -350,13 +350,13 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.12.21   1.0   Study                         Research          Personal        Psychadelics, ayahuasca.
 2017.12.21   1.0   Study                         Research          Abstract        Cryptocurrency trading.
 2017.12.21   1.0   Japanese                      Linguistics       Abstract        Japanese.
-2017.12.20   0.5   UbiCom                        Writing           Abstract        Independant study letter.
+2017.12.20   0.5   You Are Two                   Writing           Abstract        Independant study letter.
 2017.12.20   0.5   Rig                           Maintenance       Abstract        Phone setup.
 2017.12.20   1.0   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.19   0.5   Purity                        Development       Code            Subfolder and line break handling.
 2017.12.19   0.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.19   0.5   Various                       Writing           Abstract        Letter of intent.
-2017.12.19   1.0   UbiCom                        Research          Abstract        Team introduction and role considerations.
+2017.12.19   1.0   You Are Two                   Research          Abstract        Team introduction and role considerations.
 2017.12.18   1.0   Log                           Development       Code            Rework graph drawing method.
 2017.12.18   2.5   Japanese                      Linguistics       Abstract        Japanese.
 2017.12.18   1.5   Various                       Writing           Abstract        Letter of intent.
