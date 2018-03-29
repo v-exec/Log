@@ -38,6 +38,16 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.03.28   5.0   You Are Two                   Development       Code            Final debugging.
+2018.03.28   2.0   Eradise                       3D                Visual          Blockout.
+2018.03.28   1.0   Tinker                        Development       Code            Shading and lighting for Museum Mayhem.
+2018.03.27   3.5   Obx                           Research          Code            Unity debugging and optimization.
+2018.03.27   1.5   Eradise                       3D                Visual          Blockout.
+2018.03.26   0.5   Eradise                       3D                Visual          Blockout.
+2018.03.26   4.0   You Are Two                   Development       Code            Outro.
+2018.03.25   2.0   Eradise                       3D                Visual          Blockout.
+2018.03.25   4.5   You Are Two                   Development       Code            Asset implementation, experience tweaking, debugging.
+2018.03.25   3.5   You Are Two                   Design            Abstract        Level design.
 2018.03.24   0.5   Jam                           Acoustic          Audio           Vocals.
 2018.03.24   1.5   You Are Two                   Composition       Audio           Music.
 2018.03.24   3.5   You Are Two                   Design            Abstract        Level design.
