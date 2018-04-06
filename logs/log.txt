@@ -38,6 +38,30 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.04.05   0.5   Freya                         Maintenance       Code            Bot setup.
+2018.04.05   1.0   Study                         Research          Personal        Fashion.
+2018.04.05   3.5   Obx                           Development       Code            Shader programming.
+2018.04.04   1.5   Study                         Research          Personal        Fashion.
+2018.04.04   4.5   Freya                         Development       Code            Bot development and testing.
+2018.04.04   0.5   Freya                         Graphic           Visual          Logo.
+2018.04.04   1.0   You Are Two                   Graphic           Visual          Team graph.
+2018.04.04   2.5   You Are Two                   Writing           Abstract        Report and documentation.
+2018.04.03   4.0   DotCycle                      Development       Code            User experience update.
+2018.04.03   3.0   You Are Two                   Writing           Abstract        Report.
+2018.04.03   3.0   Obx                           Development       Code            Shader programming.
+2018.04.02   0.5   Study                         Research          Abstract        Combat platformer mechanics.
+2018.04.02   3.0   You Are Two                   Writing           Abstract        Report.
+2018.04.01   0.5   Doodle                        Graphic           Visual          Amis De La Culture logo refining.
+2018.04.01   3.0   You Are Two                   Writing           Abstract        Report.
+2018.04.01   0.5   Study                         Research          Abstract        Combat platformer mechanics.
+2018.04.01   1.5   Eradise                       3D                Visual          Unity implementation and textures.
+2018.03.31   2.0   Eradise                       3D                Visual          Blockout render and Unity implementation.
+2018.03.30   1.0   Study                         Research          Abstract        Platformer level design.
+2018.03.30   2.5   Eradise                       3D                Visual          Blockout.
+2018.03.30   2.5   You Are Two                   Performance       Abstract        Ubisoft showcase.
+2018.03.29   4.5   Eradise                       3D                Visual          Blockout.
+2018.03.29   2.0   You Are Two                   Development       Code            Final debugging.
+2018.03.29   2.0   Obx                           Development       Code            Shader programming.
 2018.03.28   5.0   You Are Two                   Development       Code            Final debugging.
 2018.03.28   2.0   Eradise                       3D                Visual          Blockout.
 2018.03.28   1.0   Tinker                        Development       Code            Shading and lighting for Museum Mayhem.
