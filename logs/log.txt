@@ -38,6 +38,72 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.04.30   5.0   Ark Simulation                Graphic           Visual          Schematics art production.
+2018.04.30   0.5   Ark Simulation                3D                Visual          Ark simulator modeling.
+2018.04.30   4.5   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.04.29   2.0   Ark Simulation                3D                Visual          Ark simulator modeling.
+2018.04.29   4.0   Ark Simulation                Graphic           Visual          Schematics art production.
+2018.04.29   1.5   Ark Simulation                Research          Visual          Schematics art study.
+2018.04.28   1.0   Dunes of Simila               3D                Visual          Procedural terrain and displacement study.
+2018.04.28   3.5   Luna                          Development       Code            Gallery development.
+2018.04.28   2.0   Jam                           Acoustic          Audio           Guitar, composition.
+2018.04.27   2.0   Jam                           Acoustic          Audio           Guitar, composition.
+2018.04.27   0.5   Luna                          Development       Code            Gallery development.
+2018.04.27   1.0   Luna                          Design            Visual          Gallery development.
+2018.04.26   1.0   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.04.26   2.0   Obx                           Research          Abstract        Hawaii workshop lessons.
+2018.04.26   0.5   Obx                           Development       Code            Camera nodes navigation.
+2018.04.25   1.0   Jam                           Research          Audio           Vocals.
+2018.04.25   4.0   Luna                          Development       Code            Gallery development.
+2018.04.24   4.0   Luna                          Development       Code            Gallery development.
+2018.04.24   3.0   Obx                           Development       Code            Optimizations testing.
+2018.04.24   2.5   Jam                           Acoustic          Audio           Vocals.
+2018.04.23   1.0   Luna                          Development       Code            Gallery development.
+2018.04.23   1.0   Obx                           Research          Personal        Hawaii workshop.
+2018.04.23   3.0   Obx                           Maintenance       Code            Project maintenance and testing.
+2018.04.22   1.5   Luna                          Design            Visual          Gallery design.
+2018.04.22   6.5   Luna                          Development       Code            Gallery development.
+2018.04.21   0.5   Luna                          Design            Visual          Gallery design.
+2018.04.21   1.5   Luna                          Development       Code            Gallery development.
+2018.04.21   1.0   Jam                           Composition       Audio           Composition.
+2018.04.20   3.0   Jam                           Research          Audio           Audio engineering, composition, music theory teaching.
+2018.04.20   1.0   DotCycle                      Performance       Abstract        You Are Here exhibition.
+2018.04.20   2.0   Eradise                       Development       Code            Lighting and player movement scripting.
+2018.04.19   8.5   Eradise                       3D                Visual          Character animation, texturing, integration.
+2018.04.19   1.5   DotCycle                      Maintenance       Personal        Artcade setup.
+2018.04.19   3.5   Obx                           Maintenance       Code            Project maintenance and testing.
+2018.04.18   4.5   Eradise                       3D                Visual          Character animation.
+2018.04.17   2.0   V-OS                          Design            Visual          Redesign considerations.
+2018.04.17   3.5   Eradise                       Modeling          Visual          Character rigging and modeling.
+2018.04.17   1.5   Jam                           Acoustic          Audio           Guitar, composition.
+2018.04.16   0.0   Various                       Event             Personal        Semester end.
+2018.04.16   1.0   Jam                           Acoustic          Audio           Guitar.
+2018.04.16   1.5   Eradise                       Modeling          Visual          Character rigging.
+2018.04.16   3.5   V-OS                          Design            Visual          Redesign considerations.
+2018.04.16   1.0   Study                         Research          Abstract        New media artists.
+2018.04.15   2.0   V-OS                          Design            Visual          Redesign considerations.
+2018.04.15   3.0   Eradise                       Modeling          Visual          Character modeling and unwrapping.
+2018.04.14   0.5   V-OS                          Maintenance       Personal        Link updates and small rewrites.
+2018.04.14   2.5   Purity                        Development       Code            Image annotations and styling system rework.
+2018.04.14   1.5   Eradise                       Modeling          Visual          Character modeling.
+2018.04.13   0.5   Study                         Research          Abstract        Narrative development strategies.
+2018.04.13   2.0   Study                         Research          Personal        Japan exchange documentation.
+2018.04.12   6.0   Eradise                       Modeling          Visual          Character modeling and terrain generation.
+2018.04.12   0.5   Study                         Research          Personal        Fashion.
+2018.04.12   3.5   Obx                           Maintenance       Code            Project maintenance and testing.
+2018.04.11   1.0   Eradise                       Research          Visual          Sand shader.
+2018.04.11   4.5   Eradise                       Modeling          Visual          Character sculpting and retopologizing.
+2018.04.11   1.0   Study                         Research          Abstract        Alternative, remix games.
+2018.04.10   1.0   Tinker                        Maintenance       Code            Various game build verions and tweaks.
+2018.04.10   1.0   Various                       Writing           Abstract        Embodiment and the body in new media.
+2018.04.10   3.0   Obx                           Development       Code            Shader programming, visualization room testing.
+2018.04.09   8.0   Eradise                       Modeling          Visual          Character sculpting and retopologizing.
+2018.04.08   5.0   Eradise                       Modeling          Visual          Character sculpting.
+2018.04.07   8.0   Eradise                       Modeling          Visual          Character sculpting.
+2018.04.06   2.0   Eradise                       Research          Code            Lightmap baking research.
+2018.04.06   2.0   Eradise                       Maintenance       Code            Unity version update, lightmap baking research.
+2018.04.06   1.5   Eradise                       Design            Abstract        Experience design.
+2018.04.05   0.5   Architects of Souls           Composition       Audio           Composition.
 2018.04.05   0.5   Freya                         Maintenance       Code            Bot setup.
 2018.04.05   1.0   Study                         Research          Personal        Fashion.
 2018.04.05   3.5   Obx                           Development       Code            Shader programming.
@@ -147,7 +213,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.03.03   2.0   You Are Two                   Development       Code            Movement system and asset integration.
 2018.03.03   3.0   Keerosin                      Modeling          Visual          Low poly variant modeling.
 2018.03.02   5.5   Various                       Performance       Abstract        Artcade exhibition.
-2018.03.02   2.0   Various                       Maintenance       Personal        Artcade setup.
+2018.03.02   2.0   DotCycle                      Maintenance       Personal        Artcade setup.
 2018.03.02   1.0   Keerosin                      Design            Visual          Modeling workflow.
 2018.03.01   2.5   Study                         Design            Abstract        Game design help and discussion.
 2018.03.01   2.0   Keerosin                      Modeling          Visual          Modeling.
