@@ -38,6 +38,47 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.05.16   1.5   V-OS                          Development       Code            Sidebar and navigation refinement.
+2018.05.16   1.5   V-OS                          Maintenance       Abstract        Content implementation.
+2018.05.16   2.0   V-OS                          Graphic           Visual          AI logos.
+2018.05.16   1.5   V-OS                          Writing           Abstract        Narrative.
+2018.05.16   1.5   Jam                           Composition       Audio           Jam.
+2018.05.15   2.5   Jam                           Composition       Audio           Jam.
+2018.05.15   4.0   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.14   1.0   Rig                           Maintenance       Code            Software troubleshooting.
+2018.05.14   4.0   Obx                           Research          Abstract        Design lessons, project organization.
+2018.05.13   1.5   Doodle                        Graphic           Visual          Poster design.
+2018.05.13   1.5   Jam                           Composition       Audio           Audio project updates.
+2018.05.13   0.5   V-OS                          Writing           Abstract        Verse entries.
+2018.05.12   0.5   Doodle                        Design            Visual          Web layout design.
+2018.05.12   2.5   Jam                           Acoustic          Audio           Jam, vocals, guitar.
+2018.05.11   0.0   Various                       Event             Personal        Valerie.
+2018.05.11   2.0   Obx                           Research          Code            Programming cheat sheet content.
+2018.05.11   1.0   Obx                           Research          Code            Apple developer account troubleshooting.
+2018.05.10   2.5   Obx                           Research          Abstract        Various.
+2018.05.09   1.5   V-OS                          Writing           Abstract        Verse entries.
+2018.05.08   1.5   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.08   2.0   Obx                           Development       Code            Migration application feature addition.
+2018.05.07   1.0   Obx                           Research          Abstract        Screen matrix application design.
+2018.05.07   2.0   Obx                           Research          Code            Godot engine research.
+2018.05.07   3.0   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.06   3.0   Wherein Titans Fall           Composition       Audio           Mixing.
+2018.05.05   1.0   Jam                           Composition       Audio           Composition.
+2018.05.05   0.5   V-OS                          Writing           Abstract        Verse entries.
+2018.05.04   1.0   Jam                           Acoustic          Audio           Guitar.
+2018.05.04   2.0   Jam                           Composition       Audio           Composition experimentation.
+2018.05.04   1.0   Wherein Titans Fall           Composition       Audio           Composition.
+2018.05.04   1.0   Ark Simulation                Graphic           Visual          Schematics art production.
+2018.05.04   2.5   Study                         Research          Personal        Finances and investment, cooking.
+2018.05.03   1.0   Study                         Research          Abstract        Explicit game narrative formatting.
+2018.05.03   1.0   Obx                           Research          Visual          UI and atmosphere design.
+2018.05.03   1.5   Obx                           Research          Audio           Sound and soundtrack design.
+2018.05.03   3.0   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.03   1.0   Ark Simulation                Graphic           Visual          Schematics art production.
+2018.05.02   4.0   Rig                           Maintenance       Personal        Software upgrades, cleaning.
+2018.05.02   4.0   Jam                           Composition       Audio           Vocals, neurofunk.
+2018.05.01   5.5   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.01   1.5   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.04.30   5.0   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.04.30   0.5   Ark Simulation                3D                Visual          Ark simulator modeling.
 2018.04.30   4.5   Obx                           Design            Abstract        Hawaii workshop lessons.
