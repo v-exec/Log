@@ -38,6 +38,40 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.05.29   1.5   Luna                          Development       Code            Implementation and gallery refinement.
+2018.05.29   0.5   Luna                          Design            Abstract        Curation.
+2018.05.29   1.0   Obx                           Research          Audio           Audio software.
+2018.05.29   0.5   Jam                           Composition       Audio           Composition.
+2018.05.29   3.5   Obx                           Development       Code            Game systems development.
+2018.05.28   0.5   Ethera's Word                 Writing           Abstract        Storywriting.
+2018.05.28   1.0   Obx                           Design            Abstract        Lesson structure.
+2018.05.28   3.5   Obx                           Development       Code            Game systems development.
+2018.05.27   0.5   Jam                           Acoustic          Audio           Vocals.
+2018.05.27   0.5   Ethera's Word                 Writing           Abstract        Storywriting.
+2018.05.27   1.5   Ethera's Word                 Graphic           Visual          Compositing.
+2018.05.27   1.0   Ethera's Word                 Modeling          Visual          Face modeling.
+2018.05.26   0.5   Luna                          Design            Abstract        Structure considerations.
+2018.05.26   2.0   Jam                           Composition       Audio           Composition.
+2018.05.25   0.5   Study                         Research          Abstract        Combat systems.
+2018.05.25   1.0   Jam                           Composition       Audio           Composition.
+2018.05.24   1.5   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.24   3.0   Obx                           Design            Abstract        Game design.
+2018.05.24   2.5   Obx                           Development       Code            Unity UI programming.
+2018.05.23   1.0   Study                         Research          Abstract        Racing games.
+2018.05.23   1.0   V-OS                          Development       Code            Tinkering.
+2018.05.22   3.0   Obx                           Research          Code            Unity UI programming, physical assembly, photogrammetry workflow.
+2018.05.22   2.0   Obx                           Design            Abstract        RA Airways.
+2018.05.22   1.5   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.21   0.5   Jam                           Design            Audio           Composition study.
+2018.05.20   1.0   V-OS                          Writing           Abstract        Rewrites and project additions.
+2018.05.19   1.0   V-OS                          Design            Code            Backend design review.
+2018.05.19   0.5   Luna                          Development       Code            Video and audio integration.
+2018.05.18   4.5   V-OS                          Writing           Abstract        Project documentation.
+2018.05.18   1.5   Doodle                        3D                Visual          Entropica graphic.
+2018.05.17   1.5   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.17   2.0   V-OS                          Development       Code            Small rewrites and search system refinement + auto-correction.
+2018.05.17   1.0   Obx                           Development       Code            Workshop site styling.
+2018.05.17   1.0   Obx                           Research          Code            Application transfers.
 2018.05.16   1.5   V-OS                          Development       Code            Sidebar and navigation refinement.
 2018.05.16   1.5   V-OS                          Maintenance       Abstract        Content implementation.
 2018.05.16   2.0   V-OS                          Graphic           Visual          AI logos.
@@ -165,6 +199,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.03.31   2.0   Eradise                       3D                Visual          Blockout render and Unity implementation.
 2018.03.30   1.0   Study                         Research          Abstract        Platformer level design.
 2018.03.30   2.5   Eradise                       3D                Visual          Blockout.
+2018.03.30   0.0   You Are Two                   Event             Personal        Competition end.
 2018.03.30   2.5   You Are Two                   Performance       Abstract        Ubisoft showcase.
 2018.03.29   4.5   Eradise                       3D                Visual          Blockout.
 2018.03.29   2.0   You Are Two                   Development       Code            Final debugging.
