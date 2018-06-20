@@ -60,12 +60,12 @@ function graph($l, $desiredDays, $type, $h) {
 				$day = array();
 			}
 			if ($type == 'project' || $type == 'task') {
-				if (strtolower($rows[$i][3]) === $l) array_push($day, [$rows[$i][1], $rows[$i][2]]);
+				if (strtolower($rows[$i][3]) === stripslashes($l)) array_push($day, [$rows[$i][1], $rows[$i][2]]);
 				else array_push($day, $rows[$i][1], 0);
 			} else if ($type == null) {
 				array_push($day, [$rows[$i][1], $rows[$i][2]]);
 			} else if ($type == 'division') {
-				if (strtolower($rows[$i][1]) === $l) array_push($day, [$rows[$i][1], $rows[$i][2]]);
+				if (strtolower($rows[$i][1]) === stripslashes($l)) array_push($day, [$rows[$i][1], $rows[$i][2]]);
 				else array_push($day, $rows[$i][1], 0);
 			}
 		}

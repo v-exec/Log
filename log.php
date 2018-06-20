@@ -8,6 +8,8 @@ if (isset($_GET['l'])) {
 	$l = $_GET['l'];
 }
 
+$clean = addslashes($l);
+
 $abstractColor = '#DDD';
 $codeColor = '#000';
 $visualColor = '#8B87F2';

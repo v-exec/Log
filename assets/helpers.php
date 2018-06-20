@@ -9,7 +9,6 @@ function connect() {
 	return $conn;
 }
 
-//returns single number through request query ($q = query, $e = select result)
 function getNum($q, $e) {
 	$conn = connect();
 	$r = "";
@@ -23,21 +22,22 @@ function getNum($q, $e) {
 }
 
 function checkType($l) {
+	global $clean;
 	$conn = connect();
 
-	$result = $conn->query('select * from task where name = '."'".$l."'".';');
+	$result = $conn->query('select * from task where name = '."'".$clean."'".';');
 	if ($result->num_rows > 0) {
 		$conn->close();
 		return 'task';
 	}
 
-	$result = $conn->query('select * from project where name = '."'".$l."'".';');
+	$result = $conn->query('select * from project where name = '."'".$clean."'".';');
 	if ($result->num_rows > 0) {
 		$conn->close();
 		return 'project';
 	}
 
-	$result = $conn->query('select * from division where name = '."'".$l."'".';');
+	$result = $conn->query('select * from division where name = '."'".$clean."'".';');
 	if ($result->num_rows > 0) {
 		$conn->close();
 		return 'division';
@@ -77,9 +77,9 @@ function createSvgArc($x, $y, $r, $startAngle, $endAngle) {
 
 function getDivisionRatio($contextPage, $contextType, $topic, $topicType) {
 	if (!$contextPage) {
-		$q = 'select '.$topicType.'.name as title, division.name as division, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$topicType.'.name = '."'".$topic."'".' group by division order by hours desc;';
+		$q = 'select '.$topicType.'.name as title, division.name as division, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$topicType.'.name = '."'".addslashes($topic)."'".' group by division order by hours desc;';
 	} else {
-		$q = 'select '.$topicType.'.name as title, division.name as division, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$topicType.'.name = '."'".$topic."'".' and '.$contextType.'.name = '."'".$contextPage."'".' group by division order by hours desc;';
+		$q = 'select '.$topicType.'.name as title, division.name as division, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$topicType.'.name = '."'".addslashes($topic)."'".' and '.$contextType.'.name = '."'".$contextPage."'".' group by division order by hours desc;';
 	}
 
 	$conn = connect();
@@ -88,7 +88,6 @@ function getDivisionRatio($contextPage, $contextType, $topic, $topicType) {
 	if ($result->num_rows > 0) {
 		$rows = array();
 
-		//get query results
 		while ($row = $result->fetch_assoc()) {
 			array_push($rows, [$row['division'], $row['hours']]);
 		}

@@ -12,6 +12,7 @@ $type = checkType($l);
 function loadlog() {
 	global $l;
 	global $type;
+	global $clean;
 
 	$hours = getAllHours(null, null);
 
@@ -21,15 +22,15 @@ function loadlog() {
 			break;
 
 		case 'divisions':
-			measures($l, 'division', null, $hours);
+			measures($clean, 'division', null, $hours);
 			break;
 
 		case 'tasks':
-			measures($l, 'task', null, $hours);
+			measures($clean, 'task', null, $hours);
 			break;
 
 		case 'projects':
-			measures($l, 'project', null, $hours);
+			measures($clean, 'project', null, $hours);
 			break;
 
 		default:
@@ -40,38 +41,38 @@ function loadlog() {
 }
 
 function home($h) {
-	global $l;
 	global $type;
+	global $clean;
 
-	title($l, $type);
-	timeline($l, $type);
+	title($clean, $type);
+	timeline($clean, $type);
 
-	graph($l, 120, $type, $h);
-	graph($l, 14, $type, $h);
+	graph($clean, 120, $type, $h);
+	graph($clean, 14, $type, $h);
 
-	measures($l, 'division', null, $h);
-	measures($l, 'task', null, $h);
-	measures($l, 'project', null, $h);
+	measures($clean, 'division', null, $h);
+	measures($clean, 'task', null, $h);
+	measures($clean, 'project', null, $h);
 }
 
 function spec() {
-	global $l;
 	global $type;
+	global $clean;
 
-	$h = getAllHours($l, $type);
+	$h = getAllHours($clean, $type);
 
-	title($l, $type);
-	timeline($l, $type);
-	graph($l, 0, $type, $h);
+	title($clean, $type);
+	timeline($clean, $type);
+	graph($clean, 0, $type, $h);
 
 	if ($type != 'division') {
-		measures($l, 'division', $type, $h);
-		measures($l, getOppositeType($type), $type, $h);
+		measures($clean, 'division', $type, $h);
+		measures($clean, getOppositeType($type), $type, $h);
 	} else {
-		measures($l, 'task', $type, $h);
-		measures($l, 'project', $type, $h);
+		measures($clean, 'task', $type, $h);
+		measures($clean, 'project', $type, $h);
 	}
 
-	loglist($l, $type, 10);
+	loglist($clean, $type, 10);
 }
 ?>
