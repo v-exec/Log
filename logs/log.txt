@@ -38,6 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.06.19   1.0   Log                           Development       Code            Apostrophe handling.
 2018.06.19   4.5   Skins 6.0                     Writing           Abstract        Lesson media.
 2018.06.19   3.0   Org_Proc                      3D                Visual          Procedural geometry.
 2018.06.18   3.5   Org_Proc                      3D                Visual          Texture and shape study.
@@ -801,7 +802,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.14   0.5   Tinker                        Research          Code            PHP help.
 2017.10.14   1.0   Study                         Research          Abstract        Boris - Liquorice.
 2017.10.13   1.0   Study                         Research          Abstract        Boris - Liquorice.
-2017.10.13   1.0   Study                         Research          Audio           Boris - Liquorice.
+2017.10.13   1.0   Jam                           Research          Audio           Boris - Liquorice.
 2017.10.13   2.0   Rotonde                       Research          Abstract        Beaker browser study, tinkering.
 2017.10.13   0.5   Study                         Research          Abstract        Hammurabi testing.
 2017.10.12   5.0   Tinker                        Development       Code            Data visualization exercise.
