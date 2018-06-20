@@ -38,14 +38,88 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.06.19   4.5   Skins 6.0                     Writing           Abstract        Lesson media.
+2018.06.19   3.0   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.18   3.5   Org_Proc                      3D                Visual          Texture and shape study.
+2018.06.18   5.5   Skins 6.0                     Writing           Abstract        Lesson writing, formatting, media planning.
+2018.06.17   3.5   Org_Proc                      3D                Visual          Texture and shape study.
+2018.06.16   4.0   Tinker                        Development       Code            Unity help.
+2018.06.16   1.0   Org_Proc                      Research          Visual          Houdini study.
+2018.06.15   3.0   Skins 6.0                     Writing           Abstract        Lesson writing.
+2018.06.15   1.0   Obx                           Development       Code            Visualization room development.
+2018.06.15   0.5   Org_Proc                      Research          Visual          Project research.
+2018.06.15   1.0   Doodle                        Research          Visual          Houdini study.
+2018.06.14   1.0   Ethera's Word                 Writing           Abstract        Storywriting.
+2018.06.14   2.0   Datum                         Research          Code            Revision and small updates.
+2018.06.14   1.5   Obx                           Development       Code            Visualization room development.
+2018.06.14   0.5   Study                         Research          Abstract        Game brainstorming.
+2018.06.14   2.0   Skins 6.0                     Writing           Abstract        Lesson writing.
+2018.06.13   1.0   Doodle                        Videography       Visual          Title video creation.
+2018.06.13   2.0   Doodle                        Graphic           Visual          Typography, title card design.
+2018.06.13   0.5   Jam                           Composition       Audio           Synthesis and composition study.
+2018.06.13   1.0   Obx                           Development       Code            Unity debugging.
+2018.06.13   2.0   Skins 6.0                     Writing           Abstract        Lesson writing.
+2018.06.13   1.0   Skins 6.0                     Research          Audio           Audio physics and theory.
+2018.06.12   3.0   Jam                           Composition       Audio           Synthesis and composition study.
+2018.06.12   1.0   Skins 6.0                     Research          Audio           Soundtrack design.
+2018.06.12   2.0   Skins 6.0                     Writing           Abstract        Lesson writing.
+2018.06.12   2.0   Obx                           Development       Code            Unity debugging.
+2018.06.11   1.0   Doodle                        Research          Visual          Houdini study.
+2018.06.11   0.5   Skins 6.0                     Research          Visual          Color theory.
+2018.06.11   3.0   Skins 6.0                     Writing           Abstract        Lesson writing.
+2018.06.11   2.0   Obx                           Development       Code            Unity debugging.
+2018.06.10   1.0   Study                         Research          Abstract        Battle royale games.
+2018.06.09   1.0   Qurotema                      Development       Code            Shader and particle system development.
+2018.06.09   1.0   Doodle                        3D                Visual          Experimentation.
+2018.06.09   5.0   Jam                           Composition       Audio           Remixing.
+2018.06.08   3.0   Jam                           Composition       Audio           Remixing.
+2018.06.08   1.0   Study                         Research          Abstract        Shaders and color.
+2018.06.08   3.5   Skins 6.0                     Writing           Abstract        Lesson writing, blog posts.
+2018.06.07   1.0   Rig                           Maintenance       Personal        Clean up and backup.
+2018.06.07   2.0   Jam                           Composition       Audio           Remixing.
+2018.06.07   1.0   Skins 6.0                     Research          Audio           DAW research.
+2018.06.07   5.0   Skins 6.0                     Writing           Abstract        Lesson writing, blog posts.
+2018.06.06   3.0   Doodle                        3D                Visual          Houdini and Blender experimentation.
+2018.06.06   1.0   Study                         Research          Abstract        Programming paradigms and localization.
+2018.06.06   1.0   Obx                           Development       Code            Final optimization tweaks.
+2018.06.06   4.5   Skins 6.0                     Writing           Abstract        Lesson writing, blog posts.
+2018.06.05   0.5   Doodle                        Photography       Visual          Photo editing.
+2018.06.05   1.0   Jam                           Composition       Audio           Remixing.
+2018.06.05   1.0   Skins 6.0                     Design            Abstract        Lesson writing.
+2018.06.05   3.5   Obx                           Development       Code            Shader debugging and project tweaking.
+2018.06.05   0.5   Skins 6.0                     Research          Audio           DAW research.
+2018.06.03   0.5   Study                         Research          Personal        Dolphins and animal intelligence.
+2018.06.04   1.0   Ethera's Word                 Writing           Abstract        Revision.
+2018.06.04   1.0   Skins 6.0                     Design            Abstract        Lesson writing.
+2018.06.04   4.0   Obx                           Development       Code            Shader rewriting and implementation, game development.
+2018.06.03   1.5   Study                         Research          Personal        Dolphins and animal intelligence.
+2018.06.03   1.5   Ethera's Word                 Writing           Abstract        Storywriting.
+2018.06.03   1.0   Luna                          Research          Code            Fixes and tweaks.
+2018.06.02   1.5   Study                         Research          Abstract        Game design (dialog and gameplay), luna concepts, Houdini.
+2018.06.02   0.5   Luna                          Research          Code            Fixes and tweaks.
+2018.06.02   1.5   Study                         Research          Personal        Cooking.
+2018.06.01   0.5   Skins 6.0                     Research          Audio           DAW research.
+2018.06.01   3.0   Skins 6.0                     Design            Abstract        Level design.
+2018.06.01   2.0   Skins 6.0                     Development       Code            Movement and physics systems.
+2018.06.01   1.0   Luna                          Design            Abstract        Implementation, publication, public relations.
+2018.05.31   0.5   Luna                          Design            Abstract        Implementation.
+2018.05.31   1.0   Skins 6.0                     Composition       Audio           Music and sound effects.
+2018.05.31   1.0   Obx                           Development       Code            Shader tweaking.
+2018.05.31   4.5   Skins 6.0                     Design            Visual          Atmosphere, lighting, assets, and implementation.
+2018.05.30   0.5   Ethera's Word                 Writing           Abstract        Storywriting.
+2018.05.30   1.0   Luna                          Design            Abstract        Implementation and gallery refinement.
+2018.05.30   0.5   Skins 6.0                     Design            Visual          Cheat sheet design help.
+2018.05.30   2.0   Skins 6.0                     Research          Code            Various lightmap baking types and techniques.
+2018.05.30   0.5   Skins 6.0                     Research          Audio           Audio software.
+2018.05.30   1.0   Obx                           Research          Abstract        Indigenous new media storytelling.
 2018.05.29   1.5   Luna                          Development       Code            Implementation and gallery refinement.
 2018.05.29   0.5   Luna                          Design            Abstract        Curation.
-2018.05.29   1.0   Obx                           Research          Audio           Audio software.
+2018.05.29   1.0   Skins 6.0                     Research          Audio           Audio software.
 2018.05.29   0.5   Jam                           Composition       Audio           Composition.
-2018.05.29   3.5   Obx                           Development       Code            Game systems development.
+2018.05.29   3.5   Skins 6.0                     Development       Code            Game systems development.
 2018.05.28   0.5   Ethera's Word                 Writing           Abstract        Storywriting.
-2018.05.28   1.0   Obx                           Design            Abstract        Lesson structure.
-2018.05.28   3.5   Obx                           Development       Code            Game systems development.
+2018.05.28   1.0   Skins 6.0                     Design            Abstract        Lesson structure.
+2018.05.28   3.5   Skins 6.0                     Development       Code            Game systems development.
 2018.05.27   0.5   Jam                           Acoustic          Audio           Vocals.
 2018.05.27   0.5   Ethera's Word                 Writing           Abstract        Storywriting.
 2018.05.27   1.5   Ethera's Word                 Graphic           Visual          Compositing.
@@ -54,21 +128,21 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.05.26   2.0   Jam                           Composition       Audio           Composition.
 2018.05.25   0.5   Study                         Research          Abstract        Combat systems.
 2018.05.25   1.0   Jam                           Composition       Audio           Composition.
-2018.05.24   1.5   Obx                           Writing           Abstract        Hawaii workshop lessons.
-2018.05.24   3.0   Obx                           Design            Abstract        Game design.
-2018.05.24   2.5   Obx                           Development       Code            Unity UI programming.
+2018.05.24   1.5   Skins 6.0                     Writing           Abstract        Hawaii workshop lessons.
+2018.05.24   3.0   Skins 6.0                     Design            Abstract        Game design.
+2018.05.24   2.5   Skins 6.0                     Development       Code            Unity UI programming.
 2018.05.23   1.0   Study                         Research          Abstract        Racing games.
 2018.05.23   1.0   V-OS                          Development       Code            Tinkering.
 2018.05.22   3.0   Obx                           Research          Code            Unity UI programming, physical assembly, photogrammetry workflow.
-2018.05.22   2.0   Obx                           Design            Abstract        RA Airways.
-2018.05.22   1.5   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.22   2.0   Skins 6.0                     Design            Abstract        RA Airways.
+2018.05.22   1.5   Skins 6.0                     Writing           Abstract        Hawaii workshop lessons.
 2018.05.21   0.5   Jam                           Design            Audio           Composition study.
 2018.05.20   1.0   V-OS                          Writing           Abstract        Rewrites and project additions.
 2018.05.19   1.0   V-OS                          Design            Code            Backend design review.
 2018.05.19   0.5   Luna                          Development       Code            Video and audio integration.
 2018.05.18   4.5   V-OS                          Writing           Abstract        Project documentation.
 2018.05.18   1.5   Doodle                        3D                Visual          Entropica graphic.
-2018.05.17   1.5   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.17   1.5   Skins 6.0                     Writing           Abstract        Hawaii workshop lessons.
 2018.05.17   2.0   V-OS                          Development       Code            Small rewrites and search system refinement + auto-correction.
 2018.05.17   1.0   Obx                           Development       Code            Workshop site styling.
 2018.05.17   1.0   Obx                           Research          Code            Application transfers.
@@ -78,24 +152,24 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.05.16   1.5   V-OS                          Writing           Abstract        Narrative.
 2018.05.16   1.5   Jam                           Composition       Audio           Jam.
 2018.05.15   2.5   Jam                           Composition       Audio           Jam.
-2018.05.15   4.0   Obx                           Writing           Abstract        Hawaii workshop lessons.
+2018.05.15   4.0   Skins 6.0                     Writing           Abstract        Hawaii workshop lessons.
 2018.05.14   1.0   Rig                           Maintenance       Code            Software troubleshooting.
-2018.05.14   4.0   Obx                           Research          Abstract        Design lessons, project organization.
+2018.05.14   4.0   Skins 6.0                     Research          Abstract        Design lessons, project organization.
 2018.05.13   1.5   Doodle                        Graphic           Visual          Poster design.
 2018.05.13   1.5   Jam                           Composition       Audio           Audio project updates.
 2018.05.13   0.5   V-OS                          Writing           Abstract        Verse entries.
 2018.05.12   0.5   Doodle                        Design            Visual          Web layout design.
 2018.05.12   2.5   Jam                           Acoustic          Audio           Jam, vocals, guitar.
 2018.05.11   0.0   Various                       Event             Personal        Valerie.
-2018.05.11   2.0   Obx                           Research          Code            Programming cheat sheet content.
+2018.05.11   2.0   Skins 6.0                     Research          Code            Programming cheat sheet content.
 2018.05.11   1.0   Obx                           Research          Code            Apple developer account troubleshooting.
 2018.05.10   2.5   Obx                           Research          Abstract        Various.
 2018.05.09   1.5   V-OS                          Writing           Abstract        Verse entries.
-2018.05.08   1.5   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.08   1.5   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
 2018.05.08   2.0   Obx                           Development       Code            Migration application feature addition.
 2018.05.07   1.0   Obx                           Research          Abstract        Screen matrix application design.
-2018.05.07   2.0   Obx                           Research          Code            Godot engine research.
-2018.05.07   3.0   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.07   2.0   Skins 6.0                     Research          Code            Godot engine research.
+2018.05.07   3.0   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
 2018.05.06   3.0   Wherein Titans Fall           Composition       Audio           Mixing.
 2018.05.05   1.0   Jam                           Composition       Audio           Composition.
 2018.05.05   0.5   V-OS                          Writing           Abstract        Verse entries.
@@ -105,17 +179,17 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.05.04   1.0   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.05.04   2.5   Study                         Research          Personal        Finances and investment, cooking.
 2018.05.03   1.0   Study                         Research          Abstract        Explicit game narrative formatting.
-2018.05.03   1.0   Obx                           Research          Visual          UI and atmosphere design.
-2018.05.03   1.5   Obx                           Research          Audio           Sound and soundtrack design.
-2018.05.03   3.0   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.03   1.0   Skins 6.0                     Research          Visual          UI and atmosphere design.
+2018.05.03   1.5   Skins 6.0                     Research          Audio           Sound and soundtrack design.
+2018.05.03   3.0   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
 2018.05.03   1.0   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.05.02   4.0   Rig                           Maintenance       Personal        Software upgrades, cleaning.
 2018.05.02   4.0   Jam                           Composition       Audio           Vocals, neurofunk.
-2018.05.01   5.5   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.05.01   5.5   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
 2018.05.01   1.5   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.04.30   5.0   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.04.30   0.5   Ark Simulation                3D                Visual          Ark simulator modeling.
-2018.04.30   4.5   Obx                           Design            Abstract        Hawaii workshop lessons.
+2018.04.30   4.5   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
 2018.04.29   2.0   Ark Simulation                3D                Visual          Ark simulator modeling.
 2018.04.29   4.0   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.04.29   1.5   Ark Simulation                Research          Visual          Schematics art study.
@@ -125,8 +199,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.04.27   2.0   Jam                           Acoustic          Audio           Guitar, composition.
 2018.04.27   0.5   Luna                          Development       Code            Gallery development.
 2018.04.27   1.0   Luna                          Design            Visual          Gallery development.
-2018.04.26   1.0   Obx                           Design            Abstract        Hawaii workshop lessons.
-2018.04.26   2.0   Obx                           Research          Abstract        Hawaii workshop lessons.
+2018.04.26   1.0   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
+2018.04.26   2.0   Skins 6.0                     Research          Abstract        Hawaii workshop lessons.
 2018.04.26   0.5   Obx                           Development       Code            Camera nodes navigation.
 2018.04.25   1.0   Jam                           Research          Audio           Vocals.
 2018.04.25   4.0   Luna                          Development       Code            Gallery development.
@@ -134,7 +208,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.04.24   3.0   Obx                           Development       Code            Optimizations testing.
 2018.04.24   2.5   Jam                           Acoustic          Audio           Vocals.
 2018.04.23   1.0   Luna                          Development       Code            Gallery development.
-2018.04.23   1.0   Obx                           Research          Personal        Hawaii workshop.
+2018.04.23   1.0   Skins 6.0                     Research          Personal        Hawaii workshop.
 2018.04.23   3.0   Obx                           Maintenance       Code            Project maintenance and testing.
 2018.04.22   1.5   Luna                          Design            Visual          Gallery design.
 2018.04.22   6.5   Luna                          Development       Code            Gallery development.
@@ -1432,12 +1506,12 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.02.18   2.5   Elyium                        Design            Code            Database and narrative system redesign.
 2017.02.18   0.5   Ontologica                    Writing           Abstract        Documentation and V-OS page.
 2017.02.17   5.0   Ontologica                    Videography       Visual          Film and edit video, develop Ontologica environment.
-2017.02.16   1.5   Obx                           Development       Code            Web development for Obx.
+2017.02.16   1.5   Obx                           Development       Code            Web development.
 2017.02.16   2.0   Tinker                        Development       Code            Physics development, balancing, and documentation of Processing game.
 2017.02.16   2.0   V-OS                          Development       Visual          Bugfixing, aesthetic changes.
 2017.02.16   1.0   Doodle                        Videography       Visual          Meme video creation, green-screen testing.
 2017.02.15   1.0   V-OS                          Development       Code            Bugfixes, optimizations.
-2017.02.15   2.0   Obx                           Development       Visual          Website template for Obx.
+2017.02.15   2.0   Obx                           Development       Visual          Website template.
 2017.02.15   3.0   Doodle                        3D                Visual          Blender experimentation.
 2017.02.14   5.0   Doodle                        3D                Visual          Blender experimentation.
 2017.02.14   3.0   Tinker                        Development       Code            Experimental game dev in Processing.
@@ -1480,10 +1554,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.01.29   1.0   Namium                        Development       Code            Design and develop simple name generation system.
 2017.01.29   1.0   Tinker                        Research          Code            Ruby study.
 2017.01.28   2.0   Tinker                        Research          Code            Ruby study.
-2017.01.28   1.0   VisN                          3D                Visual          Cinema4D sketches for Obx.
+2017.01.28   1.0   VisN                          3D                Visual          Cinema4D sketches.
 2017.01.28   0.0   Various                       Event             Personal        SSD died.
 2017.01.27   2.5   Ontologica                    Development       Code            Ontologica UE4 prototype development.
-2017.01.27   1.5   VisN                          3D                Visual          Cinema4D sketches for Obx.
+2017.01.27   1.5   VisN                          3D                Visual          Cinema4D sketches.
 2017.01.26   1.0   Elyium                        Design            Code            Database structure research and design.
 2017.01.25   0.5   Doodle                        Graphic           Visual          Logo design.
 2017.01.24   2.0   Elyium                        Design            Code            Infrastructure research and design.
