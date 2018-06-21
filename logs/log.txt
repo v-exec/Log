@@ -89,7 +89,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.06.05   1.0   Skins 6.0                     Design            Abstract        Lesson writing.
 2018.06.05   3.5   Obx                           Development       Code            Shader debugging and project tweaking.
 2018.06.05   0.5   Skins 6.0                     Research          Audio           DAW research.
-2018.06.03   0.5   Study                         Research          Personal        Dolphins and animal intelligence.
+2018.06.04   0.5   Study                         Research          Personal        Dolphins and animal intelligence.
 2018.06.04   1.0   Ethera's Word                 Writing           Abstract        Revision.
 2018.06.04   1.0   Skins 6.0                     Design            Abstract        Lesson writing.
 2018.06.04   4.0   Obx                           Development       Code            Shader rewriting and implementation, game development.

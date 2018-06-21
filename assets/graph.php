@@ -47,13 +47,17 @@ function graph($l, $desiredDays, $type, $h) {
 			array_push($days, null);
 		}
 
-		$dayCount = $desiredDays + - 1 - $difference;
+		//number of days before last log (-1 to count current day)
+		$dayCount = $desiredDays - 1 - $difference;
 
 		//pass through all logs, separate them into each $day, fill each $day with its respective logs, and then put every $day into $days
 		for ($i = 0; $i < sizeof($rows); $i++) {
-			if ($now != $rows[$i][0]) {
+			//if not the next dated element
+			if ($now !== $rows[$i][0]) {
+				//then update marker for date
 				$now = $rows[$i][0];
 
+				//add day to $days
 				$days[$dayCount] = $day;
 				$dayCount--;
 
@@ -70,8 +74,8 @@ function graph($l, $desiredDays, $type, $h) {
 			}
 		}
 
-		//add last element
-		$days[$dayCount] = $day;
+		//add last element ([0])
+		$days[0] = $day;
 
 		//$days[day][log][0: division 1: time]
 
@@ -110,6 +114,7 @@ function graph($l, $desiredDays, $type, $h) {
 			$personalTime = 0;
 
 			//in each day's logs, get number of hours for each divisions
+
 			for ($j = 0; $j < sizeof($days[$i]); $j++) {
 				switch ($days[$i][$j][0]) {
 					case 'Audio':
@@ -276,6 +281,7 @@ function setupGraph($l, $desiredDays, $type) {
 				$last = new DateTime($rows[0][0]);
 				$difference = $last->diff($first)->format("%a");
 			} else {
+				echo 'hi';
 				$last = new DateTime($rows[0][0]);
 				$first = $last->sub(new DateInterval('P'.$d.'D'));
 				$difference = $last->diff($first)->format("%a");
