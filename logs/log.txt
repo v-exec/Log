@@ -38,8 +38,61 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.07.14   0.5   Study                         Research          Abstract        Substance usage.
+2018.07.14   0.5   Study                         Research          Code            Pre-modern display technologies, software solutions.
+2018.07.13   4.0   Skins 6.0                     Maintenance       Abstract        General help and prep.
+2018.07.12   3.0   Skins 6.0                     Maintenance       Abstract        General help and prep.
+2018.07.12   1.5   Skins 6.0                     Research          Code            Unity terrain teaching.
+2018.07.12   1.5   Distant Lovers                Development       Code            Design and development.
+2018.07.11   1.0   Distant Lovers                Development       Code            Design and development.
+2018.07.11   1.0   Skins 6.0                     Research          Visual          Visual composition teaching.
+2018.07.11   3.0   Skins 6.0                     Maintenance       Abstract        General help and prep.
+2018.07.10   3.0   Skins 6.0                     Maintenance       Abstract        General help and prep.
+2018.07.10   1.0   Skins 6.0                     Research          Abstract        Environmental narrative design.
+2018.07.09   3.0   Skins 6.0                     Maintenance       Abstract        General help.
+2018.07.08   3.0   Distant Lovers                Development       Code            Design and development.
+2018.07.07   6.0   Distant Lovers                Development       Code            Design and development.
+2018.07.06   2.0   Distant Lovers                Development       Code            Design and development.
+2018.07.06   3.5   Skins 6.0                     Maintenance       Code            Software testing.
+2018.07.05   1.5   Distant Lovers                Development       Code            Design and development.
+2018.07.05   4.5   Skins 6.0                     Maintenance       Code            Software testing.
+2018.07.04   0.5   Distant Lovers                Development       Code            Design and development.
+2018.07.04   1.5   Rig                           Maintenance       Personal        Password management.
+2018.07.03   0.5   Doodle                        Photography       Visual          Travel photography.
+2018.07.03   1.0   Jam                           Composition       Audio           Jamming.
+2018.07.03   0.5   Study                         Research          Code            Internatinal travel systems.
+2018.07.03   0.0   Skins 6.0                     Event             Personal        Travel to Honolulu for Skins 6.0 Workshop.
+2018.07.02   1.0   Skins 6.0                     Maintenance       Personal        Packing and logistics.
+2018.07.01   1.0   Study                         Research          Abstract        Argumentation and debates.
+2018.06.31   0.5   Doodle                        Research          Visual          Film composition.
+2018.06.30   3.0   Skins 6.0                     Maintenance       Personal        Packing.
+2018.06.30   8.0   Org_Proc                      3D                Visual          Composition, texturing, lighting, rendering, post processing.
+2018.06.29   3.0   Org_Proc                      3D                Visual          Composition, texturing, lighting.
+2018.06.28   1.0   Skins 6.0                     Development       Code            The Great Migration repository and documentation.
+2018.06.28   2.0   Skins 6.0                     Writing           Abstract        Content consistency review.
+2018.06.28   3.5   Luna                          Development       Code            Updates.
+2018.06.27   1.0   Obx                           Maintenance       Code            Machine tinkering.
+2018.06.27   0.5   Purity                        Writing           Code            Documentation.
+2018.06.27   0.5   Purity                        Development       Code            Procedural page generation.
+2018.06.27   2.0   V-OS                          Development       Code            Tags revamp, procedural page generation.
+2018.06.27   2.0   Skins 6.0                     Graphic           Visual          Presentation slides.
+2018.06.26   0.5   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.26   2.0   Jam                           Research          Audio           Music theory.
+2018.06.26   1.5   Skins 6.0                     Graphic           Visual          Presentation slides.
+2018.06.26   1.5   Skins 6.0                     Writing           Abstract        Lesson revisions.
+2018.06.25   2.0   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.24   3.5   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.23   1.5   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.22   2.0   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.22   2.5   Visor                         Development       Code            Debugging and documentation.
+2018.06.21   1.0   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.21   3.0   Skins 6.0                     Design            Abstract        Lesson media.
+2018.06.21   1.5   Log                           Development       Code            Debugging.
+2018.06.20   1.0   Org_Proc                      3D                Visual          Procedural geometry.
+2018.06.20   2.0   Skins 6.0                     Design            Abstract        Lesson media.
+2018.06.20   2.5   Skins 6.0                     Graphic           Abstract        Lesson media.
 2018.06.19   1.0   Log                           Development       Code            Apostrophe handling.
-2018.06.19   4.5   Skins 6.0                     Writing           Abstract        Lesson media.
+2018.06.19   4.5   Skins 6.0                     Design            Abstract        Lesson media.
 2018.06.19   3.0   Org_Proc                      3D                Visual          Procedural geometry.
 2018.06.18   3.5   Org_Proc                      3D                Visual          Texture and shape study.
 2018.06.18   5.5   Skins 6.0                     Writing           Abstract        Lesson writing, formatting, media planning.
