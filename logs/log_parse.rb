@@ -135,12 +135,12 @@ source.each do |line|
 
 		#error if found task that isn't already in tasks
 		if not tasks.index(task)
-			puts 'found invalid task'
+			puts 'found invalid task on line: ' + line
 		end
 
 		#error if found division that isn't already in divisions
 		if not division.index(division)
-			puts 'found invalid division'
+			puts 'found invalid division on line: ' + line
 		end
 
 		#push to log
