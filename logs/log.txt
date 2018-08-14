@@ -38,7 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2018.08.13   1.0   V-OS                          Writing           Abstract        Rewrites, updates, lifeset entries.
+2018.08.13   1.5   V-OS                          Writing           Abstract        Rewrites, updates, lifeset entries.
 2018.08.13   1.0   Distant Lovers                Graphic           Visual          V Squared logo and asset implementation.
 2018.08.13   4.0   Skins 6.0                     Development       Code            Post production.
 2018.08.12   1.0   Tinker                        Research          Code            Consumer VR.
@@ -122,7 +122,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.07.03   0.0   Skins 6.0                     Event             Personal        Travel to Honolulu for Skins 6.0 Workshop.
 2018.07.02   1.0   Skins 6.0                     Maintenance       Personal        Packing and logistics.
 2018.07.01   1.0   Study                         Research          Abstract        Argumentation and debates.
-2018.06.31   0.5   Doodle                        Research          Visual          Film composition.
+2018.06.30   0.5   Doodle                        Research          Visual          Film composition.
 2018.06.30   3.0   Skins 6.0                     Maintenance       Personal        Packing.
 2018.06.30   8.0   Org_Proc                      3D                Visual          Composition, texturing, lighting, rendering, post processing.
 2018.06.29   3.0   Org_Proc                      3D                Visual          Composition, texturing, lighting.
@@ -282,12 +282,12 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.05.07   1.0   Obx                           Research          Abstract        Screen matrix application design.
 2018.05.07   2.0   Skins 6.0                     Research          Code            Godot engine research.
 2018.05.07   3.0   Skins 6.0                     Design            Abstract        Hawaii workshop lessons.
-2018.05.06   3.0   Wherein Titans Fall           Composition       Audio           Mixing.
+2018.05.06   3.0   Architects of Souls           Composition       Audio           Mixing.
 2018.05.05   1.0   Jam                           Composition       Audio           Composition.
 2018.05.05   0.5   V-OS                          Writing           Abstract        Verse entries.
 2018.05.04   1.0   Jam                           Acoustic          Audio           Guitar.
 2018.05.04   2.0   Jam                           Composition       Audio           Composition experimentation.
-2018.05.04   1.0   Wherein Titans Fall           Composition       Audio           Composition.
+2018.05.04   1.0   Architects of Souls           Composition       Audio           Composition.
 2018.05.04   1.0   Ark Simulation                Graphic           Visual          Schematics art production.
 2018.05.04   2.5   Study                         Research          Personal        Finances and investment, cooking.
 2018.05.03   1.0   Study                         Research          Abstract        Explicit game narrative formatting.
