@@ -40,9 +40,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 
 2018.09.06   1.0   Rig                           Maintenance       Personal        Clean up and backup.
 2018.09.06   4.0   Archform                      Photography       Visual          Photo development.
-2018.09.05   1.0   Distant Lovers                Development       Design          Visual tweaks.
+2018.09.05   1.0   Distant Lovers                Development       Code            Visual tweaks.
 2018.09.05   1.5   Various                       Graphic           Visual          CV update.
-2018.09.05   4.0   Rig                           Maintenance       Design          Major clean-up.
+2018.09.05   4.0   Rig                           Maintenance       Personal        Major clean-up.
 2018.09.04   3.5   V-OS                          Writing           Abstract        Reorganization, clean up, project documentation.
 2018.09.04   1.5   Study                         Research          Abstract        Board game analysis.
 2018.09.04   1.0   Archform                      Photography       Visual          Photo development.
