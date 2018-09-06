@@ -38,6 +38,47 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.09.06   1.0   Rig                           Maintenance       Personal        Clean up and backup.
+2018.09.06   4.0   Archform                      Photography       Visual          Photo development.
+2018.09.05   1.0   Distant Lovers                Development       Design          Visual tweaks.
+2018.09.05   1.5   Various                       Graphic           Visual          CV update.
+2018.09.05   4.0   Rig                           Maintenance       Design          Major clean-up.
+2018.09.04   3.5   V-OS                          Writing           Abstract        Reorganization, clean up, project documentation.
+2018.09.04   1.5   Study                         Research          Abstract        Board game analysis.
+2018.09.04   1.0   Archform                      Photography       Visual          Photo development.
+2018.09.03   3.0   Archform                      Photography       Visual          Photo development.
+2018.09.02   0.5   Study                         Research          Abstract        Puzzle games and versus arcade gameplay.
+2018.09.01   1.0   Study                         Research          Abstract        Art collectives and collaborative art.
+2018.08.31   0.5   Jam                           Acoustic          Audio           Collaborative piano.
+2018.08.31   3.0   Qurotema                      Development       Code            Rendering.
+2018.08.30   1.0   Study                         Research          Abstract        Art collectives and collaborative art.
+2018.08.30   6.0   Qurotema                      Development       Code            Rendering.
+2018.08.29   8.0   Qurotema                      Development       Code            Movement and camera system.
+2018.08.28   6.0   Qurotema                      Development       Code            Movement and camera system, shader programming.
+2018.08.27   7.0   Qurotema                      Development       Code            Movement and camera system, shader programming.
+2018.08.27   0.5   Archform                      Photography       Visual          Picture taking and development.
+2018.08.26   3.0   Archform                      Photography       Visual          Picture taking and development.
+2018.08.25   6.0   Qurotema                      Development       Code            Migration to Unity, shader development and light rendering.
+2018.08.25   0.5   Doodle                        Illustration      Visual          Illustration practice.
+2018.08.24   1.0   Archform                      Photography       Visual          Photograph development.
+2018.08.24   0.5   Architects of Souls           Composition       Audio           Composition.
+2018.08.24   0.0   Skins 6.0                     Event             Personal        Obx contract end.
+2018.08.24   5.0   Skins 6.0                     Design            Abstract        Post production.
+2018.08.23   3.5   Skins 6.0                     Design            Abstract        Post production.
+2018.08.23   0.5   Architects of Souls           Composition       Audio           Composition.
+2018.08.22   4.0   Skins 6.0                     Design            Abstract        Post production.
+2018.08.21   2.0   Skins 6.0                     Design            Abstract        Post production.
+2018.08.20   2.0   Tinker                        Research          Code            Graphics and rendering technologies.
+2018.08.20   2.0   Skins 6.0                     Development       Code            Post production.
+2018.08.19   0.5   Doodle                        Research          Visual          Illustration styles.
+2018.08.18   1.0   Tinker                        Research          Code            Progression systems.
+2018.08.17   0.5   Architects of Souls           Composition       Audio           Composition.
+2018.08.17   4.0   Skins 6.0                     Development       Code            Post production.
+2018.08.17   0.5   Japan                         Event             Personal        Retrieve Visa.
+2018.08.16   4.0   Skins 6.0                     Development       Code            Post production.
+2018.08.15   5.0   Skins 6.0                     Development       Code            Post production.
+2018.08.14   2.0   Skins 6.0                     Writing           Abstract        Lesson revisions.
+2018.08.14   0.5   V-OS                          Design            Abstract        Tags reorganization and consistency check.
 2018.08.13   1.5   V-OS                          Writing           Abstract        Rewrites, updates, lifeset entries.
 2018.08.13   1.0   Distant Lovers                Graphic           Visual          V Squared logo and asset implementation.
 2018.08.13   4.0   Skins 6.0                     Development       Code            Post production.
@@ -348,7 +389,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.04.14   2.5   Purity                        Development       Code            Image annotations and styling system rework.
 2018.04.14   1.5   Eradise                       Modeling          Visual          Character modeling.
 2018.04.13   0.5   Study                         Research          Abstract        Narrative development strategies.
-2018.04.13   2.0   Study                         Research          Personal        Japan exchange documentation.
+2018.04.13   2.0   Japan                         Research          Personal        Japan exchange documentation.
 2018.04.12   6.0   Eradise                       Modeling          Visual          Character modeling and terrain generation.
 2018.04.12   0.5   Study                         Research          Personal        Fashion.
 2018.04.12   3.5   Obx                           Maintenance       Code            Project maintenance and testing.
@@ -479,32 +520,32 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.03.02   1.0   Keerosin                      Design            Visual          Modeling workflow.
 2018.03.01   2.5   Study                         Design            Abstract        Game design help and discussion.
 2018.03.01   2.0   Keerosin                      Modeling          Visual          Modeling.
-2018.03.01   1.0   Study                         Research          Personal        Japan exchange documentation.
+2018.03.01   1.0   Japan                         Research          Personal        Japan exchange documentation.
 2018.03.01   3.5   Obx                           Research          Code            Apple iOS release builds and testing.
 2018.02.28   0.5   Study                         Research          Abstract        Graphic effects implementations.
 2018.02.28   0.5   You Are Two                   Design            Abstract        Scheduling and feature design.
 2018.02.28   1.0   You Are Two                   Development       Code            Sanity tweaking and incapacity implementation.
-2018.02.28   1.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.28   1.0   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.28   1.0   Monospace Garden              Design            Abstract        Design documentation.
 2018.02.28   2.5   Monospace Garden              Development       Code            Tweaking.
-2018.02.27   3.5   Study                         Research          Personal        Japan exchange documentation.
+2018.02.27   3.5   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.27   5.0   Obx                           Research          Code            Apple iOS release builds and testing.
-2018.02.26   3.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.26   3.0   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.26   1.0   You Are Two                   Composition       Audio           Theme song composition.
 2018.02.26   3.0   You Are Two                   Design            Abstract        Progress overview and tasks documentation.
 2018.02.25   1.0   Various                       Writing           Personal        Self.
 2018.02.25   2.5   Keerosin                      Modeling          Visual          Modeling.
 2018.02.25   0.5   You Are Two                   Development       Code            Sanity tweaking.
 2018.02.25   1.0   Jam                           Acoustic          Audio           Guitar and vocals.
-2018.02.25   2.5   Study                         Research          Personal        Japan exchange documentation.
+2018.02.25   2.5   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.24   1.5   Keerosin                      Modeling          Visual          Modeling.
-2018.02.24   3.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.24   3.0   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.24   1.0   Jam                           Acoustic          Audio           Guitar and vocals.
 2018.02.23   1.0   Various                       Research          Personal        Relationships.
 2018.02.23   1.0   Keerosin                      Modeling          Visual          Modeling.
-2018.02.23   2.0   Study                         Research          Personal        Japan exchange documentation.
+2018.02.23   2.0   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.22   0.5   Jam                           Acoustic          Audio           Guitar and vocals.
-2018.02.22   2.5   Study                         Research          Personal        Japan exchange documentation.
+2018.02.22   2.5   Japan                         Research          Personal        Japan exchange documentation.
 2018.02.22   3.0   Obx                           Research          Code            APK modification, Apple distribution.
 2018.02.21   2.0   Various                       Graphic           Visual          CV update.
 2018.02.21   3.5   You Are Two                   Development       Code            Lighting experimentation.
@@ -674,78 +715,78 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.08   2.0   Study                         Research          Abstract        Narrative and aesthetic input (BLAME!).
 2018.01.08   0.0   Various                       Event             Personal        Semester begin.
 2018.01.07   4.0   Study                         Research          Abstract        Narrative input (House of Leaves, Divine Comedy, BLAME!) and study on aesthetic's relationship to biology.
-2018.01.07   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2018.01.07   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.01.06   1.0   Doodle                        Illustration      Visual          Illustration study.
 2018.01.06   2.5   Atomic AI                     3D                Visual          Composition and rendering (3-variants).
-2018.01.06   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2018.01.06   1.0   Japan                         Linguistics       Abstract        Japanese.
 2018.01.05   0.5   Study                         Research          Abstract        Antisocial personality disorder.
 2018.01.05   3.0   Doodle                        Illustration      Visual          Illustration study.
 2018.01.04   1.5   Doodle                        Illustration      Visual          Illustration study.
 2018.01.03   3.5   Doodle                        Illustration      Visual          Illustration study.
 2018.01.02   4.0   Doodle                        Illustration      Visual          Illustration study.
 2018.01.01   1.5   Doodle                        Illustration      Visual          Illustration study.
-2018.01.01   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2018.01.01   1.0   Japan                         Linguistics       Abstract        Japanese.
 2017.12.31   0.5   Jam                           Acoustic          Audio           Vocals.
 2017.12.31   1.0   Purity                        Development       Code            API development.
 2017.12.31   3.5   Doodle                        Illustration      Visual          Illustration study.
 2017.12.30   1.0   Doodle                        Illustration      Visual          Illustration study.
-2017.12.29   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.29   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.29   1.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.28   0.5   Doodle                        Illustration      Visual          Illustration study.
-2017.12.28   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.28   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.28   1.0   Jam                           Composition       Audio           Composition practice.
 2017.12.28   1.0   Jam                           Acoustic          Audio           Piano.
 2017.12.27   0.5   Jam                           Acoustic          Audio           Vocals.
-2017.12.27   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.27   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.27   2.0   Doodle                        Illustration      Visual          Illustration study.
-2017.12.26   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.26   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.26   1.5   Jam                           Acoustic          Audio           Vocals.
 2017.12.26   1.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.25   2.0   Doodle                        Illustration      Visual          Illustration study.
-2017.12.25   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.25   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.24   2.0   Doodle                        Illustration      Visual          Illustration study.
-2017.12.24   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.24   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.23   1.5   Doodle                        Illustration      Visual          Illustration study.
-2017.12.23   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.23   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.22   2.5   Doodle                        Illustration      Visual          Illustration study.
 2017.12.21   1.0   Doodle                        Illustration      Visual          Illustration study.
 2017.12.21   1.0   Study                         Research          Personal        Psychadelics, ayahuasca.
 2017.12.21   1.0   Study                         Research          Abstract        Cryptocurrency trading.
-2017.12.21   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.21   1.0   Japan                         Linguistics       Abstract        Japanese.
 2017.12.20   0.5   You Are Two                   Writing           Abstract        Independant study letter.
 2017.12.20   0.5   Rig                           Maintenance       Abstract        Phone setup.
-2017.12.20   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.20   1.0   Japan                         Linguistics       Abstract        Japanese.
 2017.12.19   0.5   Purity                        Development       Code            Subfolder and line break handling.
-2017.12.19   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.19   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.19   0.5   Various                       Writing           Abstract        Letter of intent.
 2017.12.19   1.0   You Are Two                   Research          Abstract        Team introduction and role considerations.
 2017.12.18   1.0   Log                           Development       Code            Rework graph drawing method.
-2017.12.18   2.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.18   2.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.18   1.5   Various                       Writing           Abstract        Letter of intent.
-2017.12.17   2.0   Japanese                      Linguistics       Abstract        Japanese.
-2017.12.16   2.5   Japanese                      Linguistics       Abstract        Japanese.
-2017.12.16   1.0   Study                         Research          Personal        Japan exchange details, course form.
-2017.12.15   2.0   Study                         Research          Personal        Japan exchange details, course form.
+2017.12.17   2.0   Japan                         Linguistics       Abstract        Japanese.
+2017.12.16   2.5   Japan                         Linguistics       Abstract        Japanese.
+2017.12.16   1.0   Japan                         Research          Personal        Japan exchange details, course form.
+2017.12.15   2.0   Japan                         Research          Personal        Japan exchange details, course form.
 2017.12.15   0.5   Wite                          Writing           Abstract        Documentation.
-2017.12.14   2.5   Study                         Research          Personal        Japan exchange details, course form.
-2017.12.13   2.5   Japanese                      Linguistics       Abstract        Japanese.
-2017.12.13   1.5   Study                         Research          Personal        Japan exchange details.
+2017.12.14   2.5   Japan                         Research          Personal        Japan exchange details, course form.
+2017.12.13   2.5   Japan                         Linguistics       Abstract        Japanese.
+2017.12.13   1.5   Japan                         Research          Personal        Japan exchange details.
 2017.12.12   0.5   Doodle                        Illustration      Visual          Illustration study.
-2017.12.12   2.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.12   2.0   Japan                         Linguistics       Abstract        Japanese.
 2017.12.12   0.5   Architects of Souls           Writing           Abstract        Narrative development.
-2017.12.11   3.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.11   3.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.11   0.5   Architects of Souls           Composition       Audio           Music composition.
 2017.12.10   0.5   Various                       Research          Abstract        Clothing search engine business considerations.
-2017.12.10   3.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.10   3.0   Japan                         Linguistics       Abstract        Japanese.
 2017.12.10   0.5   V-OS                          Development       Code            Touch-ups for open source release.
 2017.12.09   0.5   Log                           Development       Code            Add UTF8 support.
 2017.12.09   1.0   V-OS                          Design            Visual          Color changes, alternate layout experimentation.
-2017.12.09   3.5   Japanese                      Linguistics       Abstract        Japanese.
-2017.12.08   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.09   3.5   Japan                         Linguistics       Abstract        Japanese.
+2017.12.08   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.08   3.0   Relay                         Videography       Visual          Filming, editing, video production and submission.
 2017.12.08   1.0   Rig                           Maintenance       Personal        Backup.
 2017.12.07   1.0   Study                         Research          Personal        Cultural connotations of hair.
-2017.12.07   0.5   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.07   0.5   Japan                         Linguistics       Abstract        Japanese.
 2017.12.07   1.5   V-OS                          Writing           Abstract        Verse writing.
 2017.12.06   3.5   V-OS                          Writing           Abstract        Verse writing, reorganization, project documentation publishing.
 2017.12.06   0.5   Study                         Research          Personal        Japanese sex culture.
@@ -755,9 +796,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.12.05   3.0   Study                         Research          Abstract        Web-based social tools.
 2017.12.04   0.5   Study                         Research          Personal        Contemporary phones.
 2017.12.04   0.5   Relay                         Writing           Abstract        Documentation.
-2017.12.04   0.5   Study                         Research          Personal        Japan exchange details.
-2017.12.04   2.0   Japanese                      Linguistics       Abstract        Japanese.
-2017.12.03   1.0   Japanese                      Linguistics       Abstract        Japanese.
+2017.12.04   0.5   Japan                         Research          Personal        Japan exchange details.
+2017.12.04   2.0   Japan                         Linguistics       Abstract        Japanese.
+2017.12.03   1.0   Japan                         Linguistics       Abstract        Japanese.
 2017.12.03   1.0   Study                         Research          Abstract        Environmental storytelling and shader concepts.
 2017.12.03   1.0   Moré                          3D                Visual          Rendering and post-processing.
 2017.12.02   0.5   Cryptonaut                    Writing           Abstract        Site tweaking, content migration.
