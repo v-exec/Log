@@ -278,7 +278,7 @@ a:hover {
 	position: absolute;
 	width: 100%;
 	border-right: solid 1px #fff;
-	border-radius: 2px;
+	border-radius: 3px;
 }
 
 .graph-legend {
