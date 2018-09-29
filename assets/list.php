@@ -22,7 +22,10 @@ function loglist($l, $type, $limit) {
 		else $size = sizeof($rows);
 
 		//container
-		echo '<div class="loglist-container">';
+		echo '
+		<div class="divider"></div>
+		<div class="loglist-container">
+		';
 
 		for ($i = 0; $i < $size; $i++) {
 			$date = new DateTime($rows[$i][0]);

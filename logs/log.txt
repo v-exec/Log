@@ -38,7 +38,56 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2018.09.06   1.0   Rig                           Maintenance       Personal        Clean up and backup.
+2018.09.29   5.0   Log                           Development       Code            Visual tweaks.
+2018.09.29   0.5   Japan                         Writing           Abstract        Blog writing.
+2018.09.28   2.0   Japan                         Linguistics       Abstract        Japanese.
+2018.09.28   1.0   Japan                         Writing           Abstract        Blog writing.
+2018.09.28   1.5   Log                           Development       Code            Visual tweaks.
+2018.09.27   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.09.27   0.5   PESSIMISTIC STATEMENT         Graphic           Visual          Minimal apparel and branding design.
+2018.09.26   3.0   PESSIMISTIC STATEMENT         Graphic           Visual          Minimal apparel and branding design.
+2018.09.26   1.5   Study                         Research          Abstract        Apparel entrepeneurship.
+2018.09.26   1.5   Tinker                        Development       Code            Coding exercises.
+2018.09.25   1.5   Jam                           Acoustic          Audio           Vocals.
+2018.09.25   1.0   Jam                           Composition       Audio           Composition.
+2018.09.25   2.5   Study                         Research          Abstract        Self-analysis, "The Subtle Art of Not Giving a Fuck".
+2018.09.24   1.5   Nihon                         Photography       Visual          Picture taking.
+2018.09.23   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.09.22   2.0   Study                         Research          Abstract        Self-analysis, "The Subtle Art of Not Giving a Fuck".
+2018.09.22   0.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.21   0.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.20   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.09.19   3.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.18   1.0   Study                         Research          Abstract        Japanese infrastrucutre.
+2018.09.18   0.5   Japan                         Writing           Abstract        Blog writing.
+2018.09.18   0.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.17   1.0   Jam                           Research          Audio           Sound synthesis experimental techniques.
+2018.09.17   0.5   Japan                         Writing           Abstract        Blog writing.
+2018.09.17   1.0   Distant Lovers                Development       Code            Visual tweaks.
+2018.09.17   3.5   Nihon                         Photography       Visual          Picture editing and picture taking.
+2018.09.16   0.5   Various                       Research          Personal        Cooking.
+2018.09.16   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.09.16   1.0   Japan                         Writing           Abstract        Blog writing.
+2018.09.16   4.0   Nihon                         Photography       Visual          Picture editing.
+2018.09.15   1.5   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.14   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.09.14   0.5   Japan                         Writing           Abstract        Blog writing.
+2018.09.14   1.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.13   1.0   Japan                         Linguistics       Abstract        Japanese.
+2018.09.13   0.5   Japan                         Writing           Abstract        Blog writing.
+2018.09.13   1.0   Distant Lovers                Development       Code            Visual tweaks.
+2018.09.12   0.5   Japan                         Writing           Abstract        Blog writing.
+2018.09.12   1.5   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.11   1.0   Japan                         Writing           Abstract        Blog writing.
+2018.09.11   1.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.11   0.5   Japan                         Linguistics       Abstract        Writing practice.
+2018.09.10   2.0   Japan                         Maintenance       Personal        Unpacking and settling.
+2018.09.09   0.5   Japan                         Event             Personal        Travel to Tokyo.
+2018.09.08   1.0   Japan                         Maintenance       Personal        Packing.
+2018.09.08   1.0   Study                         Research          Abstract        Collaborative narratives.
+2018.09.07   0.5   Study                         Linguistics       Abstract        Language learning.
+2018.09.06   1.5   Study                         Linguistics       Abstract        Language learning.
+2018.09.06   2.0   Rig                           Maintenance       Personal        Clean up and backup.
 2018.09.06   4.0   Archform                      Photography       Visual          Photo development.
 2018.09.05   1.0   Distant Lovers                Development       Code            Visual tweaks.
 2018.09.05   1.5   Various                       Graphic           Visual          CV update.

@@ -7,16 +7,15 @@ include 'assets/measure.php';
 include 'assets/list.php';
 include 'assets/graph.php';
 
-$type = checkType($l);
+$type = checkType($clean);
 
 function loadlog() {
-	global $l;
 	global $type;
 	global $clean;
 
 	$hours = getAllHours(null, null);
 
-	switch ($l) {
+	switch ($clean) {
 		case 'home':
 			home($hours);
 			break;

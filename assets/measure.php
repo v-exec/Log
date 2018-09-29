@@ -27,7 +27,10 @@ function measures($l, $measureType, $pageType, $h) {
 		}
 
 		//container
-		echo '<div class="measures-container">';
+		echo '
+		<div class="divider"></div>
+		<div class="measures-container">
+		';
 		
 		//title
 		if ($measureType === 'task') echo '<a href="tasks" class="measures-title">Tasks</a>';
@@ -107,7 +110,7 @@ function measures($l, $measureType, $pageType, $h) {
 			//outputs middle circle for hollow point and measure data
 			echo
 			'
-					<circle cx="50%" cy="50%" r="'.round(($rows[$i][1]/$maxSize * 35) + 2).'" fill="#fff"/>
+					<circle cx="50%" cy="50%" r="'.round(($rows[$i][1]/$maxSize * 34) + 2).'" fill="#f7f7f7"/>
 				</svg>
 				<div class="measure-info">
 					<a href="'.$rows[$i][0].'" class="measure-title">'.$rows[$i][0].'</a>

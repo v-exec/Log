@@ -1,16 +1,20 @@
 ﻿/*-----------GENERAL-----------*/
 html {
-  box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-user-select: none; /* Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+	box-sizing: inherit;
 }
 
 body {
 	font-family: "Roboto";
 	color: #777;
-	background-color: #fff;
+	background-color: #f7f7f7;
 	overflow-x: hidden;
 	font-size: 13px;
 	font-weight: 300;
@@ -24,7 +28,7 @@ a {
 }
 
 a:hover {
-	text-decoration: underline;
+	background-color: #dadada;
 }
 
 ::-moz-selection {
@@ -49,7 +53,6 @@ a:hover {
 /*-----------HEADER-----------*/
 #header {
 	padding: 40px;
-	border-bottom: solid 1px #ccc;
 }
 
 .log-title,
@@ -67,28 +70,21 @@ a:hover {
 	width: 100%;
 }
 
-#body-content,
-#footer {
-	max-width: 1400px;
+#body-content {
+	max-width: 1450px;
 	margin: auto;
 }
 
 #body-content {
 	margin-top: 80px;
-	border-left: solid 1px #ccc;
-	border-right: solid 1px #ccc;
-	border-top: solid 1px #ccc;
 }
 
 #footer {
-	border-left: solid 1px #ccc;
-	border-right: solid 1px #ccc;
-	border-bottom: solid 1px #ccc;
-	margin-bottom: 80px;
+	background-color: #000;
 }
 
 #footer a {
-	color: #777;
+	color: #fff;
 }
 
 #footer-content {
@@ -116,10 +112,15 @@ a:hover {
 	margin-left: 40px;
 }
 
+.divider {
+	width: 100%;
+	height: 1px;
+	background-color: #ccc;
+}
+
 /*-----------MEASURE-----------*/
 .measures-container {
-	padding: 40px 40px 29px 40px;
-	border-bottom: solid 1px #ccc;
+	padding: 40px 40px 25px 40px;
 }
 
 .measures-title {
@@ -151,8 +152,10 @@ a:hover {
 }
 
 .measure-title {
+	display: inline-block;
 	font-size: 23px;
 	margin-bottom: 2px;
+	margin-top: 9px;
 }
 
 .measure-text {
@@ -162,7 +165,6 @@ a:hover {
 /*-----------LOGLIST-----------*/
 .loglist-container {
 	padding: 40px 40px 5px 40px;
-	border-bottom: solid 1px #ccc;
 }
 
 .loglist-item-container {
@@ -209,15 +211,14 @@ a:hover {
 .timeline-container {
 	position: relative;
 	padding: 40px;
-	border-bottom: solid 1px #ccc;
 }
 
 .timeline-bar-container {
 	position: relative;
 	width: 100%;
 	height: 20px;
-	border-left: solid 1px #777;
-	border-right: solid 1px #777;
+	border-left: solid 1px #ccc;
+	border-right: solid 1px #ccc;
 }
 
 .timeline {
@@ -225,7 +226,7 @@ a:hover {
 	width: 100%;
 	height: 1px;
 	top: 10px;
-	background-color: #777;
+	background-color: #ccc;
 }
 
 .timeline-date-begin,
@@ -257,7 +258,6 @@ a:hover {
 /*-----------GRAPH-----------*/
 .graph-container {
 	padding: 40px;
-	border-bottom: solid 1px #ccc;
 }
 
 .graph-bar-container {
@@ -266,19 +266,19 @@ a:hover {
 	height: 200px;
 	margin: auto;
 	overflow: hidden;
-	border-bottom: solid 1px #777;
 }
 
 .graph-day {
 	display: inline-block;
 	position: relative;
 	height: 100%;
-	border-right: solid 1px #fff;
 }
 
 .graph-bar {
 	position: absolute;
 	width: 100%;
+	border-right: solid 1px #fff;
+	border-radius: 2px;
 }
 
 .graph-legend {
@@ -286,19 +286,27 @@ a:hover {
 }
 
 .graph-legend-num {
-	margin-right: 8px;
+	margin-right: 10px;
+}
+
+.graph-legend-block {
+	display: inline-block;
+	background-color: #000;
+	width: 9px;
+	height: 9px;
+	border-radius: 2px;
+	margin-right: 2px;
 }
 
 .graph-stats-text {
 	float: right;
 	text-align: right;
-	margin-left: 8px;
+	margin-left: 10px;
 }
 
 /*-----------TITLE-----------*/
 .title-container {
 	padding: 40px;
-	border-bottom: solid 1px #ccc;
 }
 
 .title {
@@ -319,14 +327,13 @@ a:hover {
 }
 
 /*-----------MEDIA-----------*/
-@media (max-width: 1400px) {
-	#body-content,
-	#footer {
+@media (max-width: 1450px) {
+	#body-content {
 		margin: 0;
 	}
 }
 
-@media (max-width: 1150px) {
+@media (max-width: 1100px) {
 	.measure-container {
 		width: 49.5%;
 	}

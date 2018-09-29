@@ -18,6 +18,7 @@ function title($l, $type) {
 	
 	echo
 	'
+	<div class="divider"></div>
 	<div class="title-container">
 		<a href="'.stripslashes($l).'" class="title">'.ucfirst(stripslashes($l)).'</a>
 		<div class="title-stats">

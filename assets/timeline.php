@@ -1,10 +1,15 @@
 <?php
 function timeline($l, $type) {
 
-	if ($l == null || $l == 'home') $q = 'select log.date, sum(log.time) as hours from log group by date order by log.id asc;';
-	else $q = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
+	if ($l == null || $l == 'home') $q = 'select division.name as title, log.date, log.time as hours from log left join division on division.id = log.division_id order by log.id asc;';
+	else $q = 'select division.name as title, log.date, log.time as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' order by log.id asc;';
 
-	$fillColor = '#000';
+	global $backgroundColor;
+	global $abstractColor;
+	global $codeColor;
+	global $audioColor;
+	global $visualColor;
+	global $personalColor;
 
 	$conn = connect();
 	$result = $conn->query($q);
@@ -12,38 +17,58 @@ function timeline($l, $type) {
 	if ($result->num_rows > 0) {
 		$rows = array();
 
+		//get query results
 		while ($row = $result->fetch_assoc()) {
-			array_push($rows, [$row['date'], $row['hours']]);
+			array_push($rows, [$row['date'], $row['title'], $row['hours']]);
 		}
+
+		//days array holds all days and their logs
+		$days = array();
+		//day array holds each day
+		$day = array();
 
 		//get timespan of timeline
 		$first = new DateTime($rows[sizeof($rows)-1][0]);
 		$last = new DateTime($rows[0][0]);
 		$difference = $last->diff($first)->format("%a");
 
-		//get number of separate days
-		$days = 0;
-		$savedDate = '';
+		//pass through all logs, separate them into each $day, fill each $day with its respective logs, and then put every $day into $days
+		$dayCount = 0;
+		$savedDate = $rows[0][0];
+
 		for ($i = 0; $i < sizeof($rows); $i++) {
-			if ($rows[$i] != $savedDate) {
-				$savedDate = $rows[0];
-				$days++;
+			//if starting new day
+			if ($rows[$i][0] != $savedDate) {
+				$savedDate = $rows[$i][0];
+				$dayCount++;
+
+				array_push($days, $day);
+				$day = array();
 			}
+
+			array_push($day, [$rows[$i][1], $rows[$i][2], $savedDate]);
 		}
+
+		//add last element
+		$dayCount++;
+		array_push($days, $day);
+
+		//$days[day][log][0: division 1: time 2: date]
 
 		//get resolution for how many days/dots to render (50 days + ~15% of anything above 50 days)
 		$t = 1;
 		$dotDelimiter = 50;
 
-		if ($days < $dotDelimiter) $t = 1;
+		if ($dayCount < $dotDelimiter) $t = 1;
 		else {
-			$left = $days - $dotDelimiter;
+			$left = $dayCount - $dotDelimiter;
 			$t = 1 + ($left / $dotDelimiter / 2);
 		}
 
 		//setup timeline layout
 		echo
 		'
+		<div class="divider"></div>
 		<div class="timeline-container">
 			<span class="timeline-date-begin">'.$first->format('Y.m.d').'</span>
 			<span class="timeline-date-end">'.$last->format('Y.m.d').'</span>
@@ -53,26 +78,70 @@ function timeline($l, $type) {
 		';
 
 		//fill threshold (timeline node is filled if hours per day are higher than $threshold)
-		$threshold = 3;
+		$threshold = 4;
 
-		//display dots
+		//render dots
 		if (sizeof($rows) > 1) {
-			for ($i = sizeof($rows) - 1; $i > -1; $i-=$t) {
-				$now = new DateTime($rows[$i][0]);
+
+			for ($i = sizeof($days) - 1; $i > -1; $i-=$t) {
+
+				$now = new DateTime($days[$i][0][2]);
 				$position = ($now->diff($first)->format("%a")) / $difference;
 
-				$old = new DateTime($rows[$i - 1][0]);
+				$old = new DateTime($days[$i - 1][0][2]);
 				$oldPosition = ($old->diff($first)->format("%a")) / $difference;
 
 				if ($now != $old && ($oldPosition - $position) > 0.0001) {
 
-					if ($rows[$i][1] >= $threshold) $fill = $fillColor;
-					else $fill = '#fff';
+					//check most popular topic of the day and color accordingly
+					$fill;
 					
+					//go through each day
+					$audioTime = 0;
+					$abstractTime = 0;
+					$visualTime = 0;
+					$codeTime = 0;
+					$personalTime = 0;
+
+					//in each day's logs, get number of hours for each divisions
+					for ($j = 0; $j < sizeof($days[$i]); $j++) {
+						switch ($days[$i][$j][0]) {
+							case 'Audio':
+								$audioTime += $days[$i][$j][1];
+								break;
+							
+							case 'Abstract':
+								$abstractTime += $days[$i][$j][1];
+								break;
+
+							case 'Visual':
+								$visualTime += $days[$i][$j][1];
+								break;
+
+							case 'Code':
+								$codeTime += $days[$i][$j][1];
+								break;
+
+							case 'Personal':
+								$personalTime += $days[$i][$j][1];
+								break;
+						}
+					}
+
+					//sort values to determine render order
+					$values = array($codeTime, $abstractTime, $visualTime, $audioTime, $personalTime);
+					sort($values);
+
+					if ($values[4] === $personalTime) $fill = $personalColor;
+					else if ($values[4] === $codeTime) $fill = $codeColor;
+					else if ($values[4] === $abstractTime) $fill = $abstractColor;
+					else if ($values[4] === $visualTime) $fill = $visualColor;
+					else if ($values[4] === $audioTime) $fill = $audioColor;
+
 					echo
 					'
 					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
-						<circle cx="10" cy="10" r="5" stroke='.$fillColor.' stroke-width="1" fill="'.$fill.'"/>
+						<circle cx="10" cy="10" r="5" stroke="'. $fill .'" stroke-width="1" fill="'.$fill.'"/>
 					</svg>
 					';
 				}
@@ -81,7 +150,7 @@ function timeline($l, $type) {
 			echo
 			'
 			<svg class="timeline-circle" style="left: 0%;">
-				<circle cx="10" cy="10" r="5" stroke="'.$fillColor.'"" stroke-width="1" fill="'.$fillColor.'"/>
+				<circle cx="10" cy="10" r="5" stroke="#ccc" stroke-width="1" fill="'.$backgroundColor.'"/>
 			</svg>
 			';
 		}

@@ -63,6 +63,9 @@ function graph($l, $desiredDays, $type, $h) {
 
 				$day = array();
 			}
+
+			//if looking at project/task/division pertaining to current page (i.e. sifting through logs that might not be relevant to given page)
+			//this is done manually because logs that don't pertain to current page are still used in determining placement of bars using the logs' date
 			if ($type == 'project' || $type == 'task') {
 				if (strtolower($rows[$i][3]) === stripslashes($l)) array_push($day, [$rows[$i][1], $rows[$i][2]]);
 				else array_push($day, $rows[$i][1], 0);
@@ -101,8 +104,9 @@ function graph($l, $desiredDays, $type, $h) {
 
 		echo
 		'
+		<div class="divider"></div>
 		<div class="graph-container">
-			<div class="graph-bar-container">
+		<div class="graph-bar-container">
 		';
 
 		//go through each day
@@ -114,7 +118,6 @@ function graph($l, $desiredDays, $type, $h) {
 			$personalTime = 0;
 
 			//in each day's logs, get number of hours for each divisions
-
 			for ($j = 0; $j < sizeof($days[$i]); $j++) {
 				switch ($days[$i][$j][0]) {
 					case 'Audio':
@@ -235,17 +238,21 @@ function graph($l, $desiredDays, $type, $h) {
 		echo
 			'
 				<div class="graph-legend">
+					<div class="graph-legend-block" style="background-color: '.$codeColor.'"></div>
 					<span class="graph-legend-text">Code</span>
-					<span class="graph-legend-num" style="color:'.$codeColor.'">'.number_format((($totalCode / $h) * 100), 2, '.', ''). '%'.'</span>
+					<span class="graph-legend-num">'.number_format((($totalCode / $h) * 100), 2, '.', ''). '%'.'</span>
 
+					<div class="graph-legend-block" style="background-color: '.$abstractColor.'"></div>
 					<span class="graph-legend-text">Abstract</span>
-					<span class="graph-legend-num" style="color:'.$abstractColor.'">'.number_format((($totalAbstract / $h) * 100), 2, '.', ''). '%'.'</span>
+					<span class="graph-legend-num">'.number_format((($totalAbstract / $h) * 100), 2, '.', ''). '%'.'</span>
 
+					<div class="graph-legend-block" style="background-color: '.$visualColor.'"></div>
 					<span class="graph-legend-text">Visual</span>
-					<span class="graph-legend-num" style="color:'.$visualColor.'">'.number_format((($totalVisual / $h) * 100), 2, '.', ''). '%'.'</span>
+					<span class="graph-legend-num">'.number_format((($totalVisual / $h) * 100), 2, '.', ''). '%'.'</span>
 
+					<div class="graph-legend-block" style="background-color: '.$audioColor.'"></div>
 					<span class="graph-legend-text">Audio</span>
-					<span class="graph-legend-num" style="color:'.$audioColor.'">'.number_format((($totalAudio / $h) * 100), 2, '.', ''). '%'.'</span>
+					<span class="graph-legend-num">'.number_format((($totalAudio / $h) * 100), 2, '.', ''). '%'.'</span>
 
 					<span class="graph-stats-text">'.sizeof($days).' days</span>
 					<span class="graph-stats-text">'.number_format($h, 0, '.', '').' hours</span>
