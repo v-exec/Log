@@ -46,7 +46,7 @@ function home($h) {
 	title($clean, $type);
 	timeline($clean, $type);
 
-	graph($clean, 120, $type, $h);
+	graph($clean, 90, $type, $h);
 	graph($clean, 14, $type, $h);
 
 	measures($clean, 'division', null, $h);
