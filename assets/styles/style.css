@@ -5,6 +5,7 @@ html {
 	-moz-user-select: none; /* Firefox */
 	-ms-user-select: none; /* IE10+/Edge */
 	user-select: none; /* Standard */
+	background-color: #000;
 }
 
 *, *:before, *:after {
@@ -76,7 +77,7 @@ a:hover {
 }
 
 #body-content {
-	margin-top: 80px;
+	padding-top: 40px;
 }
 
 #footer {

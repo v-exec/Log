@@ -33,9 +33,9 @@ function measures($l, $measureType, $pageType, $h) {
 		';
 		
 		//title
-		if ($measureType === 'task') echo '<a href="tasks" class="measures-title">Tasks</a>';
-		else if ($measureType === 'project') echo '<a href="projects" class="measures-title">Projects</a>';
-		else if ($measureType === 'division') echo '<a href="divisions" class="measures-title">Divisions</a>';
+		if ($measureType === 'task') echo '<span class="measures-title">Tasks</span>';
+		else if ($measureType === 'project') echo '<span class="measures-title">Projects</span>';
+		else if ($measureType === 'division') echo '<span class="measures-title">Divisions</span>';
 
 		echo '<div style="width: 100%";></div>';
 

@@ -15,28 +15,9 @@ function loadlog() {
 
 	$hours = getAllHours(null, null);
 
-	switch ($clean) {
-		case 'home':
-			home($hours);
-			break;
-
-		case 'divisions':
-			measures($clean, 'division', null, $hours);
-			break;
-
-		case 'tasks':
-			measures($clean, 'task', null, $hours);
-			break;
-
-		case 'projects':
-			measures($clean, 'project', null, $hours);
-			break;
-
-		default:
-			if ($type != null) spec();
-			else echo '<span style="display: block; border-bottom: solid 1px #ccc; width: 100%; padding: 40px; font-size: 24px;">No such page exists in the Log.</span>';
-			break;
-	}
+	if ($clean == 'home') home($hours);
+	else if ($type != null) spec();
+	else echo '<div class="divider"></div><span style="display: block; border-bottom: solid 1px #ccc; width: 100%; padding: 40px; font-size: 24px;">No such page exists in the Log.</span>';
 }
 
 function home($h) {

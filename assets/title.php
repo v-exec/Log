@@ -20,7 +20,7 @@ function title($l, $type) {
 	'
 	<div class="divider"></div>
 	<div class="title-container">
-		<a href="'.stripslashes($l).'" class="title">'.ucfirst(stripslashes($l)).'</a>
+		<span class="title">'.ucfirst(stripslashes($l)).'</span>
 		<div class="title-stats">
 			<span class="title-text">'.number_format($hours, 0, '.', '').' '.$hourphrase.'</span>
 			<span class="title-text">'.$logs.' '.$logphrase.'</span>
