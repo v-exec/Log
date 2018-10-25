@@ -38,16 +38,20 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.10.25   1.0   Log                           Development       Code            Visual tweaks.
 2018.10.25   0.5   Study                         Research          Code            Server hosting services.
 2018.10.25   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
 2018.10.25   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.24   2.5   Study                         Research          Personal        Relationships.
 2018.10.24   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.10.24   0.5   Doodle                        Illustration      Visual          Illustration practice.
 2018.10.24   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.23   0.5   Study                         Research          Abstract        Letter of intent revewing.
 2018.10.23   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.10.23   2.5   Study                         Research          Personal        Relationships.
 2018.10.22   0.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.22   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.22   0.5   Doodle                        Illustration      Visual          Illustration practice.
 2018.10.21   1.0   Nihon                         Photography       Visual          Picture taking.
 2018.10.20   2.0   Study                         Research          Personal        Relationships.
 2018.10.20   2.0   Japan                         Linguistics       Abstract        Japanese.
@@ -59,6 +63,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.10.18   0.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.17   1.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.17   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.10.17   1.0   Doodle                        Illustration      Visual          Illustration practice.
 2018.10.16   0.5   Study                         Design            Abstract        Web development help.
 2018.10.16   2.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.16   3.5   Japan                         Linguistics       Abstract        Japanese.

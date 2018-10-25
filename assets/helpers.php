@@ -68,7 +68,7 @@ function createSvgArc($x, $y, $r, $startAngle, $endAngle) {
 	 $arc = [
 		'M', $x, $y,
 		'L', $x + (cos($startAngle) * $r), $y - (sin($startAngle) * $r), 
-		'A', $r, $r, 0, $largeArc, 0, $x + (cos($endAngle) * $r), $y - (sin($endAngle) * $r),
+		'A', $r, $r, 0, $largeArc, 0, $x + (cos($endAngle) * $r), $y - (sin($endAngle) * $r) + 0.001,
 		'L', $x, $y
 	];
 
