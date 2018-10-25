@@ -38,6 +38,63 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.10.25   0.5   Study                         Research          Code            Server hosting services.
+2018.10.25   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
+2018.10.25   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.24   2.5   Study                         Research          Personal        Relationships.
+2018.10.24   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.10.24   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.23   3.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.23   2.5   Study                         Research          Personal        Relationships.
+2018.10.22   0.5   Machine Girl                  Acoustic          Audio           Guitar.
+2018.10.22   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.21   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.10.20   2.0   Study                         Research          Personal        Relationships.
+2018.10.20   2.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.20   5.5   Nihon                         Photography       Visual          Picture editing.
+2018.10.19   4.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.10.19   2.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.19   2.5   Machine Girl                  Acoustic          Audio           Guitar.
+2018.10.18   3.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.18   0.5   Machine Girl                  Acoustic          Audio           Guitar.
+2018.10.17   1.5   Machine Girl                  Acoustic          Audio           Guitar.
+2018.10.17   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.10.16   0.5   Study                         Design            Abstract        Web development help.
+2018.10.16   2.5   Machine Girl                  Acoustic          Audio           Guitar.
+2018.10.16   3.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.15   0.5   Doodle                        Illustration      Visual          Illustration practice.
+2018.10.15   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.15   1.5   Japan                         Writing           Abstract        Blog writing.
+2018.10.14   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.13   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.10.13   1.5   Machine Girl                  Acoustic          Audio           Vocals.
+2018.10.13   1.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.12   1.0   V-OS                          Design            Visual          Small visual updates.
+2018.10.12   2.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.11   1.5   Architects of Souls           Composition       Audio           Composition.
+2018.10.11   4.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.10   3.0   Study                         Research          Abstract        Urban studies, New York and New Zealand reconstruction.
+2018.10.10   0.5   Architects of Souls           Composition       Audio           Composition.
+2018.10.10   3.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.09   4.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.09   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.10.08   1.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.08   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.07   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.07   2.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.06   2.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.05   1.5   Study                         Linguistics       Abstract        Language learning techniques.
+2018.10.05   2.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.04   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.04   0.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.03   1.0   Japan                         Linguistics       Abstract        Japanese.
+2018.10.02   2.0   Study                         Research          Abstract        High-context culture.
+2018.10.01   0.5   Study                         Research          Personal        High-context culture.
+2018.10.01   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.01   0.5   Tinker                        Research          Code            Flow fields.
+2018.10.01   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.09.30   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.30   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.09.29   5.0   Log                           Development       Code            Visual tweaks.
 2018.09.29   0.5   Japan                         Writing           Abstract        Blog writing.
 2018.09.28   2.0   Japan                         Linguistics       Abstract        Japanese.
