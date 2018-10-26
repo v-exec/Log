@@ -278,7 +278,7 @@ a:hover {
 .graph-bar {
 	position: absolute;
 	width: 100%;
-	border-right: solid 1px #fff;
+	border-right: solid 1px #f7f7f7;
 	border-radius: 3px;
 }
 
