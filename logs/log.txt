@@ -38,17 +38,20 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2018.11.10   6.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.10   6.0   Perfect Empathy               Development       Code            Web port.
 2018.11.10   2.5   Japan                         Linguistics       Abstract        Japanese.
-2018.11.09   4.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.10   0.5   Jam                           Research          Audio           Music theory.
+2018.11.09   4.0   Perfect Empathy               Development       Code            Web port.
 2018.11.09   2.5   Jam                           Acoustic          Audio           Vocals.
+2018.11.09   1.0   Jam                           Research          Audio           Music theory.
 2018.11.08   2.0   Jam                           Composition       Audio           Composition.
-2018.11.08   5.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.08   0.5   Jam                           Research          Audio           Music theory.
+2018.11.08   5.0   Perfect Empathy               Development       Code            Web port.
 2018.11.08   1.0   Japan                         Linguistics       Abstract        Japanese.
 2018.11.07   3.0   Study                         Research          Abstract        Urban studies and theory.
 2018.11.07   0.5   Jam                           Acoustic          Audio           Guitar and theory.
-2018.11.07   1.5   Perfectus Empatheia           Development       Code            Web port.
-2018.11.06   2.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.07   1.5   Perfect Empathy               Development       Code            Web port.
+2018.11.06   2.0   Perfect Empathy               Development       Code            Web port.
 2018.11.06   1.0   Japan                         Writing           Abstract        Blog writing.
 2018.11.06   3.0   Jam                           Acoustic          Audio           Guitar and theory.
 2018.11.06   2.5   Japan                         Linguistics       Abstract        Japanese.
@@ -73,7 +76,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.10.30   0.5   Purity                        Development       Code            PHP update fix.
 2018.10.30   2.0   Nihon                         Photography       Visual          Picture editing.
 2018.10.30   1.0   Jam                           Acoustic          Audio           Guitar.
-2018.10.30   1.0   Study                         Research          Audio           Music theory.
+2018.10.30   1.0   Jam                           Research          Audio           Music theory.
 2018.10.29   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
 2018.10.29   1.0   Japan                         Linguistics       Abstract        Japanese writing.
 2018.10.28   0.5   Machine Girl                  Acoustic          Audio           Guitar.
@@ -835,7 +838,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.01.19   1.0   Various                       Maintenance       Abstract        Japan, independant study, and Ubisoft applications.
 2018.01.19   1.5   Purity                        Development       Code            Refine tag cleaning for more liberal formatting.
 2018.01.19   0.5   DotCycle                      Maintenance       Abstract        Video and code documentation.
-2018.01.19   0.5   Perfectus Empatheia           Writing           Abstract        Documentation.
+2018.01.19   0.5   Perfect Empathy               Writing           Abstract        Documentation.
 2018.01.19   3.0   You Are Two                   Research          Abstract        Meeting, light brainstorm, theme considerations, mentor introductions.
 2018.01.19   0.0   You Are Two                   Event             Personal        Competition begin.
 2018.01.18   0.5   Obx                           Research          Abstract        Lab and application publishing research.
@@ -1135,7 +1138,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.06   1.0   Study                         Research          Abstract        Storytelling.
 2017.10.06   3.0   Wite                          Development       Code            Feed and profile implementation, styling.
 2017.10.06   2.5   TA253                         Research          Code            Correction.
-2017.10.06   1.5   Perfectus Empatheia           Writing           Abstract        Design review.
+2017.10.06   1.5   Perfect Empathy               Writing           Abstract        Design review.
 2017.10.06   0.5   Doodle                        Graphic           Visual          Give me milk logo rework.
 2017.10.05   0.5   Doodle                        3D                Visual          Give me milk UV map.
 2017.10.05   1.5   Doodle                        Graphic           Visual          Give me milk logo.
@@ -1147,14 +1150,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.10.03   2.0   Wite                          Development       Code            Modular interfacing engine.
 2017.10.03   2.5   Jam                           Research          Audio           MaxMSP.
 2017.10.03   2.0   TA253                         Research          Code            Code help.
-2017.10.03   1.5   Perfectus Empatheia           Design            Abstract        Testing and feedback.
+2017.10.03   1.5   Perfect Empathy               Design            Abstract        Testing and feedback.
 2017.10.02   1.0   Wite                          Development       Code            Modular interfacing engine.
 2017.10.02   0.5   Wite                          Research          Code            Modular interfacing engine.
-2017.10.02   1.5   Perfectus Empatheia           Design            Visual          Priting and organizing.
+2017.10.02   1.5   Perfect Empathy               Design            Visual          Priting and organizing.
 2017.10.02   0.5   Jam                           Acoustic          Audio           Guitar and keyboard.
 2017.10.02   1.0   Purity                        Development       Code            Small formatting fixes.
 2017.10.02   0.5   LOGO                          Development       Code            Add index.
-2017.10.01   2.0   Perfectus Empatheia           Graphic           Visual          Visuals cleanup, print sheets.
+2017.10.01   2.0   Perfect Empathy               Graphic           Visual          Visuals cleanup, print sheets.
 2017.10.01   1.0   V-OS                          Development       Code            Styling fixes.
 2017.10.01   1.5   LOGO                          Development       Code            Refactoring, add explore functionality.
 2017.10.01   0.5   Purity                        Development       Code            Separating Purity from V-OS. Now independant projects.
@@ -1167,20 +1170,20 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.29   1.0   LOGO                          Research          Code            Local commands implementation.
 2017.09.29   3.0   LOGO                          Development       Code            Local commands implementation.
 2017.09.29   1.0   LOGO                          Design            Abstract        Basic setup and speech.
-2017.09.29   0.5   Perfectus Empatheia           Writing           Visual          Documentation and communication.
-2017.09.29   2.5   Perfectus Empatheia           Graphic           Visual          Logo and visual support for instructions.
+2017.09.29   0.5   Perfect Empathy               Writing           Visual          Documentation and communication.
+2017.09.29   2.5   Perfect Empathy               Graphic           Visual          Logo and visual support for instructions.
 2017.09.28   1.5   Purity                        Development       Code            Add executable PHP parsing.
-2017.09.28   3.0   Perfectus Empatheia           Design            Abstract        Journal entry, card quantity change and testing, rule examples refinement.
-2017.09.28   1.0   Perfectus Empatheia           Design            Visual          Iconography.
-2017.09.28   3.5   Perfectus Empatheia           Graphic           Visual          Iconography.
+2017.09.28   3.0   Perfect Empathy               Design            Abstract        Journal entry, card quantity change and testing, rule examples refinement.
+2017.09.28   1.0   Perfect Empathy               Design            Visual          Iconography.
+2017.09.28   3.5   Perfect Empathy               Graphic           Visual          Iconography.
 2017.09.27   0.5   Rig                           Maintenance       Personal        Update backup.
 2017.09.27   1.0   Study                         Research          Abstract        Manifold Garden testing.
-2017.09.27   1.0   Perfectus Empatheia           Design            Abstract        Task delegation, time organization, planning.
+2017.09.27   1.0   Perfect Empathy               Design            Abstract        Task delegation, time organization, planning.
 2017.09.27   3.5   Eyebat                        Modeling          Visual          Eyebat modeling.
 2017.09.27   1.0   Study                         Research          Abstract        Net art review.
 2017.09.26   1.5   Jam                           Research          Audio           Acoustic awareness.
 2017.09.26   2.0   TA253                         Research          Code            Code helping.
-2017.09.26   3.5   Perfectus Empatheia           Design            Abstract        Game testing.
+2017.09.26   3.5   Perfect Empathy               Design            Abstract        Game testing.
 2017.09.25   1.0   Study                         Research          Personal        Online dating.
 2017.09.25   4.0   DotCycle                      Design            Abstract        Level design, release build, testing, documentation.
 2017.09.25   0.5   V-OS                          Design            Abstract        Review and section reorganization.
@@ -1196,10 +1199,10 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.22   0.5   Study                         Research          Abstract        Game design study.
 2017.09.22   1.0   Tinker                        Development       Code            MaxMSP.
 2017.09.22   0.5   Doodle                        Graphic           Visual          FLOP cover photo.
-2017.09.22   2.0   Perfectus Empatheia           Graphic           Visual          Visual instructions.
+2017.09.22   2.0   Perfect Empathy               Graphic           Visual          Visual instructions.
 2017.09.21   2.0   DotCycle                      Design            Abstract        Level design.
 2017.09.21   3.0   Eyebat                        Modeling          Visual          Eyebat modelling.
-2017.09.21   1.0   Perfectus Empatheia           Writing           Abstract        Design journal.
+2017.09.21   1.0   Perfect Empathy               Writing           Abstract        Design journal.
 2017.09.20   1.5   Study                         Research          Abstract        Ryan Whittier Hale art.
 2017.09.20   0.5   Tinker                        Research          Code            Microprocessors.
 2017.09.20   4.0   Eyebat                        Modeling          Visual          Shoe and eyebat modeling.
@@ -1207,25 +1210,25 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.20   0.5   Doodle                        Graphic           Visual          Truli rework and selection update.
 2017.09.19   2.0   Jam                           Research          Audio           MaxMSP, analog synths, acoustics.
 2017.09.19   2.0   TA253                         Research          Code            Git and coding help.
-2017.09.19   3.0   Perfectus Empatheia           Design            Abstract        Game testing.
+2017.09.19   3.0   Perfect Empathy               Design            Abstract        Game testing.
 2017.09.18   1.0   DotCycle                      Design            Abstract        Level design.
 2017.09.18   1.0   Study                         Research          Abstract        Kingdom: New Lands gameplay analysis.
-2017.09.18   1.0   Perfectus Empatheia           Design            Abstract        Testing, documentation.
+2017.09.18   1.0   Perfect Empathy               Design            Abstract        Testing, documentation.
 2017.09.17   0.5   DotCycle                      Design            Abstract        Level design.
 2017.09.17   1.0   DotCycle                      Writing           Abstract        Story writing.
-2017.09.17   3.5   Perfectus Empatheia           Design            Abstract        Deck composition, deck creation, testing.
-2017.09.17   0.5   Perfectus Empatheia           Graphic           Visual          Iconography design and production.
-2017.09.16   1.5   Perfectus Empatheia           Writing           Abstract        Rule writing.
-2017.09.16   2.0   Perfectus Empatheia           Design            Abstract        Game design.
+2017.09.17   3.5   Perfect Empathy               Design            Abstract        Deck composition, deck creation, testing.
+2017.09.17   0.5   Perfect Empathy               Graphic           Visual          Iconography design and production.
+2017.09.16   1.5   Perfect Empathy               Writing           Abstract        Rule writing.
+2017.09.16   2.0   Perfect Empathy               Design            Abstract        Game design.
 2017.09.16   0.5   DotCycle                      Design            Abstract        Level design.
 2017.09.16   8.0   DotCycle                      Development       Code            Shading, camera, movement, and event system, rendering, build.
-2017.09.15   1.0   Perfectus Empatheia           Graphic           Visual          Iconography design and production.
-2017.09.15   5.0   Perfectus Empatheia           Design            Abstract        Game design.
+2017.09.15   1.0   Perfect Empathy               Graphic           Visual          Iconography design and production.
+2017.09.15   5.0   Perfect Empathy               Design            Abstract        Game design.
 2017.09.15   0.5   Doodle                        3D                Visual          Shark lighting, texturing, rendering.
 2017.09.15   2.5   Doodle                        Modeling          Visual          Shark modeling.
 2017.09.14   1.0   DotCycle                      Development       Code            Shader code.
 2017.09.14   2.0   DotCycle                      Research          Code            Shader code.
-2017.09.14   2.0   Perfectus Empatheia           Design            Abstract        Game design.
+2017.09.14   2.0   Perfect Empathy               Design            Abstract        Game design.
 2017.09.14   1.0   Tinker                        Research          Abstract        Math types, information architecture on the web.
 2017.09.13   0.5   DotCycle                      Research          Code            Shader code.
 2017.09.13   0.5   Study                         Research          Abstract        Postmodernist philosophy.
@@ -1238,7 +1241,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.09.11   3.0   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
 2017.09.11   1.5   Dentatsuna                    Modeling          Visual          Environment modeling.
 2017.09.11   0.5   Jam                           Research          Audio           Adaptability of creativity in audio.
-2017.09.11   1.5   Perfectus Empatheia           Research          Abstract        Game design reading, dominos study, journal writing.
+2017.09.11   1.5   Perfect Empathy               Research          Abstract        Game design reading, dominos study, journal writing.
 2017.09.10   5.5   Dentatsuna                    3D                Visual          Texturing, lighting, rendering.
 2017.09.10   3.5   Dentatsuna                    Modeling          Visual          Environment modeling.
 2017.09.09   0.5   Seven                         Development       Code            Easing, web release.
