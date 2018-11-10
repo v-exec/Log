@@ -38,6 +38,51 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2018.11.10   6.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.10   2.5   Japan                         Linguistics       Abstract        Japanese.
+2018.11.09   4.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.09   2.5   Jam                           Acoustic          Audio           Vocals.
+2018.11.08   2.0   Jam                           Composition       Audio           Composition.
+2018.11.08   5.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.08   1.0   Japan                         Linguistics       Abstract        Japanese.
+2018.11.07   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.11.07   0.5   Jam                           Acoustic          Audio           Guitar and theory.
+2018.11.07   1.5   Perfectus Empatheia           Development       Code            Web port.
+2018.11.06   2.0   Perfectus Empatheia           Development       Code            Web port.
+2018.11.06   1.0   Japan                         Writing           Abstract        Blog writing.
+2018.11.06   3.0   Jam                           Acoustic          Audio           Guitar and theory.
+2018.11.06   2.5   Japan                         Linguistics       Abstract        Japanese.
+2018.11.05   3.5   Japan                         Linguistics       Abstract        Japanese.
+2018.11.05   1.0   Jam                           Performance       Audio           Dance.
+2018.11.05   2.5   Jam                           Acoustic          Audio           Guitar and theory.
+2018.10.29   2.5   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.11.04   0.5   Jam                           Performance       Audio           Dance.
+2018.11.04   1.5   Japan                         Linguistics       Abstract        Japanese.
+2018.11.03   0.5   Jam                           Performance       Audio           Dance.
+2018.11.03   3.0   Jam                           Research          Audio           Guitar and theory.
+2018.11.03   1.0   Japan                         Linguistics       Abstract        Japanese.
+2018.11.02   0.5   Jam                           Performance       Audio           Dance.
+2018.11.02   1.0   Study                         Research          Abstract        Shintoism and Japanese religious culture.
+2018.11.02   2.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.11.01   0.5   Jam                           Performance       Audio           Dance.
+2018.11.01   1.5   Study                         Research          Abstract        Recreational activities, Japanese arcades.
+2018.11.01   3.0   Jam                           Acoustic          Audio           Vocals.
+2018.11.01   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
+2018.10.31   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.10.31   0.5   Log                           Writing           Abstract        Theoretical documentation.
+2018.10.30   0.5   Purity                        Development       Code            PHP update fix.
+2018.10.30   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.30   1.0   Jam                           Acoustic          Audio           Guitar.
+2018.10.30   1.0   Study                         Research          Audio           Music theory.
+2018.10.29   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.29   1.0   Japan                         Linguistics       Abstract        Japanese writing.
+2018.10.28   0.5   Machine Girl                  Acoustic          Audio           Guitar.
+2018.10.28   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.27   2.0   Nihon                         Photography       Visual          Picture taking.
+2018.10.27   2.5   Japan                         Linguistics       Abstract        Japanese.
+2018.10.26   0.5   Machine Girl                  Acoustic          Audio           Vocals.
+2018.10.26   2.5   Study                         Research          Personal        Relationships.
+2018.10.26   1.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.25   1.0   Log                           Development       Code            Visual tweaks.
 2018.10.25   0.5   Study                         Research          Code            Server hosting services.
 2018.10.25   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
