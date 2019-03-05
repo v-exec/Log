@@ -4,7 +4,7 @@ Abstract                   Design, and the Intangible
 Code                       Systems, Coding, and Tech
 Visual                     Graphics, Video, and Images
 Audio                      Music and Audio
-Personal                   Personal Matters and Mindless Tasks
+Personal                   Personal Matters and Physical Activities
 None                       Nothing
 
 TASKS                      Task types (actions)
@@ -38,6 +38,82 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2019.03.05   1.0   Tinker                        Development       Code            Flowfields experimentation.
+2019.03.04   1.5   Study                         Research          Abstract        Theme park design.
+2019.03.03   4.0   Tinker                        Development       Code            Flowfields experimentation.
+2019.03.02   1.0   Study                         Research          Code            Poker.
+2019.03.01   1.5   Jam                           Acoustic          Audio           Rhythm games.
+2019.02.28   2.0   Jam                           Composition       Audio           Composition.
+2019.02.27   1.5   Jam                           Acoustic          Audio           Rhythm games.
+2019.02.26   3.0   Study                         Research          Abstract        Tokyo new media exhibit.
+2019.02.25   1.5   Jam                           Acoustic          Audio           Rhythm games.
+2019.02.24   1.0   Study                         Research          Abstract        Theme park design.
+2019.02.23   1.5   Jam                           Acoustic          Audio           Rhythm games.
+2019.02.22   2.0   Jam                           Acoustic          Audio           Rhythm games.
+2019.02.21   1.5   Jam                           Acoustic          Audio           Rhythm games.
+2019.02.20   3.0   Jam                           Research          Audio           Rhythm games.
+2019.02.19   1.5   Jam                           Research          Audio           Rhythm games.
+2019.02.18   1.5   Jam                           Acoustic          Audio           Guitar.
+2019.02.17   1.5   Perfect Empathy               Development       Code            Styling fixes.
+2019.02.17   2.0   Study                         Research          Abstract        Anatomy.
+2019.02.16   0.5   Perfect Empathy               Development       Code            Styling fixes.
+2019.02.15   0.5   Perfect Empathy               Development       Code            Styling fixes.
+2019.02.15   2.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
+2019.02.14   2.0   Sports                        Research          Personal        Skiing.
+2019.02.13   5.0   Sports                        Research          Personal        Skiing.
+2019.02.12   1.0   Sports                        Research          Personal        Skiing.
+2019.02.11   0.5   Study                         Research          Abstract        Progression design.
+2019.02.10   0.5   Study                         Research          Abstract        Progression design.
+2019.02.09   0.5   Study                         Research          Abstract        Progression design.
+2019.02.08   0.5   Study                         Research          Abstract        Level design.
+2019.02.07   0.5   Study                         Research          Abstract        Level design.
+2019.02.06   0.5   Study                         Research          Abstract        Level design.
+2019.02.05   0.5   Study                         Research          Abstract        Level design.
+2019.02.04   0.5   Study                         Research          Abstract        Level design.
+2019.02.03   0.5   Study                         Research          Abstract        Level design.
+2019.02.04   0.5   Perfect Empathy               Development       Code            Web platform.
+2019.02.03   1.0   V-OS                          Writing           Abstract        Project documentation.
+2019.02.03   1.5   Perfect Empathy               Development       Code            Web platform.
+2019.02.02   1.5   Perfect Empathy               Development       Code            Web platform.
+2019.02.01   2.0   Perfect Empathy               Development       Code            Web platform.
+2019.02.01   1.5   Machine Girl                  Performance       Audio           Performance.
+2019.01.31   2.5   Perfect Empathy               Development       Code            Web platform.
+2019.01.31   1.0   Machine Girl                  Acoustic          Audio           Practice.
+2019.01.31   0.5   Study                         Research          Abstract        Design business strategy.
+2019.01.30   2.0   Machine Girl                  Acoustic          Audio           Rehearsal.
+2019.01.29   2.5   Perfect Empathy               Development       Code            Web platform.
+2019.01.28   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2019.01.27   7.5   Where is NeoTokyo?            Writing           Abstract        Cyberpunk aesthetics' relation to Tokyo.
+2019.01.26   1.0   Where is NeoTokyo?            Writing           Abstract        Cyberpunk aesthetics' relation to Tokyo.
+2019.01.25   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.01.24   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.01.23   0.5   Study                         Research          Abstract        Design business strategy.
+2019.01.23   0.5   Machine Girl                  Acoustic          Audio           Practice.
+2019.01.23   3.0   Study                         Research          Abstract        Urban studies and theory.
+2019.01.22   2.0   Study                         Writing           Abstract        Social play design.
+2019.01.22   1.0   Study                         Research          Abstract        Design business strategy.
+2019.01.22   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.01.21   3.0   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
+2019.01.21   1.0   Study                         Writing           Abstract        Social play design.
+2019.01.20   2.0   Study                         Writing           Abstract        Social play design.
+2019.01.20   2.0   Machine Girl                  Acoustic          Audio           Rehearsal.
+2019.01.19   1.0   Study                         Research          Abstract        Design business strategy.
+2019.01.19   0.5   Doodle                        Videography       Visual          Small editing.
+2019.01.19   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.01.19   1.0   Machine Girl                  Acoustic          Audio           Practice.
+2019.01.19   6.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
+2019.01.19   0.5   Doodle                        Videography       Visual          Small video.
+2019.01.18   0.5   ScanDirectory                 Graphic           Visual          Photo editing.
+2019.01.18   2.0   Japan                         Linguistics       Abstract        Japanese.
+2019.01.17   0.5   Japan                         Linguistics       Abstract        Japanese.
+2019.01.17   4.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
+2019.01.16   3.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
+2019.01.16   2.5   Study                         Research          Abstract        Urban studies and theory.
+2019.01.15   1.0   V-OS                          Writing           Abstract        Portfolio update.
+2019.01.15   2.0   Study                         Research          Abstract        Remote work, design budgeting, and marketing.
+2019.01.15   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.01.14   0.5   Study                         Research          Abstract        Design budgeting and marketing.
+2019.01.14   2.5   Japan                         Linguistics       Abstract        Linguistics.
 2019.01.13   1.5   Machine Girl                  Acoustic          Audio           Rehearsal.
 2019.01.12   1.0   Qurotema                      Development       Code            Updates.
 2019.01.12   1.5   Japan                         Linguistics       Abstract        Linguistics.
@@ -401,7 +477,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.08.04   6.0   Drone                         Development       Code            Simulation programming.
 2018.08.04   3.5   Drone                         Research          Code            Anatomy of a drone, production planning.
 2018.08.04   1.5   Drone                         Research          Abstract        Drone piloting.
-2018.08.04   0.5   Drone                         3D                Visual          Modeling.
+2018.08.04   0.5   Drone                         Modeling          Visual          Modeling.
 2018.08.03   1.5   Drone                         Design            Visual          Graphics settings.
 2018.08.03   3.0   Drone                         3D                Visual          Modeling, UV, rendering, texturing.
 2018.08.03   2.0   Drone                         Research          Abstract        Drone piloting.
@@ -1635,7 +1711,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2017.06.23   1.5   Namium                        Design            Abstract        Name generation and dictionary expansion.
 2017.06.23   1.0   Boza                          Design            Visual          Logo design.
 2017.06.23   0.5   V-OS                          Writing           Abstract        Renaming.
-2017.06.23   2.5   Study                         Research          Abstract        Skateboarding.
+2017.06.23   2.5   Sports                        Research          Personal        Skateboarding.
 2017.06.22   1.5   Log                           Design            Visual          Divisions measures in spec pages, percentage calculate fix and cleaning.
 2017.06.22   0.5   Log                           Design            Abstract        Code division addition.
 2017.06.22   0.5   Jam                           Research          Visual          Realistic materials shading.
