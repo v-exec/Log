@@ -38,6 +38,7 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2019.03.05   1.0   Jam                           Acoustic          Audio           Rhythm games.
 2019.03.05   1.0   Tinker                        Development       Code            Flowfields experimentation.
 2019.03.04   1.5   Study                         Research          Abstract        Theme park design.
 2019.03.03   4.0   Tinker                        Development       Code            Flowfields experimentation.
@@ -70,8 +71,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.02.06   0.5   Study                         Research          Abstract        Level design.
 2019.02.05   0.5   Study                         Research          Abstract        Level design.
 2019.02.04   0.5   Study                         Research          Abstract        Level design.
-2019.02.03   0.5   Study                         Research          Abstract        Level design.
 2019.02.04   0.5   Perfect Empathy               Development       Code            Web platform.
+2019.02.03   0.5   Study                         Research          Abstract        Level design.
 2019.02.03   1.0   V-OS                          Writing           Abstract        Project documentation.
 2019.02.03   1.5   Perfect Empathy               Development       Code            Web platform.
 2019.02.02   1.5   Perfect Empathy               Development       Code            Web platform.
@@ -167,7 +168,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.12.18   1.0   Nihon                         Photography       Visual          Picture taking.
 2018.12.18   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.12.17   1.0   Study                         Research          Abstract        Asymetric game design.
-2018.12.26   1.0   Study                         Research          Abstract        Psychology.
+2018.12.16   1.0   Study                         Research          Abstract        Psychology.
 2018.12.16   2.0   Jam                           Composition       Audio           Composition.
 2018.12.16   1.0   Jam                           Acoustic          Audio           Guitar.
 2018.12.15   3.0   Jam                           Acoustic          Audio           Guitar.
