@@ -88,7 +88,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.03.19   4.0   Sports                        Research          Personal        Skiing.
 2019.03.18   4.0   Sports                        Research          Personal        Skiing.
 2019.03.17   1.5   Forms                         Photography       Visual          Organization and uploading.
-2019.03.16   0.5   Perfect Study                 Development       Code            Small visual edits.
+2019.03.16   0.5   Perfect Empathy               Development       Code            Small visual edits.
 2019.03.16   1.0   Forms                         Photography       Visual          Organization and uploading.
 2019.03.16   1.0   Study                         Research          Abstract        Creativity teaching.
 2019.03.15   1.0   Forms                         Design            Visual          Cutscene design.
