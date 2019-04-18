@@ -38,22 +38,88 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2019.04.18   0.5   Jam                           Composition       Audio           Composition.
+2019.04.18   0.5   Dream Archive                 Writing           Abstract        Collection.
+2019.04.17   1.0   Architects of Souls           Graphic           Visual          Cover art.
+2019.04.17   1.0   Architects of Souls           3D                Visual          Generation for cover art.
+2019.04.17   2.0   Tinker                        Research          Code            Cycling technology and techniques.
+2019.04.17   2.0   Study                         Linguistics       Abstract        Syntax.
+2019.04.17   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.04.16   1.5   Tinker                        Research          Code            Cycling technology and techniques.
+2019.04.15   2.5   Japan                         Linguistics       Abstract        Kanji.
+2019.04.14   2.0   Study                         Design            Abstract        Cooperative gameplay design.
+2019.04.13   0.5   Sports                        Research          Personal        Badminton.
+2019.04.12   2.0   Architects of Souls           Composition       Audio           Composition.
+2019.04.12   0.5   FeatherFall                   Modeling          Visual          3D printing preparation.
+2019.04.11   1.5   Architects of Souls           Composition       Audio           Composition.
+2019.04.10   1.0   Study                         Design            Abstract        Difficulty design.
+2019.04.10   1.0   FeatherFall                   Modeling          Visual          Modeling.
+2019.04.09   0.5   FeatherFall                   Modeling          Visual          Modeling.
+2019.04.08   1.0   Forms                         Photography       Visual          Picture editing.
+2019.04.07   1.0   FeatherFall                   Modeling          Visual          Modeling.
+2019.04.07   1.5   Forms                         Photography       Visual          Picture editing.
+2019.04.06   3.5   Forms                         Photography       Visual          Picture taking and editing.
+2019.04.06   1.0   FeatherFall                   Modeling          Visual          Modeling.
+2019.04.05   2.0   FeatherFall                   Modeling          Visual          Modeling.
+2019.04.05   2.0   Various                       Linguistics       Abstract        English teaching.
+2019.04.04   3.0   Jam                           Acoustic          Audio           Vocals.
+2019.04.04   2.0   Various                       Linguistics       Abstract        English teaching.
+2019.04.03   2.0   Various                       Linguistics       Abstract        English teaching.
+2019.04.02   1.0   Jam                           Composition       Audio           Composition.
+2019.04.02   2.0   Various                       Linguistics       Abstract        English teaching.
+2019.04.01   2.0   Study                         Design            Abstract        Level and combat design.
+2019.04.01   2.0   Various                       Linguistics       Abstract        English teaching.
+2019.03.31   2.0   Study                         Design            Abstract        Level and combat design.
+2019.03.30   2.0   Dunes of Similia              Modeling          Visual          Generation.
+2019.03.29   2.5   Dunes of Similia              Modeling          Visual          Generation.
+2019.03.29   2.5   Tinker                        Research          Code            Cycling technology and techniques.
+2019.03.28   3.0   Tinker                        Design            Abstract        Minecraft hide and seek game design.
+2019.03.27   1.0   Study                         Design            Abstract        Combat systems.
+2019.03.26   2.0   Jam                           Research          Audio           Music art show, live music programming.
+2019.03.25   1.5   Jam                           Research          Audio           Music teaching.
+2019.03.24   0.5   Tinker                        Design            Abstract        Minecraft hide and seek game design.
+2019.03.23   0.5   Tinker                        Design            Abstract        Minecraft hide and seek game design.
+2019.03.22   3.0   Tinker                        Design            Abstract        Minecraft hide and seek game design.
+2019.03.21   1.0   Dunes of Similia              Modeling          Visual          Generation.
+2019.03.20   2.5   ScanDirectory                 3D                Visual          Rendering.
+2019.03.20   0.5   Rig                           Maintenance       Personal        Clean up and backup.
+2019.03.20   1.0   Study                         Design            Abstract        Urban design.
+2019.03.20   1.0   Jam                           Composition       Audio           Composition.
+2019.03.19   4.0   Sports                        Research          Personal        Skiing.
+2019.03.18   4.0   Sports                        Research          Personal        Skiing.
+2019.03.17   1.5   Forms                         Photography       Visual          Organization and uploading.
+2019.03.16   0.5   Perfect Study                 Development       Code            Small visual edits.
+2019.03.16   1.0   Forms                         Photography       Visual          Organization and uploading.
+2019.03.16   1.0   Study                         Research          Abstract        Creativity teaching.
+2019.03.15   1.0   Forms                         Design            Visual          Cutscene design.
+2019.03.14   1.0   Qurotema                      Design            Abstract        Project proposal.
+2019.03.13   2.0   Study                         Research          Abstract        Made in Abyss and Mob Psycho 100 narrative study.
+2019.03.12   2.0   Rig                           Maintenance       Personal        Clean up and backup.
+2019.03.12   2.0   Study                         Research          Personal        University sequence.
+2019.03.11   1.0   Study                         Research          Personal        Psychology.
+2019.03.10   2.0   Study                         Research          Personal        Psychology.
+2019.03.09   3.0   Sports                        Research          Personal        Skiing.
+2019.03.08   4.0   Sports                        Research          Personal        Skiing.
+2019.03.07   1.5   Jam                           Acoustic          Audio           Rhythm games.
+2019.03.06   1.0   Study                         Design            Abstract        Battle royale design.
+2019.03.06   1.0   Jam                           Acoustic          Audio           Rhythm games.
+2019.03.06   1.0   Qurotema                      Design            Abstract        Project proposal.
 2019.03.05   1.0   Jam                           Acoustic          Audio           Rhythm games.
 2019.03.05   1.0   Tinker                        Development       Code            Flowfields experimentation.
-2019.03.04   1.5   Study                         Research          Abstract        Theme park design.
+2019.03.04   1.5   Study                         Design            Abstract        Theme park design.
 2019.03.03   4.0   Tinker                        Development       Code            Flowfields experimentation.
-2019.03.02   1.0   Study                         Research          Code            Poker.
+2019.03.02   1.0   Study                         Design            Code            Poker.
 2019.03.01   1.5   Jam                           Acoustic          Audio           Rhythm games.
 2019.02.28   2.0   Jam                           Composition       Audio           Composition.
 2019.02.27   1.5   Jam                           Acoustic          Audio           Rhythm games.
 2019.02.26   3.0   Study                         Research          Abstract        Tokyo new media exhibit.
 2019.02.25   1.5   Jam                           Acoustic          Audio           Rhythm games.
-2019.02.24   1.0   Study                         Research          Abstract        Theme park design.
+2019.02.24   1.0   Study                         Design            Abstract        Theme park design.
 2019.02.23   1.5   Jam                           Acoustic          Audio           Rhythm games.
 2019.02.22   2.0   Jam                           Acoustic          Audio           Rhythm games.
 2019.02.21   1.5   Jam                           Acoustic          Audio           Rhythm games.
-2019.02.20   3.0   Jam                           Research          Audio           Rhythm games.
-2019.02.19   1.5   Jam                           Research          Audio           Rhythm games.
+2019.02.20   3.0   Jam                           Design            Audio           Rhythm games.
+2019.02.19   1.5   Jam                           Design            Audio           Rhythm games.
 2019.02.18   1.5   Jam                           Acoustic          Audio           Guitar.
 2019.02.17   1.5   Perfect Empathy               Development       Code            Styling fixes.
 2019.02.17   2.0   Study                         Research          Abstract        Anatomy.
@@ -63,16 +129,16 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.02.14   2.0   Sports                        Research          Personal        Skiing.
 2019.02.13   5.0   Sports                        Research          Personal        Skiing.
 2019.02.12   1.0   Sports                        Research          Personal        Skiing.
-2019.02.11   0.5   Study                         Research          Abstract        Progression design.
-2019.02.10   0.5   Study                         Research          Abstract        Progression design.
-2019.02.09   0.5   Study                         Research          Abstract        Progression design.
-2019.02.08   0.5   Study                         Research          Abstract        Level design.
-2019.02.07   0.5   Study                         Research          Abstract        Level design.
-2019.02.06   0.5   Study                         Research          Abstract        Level design.
-2019.02.05   0.5   Study                         Research          Abstract        Level design.
-2019.02.04   0.5   Study                         Research          Abstract        Level design.
+2019.02.11   0.5   Study                         Design            Abstract        Progression design.
+2019.02.10   0.5   Study                         Design            Abstract        Progression design.
+2019.02.09   0.5   Study                         Design            Abstract        Progression design.
+2019.02.08   0.5   Study                         Design            Abstract        Level design.
+2019.02.07   0.5   Study                         Design            Abstract        Level design.
+2019.02.06   0.5   Study                         Design            Abstract        Level design.
+2019.02.05   0.5   Study                         Design            Abstract        Level design.
+2019.02.04   0.5   Study                         Design            Abstract        Level design.
 2019.02.04   0.5   Perfect Empathy               Development       Code            Web platform.
-2019.02.03   0.5   Study                         Research          Abstract        Level design.
+2019.02.03   0.5   Study                         Design            Abstract        Level design.
 2019.02.03   1.0   V-OS                          Writing           Abstract        Project documentation.
 2019.02.03   1.5   Perfect Empathy               Development       Code            Web platform.
 2019.02.02   1.5   Perfect Empathy               Development       Code            Web platform.
@@ -80,25 +146,25 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.02.01   1.5   Machine Girl                  Performance       Audio           Performance.
 2019.01.31   2.5   Perfect Empathy               Development       Code            Web platform.
 2019.01.31   1.0   Machine Girl                  Acoustic          Audio           Practice.
-2019.01.31   0.5   Study                         Research          Abstract        Design business strategy.
+2019.01.31   0.5   Study                         Design            Abstract        Design business strategy.
 2019.01.30   2.0   Machine Girl                  Acoustic          Audio           Rehearsal.
 2019.01.29   2.5   Perfect Empathy               Development       Code            Web platform.
-2019.01.28   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2019.01.28   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2019.01.27   7.5   Where is NeoTokyo?            Writing           Abstract        Cyberpunk aesthetics' relation to Tokyo.
 2019.01.26   1.0   Where is NeoTokyo?            Writing           Abstract        Cyberpunk aesthetics' relation to Tokyo.
 2019.01.25   1.5   Japan                         Linguistics       Abstract        Japanese.
 2019.01.24   3.0   Japan                         Linguistics       Abstract        Japanese.
-2019.01.23   0.5   Study                         Research          Abstract        Design business strategy.
+2019.01.23   0.5   Study                         Design            Abstract        Design business strategy.
 2019.01.23   0.5   Machine Girl                  Acoustic          Audio           Practice.
-2019.01.23   3.0   Study                         Research          Abstract        Urban studies and theory.
+2019.01.23   3.0   Study                         Design            Abstract        Urban studies and theory.
 2019.01.22   2.0   Study                         Writing           Abstract        Social play design.
-2019.01.22   1.0   Study                         Research          Abstract        Design business strategy.
+2019.01.22   1.0   Study                         Design            Abstract        Design business strategy.
 2019.01.22   3.0   Japan                         Linguistics       Abstract        Japanese.
 2019.01.21   3.0   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
 2019.01.21   1.0   Study                         Writing           Abstract        Social play design.
 2019.01.20   2.0   Study                         Writing           Abstract        Social play design.
 2019.01.20   2.0   Machine Girl                  Acoustic          Audio           Rehearsal.
-2019.01.19   1.0   Study                         Research          Abstract        Design business strategy.
+2019.01.19   1.0   Study                         Design            Abstract        Design business strategy.
 2019.01.19   0.5   Doodle                        Videography       Visual          Small editing.
 2019.01.19   1.5   Japan                         Linguistics       Abstract        Japanese.
 2019.01.19   1.0   Machine Girl                  Acoustic          Audio           Practice.
@@ -109,7 +175,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.01.17   0.5   Japan                         Linguistics       Abstract        Japanese.
 2019.01.17   4.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
 2019.01.16   3.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
-2019.01.16   2.5   Study                         Research          Abstract        Urban studies and theory.
+2019.01.16   2.5   Study                         Design            Abstract        Urban studies and theory.
 2019.01.15   1.0   V-OS                          Writing           Abstract        Portfolio update.
 2019.01.15   2.0   Study                         Research          Abstract        Remote work, design budgeting, and marketing.
 2019.01.15   3.0   Japan                         Linguistics       Abstract        Japanese.
@@ -124,11 +190,11 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.01.10   0.5   Qurotema                      Development       Code            Updates.
 2019.01.10   1.0   Japan                         Linguistics       Abstract        Linguistics.
 2019.01.09   0.5   Doodle                        Illustration      Visual          Illustration practice.
-2019.01.09   2.5   Study                         Research          Abstract        City design.
+2019.01.09   2.5   Study                         Design            Abstract        City design.
 2019.01.09   1.0   Tinker                        Research          Code            VPNs.
 2019.01.08   3.0   Japan                         Linguistics       Abstract        Japanese.
 2019.01.07   1.0   Doodle                        Illustration      Visual          Illustration practice.
-2019.01.07   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2019.01.07   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2019.01.06   0.5   Jam                           Composition       Audio           Wip song reviews.
 2019.01.05   1.0   Tinker                        Development       Code            Gallery of Babel.
 2019.01.05   1.5   V-OS                          Writing           Abstract        Lifeset update.
@@ -145,17 +211,17 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.01.01   1.0   Jam                           Acoustic          Audio           Guitar.
 2019.01.01   3.5   Doodle                        Modeling          Visual          Fusion 360 learning.
 2018.12.31   0.5   Study                         Research          Abstract        Herbal medicine.
-2018.12.30   1.0   Nihon                         Photography       Visual          Picture editing.
-2018.12.29   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.12.30   1.0   Forms                         Photography       Visual          Picture editing.
+2018.12.29   2.0   Forms                         Photography       Visual          Picture editing.
 2018.12.29   2.0   Jam                           Composition       Audio           Composition.
 2018.12.29   1.0   Jam                           Acoustic          Audio           Guitar.
 2018.12.29   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.12.29   0.5   Rig                           Research          Code            Troubleshooting.
 2018.12.28   0.5   Rig                           Research          Code            Troubleshooting.
-2018.12.28   0.5   Study                         Research          Abstract        Miscellaneous game design.
-2018.12.27   0.5   Nihon                         Photography       Visual          Picture editing.
-2018.12.26   1.0   Nihon                         Photography       Visual          Picture taking.
-2018.12.25   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.12.28   0.5   Study                         Design            Abstract        Miscellaneous game design.
+2018.12.27   0.5   Forms                         Photography       Visual          Picture editing.
+2018.12.26   1.0   Forms                         Photography       Visual          Picture taking.
+2018.12.25   1.0   Forms                         Photography       Visual          Picture taking.
 2018.12.24   2.0   Study                         Research          Personal        Relationships.
 2018.12.23   1.5   Jam                           Acoustic          Audio           Guitar.
 2018.12.22   5.0   Jam                           Acoustic          Audio           Vocals and guitar.
@@ -165,9 +231,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.12.20   0.5   Study                         Research          Audio           Funk genre.
 2018.12.19   3.0   Study                         Research          Audio           Opera.
 2018.12.18   1.0   Study                         Research          Abstract        Theme park attractions.
-2018.12.18   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.12.18   1.0   Forms                         Photography       Visual          Picture taking.
 2018.12.18   3.0   Japan                         Linguistics       Abstract        Japanese.
-2018.12.17   1.0   Study                         Research          Abstract        Asymetric game design.
+2018.12.17   1.0   Study                         Design            Abstract        Asymetric game design.
 2018.12.16   1.0   Study                         Research          Abstract        Psychology.
 2018.12.16   2.0   Jam                           Composition       Audio           Composition.
 2018.12.16   1.0   Jam                           Acoustic          Audio           Guitar.
@@ -178,16 +244,16 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.12.13   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.12.12   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.12.12   2.0   Jam                           Acoustic          Audio           Vocals.
-2018.12.12   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.12.12   3.0   Study                         Design            Abstract        Urban studies and theory.
 2018.12.11   0.5   Study                         Research          Audio           Band formation, management, and musicianship.
-2018.12.11   1.5   Study                         Research          Abstract        Social design.
+2018.12.11   1.5   Study                         Design            Abstract        Social design.
 2018.12.11   1.0   BlindRob Lander               Development       Code            Styling.
 2018.12.11   3.0   Jam                           Acoustic          Audio           Guitar.
 2018.12.11   3.5   Japan                         Linguistics       Abstract        Japanese.
-2018.12.10   3.5   Nihon                         Photography       Visual          Picture editing.
-2018.12.10   7.0   Study                         Research          Abstract        Tokyo architecture, city design, behavioral biology, and social design.
+2018.12.10   3.5   Forms                         Photography       Visual          Picture editing.
+2018.12.10   7.0   Study                         Design            Abstract        Tokyo architecture, city design, behavioral biology, and social design.
 2018.12.09   3.0   Machine Girl                  Performance       Audio           Practice and performance.
-2018.12.08   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.12.08   2.0   Forms                         Photography       Visual          Picture editing.
 2018.12.08   1.5   Japan                         Linguistics       Abstract        Japanese.
 2018.12.08   2.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
 2018.12.07   1.0   Japan                         Linguistics       Abstract        Japanese.
@@ -199,44 +265,44 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.12.03   0.5   Jam                           Acoustic          Audio           Guitar.
 2018.12.03   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.12.03   3.5   Study                         Research          Abstract        Tokyo architecture, city design, and freelance work.
-2018.12.02   1.0   Study                         Research          Abstract        Geotracking app design.
+2018.12.02   1.0   Study                         Design            Abstract        Geotracking app design.
 2018.12.02   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.12.01   2.0   Study                         Research          Abstract        Freelance work.
-2018.12.01   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.12.01   1.0   Forms                         Photography       Visual          Picture editing.
 2018.12.01   1.0   Jam                           Acoustic          Audio           Guitar.
 2018.11.30   1.5   Jam                           Acoustic          Audio           Guitar.
-2018.11.29   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.11.29   1.5   Forms                         Photography       Visual          Picture editing.
 2018.11.29   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
 2018.11.29   3.0   Japan                         Linguistics       Abstract        Japanese.
-2018.11.28   2.5   Nihon                         Photography       Visual          Picture taking and editing.
+2018.11.28   2.5   Forms                         Photography       Visual          Picture taking and editing.
 2018.11.28   3.0   Jam                           Acoustic          Audio           Guitar.
 2018.11.28   0.5   Tinker                        Research          Code            Bone conduction technology.
 2018.11.28   1.0   Jam                           Composition       Audio           Composition.
-2018.11.27   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.11.27   1.0   Forms                         Photography       Visual          Picture editing.
 2018.11.27   1.5   Jam                           Composition       Audio           Composition.
 2018.11.27   3.0   Jam                           Acoustic          Audio           Guitar.
 2018.11.26   2.5   Jam                           Acoustic          Audio           Guitar.
 2018.11.25   0.5   Jam                           Composition       Audio           Composition.
 2018.11.25   3.0   Jam                           Acoustic          Audio           Guitar and theory.
-2018.11.25   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.11.25   1.5   Forms                         Photography       Visual          Picture editing.
 2018.11.24   1.5   Japan                         Linguistics       Abstract        Japanese.
-2018.11.23   1.5   Nihon                         Photography       Visual          Picture taking.
+2018.11.23   1.5   Forms                         Photography       Visual          Picture taking.
 2018.11.23   1.0   Jam                           Composition       Audio           Composition.
 2018.11.23   2.0   Jam                           Acoustic          Audio           Guitar and theory.
 2018.11.22   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.11.21   0.5   Jam                           Acoustic          Audio           Guitar and theory.
 2018.11.21   0.5   Japan                         Linguistics       Abstract        Japanese.
-2018.11.21   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.11.21   3.0   Study                         Design            Abstract        Urban studies and theory.
 2018.11.20   0.5   Log                           Writing           Code            Task review.
-2018.11.20   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.11.20   2.0   Forms                         Photography       Visual          Picture editing.
 2018.11.20   2.5   Jam                           Acoustic          Audio           Guitar and theory.
-2018.11.19   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.11.19   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2018.11.18   3.5   Japan                         Event             Abstract        Hakone travel, scenery.
-2018.11.18   0.5   Nihon                         Photography       Visual          Picture taking.
+2018.11.18   0.5   Forms                         Photography       Visual          Picture taking.
 2018.11.17   0.5   Study                         Research          Abstract        Relationships.
 2018.11.17   0.5   Japan                         Research          Abstract        Onsens, bath culture.
 2018.11.17   3.5   Japan                         Event             Personal        Hakone travel, scenery.
-2018.11.17   0.5   Nihon                         Photography       Visual          Picture taking.
+2018.11.17   0.5   Forms                         Photography       Visual          Picture taking.
 2018.11.16   0.5   Japan                         Research          Abstract        Buddhism.
 2018.11.16   1.5   Perfect Empathy               Graphic           Visual          Visual assets review and rework.
 2018.11.16   1.0   Perfect Empathy               Development       Code            Web port.
@@ -248,18 +314,18 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.11.15   2.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
 2018.11.15   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.11.14   3.0   Perfect Empathy               Development       Code            Web port.
-2018.11.14   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.11.14   3.0   Study                         Design            Abstract        Urban studies and theory.
 2018.11.13   2.5   Perfect Empathy               Development       Code            Web port.
 2018.11.13   4.0   Study                         Research          Abstract        Social spaces in urban environments.
 2018.11.13   0.5   Jam                           Composition       Audio           Composition.
 2018.11.13   2.5   Jam                           Acoustic          Audio           Guitar.
 2018.11.12   0.5   Jam                           Acoustic          Audio           Guitar.
 2018.11.12   0.5   Japan                         Linguistics       Abstract        Japanese.
-2018.11.12   1.0   Nihon                         Photography       Visual          Picture editing.
-2018.11.12   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.11.12   1.0   Forms                         Photography       Visual          Picture editing.
+2018.11.12   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2018.11.11   2.0   Jam                           Acoustic          Audio           Vocals.
-2018.11.11   1.0   Nihon                         Photography       Visual          Picture taking and editing.
-2018.11.11   1.0   Study                         Research          Abstract        TeamLabs digital art exhibition.
+2018.11.11   1.0   Forms                         Photography       Visual          Picture taking and editing.
+2018.11.11   1.0   Study                         Design            Abstract        TeamLabs digital art exhibition.
 2018.11.10   6.0   Perfect Empathy               Development       Code            Web port.
 2018.11.10   2.5   Japan                         Linguistics       Abstract        Japanese.
 2018.11.10   0.5   Jam                           Research          Audio           Music theory.
@@ -270,7 +336,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.11.08   0.5   Jam                           Research          Audio           Music theory.
 2018.11.08   5.0   Perfect Empathy               Development       Code            Web port.
 2018.11.08   1.0   Japan                         Linguistics       Abstract        Japanese.
-2018.11.07   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.11.07   3.0   Study                         Design            Abstract        Urban studies and theory.
 2018.11.07   0.5   Jam                           Acoustic          Audio           Guitar and theory.
 2018.11.07   1.5   Perfect Empathy               Development       Code            Web port.
 2018.11.06   2.0   Perfect Empathy               Development       Code            Web port.
@@ -280,7 +346,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.11.05   3.5   Japan                         Linguistics       Abstract        Japanese.
 2018.11.05   1.0   Jam                           Performance       Audio           Dance.
 2018.11.05   2.5   Jam                           Acoustic          Audio           Guitar and theory.
-2018.11.05   2.5   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.11.05   2.5   Study                         Design            Abstract        Tokyo architecture and city design.
 2018.11.04   0.5   Jam                           Performance       Audio           Dance.
 2018.11.04   1.5   Japan                         Linguistics       Abstract        Japanese.
 2018.11.03   0.5   Jam                           Performance       Audio           Dance.
@@ -288,22 +354,22 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.11.03   1.0   Japan                         Linguistics       Abstract        Japanese.
 2018.11.02   0.5   Jam                           Performance       Audio           Dance.
 2018.11.02   1.0   Japan                         Research          Abstract        Shintoism and Japanese religious culture.
-2018.11.02   2.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.11.02   2.0   Forms                         Photography       Visual          Picture taking and editing.
 2018.11.01   0.5   Jam                           Performance       Audio           Dance.
 2018.11.01   1.5   Japan                         Research          Abstract        Recreational activities, Japanese arcades.
 2018.11.01   3.0   Jam                           Acoustic          Audio           Vocals.
 2018.11.01   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
-2018.10.31   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.10.31   1.5   Forms                         Photography       Visual          Picture editing.
 2018.10.31   0.5   Log                           Writing           Abstract        Theoretical documentation.
 2018.10.30   0.5   Purity                        Development       Code            PHP update fix.
-2018.10.30   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.30   2.0   Forms                         Photography       Visual          Picture editing.
 2018.10.30   1.0   Jam                           Acoustic          Audio           Guitar.
 2018.10.30   1.0   Jam                           Research          Audio           Music theory.
-2018.10.29   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.29   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2018.10.29   1.0   Japan                         Linguistics       Abstract        Japanese writing.
 2018.10.28   0.5   Machine Girl                  Acoustic          Audio           Guitar.
-2018.10.28   1.0   Nihon                         Photography       Visual          Picture editing.
-2018.10.27   2.0   Nihon                         Photography       Visual          Picture taking.
+2018.10.28   1.0   Forms                         Photography       Visual          Picture editing.
+2018.10.27   2.0   Forms                         Photography       Visual          Picture taking.
 2018.10.27   2.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.26   0.5   Machine Girl                  Acoustic          Audio           Vocals.
 2018.10.26   2.5   Study                         Research          Abstract        Relationships.
@@ -313,35 +379,35 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.10.25   3.0   Machine Girl                  Acoustic          Audio           Band rehearsal and practice.
 2018.10.25   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.24   2.5   Study                         Research          Abstract        Relationships.
-2018.10.24   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.10.24   3.0   Study                         Design            Abstract        Urban studies and theory.
 2018.10.24   0.5   Doodle                        Illustration      Visual          Illustration practice.
 2018.10.24   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.23   0.5   Study                         Research          Abstract        Letter of intent revewing.
 2018.10.23   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.10.23   2.5   Study                         Research          Abstract        Relationships.
 2018.10.22   0.5   Machine Girl                  Acoustic          Audio           Guitar.
-2018.10.22   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.22   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2018.10.22   0.5   Doodle                        Illustration      Visual          Illustration practice.
-2018.10.21   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.10.21   1.0   Forms                         Photography       Visual          Picture taking.
 2018.10.20   2.0   Study                         Research          Abstract        Relationships.
 2018.10.20   2.0   Japan                         Linguistics       Abstract        Japanese.
-2018.10.20   5.5   Nihon                         Photography       Visual          Picture editing.
-2018.10.19   4.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.10.20   5.5   Forms                         Photography       Visual          Picture editing.
+2018.10.19   4.0   Forms                         Photography       Visual          Picture taking and editing.
 2018.10.19   2.0   Japan                         Linguistics       Abstract        Japanese.
 2018.10.19   2.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.18   3.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.18   0.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.17   1.5   Machine Girl                  Acoustic          Audio           Guitar.
-2018.10.17   3.0   Study                         Research          Abstract        Urban studies and theory.
+2018.10.17   3.0   Study                         Design            Abstract        Urban studies and theory.
 2018.10.17   1.0   Doodle                        Illustration      Visual          Illustration practice.
 2018.10.16   0.5   Study                         Design            Abstract        Web development help.
 2018.10.16   2.5   Machine Girl                  Acoustic          Audio           Guitar.
 2018.10.16   3.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.15   0.5   Doodle                        Illustration      Visual          Illustration practice.
-2018.10.15   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
+2018.10.15   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
 2018.10.15   1.5   Japan                         Writing           Abstract        Blog writing.
 2018.10.14   0.5   Japan                         Linguistics       Abstract        Japanese.
-2018.10.13   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.10.13   1.0   Forms                         Photography       Visual          Picture taking.
 2018.10.13   1.5   Machine Girl                  Acoustic          Audio           Vocals.
 2018.10.13   1.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.12   1.0   V-OS                          Design            Visual          Small visual updates.
@@ -352,30 +418,30 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.10.10   0.5   Architects of Souls           Composition       Audio           Composition.
 2018.10.10   3.0   Japan                         Linguistics       Abstract        Japanese.
 2018.10.09   4.5   Japan                         Linguistics       Abstract        Japanese.
-2018.10.09   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.10.09   1.5   Forms                         Photography       Visual          Picture editing.
 2018.10.08   1.0   Japan                         Linguistics       Abstract        Japanese.
-2018.10.08   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
-2018.10.07   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.08   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
+2018.10.07   1.0   Forms                         Photography       Visual          Picture editing.
 2018.10.07   2.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.06   2.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.05   1.5   Study                         Linguistics       Abstract        Language learning techniques.
 2018.10.05   2.5   Japan                         Linguistics       Abstract        Japanese.
-2018.10.04   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.04   1.0   Forms                         Photography       Visual          Picture editing.
 2018.10.04   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.10.03   1.0   Japan                         Linguistics       Abstract        Japanese.
 2018.10.02   2.0   Study                         Research          Abstract        High-context culture.
 2018.10.01   0.5   Study                         Research          Abstract        High-context culture.
-2018.10.01   1.0   Nihon                         Photography       Visual          Picture editing.
+2018.10.01   1.0   Forms                         Photography       Visual          Picture editing.
 2018.10.01   0.5   Tinker                        Research          Code            Flow fields.
-2018.10.01   3.0   Study                         Research          Abstract        Tokyo architecture and city design.
-2018.09.30   1.5   Nihon                         Photography       Visual          Picture editing.
+2018.10.01   3.0   Study                         Design            Abstract        Tokyo architecture and city design.
+2018.09.30   1.5   Forms                         Photography       Visual          Picture editing.
 2018.09.30   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.09.29   5.0   Log                           Development       Code            Visual tweaks.
 2018.09.29   0.5   Japan                         Writing           Abstract        Blog writing.
 2018.09.28   2.0   Japan                         Linguistics       Abstract        Japanese.
 2018.09.28   1.0   Japan                         Writing           Abstract        Blog writing.
 2018.09.28   1.5   Log                           Development       Code            Visual tweaks.
-2018.09.27   2.0   Nihon                         Photography       Visual          Picture editing.
+2018.09.27   2.0   Forms                         Photography       Visual          Picture editing.
 2018.09.27   0.5   PESSIMISTIC STATEMENT         Graphic           Visual          Minimal apparel and branding design.
 2018.09.26   3.0   PESSIMISTIC STATEMENT         Graphic           Visual          Minimal apparel and branding design.
 2018.09.26   1.5   Study                         Research          Abstract        Apparel entrepeneurship.
@@ -383,35 +449,35 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.09.25   1.5   Jam                           Acoustic          Audio           Vocals.
 2018.09.25   1.0   Jam                           Composition       Audio           Composition.
 2018.09.25   2.5   Study                         Research          Abstract        Self-analysis, "The Subtle Art of Not Giving a Fuck".
-2018.09.24   1.5   Nihon                         Photography       Visual          Picture taking.
-2018.09.23   1.0   Nihon                         Photography       Visual          Picture taking.
+2018.09.24   1.5   Forms                         Photography       Visual          Picture taking.
+2018.09.23   1.0   Forms                         Photography       Visual          Picture taking.
 2018.09.22   2.0   Study                         Research          Abstract        Self-analysis, "The Subtle Art of Not Giving a Fuck".
-2018.09.22   0.5   Nihon                         Photography       Visual          Picture editing.
-2018.09.21   0.5   Nihon                         Photography       Visual          Picture editing.
-2018.09.20   2.0   Nihon                         Photography       Visual          Picture editing.
-2018.09.19   3.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.22   0.5   Forms                         Photography       Visual          Picture editing.
+2018.09.21   0.5   Forms                         Photography       Visual          Picture editing.
+2018.09.20   2.0   Forms                         Photography       Visual          Picture editing.
+2018.09.19   3.5   Forms                         Photography       Visual          Picture editing.
 2018.09.18   1.0   Study                         Research          Abstract        Japanese infrastrucutre.
 2018.09.18   0.5   Japan                         Writing           Abstract        Blog writing.
-2018.09.18   0.5   Nihon                         Photography       Visual          Picture editing.
+2018.09.18   0.5   Forms                         Photography       Visual          Picture editing.
 2018.09.17   1.0   Jam                           Research          Audio           Sound synthesis experimental techniques.
 2018.09.17   0.5   Japan                         Writing           Abstract        Blog writing.
 2018.09.17   1.0   Distant Lovers                Development       Code            Visual tweaks.
-2018.09.17   3.5   Nihon                         Photography       Visual          Picture editing and picture taking.
+2018.09.17   3.5   Forms                         Photography       Visual          Picture editing and picture taking.
 2018.09.16   0.5   Study                         Research          Code            Cooking.
 2018.09.16   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.09.16   1.0   Japan                         Writing           Abstract        Blog writing.
-2018.09.16   4.0   Nihon                         Photography       Visual          Picture editing.
-2018.09.15   1.5   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.16   4.0   Forms                         Photography       Visual          Picture editing.
+2018.09.15   1.5   Forms                         Photography       Visual          Picture taking and editing.
 2018.09.14   0.5   Japan                         Linguistics       Abstract        Japanese.
 2018.09.14   0.5   Japan                         Writing           Abstract        Blog writing.
-2018.09.14   1.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.14   1.0   Forms                         Photography       Visual          Picture taking and editing.
 2018.09.13   1.0   Japan                         Linguistics       Abstract        Japanese.
 2018.09.13   0.5   Japan                         Writing           Abstract        Blog writing.
 2018.09.13   1.0   Distant Lovers                Development       Code            Visual tweaks.
 2018.09.12   0.5   Japan                         Writing           Abstract        Blog writing.
-2018.09.12   1.5   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.12   1.5   Forms                         Photography       Visual          Picture taking and editing.
 2018.09.11   1.0   Japan                         Writing           Abstract        Blog writing.
-2018.09.11   1.0   Nihon                         Photography       Visual          Picture taking and editing.
+2018.09.11   1.0   Forms                         Photography       Visual          Picture taking and editing.
 2018.09.11   0.5   Japan                         Linguistics       Abstract        Writing practice.
 2018.09.10   2.0   Japan                         Maintenance       Personal        Unpacking and settling.
 2018.09.09   0.5   Japan                         Event             Personal        Travel to Tokyo.
@@ -420,14 +486,14 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.09.07   0.5   Study                         Linguistics       Abstract        Language learning.
 2018.09.06   1.5   Study                         Linguistics       Abstract        Language learning.
 2018.09.06   2.0   Rig                           Maintenance       Personal        Clean up and backup.
-2018.09.06   4.0   Archform                      Photography       Visual          Photo development.
+2018.09.06   4.0   Tracestate                    Photography       Visual          Photo development.
 2018.09.05   1.0   Distant Lovers                Development       Code            Visual tweaks.
 2018.09.05   1.5   Doodle                        Graphic           Visual          CV update.
 2018.09.05   4.0   Rig                           Maintenance       Personal        Major clean-up.
 2018.09.04   3.5   V-OS                          Writing           Abstract        Reorganization, clean up, project documentation.
-2018.09.04   1.5   Study                         Research          Abstract        Board game analysis.
-2018.09.04   1.0   Archform                      Photography       Visual          Photo development.
-2018.09.03   3.0   Archform                      Photography       Visual          Photo development.
+2018.09.04   1.5   Study                         Design            Abstract        Board game analysis.
+2018.09.04   1.0   Tracestate                    Photography       Visual          Photo development.
+2018.09.03   3.0   Tracestate                    Photography       Visual          Photo development.
 2018.09.02   0.5   Study                         Research          Abstract        Puzzle games and versus arcade gameplay.
 2018.09.01   1.0   Study                         Research          Abstract        Art collectives and collaborative art.
 2018.08.31   0.5   Jam                           Acoustic          Audio           Collaborative piano.
@@ -437,11 +503,11 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.08.29   8.0   Qurotema                      Development       Code            Movement and camera system.
 2018.08.28   6.0   Qurotema                      Development       Code            Movement and camera system, shader programming.
 2018.08.27   7.0   Qurotema                      Development       Code            Movement and camera system, shader programming.
-2018.08.27   0.5   Archform                      Photography       Visual          Picture taking and development.
-2018.08.26   3.0   Archform                      Photography       Visual          Picture taking and development.
+2018.08.27   0.5   Tracestate                    Photography       Visual          Picture taking and development.
+2018.08.26   3.0   Tracestate                    Photography       Visual          Picture taking and development.
 2018.08.25   6.0   Qurotema                      Development       Code            Migration to Unity, shader development and light rendering.
 2018.08.25   0.5   Doodle                        Illustration      Visual          Illustration practice.
-2018.08.24   1.0   Archform                      Photography       Visual          Photograph development.
+2018.08.24   1.0   Tracestate                    Photography       Visual          Photograph development.
 2018.08.24   0.5   Architects of Souls           Composition       Audio           Composition.
 2018.08.24   0.0   Skins 6.0                     Event             Personal        Obx contract end.
 2018.08.24   5.0   Skins 6.0                     Design            Abstract        Post production.
