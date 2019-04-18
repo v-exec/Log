@@ -70,8 +70,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.04.01   2.0   Study                         Design            Abstract        Level and combat design.
 2019.04.01   2.0   Various                       Linguistics       Abstract        English teaching.
 2019.03.31   2.0   Study                         Design            Abstract        Level and combat design.
-2019.03.30   2.0   Dunes of Similia              Modeling          Visual          Generation.
-2019.03.29   2.5   Dunes of Similia              Modeling          Visual          Generation.
+2019.03.30   2.0   Dunes of Simila               Modeling          Visual          Generation.
+2019.03.29   2.5   Dunes of Simila               Modeling          Visual          Generation.
 2019.03.29   2.5   Tinker                        Research          Code            Cycling technology and techniques.
 2019.03.28   3.0   Tinker                        Design            Abstract        Minecraft hide and seek game design.
 2019.03.27   1.0   Study                         Design            Abstract        Combat systems.
@@ -80,7 +80,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.03.24   0.5   Tinker                        Design            Abstract        Minecraft hide and seek game design.
 2019.03.23   0.5   Tinker                        Design            Abstract        Minecraft hide and seek game design.
 2019.03.22   3.0   Tinker                        Design            Abstract        Minecraft hide and seek game design.
-2019.03.21   1.0   Dunes of Similia              Modeling          Visual          Generation.
+2019.03.21   1.0   Dunes of Simila               Modeling          Visual          Generation.
 2019.03.20   2.5   ScanDirectory                 3D                Visual          Rendering.
 2019.03.20   0.5   Rig                           Maintenance       Personal        Clean up and backup.
 2019.03.20   1.0   Study                         Design            Abstract        Urban design.
