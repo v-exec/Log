@@ -38,6 +38,80 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2019.05.25   4.5   Sports                        Research          Personal        Biking.
+2019.05.25   1.0   Study                         Research          Abstract        Exploration-based game design.
+2019.05.24   1.0   Study                         Research          Abstract        Game fairness.
+2019.05.24   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.24   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.05.23   1.0   Japan                         Linguistics       Abstract        Japanese, kanji.
+2019.05.23   2.5   Study                         Research          Abstract        Creative writing, networks.
+2019.05.22   3.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.22   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.22   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.05.21   2.0   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.20   0.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.20   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.05.19   1.0   Japan                         Linguistics       Abstract        Kanji.
+2019.05.19   3.5   Dokidoki                      Development       Code            Redesign.
+2019.05.18   0.5   V-OS                          Development       Code            Move all javascript projects to website hosting.
+2019.05.18   0.5   Perfect Empathy               Development       Code            Small visual edit.
+2019.05.18   0.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.18   0.5   Study                         Research          Abstract        Creative writing study.
+2019.05.17   1.0   Study                         Linguistics       Abstract        Syntax.
+2019.05.17   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.05.16   1.0   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.16   3.0   Study                         Research          Abstract        Creative writing study, and software.
+2019.05.15   3.0   Study                         Linguistics       Abstract        Syntax.
+2019.05.15   3.5   Japan                         Linguistics       Abstract        Japanese.
+2019.05.14   3.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.14   5.0   Study                         Research          Abstract        Game studies, future of AI, creative writing study, and reality.
+2019.05.13   1.0   Tinker                        Design            Abstract        Minecraft hide and seek game design.
+2019.05.13   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.05.12   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.05.12   0.5   Doodle                        Photography       Visual          Picture taking.
+2019.05.11   2.5   Doodle                        Photography       Visual          Picture taking.
+2019.05.10   0.5   Golden Bike                   Photography       Visual          Picture editing.
+2019.05.10   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.10   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.05.09   3.0   Study                         Research          Abstract        Creative writing study, machine ethics.
+2019.05.08   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.08   1.0   Doodle                        Illustration      Visual          Drawing.
+2019.05.08   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.05.07   2.0   Study                         Research          Abstract        Creative writing study.
+2019.05.07   1.0   Golden Bike                   Photography       Visual          Picture editing.
+2019.05.06   1.0   Golden Bike                   Photography       Visual          Picture editing.
+2019.05.06   1.0   Cartographer                  Writing           Abstract        Page documentation.
+2019.05.05   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.04   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.03   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.02   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.01   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.04.30   1.0   Golden Bike                   Research          Code            Trip planning.
+2019.04.29   1.0   Cartographer                  Development       Code            Biomes and color tweaks.
+2019.04.28   1.0   Golden Bike                   Research          Code            Trip planning.
+2019.04.26   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.04.26   3.5   Japan                         Linguistics       Abstract        Japanese.
+2019.04.25   3.5   Study                         Research          Abstract        Creative writing study, VR, and space.
+2019.04.25   3.0   Cartographer                  Development       Code            Clouds, cities, biomes.
+2019.04.24   3.5   Cartographer                  Development       Code            Clouds, cities, biomes.
+2019.04.24   2.0   Jam                           Acoustic          Audio           Vocals.
+2019.04.24   2.5   Study                         Linguistics       Abstract        Syntax.
+2019.04.23   1.0   Rig                           Maintenance       Personal        Tweak bike.
+2019.04.23   2.0   Tinker                        Research          Code            Programming teaching.
+2019.04.23   1.5   Study                         Research          Abstract        Cognitive psychology.
+2019.04.23   1.5   Study                         Research          Abstract        Game history.
+2019.04.23   5.5   Cartographer                  Development       Code            Generative landscape.
+2019.04.22   3.0   Cartographer                  Development       Code            Generative landscape.
+2019.04.22   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.04.21   0.5   Japan                         Linguistics       Abstract        Kanji.
+2019.04.21   5.0   Cartographer                  Development       Code            UI.
+2019.04.21   1.0   Tinker                        Research          Code            Programming teaching.
+2019.04.20   3.0   Cartographer                  Development       Code            Terrain rendering.
+2019.04.20   3.0   Various                       Performance       Abstract        Dying Light stream.
+2019.04.19   2.0   Org_Proc                      Graphic           Visual          Book work.
+2019.04.19   1.0   Sports                        Research          Code            Cycling technology and techniques.
+2019.04.19   1.0   Jam                           Composition       Audio           Composition.
+2019.04.19   1.5   Study                         Linguistics       Abstract        Syntax.
 2019.04.18   0.5   Jam                           Composition       Audio           Composition.
 2019.04.18   0.5   Dream Archive                 Writing           Abstract        Collection.
 2019.04.17   1.0   Architects of Souls           Graphic           Visual          Cover art.
