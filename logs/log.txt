@@ -38,7 +38,64 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
-2019.05.25   4.5   Sports                        Research          Personal        Biking.
+2019.06.15   0.5   Jam                           Composition       Audio           Composition, vocals.
+2019.06.15   9.0   NMLI                          Development       Code            Fictional web-based OS development.
+2019.06.14   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.14   4.0   Jam                           Performance       Audio           Dance.
+2019.06.14   3.0   NMLI                          Development       Code            Fictional web-based OS development.
+2019.06.13   5.5   NMLI                          Development       Code            Fictional web-based OS development.
+2019.06.13   1.0   Japan                         Linguistics       Abstract        Japanese.
+2019.06.13   2.0   Jam                           Acoustic          Audio           Vocals practice.
+2019.06.13   1.5   Study                         Writing           Abstract        Creative writing.
+2019.06.12   1.0   NMLI                          Writing           Abstract        Creative writing.
+2019.06.12   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.12   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.06.11   2.0   Japan                         Linguistics       Abstract        Japanese.
+2019.06.11   1.5   Study                         Research          Abstract        Game history.
+2019.06.10   1.0   Jam                           Composition       Audio           Composition, vocals.
+2019.06.09   0.5   Jam                           Composition       Audio           Composition, vocals.
+2019.06.08   5.0   Jam                           Acoustic          Audio           Vocals practice.
+2019.06.07   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.06   1.5   Study                         Writing           Abstract        Creative writing.
+2019.06.05   0.5   Jam                           Composition       Audio           Composition, vocals.
+2019.06.05   1.0   Jam                           Research          Audio           Vocal techniques.
+2019.06.05   5.0   Cartographer                  Development       Code            Filtering, blacklisting, quality of life, and moderation implementation.
+2019.06.05   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.05   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.06.04   0.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.04   4.0   Cartographer                  Development       Code            Security implementation, mobile support.
+2019.06.04   1.5   Study                         Research          Abstract        Game history.
+2019.06.03   3.0   Cartographer                  Development       Code            Security implementation, styling.
+2019.06.03   2.0   Cartographer                  Research          Code            Security protocols.
+2019.06.03   1.5   Jam                           Composition       Audio           Composition, vocals.
+2019.06.03   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.06.02   1.0   Japan                         Linguistics       Abstract        Kanji.
+2019.06.02   3.0   Sports                        Performance       Personal        Biking to Kawaguchiko.
+2019.06.02   2.5   Cartographer                  Development       Code            Security fixes.
+2019.06.01   0.5   Cartographer                  Development       Code            Publishing fixes.
+2019.06.01   1.5   Doodle                        Photography       Visual          Picture editing.
+2019.06.01   1.5   Golden Bike                   Photography       Visual          Picture editing.
+2019.06.01   1.0   Luna                          Development       Code            Archive gallery.
+2019.06.01   1.0   V-OS                          Writing           Abstract        Rewrite page and add page cards.
+2019.06.01   1.0   V-OS                          Development       Code            Redesign link system into page cards.
+2019.05.31   3.0   V-OS                          Development       Code            Redesign link system into page cards.
+2019.05.31   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.31   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.05.30   1.5   Study                         Research          Abstract        Software.
+2019.05.30   4.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.29   2.0   Jam                           Acoustic          Audio           Vocals.
+2019.05.29   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.29   2.5   Japan                         Linguistics       Abstract        Japanese.
+2019.05.28   0.5   Study                         Linguistics       Abstract        Syntax.
+2019.05.28   1.5   Study                         Research          Abstract        Creative writing study, game studies.
+2019.05.28   0.5   Golden Bike                   Photography       Visual          Picture editing.
+2019.05.27   1.5   Golden Bike                   Photography       Visual          Picture editing.
+2019.05.27   0.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
+2019.05.27   1.5   Tinker                        Design            Abstract        Platforming game design.
+2019.05.27   2.0   Jam                           Composition       Audio           Songwriting.
+2019.05.26   1.0   Jam                           Writing           Audio           Songwriting.
+2019.05.26   1.0   Study                         Research          Abstract        Exploration-based game design.
+2019.05.25   4.5   Sports                        Performance       Personal        Biking to Odaiba.
 2019.05.25   1.0   Study                         Research          Abstract        Exploration-based game design.
 2019.05.24   1.0   Study                         Research          Abstract        Game fairness.
 2019.05.24   1.5   Study                         Linguistics       Abstract        Syntax.
@@ -82,10 +139,15 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.05.06   1.0   Golden Bike                   Photography       Visual          Picture editing.
 2019.05.06   1.0   Cartographer                  Writing           Abstract        Page documentation.
 2019.05.05   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.05   5.0   Golden Bike                   Performance       Personal        Biking.
 2019.05.04   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.04   5.0   Golden Bike                   Performance       Personal        Biking.
 2019.05.03   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.03   5.0   Golden Bike                   Performance       Personal        Biking.
 2019.05.02   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.02   5.0   Golden Bike                   Performance       Personal        Biking.
 2019.05.01   2.0   Golden Bike                   Photography       Visual          Picture taking.
+2019.05.01   5.0   Golden Bike                   Performance       Personal        Biking.
 2019.04.30   1.0   Golden Bike                   Research          Code            Trip planning.
 2019.04.29   1.0   Cartographer                  Development       Code            Biomes and color tweaks.
 2019.04.28   1.0   Golden Bike                   Research          Code            Trip planning.
@@ -122,7 +184,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.04.16   1.5   Tinker                        Research          Code            Cycling technology and techniques.
 2019.04.15   2.5   Japan                         Linguistics       Abstract        Kanji.
 2019.04.14   2.0   Study                         Design            Abstract        Cooperative gameplay design.
-2019.04.13   0.5   Sports                        Research          Personal        Badminton.
+2019.04.13   0.5   Sports                        Performance       Personal        Badminton.
 2019.04.12   2.0   Architects of Souls           Composition       Audio           Composition.
 2019.04.12   0.5   FeatherFall                   Modeling          Visual          3D printing preparation.
 2019.04.11   1.5   Architects of Souls           Composition       Audio           Composition.
@@ -159,8 +221,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.03.20   0.5   Rig                           Maintenance       Personal        Clean up and backup.
 2019.03.20   1.0   Study                         Design            Abstract        Urban design.
 2019.03.20   1.0   Jam                           Composition       Audio           Composition.
-2019.03.19   4.0   Sports                        Research          Personal        Skiing.
-2019.03.18   4.0   Sports                        Research          Personal        Skiing.
+2019.03.19   4.0   Sports                        Performance       Personal        Skiing.
+2019.03.18   4.0   Sports                        Performance       Personal        Skiing.
 2019.03.17   1.5   Forms                         Photography       Visual          Organization and uploading.
 2019.03.16   0.5   Perfect Empathy               Development       Code            Small visual edits.
 2019.03.16   1.0   Forms                         Photography       Visual          Organization and uploading.
@@ -172,8 +234,8 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.03.12   2.0   Study                         Research          Personal        University sequence.
 2019.03.11   1.0   Study                         Research          Personal        Psychology.
 2019.03.10   2.0   Study                         Research          Personal        Psychology.
-2019.03.09   3.0   Sports                        Research          Personal        Skiing.
-2019.03.08   4.0   Sports                        Research          Personal        Skiing.
+2019.03.09   3.0   Sports                        Performance       Personal        Skiing.
+2019.03.08   4.0   Sports                        Performance       Personal        Skiing.
 2019.03.07   1.5   Jam                           Acoustic          Audio           Rhythm games.
 2019.03.06   1.0   Study                         Design            Abstract        Battle royale design.
 2019.03.06   1.0   Jam                           Acoustic          Audio           Rhythm games.
@@ -200,9 +262,9 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.02.16   0.5   Perfect Empathy               Development       Code            Styling fixes.
 2019.02.15   0.5   Perfect Empathy               Development       Code            Styling fixes.
 2019.02.15   2.5   ScanDirectory                 3D                Visual          Modeling, texturing, experimentation, research.
-2019.02.14   2.0   Sports                        Research          Personal        Skiing.
-2019.02.13   5.0   Sports                        Research          Personal        Skiing.
-2019.02.12   1.0   Sports                        Research          Personal        Skiing.
+2019.02.14   2.0   Sports                        Performance       Personal        Skiing.
+2019.02.13   5.0   Sports                        Performance       Personal        Skiing.
+2019.02.12   1.0   Sports                        Performance       Personal        Skiing.
 2019.02.11   0.5   Study                         Design            Abstract        Progression design.
 2019.02.10   0.5   Study                         Design            Abstract        Progression design.
 2019.02.09   0.5   Study                         Design            Abstract        Progression design.
@@ -633,7 +695,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2018.07.30   1.5   Study                         Research          Abstract        Surfing and coral reef injuries.
 2018.07.29   1.0   Doodle                        Research          Visual          Boat ride and sea studies.
 2018.07.29   0.5   Study                         Research          Abstract        Writing critiques.
-2018.07.29   2.0   Luna                          Design            Visual          Layout design and content management. 
+2018.07.29   2.0   Luna                          Design            Visual          Layout design and content management.
 2018.07.28   3.0   Skins 6.0                     Research          Abstract        Debrief and workshop analysis.
 2018.07.27   9.0   Skins 6.0                     Development       Code            Programming.
 2018.07.26   9.0   Skins 6.0                     Development       Code            Programming.
