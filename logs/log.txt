@@ -38,6 +38,77 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2019.07.16   0.5   Routine                       Design            Personal        Document routines.
+2019.07.16   1.5   Study                         Writing           Abstract        Creative writing.
+2019.07.16   0.5   Study                         Linguistics       Abstract        Syntax.
+2019.07.16   1.0   V-OS                          Development       Code            Add artifact timestamp and recent activities sorting.
+2019.07.16   0.5   Purity                        Development       Code            Add artifact timestamp.
+2019.07.16   1.5   Study                         Research          Abstract        Game studies.
+2019.07.15   1.5   Sport                         Research          Personal        Gymnastics.
+2019.07.15   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.07.14   2.0   Jam                           Composition       Audio           Composition practice.
+2019.07.14   1.5   Sport                         Research          Personal        Gymnastics.
+2019.07.13   1.0   Jam                           Composition       Audio           Composition practice.
+2019.07.13   1.5   Sport                         Research          Personal        Gymnastics.
+2019.07.12   0.5   Study                         Linguistics       Abstract        Syntax.
+2019.07.12   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.07.11   0.5   Jam                           Acoustic          Audio           Guitar teaching.
+2019.07.11   1.5   Tinker                        Development       Code            Web programming teaching.
+2019.07.11   2.0   Study                         Writing           Abstract        Creative writing.
+2019.07.10   1.0   Jam                           Acoustic          Audio           Guitar teaching.
+2019.07.09   1.5   Jam                           Acoustic          Audio           Guitar teaching.
+2019.07.09   1.0   Study                         Research          Abstract        Corporate programming careers.
+2019.07.09   1.5   Study                         Research          Abstract        Game studies.
+2019.07.08   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.07.07   0.5   Japan                         Linguistics       Abstract        Kanji.
+2019.07.07   1.0   Study                         Research          Abstract        Long-term online game maintenance.
+2019.07.06   1.0   Study                         Research          Abstract        Long-term online game maintenance.
+2019.07.05   1.5   Doodle                        Photography       Visual          Picture taking and editing.
+2019.07.05   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.07.05   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.07.04   1.5   Study                         Writing           Abstract        Creative writing.
+2019.07.03   3.0   NMLI                          Writing           Abstract        Creative writing.
+2019.07.03   2.5   Study                         Linguistics       Abstract        Syntax.
+2019.07.03   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.07.02   1.0   NMLI                          Writing           Abstract        Creative writing.
+2019.07.02   2.0   Study                         Research          Personal        Zoo trip.
+2019.07.01   2.0   NMLI                          Writing           Abstract        Creative writing.
+2019.07.01   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.06.30   2.0   Qurotema                      Development       Code            Shader programming.
+2019.06.30   2.0   Sports                        Performance       Personal        Roller skating.
+2019.06.30   1.0   Japan                         Linguistics       Abstract        Kanji.
+2019.06.29   4.0   Qurotema                      Development       Code            Shader programming.
+2019.06.29   3.0   NMLI                          Writing           Abstract        Creative writing.
+2019.06.28   3.0   Qurotema                      Development       Code            UI programming.
+2019.06.28   2.0   NMLI                          Writing           Abstract        Creative writing.
+2019.06.28   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.28   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.06.27   8.0   Qurotema                      Development       Code            UI programming.
+2019.06.26   4.0   Jam                           Acoustic          Audio           Vocals practice.
+2019.06.25   1.0   Study                         Writing           Abstract        Creative writing.
+2019.06.25   1.0   Perfect Empathy               Development       Code            Cardslot sizing fix.
+2019.06.25   1.5   Study                         Research          Abstract        Game studies.
+2019.06.24   8.0   Qurotema                      Development       Code            Movement system reprogramming.
+2019.06.24   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.06.23   1.0   Japan                         Linguistics       Abstract        Kanji.
+2019.06.23   4.0   Qurotema                      Design            Code            Project migration tweaking.
+2019.06.22   4.0   Qurotema                      Research          Code            Project migration.
+2019.06.22   2.5   Tinker                        Research          Code            Shader learning.
+2019.06.21   3.5   Tinker                        Research          Code            Shader learning.
+2019.06.21   1.5   Study                         Linguistics       Abstract        Syntax.
+2019.06.21   3.0   Japan                         Linguistics       Abstract        Japanese.
+2019.06.20   6.5   Tinker                        Research          Code            ThreeJS experimentation.
+2019.06.20   1.5   Study                         Writing           Abstract        Creative writing.
+2019.06.19   1.5   Tinker                        Research          Code            ThreeJS experimentation.
+2019.06.19   1.0   V-OS                          Design            Maintenance     Styling fixes and project updates.
+2019.06.18   7.0   Cartographer                  Development       Code            ThreeJS rendering replacement.
+2019.06.18   1.0   Study                         Writing           Abstract        Creative writing.
+2019.06.17   1.5   V-OS                          Design            Writing         Site organization, wording, pages.
+2019.06.17   1.0   Golden Bike                   Photography       Visual          Picture selection and documentation.
+2019.06.17   1.0   Study                         Writing           Abstract        Creative writing.
+2019.06.17   1.0   Study                         Linguistics       Abstract        Syntax.
+2019.06.17   1.5   Japan                         Linguistics       Abstract        Kanji.
+2019.06.16   1.0   Sports                        Research          Personal        Body exercise studying.
 2019.06.15   0.5   Jam                           Composition       Audio           Composition, vocals.
 2019.06.15   9.0   NMLI                          Development       Code            Fictional web-based OS development.
 2019.06.14   1.5   Study                         Linguistics       Abstract        Syntax.
