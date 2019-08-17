@@ -54,7 +54,7 @@ function getOppositeType($type) {
 }
 
 function createSvgArc($x, $y, $r, $startAngle, $endAngle) {
-	if($startAngle > $endAngle){
+	if ($startAngle > $endAngle){
 		$s = $startAngle;
 		$startAngle = $endAngle;
 		$endAngle = $s;
