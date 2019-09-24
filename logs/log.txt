@@ -89,6 +89,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.09.03   0.0   Various                       Event             Personal        Semester start.
 2019.09.02   1.0   Study                         Research          Abstract        Intuitive game mechanics learning.
 2019.09.01   1.0   Study                         Research          Abstract        Entrepeneurship.
+2019.08.31   1.0   Rig                           Maintenance       Personal        Backup.
 2019.08.30   2.0   Rig                           Maintenance       Personal        Backup.
 2019.08.30   0.5   Study                         Research          Abstract        3rd person movement systems.
 2019.08.29   1.0   Study                         Research          Abstract        RPG storytelling.
@@ -107,7 +108,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.08.24   0.5   Nihon                         Photography       Visual          Photo editing.
 2019.08.23   3.0   Master of Concept             Illustration      Visual          Landscape illustration.
 2019.08.23   3.0   Master of Concept             Research          Visual          Landscape illustration.
-2019.03.23   1.0   Rig                           Maintenance       Personal        Backup.
+2019.08.23   1.0   Rig                           Maintenance       Personal        Backup.
 2019.08.22   4.5   Nihon                         Photography       Visual          Photo taking.
 2019.08.22   0.5   Master of Concept             Design            Abstract        Project proposal.
 2019.08.21   0.5   Master of Concept             Design            Abstract        Project proposal.
