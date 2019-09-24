@@ -20,7 +20,7 @@ Modeling                   Modeling, Sculpting, Rigging, Texturing
 Videography                Video Filming and Editing
 Photography                Picture Taking and Editing
 Composition                Composing, Producing, and Mixing
-Acoustic                   Instrument Play and Recording
+Acoustic                   Instrument Play, Recording, Sound Design
 Performance                Audio and Visual Performance
 Research                   Learning, Testing, Studying, and Teaching
 Maintenance                Personal Organization and Maintenance
@@ -38,6 +38,172 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2019.09.23   1.0   Qurotema                      Writing           Abstract        Documentation.
+2019.09.23   5.0   Qurotema                      Development       Code            Shader programming, instrument programming.
+2019.09.22   1.0   Jam                           Composition       Audio           Composition.
+2019.09.22   1.0   Jam                           Performance       Audio           Dance.
+2019.09.22   3.0   Qurotema                      Modeling          Visual          Platform modeling and texturing.
+2019.09.21   3.0   Qurotema                      Development       Code            Shader programming.
+2019.09.21   1.0   Study                         Research          Abstract        Open-world multiplayer game design.
+2019.09.20   1.0   You Are X                     Design            Abstract        Project concept.
+2019.09.20   2.0   You Are X                     Development       Code            Shader writing.
+2019.09.19   1.0   Jam                           Performance       Audio           Dance.
+2019.09.19   2.0   You Are X                     Development       Code            Shader writing.
+2019.09.19   1.0   Doodle                        Graphic           Visual          Information design.
+2019.09.19   2.0   Research                      Research          Visual          Information design.
+2019.09.18   3.0   4D Society                    Development       Code            Shader writing.
+2019.09.18   4.0   Study                         Research          Abstract        Game design concepts and design methodology.
+2019.09.17   2.0   You Are X                     Development       Code            Shader writing.
+2019.09.16   0.5   Doodle                        Graphic           Visual          Information design.
+2019.09.15   1.5   Doodle                        Graphic           Visual          Information design.
+2019.09.14   2.0   Doodle                        Graphic           Visual          Information design.
+2019.09.14   4.0   You Are X                     Development       Code            Project site development.
+2019.09.13   4.0   You Are X                     Design            Abstract        Project concept.
+2019.09.12   2.5   Study                         Graphic           Visual          Information design.
+2019.09.12   1.0   V-OS                          Graphic           Visual          Make and implement writing sector icon and project logos.
+2019.09.12   2.5   V-OS                          Writing           Abstract        Add writing sector and document projects.
+2019.09.11   2.0   You Are X                     Design            Visual          Project concept mockup production.
+2019.09.11   1.5   You Are X                     Videography       Visual          Project concept mockup production.
+2019.09.11   0.5   You Are X                     Acoustic          Audio           Project concept mockup production.
+2019.09.11   0.5   You Are X                     3D                Visual          Project concept mockup production.
+2019.09.11   4.0   Nihon                         Photography       Visual          Photo editing.
+2019.09.11   4.0   Study                         Research          Abstract        Game design.
+2019.09.10   1.0   Study                         Research          Abstract        Road vehicle technology.
+2019.09.10   2.5   You Are X                     Research          Abstract        Project concept brainstorming.
+2019.09.09   2.0   4D Society                    Development       Code            Shader programming.
+2019.09.08   2.0   Jam                           Performance       Audio           Dance.
+2019.09.07   1.0   Study                         Research          Abstract        Road vehicle technology.
+2019.09.06   2.0   Qurotema                      Development       Code            Shader programming.
+2019.09.06   1.0   Jam                           Performance       Audio           Dance.
+2019.09.06   1.0   Study                         Research          Abstract        Road vehicle technology.
+2019.09.06   2.0   You Are X                     Research          Abstract        Project concept brainstorming.
+2019.09.06   2.0   Study                         Research          Abstract        Installation art.
+2019.09.05   5.0   Study                         Research          Abstract        Road vehicle technology, information design.
+2019.09.05   2.5   4D Society                    Illustration      Visual          Concept art illustration.
+2019.09.04   1.0   4D Society                    3D                Visual          Concept art blockout.
+2019.09.04   0.5   Jam                           Performance       Audio           Dance.
+2019.09.04   0.5   Study                         Research          Abstract        Architecture.
+2019.09.04   1.5   4D Society                    Research          Abstract        Game design concept.
+2019.09.04   4.0   Study                         Research          Abstract        Game design.
+2019.09.03   1.0   Study                         Research          Abstract        Architecture.
+2019.09.03   0.0   Various                       Event             Personal        Semester start.
+2019.09.02   1.0   Study                         Research          Abstract        Intuitive game mechanics learning.
+2019.09.01   1.0   Study                         Research          Abstract        Entrepeneurship.
+2019.08.30   2.0   Rig                           Maintenance       Personal        Backup.
+2019.08.30   0.5   Study                         Research          Abstract        3rd person movement systems.
+2019.08.29   1.0   Study                         Research          Abstract        RPG storytelling.
+2019.08.28   0.0   Various                       Event             Personal        Move back to Montreal.
+2019.08.27   1.0   Study                         Research          Abstract        Open-ended interactive storytelling.
+2019.08.26   1.0   Study                         Research          Abstract        Turn-based tactical combat systems.
+2019.08.25   1.0   V-OS                          Development       Abstract        Header experimentation.
+2019.08.25   0.5   V-OS                          Writing           Abstract        Fundamentals.
+2019.08.25   1.0   Doodle                        Research          Visual          Illustration learning.
+2019.08.25   4.5   Nihon                         Photography       Visual          Photo editing.
+2019.08.24   1.0   V-OS                          Development       Code            Iconography implementation, refactoring.
+2019.08.24   1.5   V-OS                          Design            Visual          Iconography, UI.
+2019.08.24   3.0   V-OS                          Graphic           Visual          Sector iconography.
+2019.08.24   1.0   V-OS                          Writing           Abstract        Fundamentals.
+2019.08.24   1.0   Doodle                        Research          Visual          Illustration learning.
+2019.08.24   0.5   Nihon                         Photography       Visual          Photo editing.
+2019.08.23   3.0   Master of Concept             Illustration      Visual          Landscape illustration.
+2019.08.23   3.0   Master of Concept             Research          Visual          Landscape illustration.
+2019.03.23   1.0   Rig                           Maintenance       Personal        Backup.
+2019.08.22   4.5   Nihon                         Photography       Visual          Photo taking.
+2019.08.22   0.5   Master of Concept             Design            Abstract        Project proposal.
+2019.08.21   0.5   Master of Concept             Design            Abstract        Project proposal.
+2019.08.21   1.0   Doodle                        Research          Visual          Illustration techniques.
+2019.08.21   0.5   CULT                          Design            Code            Writers page.
+2019.08.20   1.0   CULT                          Design            Code            Writers page.
+2019.08.20   9.0   CULT                          Development       Code            UI, server sync, everything.
+2019.08.20   2.0   CULT                          Graphic           Visual          Typography.
+2019.08.19   2.0   CULT                          Design            Code            Forum page.
+2019.08.19   2.0   CULT                          Graphic           Visual          Logo and type design.
+2019.08.19   1.0   DokiDoki                      Development       Code            Setup and documentation.
+2019.08.19   1.0   REsource                      Development       Code            Graphical fixes.
+2019.08.18   0.0   Various                       Event             Personal        Miu birthday.
+2019.08.17   1.5   Purity                        Development       Code            Audio and video support, small adjustments.
+2019.08.17   1.0   Master of Concept             Design            Abstract        Project proposal.
+2019.08.16   1.5   Doodle                        Illustration      Visual          Illustration practice.
+2019.08.16   2.0   Study                         Design            Abstract        Online letter system design and writing.
+2019.08.15   2.0   Master of Concept             Design            Abstract        Project proposal.
+2019.08.15   2.0   Doodle                        Illustration      Visual          Photobashing and illustration practice.
+2019.08.15   1.0   Doodle                        3D                Visual          Blocking out.
+2019.08.15   1.0   V-OS                          Writing           Abstract        Portfolio and CV update.
+2019.08.14   0.5   V-OS                          Writing           Abstract        Rewrite portfolio.
+2019.08.14   3.0   Doodle                        Illustration      Visual          Illustration.
+2019.08.14   3.0   Doodle                        Research          Visual          Illustration techniques.
+2019.08.14   0.5   Jam                           Acoustic          Audio           Vocals practice.
+2019.08.13   1.0   Jam                           Research          Abstract        Productivity.
+2019.08.13   1.0   Jam                           Acoustic          Audio           Vocals practice.
+2019.08.12   0.5   Doodle                        Illustration      Visual          Illustration.
+2019.08.12   2.0   Doodle                        Research          Visual          Concept art methodology.
+2019.08.12   0.5   REsource                      Development       Code            Fixes.
+2019.08.12   1.5   Sports                        Research          Personal        Swimming.
+2019.08.11   0.5   REsource                      Development       Code            Fixes.
+2019.08.10   1.0   Tinker                        Development       Code            Programming teaching.
+2019.08.10   1.0   REsource                      Development       Code            Data visualization.
+2019.08.09   6.5   REsource                      Development       Code            Data visualization.
+2019.08.09   2.5   Study                         Research          Abstract        Productivity, industry life, future aspirations.
+2019.08.09   1.0   4D Society                    Design            Abstract        Business life consideration.
+2019.08.08   1.0   Jam                           Acoustic          Audio           Vocals practice.
+2019.08.08   3.0   Jam                           Composition       Audio           Electronic jam.
+2019.08.08   0.5   Sports                        Research          Personal        Fitness education.
+2019.08.08   5.5   REsource                      Development       Code            User interfacing, platform consistency.
+2019.08.07   0.5   Sports                        Research          Personal        Fitness education.
+2019.08.07   6.0   REsource                      Development       Code            User interfacing, data management.
+2019.08.06   6.0   REsource                      Development       Code            User interfacing, refactoring.
+2019.08.06   2.0   Various                       Performance       Abstract        Game streaming.
+2019.08.05   6.0   REsource                      Development       Code            User interfacing, server-side saving.
+2019.08.04   4.0   REsource                      Development       Code            User interfacing.
+2019.08.04   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.08.03   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.08.02   2.5   Jam                           Composition       Audio           Electronic jam.
+2019.08.02   1.0   Purity                        Research          Code            Small fix and feature guidance.
+2019.08.01   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.08.01   1.0   4D Society                    Design            Abstract        Lifestyle brand considerations.
+2019.07.31   0.5   4D Society                    Design            Abstract        Lifestyle brand considerations.
+2019.07.31   3.5   Doodle                        Graphic           Visual          Tattoo design help.
+2019.07.31   1.5   REsource                      Development       Code            User interfacing.
+2019.07.30   0.5   Sports                        Research          Personal        Fitness.
+2019.07.30   2.5   REsource                      Development       Code            User interfacing.
+2019.07.30   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.07.30   1.0   Study                         Research          Visual          Fashion, techwear and cyberpunk visuals.
+2019.07.29   1.5   REsource                      Development       Code            User interfacing.
+2019.07.29   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.07.29   2.0   Study                         Research          Visual          Fashion, techwear and cyberpunk visuals.
+2019.07.28   3.0   Sports                        Research          Personal        Fitness.
+2019.07.28   1.0   REsource                      Development       Code            User interfacing.
+2019.07.28   1.0   REsource                      Design            Visual          User interfacing.
+2019.07.27   1.0   Qurotema                      3D                Visual          Language graphics, promotional material.
+2019.07.27   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.07.27   3.0   REsource                      Development       Code            User interfacing.
+2019.07.26   0.0   Japan                         Event             Personal        Japan schoolyear end.
+2019.07.26   1.0   Jam                           Composition       Audio           Electronic jam.
+2019.07.26   6.0   REsource                      Development       Code            Logging in and request security, user interfacing.
+2019.07.25   1.0   Sports                        Research          Persoanl        Gymnastics.
+2019.07.25   1.0   Study                         Research          Abstract        New technologies, blockchain, education.
+2019.07.25   3.0   REsource                      Development       Code            Logging in and request security, user interfacing.
+2019.07.24   0.5   REsource                      Graphic           Visual          Logo design.
+2019.07.24   1.5   Japan                         Linguistics       Abstract        Japanese.
+2019.07.24   1.5   Jam                           Composition       Audio           Electronic jam.
+2019.07.24   2.5   REsource                      Development       Code            Logging in and request security, user interfacing.
+2019.07.23   1.0   REsource                      Design            Code            Setup.
+2019.07.23   0.5   Qurotema                      Design            Visual          Language construction - syntax documentation.
+2019.07.23   0.5   Purity                        Research          Code            Debugging.
+2019.07.23   1.0   Study                         Research          Abstract        Game studies.
+2019.07.22   2.0   REsource                      Design            Code            Resource management tracker development setup.
+2019.07.22   1.0   Purity                        Design            Code            Deprecate static site generation - no longer functional with design philosophy.
+2019.07.21   1.0   Qurotema                      Design            Visual          Language construction - alphabet rework.
+2019.07.21   3.5   Qurotema                      Linguistics       Code            Language construction - syntax.
+2019.07.20   1.0   Qurotema                      Design            Visual          Language construction - phonetics and alphabet.
+2019.07.20   5.0   Qurotema                      Linguistics       Code            Language construction - phonetics and alphabet.
+2019.07.19   1.0   V-OS                          Writing           Abstract        Rewrites for clarity and narrative obviousness.
+2019.07.19   3.0   Qurotema                      Linguistics       Code            Language construction - grammar and lexicology.
+2019.07.18   1.0   Qurotema                      Linguistics       Code            Language construction - basic grammar and lexicology.
+2019.07.18   1.5   Study                         Research          Abstract        Robotics and society.
+2019.07.18   1.5   Study                         Writing           Abstract        Creative writing.
+2019.07.17   0.5   Study                         Research          Visual          Fashion and bodies.
+2019.07.17   3.0   Japan                         Linguistics       Abstract        Japanese.
 2019.07.16   0.5   Routine                       Design            Personal        Document routines.
 2019.07.16   1.5   Study                         Writing           Abstract        Creative writing.
 2019.07.16   0.5   Study                         Linguistics       Abstract        Syntax.
@@ -180,7 +346,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.05.20   0.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
 2019.05.20   1.5   Japan                         Linguistics       Abstract        Kanji.
 2019.05.19   1.0   Japan                         Linguistics       Abstract        Kanji.
-2019.05.19   3.5   Dokidoki                      Development       Code            Redesign.
+2019.05.19   3.5   DokiDoki                      Development       Code            Redesign.
 2019.05.18   0.5   V-OS                          Development       Code            Move all javascript projects to website hosting.
 2019.05.18   0.5   Perfect Empathy               Development       Code            Small visual edit.
 2019.05.18   0.5   A Drop in an Ocean of Sand    Writing           Abstract        Creative writing.
