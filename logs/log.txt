@@ -180,7 +180,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2019.07.26   0.0   Japan                         Event             Personal        Japan schoolyear end.
 2019.07.26   1.0   Jam                           Composition       Audio           Electronic jam.
 2019.07.26   6.0   REsource                      Development       Code            Logging in and request security, user interfacing.
-2019.07.25   1.0   Sports                        Research          Persoanl        Gymnastics.
+2019.07.25   1.0   Sports                        Research          Personal        Gymnastics.
 2019.07.25   1.0   Study                         Research          Abstract        New technologies, blockchain, education.
 2019.07.25   3.0   REsource                      Development       Code            Logging in and request security, user interfacing.
 2019.07.24   0.5   REsource                      Graphic           Visual          Logo design.
