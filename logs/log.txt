@@ -84,7 +84,7 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2020.01.08   4.0   Nakade                        Research          Visual          Photogrammetry research.
 2020.01.07   2.5   Nakade                        Design            Abstract        Inspiration, project design, planning.
 2020.01.06   4.0   Doodle                        Research          Visual          3D workflow, tech, and industry.
-2029.01.05   1.5   Study                         Research          Abstract        Japanese society, relationships.
+2020.01.05   1.5   Study                         Research          Abstract        Japanese society, relationships.
 2020.01.04   2.5   Study                         Research          Abstract        Dance, performance arts, Chinese culture, electric vehicles.
 2020.01.04   0.5   Doodle                        Research          Visual          Fashion.
 2020.01.03   1.0   Jam                           Research          Audio           Music listening habits and preferences analysis.
