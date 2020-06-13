@@ -38,6 +38,147 @@ None                       Nothing
 
 DATE         TIME  PROJECT                       TASK              DIVISION        DETAILS
 
+2020.06.13   0.5   Various                       Writing           Abstract        Job application.
+2020.06.13   1.5   Cord                          Development       Code            Data streaming and loading.
+2020.06.13   2.0   Invictus                      3D                Visual          Glove sleeve and product rendering.
+2020.06.12   2.5   Invictus                      3D                Visual          Glove sleeve and product rendering.
+2020.06.11   0.5   Invictus                      3D                Visual          Glove sleeve test.
+2020.06.10   5.0   Invictus                      3D                Visual          Glove reworking.
+2020.06.10   5.0   Architects Of Souls           Composition       Audio           Composition and experimental sound synthesis.
+2020.06.10   1.0   Sports                        Performance       Personal        Biking across Champlain bridge.
+2020.06.09   3.0   Invictus                      3D                Visual          Logo reveal tweaks, glove reworking.
+2020.06.09   5.0   Architects Of Souls           Composition       Audio           Composition and experimental sound synthesis.
+2020.06.09   1.5   Jam                           Acoustic          Audio           Guitar.
+2020.06.08   2.5   Invictus                      Design            Visual          Logo reveal tweaks, project team planning.
+2020.06.07   1.0   Study                         Research          Abstract        Philosophy.
+2020.06.07   1.0   Study                         Research          Abstract        Baking.
+2020.06.06   1.5   Study                         Research          Abstract        Philosophy.
+2020.06.06   0.5   Tinker                        Maintenance       Code            Computer case clearing.
+2020.06.05   1.5   Invictus                      Composition       Audio           Logo reveal audio.
+2020.06.04   1.0   Invictus                      Composition       Audio           Logo reveal audio.
+2020.06.04   2.5   Fluctuations                  3D                Visual          Digital cloth production and simulation.
+2020.06.03   3.0   Fluctuations                  3D                Visual          Digital cloth production and simulation.
+2020.06.03   1.0   Invictus                      3D                Visual          Logo reveal animation.
+2020.06.03   1.5   Invictus                      Composition       Audio           Logo reveal audio.
+2020.06.02   1.5   Invictus                      Composition       Audio           Logo reveal audio.
+2020.06.01   0.5   Fluctuations                  3D                Visual          Digital cloth production and simulation.
+2020.05.31   0.5   Fluctuations                  3D                Visual          Digital cloth production and simulation.
+2020.05.30   5.0   Fluctuations                  3D                Visual          Digital cloth production and simulation.
+2020.05.29   0.5   Fluctuations                  3D                Visual          Digital cloth production and simulation.
+2020.05.28   1.5   Sports                        Performance       Personal        Biking across Champlain bridge.
+2020.05.28   2.0   Fracas                        Photography       Visual          Photogrammetry.
+2020.05.28   1.0   Rig                           Maintenance       Abstract        Work in progress directory clean-up.
+2020.05.27   6.0   Invictus                      Modeling          Visual          Texturing.
+2020.05.26   6.0   Invictus                      Modeling          Visual          Model fixing texturing.
+2020.05.25   2.0   Study                         Research          Abstract        Strategy game design.
+2020.05.24   5.0   Invictus                      Modeling          Visual          Model fixing and retopo.
+2020.05.23   1.5   Doodle                        Research          Visual          Digital cloth production and simulation.
+2020.05.23   8.0   Invictus                      Modeling          Visual          Model fixing and retopo.
+2020.05.22   1.5   Tinker                        Maintenance       Code            Bike assembly.
+2020.05.21   2.0   Invictus                      3D                Visual          Animation.
+2020.05.20   1.0   Study                         Research          Audio           Rhythm game mapping.
+2020.05.20   1.5   Invictus                      3D                Visual          Texturing and lighting.
+2020.05.20   1.5   Invictus                      Modeling          Visual          Logo.
+2020.05.19   1.0   Study                         Research          Audio           Rhythm game mapping.
+2020.05.19   1.0   Sports                        Performance       Personal        Biking up Champlain bridge.
+2020.05.19   1.5   Invictus                      Research          Visual          Publicity material research and deal closing.
+2020.05.19   1.5   Fracas                        Photography       Visual          Photogrammetry.
+2020.05.18   2.5   Tinker                        Research          Code            Bike mechanics and microphones.
+2020.05.18   2.5   Invictus                      Research          Visual          Publicity material research.
+2020.05.18   2.5   Fracas                        Photography       Visual          Photogrammetry.
+2020.05.17   4.0   Tinker                        Research          Code            Bike mechanics and microphones.
+2020.05.17   4.5   Tinker                        Maintenance       Abstract        Construction work.
+2020.05.17   1.0   Fracas                        Photography       Visual          Photogrammetry.
+2020.05.16   1.5   Tinker                        Research          Code            Bike mechanics.
+2020.05.16   0.5   Study                         Research          Abstract        Machine learning on GPU.
+2020.05.16   4.5   Tinker                        Maintenance       Abstract        Construction work.
+2020.05.15   1.5   Fracas                        Development       Abstract        Scene production and project management.
+2020.05.15   1.5   Fracas                        Photography       Visual          Photogrammetry.
+2020.05.15   1.0   Study                         Research          Abstract        Machine learning on GPU.
+2020.05.15   2.0   Tinker                        Research          Code            Bike mechanics.
+2020.05.14   3.0   Tinker                        Research          Code            Bike mechanics.
+2020.05.14   1.5   Study                         Research          Abstract        VR game design, outdoor construction.
+2020.05.14   1.0   Rig                           Maintenance       Code            Backup management.
+2020.05.13   2.0   Tinker                        Research          Code            Graphics and realtime rendering.
+2020.05.12   3.0   Rig                           Maintenance       Code            Computer cleaning, cooling change, backup setup.
+2020.05.11   1.0   Rig                           Research          Code            Computer cooling tech.
+2020.05.11   2.0   Rig                           Maintenance       Code            Computer cleaning and analysis.
+2020.05.10   1.0   Study                         Research          Abstract        Business thinking.
+2020.05.09   2.0   Study                         Research          Abstract        Business thinking.
+2020.05.09   1.0   Tinker                        Research          Code            E-commerce platforms.
+2020.05.08   0.5   Tinker                        Development       Code            Webcode teaching.
+2020.05.07   1.0   Tinker                        Development       Code            Webcode teaching.
+2020.05.07   1.0   Fracas                        Photography       Visual          Plant picture taking.
+2020.05.06   3.0   Tinker                        Development       Code            Webcode teaching.
+2020.05.05   2.0   Tinker                        Development       Code            Switch emulator.
+2020.05.04   2.0   Tinker                        Development       Code            Switch emulator.
+2020.05.03   2.0   Tinker                        Development       Code            Switch emulator.
+2020.05.02   1.0   Study                         Research          Abstract        Living world game design.
+2020.05.01   2.0   Tinker                        Development       Code            Switch emulator.
+2020.04.30   1.0   Study                         Research          Abstract        Living world game design.
+2020.04.29   1.0   Study                         Research          Abstract        Living world game design.
+2020.04.28   0.5   V-OS                          Writing           Abstract        Research section review.
+2020.04.27   1.0   Study                         Research          Abstract        Living world game design.
+2020.04.26   1.0   Study                         Research          Abstract        Living world game design.
+2020.04.25   1.0   Study                         Research          Abstract        Microbes.
+2020.04.24   1.0   Study                         Research          Abstract        Microbes.
+2020.04.23   1.0   Study                         Research          Abstract        Microbes.
+2020.04.22   1.0   Study                         Research          Abstract        Living world game design.
+2020.04.21   1.0   Study                         Research          Abstract        Third persn combat system design.
+2020.04.20   1.0   Study                         Research          Abstract        Third persn combat system design.
+2020.04.19   1.0   Furo                          Writing           Abstract        Target matching, smart parkour system.
+2020.04.19   4.5   Furo                          Development       Code            Target matching, smart parkour system.
+2020.04.18   3.0   Furo                          Development       Code            Target matching, smart parkour system.
+2020.04.17   1.0   Study                         Research          Abstract        MMORPG design.
+2020.04.16   1.0   Study                         Research          Abstract        MMORPG design.
+2020.04.15   1.0   Study                         Research          Abstract        MMORPG design.
+2020.04.14   1.5   Furo                          3D                Visual          Project review.
+2020.04.13   3.5   Furo                          Development       Code            Target matching and animation systems.
+2020.04.12   1.0   Study                         Research          Abstract        MMORPG design.
+2020.04.11   1.5   Furo                          3D                Visual          Animation collection.
+2020.04.10   0.5   Furo                          3D                Visual          Animation collection.
+2020.04.10   2.5   Tinker                        Research          Personal        Baking.
+2020.04.09   2.5   Tinker                        Research          Personal        Baking.
+2020.04.08   2.5   Tinker                        Research          Personal        Baking.
+2020.04.07   0.5   Study                         Research          Abstract        Horror game design.
+2020.04.07   1.0   Onsen Bastards                Development       Code            AR interaction.
+2020.04.06   1.0   Onsen Bastards                Development       Code            AR debugging.
+2020.04.06   1.0   Furo                          3D                Visual          Project presentation and research.
+2020.04.05   0.5   Study                         Research          Abstract        Horror game design.
+2020.04.05   2.0   Onsen Bastards                Development       Code            AR debugging.
+2020.04.05   0.5   Delta                         Writing           Abstract        Documentation.
+2020.04.05   3.0   Delta                         Development       Code            UI programming, build debugging.
+2020.04.05   1.5   Doodle                        Graphic           Visual          Graphic design tool teaching.
+2020.04.04   4.5   Delta                         Development       Code            Camera filter rewriting for GPU.
+2020.04.04   4.0   Onsen Bastards                3D                Visual          Environment, characters, design.
+2020.04.03   4.5   Delta                         Development       Code            Camera filter rewriting for GPU.
+2020.04.02   2.5   Navmos                        3D                Visual          Posing.
+2020.04.02   0.5   Various                       Performance       Abstract        Exhibition interview.
+2020.04.01   1.0   Study                         Research          Abstract        Game progress loops.
+2020.03.31   2.5   Furo                          Development       Code            Animation system blend trees.
+2020.03.30   3.0   Furo                          Development       Code            Animation system blend trees.
+2020.03.29   3.0   Log                           Development       Code            Database and UI programming.
+2020.03.28   3.0   Log                           Development       Code            Database and UI programming.
+2020.03.27   1.0   Doodle                        Photography       Visual          Picture taking and editing.
+2020.03.26   1.5   Navmos                        3D                Visual          Posing and graphics.
+2020.03.26   2.0   Log                           Development       Code            Database programming.
+2020.03.25   2.0   Log                           Development       Code            Database programming.
+2020.03.24   2.0   Study                         Research          Abstract        Productivty, modular systems in games.
+2020.03.23   1.0   Navmos                        3D                Visual          Posing.
+2020.03.23   0.5   Rig                           Maintenance       Personal        Backup.
+2020.03.22   2.0   Navmos                        3D                Visual          Posing, lighting, cloth physics.
+2020.03.22   1.0   Navmos                        Graphic           Visual          Graphic design.
+2020.03.21   0.5   Navmos                        Graphic           Visual          Graphic design.
+2020.03.21   3.5   Navmos                        3D                Visual          Posing, lighting, cloth physics.
+2020.03.20   0.5   Rig                           Maintenance       Personal        Backup.
+2020.03.19   1.5   Rig                           Maintenance       Personal        Backup.
+2020.03.19   1.0   Jam                           Composition       Audio           Audio mixing.
+2020.03.18   2.0   Log                           Development       Code            Window behavior and appearance.
+2020.03.18   1.5   Log                           Graphic           Visual          UI design.
+2020.03.17   1.0   Log                           Graphic           Visual          UI design.
+2020.03.17   0.5   Jam                           Composition       Audio           Audio mixing.
+2020.03.16   1.5   Log                           Design            Abstract        Database design.
+2020.03.16   2.0   Log                           Graphic           Visual          UI design.
 2020.03.15   3.0   Log                           Graphic           Visual          UI design.
 2020.03.15   1.0   Log                           Design            Abstract        System use.
 2020.03.15   0.5   Jam                           Composition       Audio           Audio mixing.
@@ -48,12 +189,12 @@ DATE         TIME  PROJECT                       TASK              DIVISION     
 2020.03.14   1.0   Jam                           Composition       Audio           Audio mixing.
 2020.03.13   0.5   Doodle                        Research          Visual          Fashion.
 2020.03.12   1.0   Jam                           Composition       Audio           Audio mixing.
-2020.03.12   3.5   Doodle                        Modeling          Visual          Object modeling, texturing, and animating.
+2020.03.12   3.5   Onsen Bastards                Modeling          Visual          Object modeling, texturing, and animating.
 2020.03.11   1.0   Qurotema                      Writing           Abstract        Documentation and exhibtion submission.
-2020.03.10   6.0   Doodle                        Modeling          Visual          Marine animal modeling, texturing, and animating.
-2020.03.09   6.0   Doodle                        Modeling          Visual          Marine animal modeling.
+2020.03.10   6.0   Onsen Bastards                Modeling          Visual          Marine animal modeling, texturing, and animating.
+2020.03.09   6.0   Onsen Bastards                Modeling          Visual          Marine animal modeling.
 2020.03.09   0.5   Furo                          Design            Abstract        Scheduling.
-2020.03.08   6.0   Doodle                        Modeling          Visual          Marine animal modeling and texturing.
+2020.03.08   6.0   Onsen Bastards                Modeling          Visual          Marine animal modeling and texturing.
 2020.03.08   1.5   Log                           Development       Code            Database research and setup.
 2020.03.07   1.0   Log                           Research          Code            Database research.
 2020.03.07   1.5   Jam                           Composition       Audio           Song composition.
