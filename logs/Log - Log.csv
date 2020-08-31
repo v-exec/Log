@@ -1,5 +1,5 @@
 Date,Time,Project,Task,Division,Details
-2020-08-31,2.0,Log,Development,Code,Create Python script to replace Ruby for CSV parsing.
+2020-08-31,3.0,Log,Development,Code,Create Python script to replace Ruby for CSV parsing.
 2020-08-31,2.0,V-OS,Maintenance,Code,"Clean up 'exp' projects, add small documentation."
 2020-08-30,0.0,None,None,None,
 2020-08-29,2.0,Log,Design,Abstract,Reorganizing and charting data.

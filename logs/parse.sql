@@ -123,7 +123,7 @@ insert into project (name) values ('Elyium');
 insert into project (name) values ('Drone Dreams');
 insert into project (name) values ('Interactive Narratives');
 insert into project (name) values ('VisN');
-insert into log (date, time, project_id, task_id, division_id, details) values ('2020-08-31', '2.0', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Create Python script to replace Ruby for CSV parsing.');
+insert into log (date, time, project_id, task_id, division_id, details) values ('2020-08-31', '3.0', (select id from project where name = 'Log'), (select id from task where name = 'Development'), (select id from division where name = 'Code'), 'Create Python script to replace Ruby for CSV parsing.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2020-08-31', '2.0', (select id from project where name = 'V-OS'), (select id from task where name = 'Maintenance'), (select id from division where name = 'Code'), 'Clean up \'exp\' projects, add small documentation.');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2020-08-30', '0.0', (select id from project where name = 'None'), (select id from task where name = 'None'), (select id from division where name = 'None'), '');
 insert into log (date, time, project_id, task_id, division_id, details) values ('2020-08-29', '2.0', (select id from project where name = 'Log'), (select id from task where name = 'Design'), (select id from division where name = 'Abstract'), 'Reorganizing and charting data.');
