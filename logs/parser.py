@@ -62,7 +62,7 @@ for division in divisions:
 	output.write("insert into division (name) values ('{0!s}');".format(division) + "\n")
 
 for task in tasks:
-	output.write("insert into tasks (name) values ('{0!s}');".format(task) + "\n")
+	output.write("insert into task (name) values ('{0!s}');".format(task) + "\n")
 
 for project in projects:
 	output.write("insert into project (name) values ('{0!s}');".format(project) + "\n")
