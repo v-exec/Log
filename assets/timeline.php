@@ -9,7 +9,6 @@ function timeline($l, $type) {
 	global $codeColor;
 	global $audioColor;
 	global $visualColor;
-	global $personalColor;
 
 	$conn = connect();
 	$result = $conn->query($q);
@@ -101,7 +100,6 @@ function timeline($l, $type) {
 					$abstractTime = 0;
 					$visualTime = 0;
 					$codeTime = 0;
-					$personalTime = 0;
 
 					//in each day's logs, get number of hours for each divisions
 					for ($j = 0; $j < sizeof($days[$i]); $j++) {
@@ -121,27 +119,22 @@ function timeline($l, $type) {
 							case 'Code':
 								$codeTime += $days[$i][$j][1];
 								break;
-
-							case 'Personal':
-								$personalTime += $days[$i][$j][1];
-								break;
 						}
 					}
 
 					//sort values to determine render order
-					$values = array($codeTime, $abstractTime, $visualTime, $audioTime, $personalTime);
+					$values = array($codeTime, $abstractTime, $visualTime, $audioTime);
 					sort($values);
 
-					if ($values[4] === $personalTime) $fill = $personalColor;
-					else if ($values[4] === $codeTime) $fill = $codeColor;
-					else if ($values[4] === $abstractTime) $fill = $abstractColor;
-					else if ($values[4] === $visualTime) $fill = $visualColor;
-					else if ($values[4] === $audioTime) $fill = $audioColor;
+					if ($values[3] === $codeTime) $fill = $codeColor;
+					else if ($values[3] === $abstractTime) $fill = $abstractColor;
+					else if ($values[3] === $visualTime) $fill = $visualColor;
+					else if ($values[3] === $audioTime) $fill = $audioColor;
 
 					echo
 					'
 					<svg class="timeline-circle" style="left: '. $position * 100 .'%;">
-						<circle cx="10" cy="10" r="5" stroke="'. $fill .'" stroke-width="1" fill="'.$fill.'"/>
+						<circle cx="10" cy="10" r="5" stroke="'.$fill.'" stroke-width="1" fill="'.$fill.'"/>
 					</svg>
 					';
 				}

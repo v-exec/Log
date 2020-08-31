@@ -12,7 +12,6 @@ function graph($l, $desiredDays, $type, $h) {
 	global $codeColor;
 	global $audioColor;
 	global $visualColor;
-	global $personalColor;
 
 	$conn = connect();
 	$result = $conn->query($q);
@@ -87,7 +86,6 @@ function graph($l, $desiredDays, $type, $h) {
 		$totalAbstract = 0;
 		$totalVisual = 0;
 		$totalCode = 0;
-		$totalPersonal = 0;
 
 		//get max number of hours achieved in single day
 		$max = 0;
@@ -115,7 +113,6 @@ function graph($l, $desiredDays, $type, $h) {
 			$abstractTime = 0;
 			$visualTime = 0;
 			$codeTime = 0;
-			$personalTime = 0;
 
 			//in each day's logs, get number of hours for each divisions
 			for ($j = 0; $j < sizeof($days[$i]); $j++) {
@@ -139,18 +136,13 @@ function graph($l, $desiredDays, $type, $h) {
 						$codeTime += $days[$i][$j][1];
 						$totalCode += $days[$i][$j][1];
 						break;
-
-					case 'Personal':
-						$personalTime += $days[$i][$j][1];
-						$totalPersonal += $days[$i][$j][1];
-						break;
 				}
 			}
 
 			echo '<div class="graph-day" style="width:'.(100 / sizeof($days)).'%">';
 
 			//sort values to determine render order
-			$values = array($codeTime, $abstractTime, $visualTime, $audioTime, $personalTime);
+			$values = array($codeTime, $abstractTime, $visualTime, $audioTime);
 			sort($values);
 
 			//render flags
@@ -158,7 +150,6 @@ function graph($l, $desiredDays, $type, $h) {
 			$abstractDone = false;
 			$visualDone = false;
 			$audioDone = false;
-			$personalDone = false;
 
 			//saves height for each bar - determining total height, allowing bar stacks
 			$height = 0;
@@ -172,18 +163,7 @@ function graph($l, $desiredDays, $type, $h) {
 			for ($j = 0; $j < sizeof($values); $j++) {
 				$spacing = 1;
 
-				if ($values[$j] == $personalTime && !$personalDone) {
-					$oldHeight = $height;
-					if ($oldHeight == 0) $spacing = 0;
-					$height += ($personalTime / $max) * $graphHeight;
-					echo
-					'
-					<svg class="graph-bar" style="height: '.($height - $oldHeight - $spacing).'px; margin-top: '.($graphHeight - $height).'px; margin-bottom: '.($oldHeight).'px;">
-						<rect width="100%" height="'.(($personalTime / $max) * $graphHeight).'" fill="'.$personalColor.'"/>
-					</svg>
-					';
-					$personalDone = true;
-				} else if ($values[$j] == $codeTime && !$codeDone) {
+				if ($values[$j] == $codeTime && !$codeDone) {
 					$oldHeight = $height;
 					if ($oldHeight == 0) $spacing = 0;
 					$height += ($codeTime / $max) * $graphHeight;
@@ -256,7 +236,7 @@ function graph($l, $desiredDays, $type, $h) {
 
 					<span class="graph-stats-text">'.sizeof($days).' days</span>
 					<span class="graph-stats-text">'.number_format($h, 0, '.', '').' hours</span>
-					<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio + $totalPersonal) / sizeof($days), 1, '.', '').' h/d</span>
+					<span class="graph-stats-text">'.number_format(($totalCode + $totalAbstract + $totalVisual + $totalAudio) / sizeof($days), 1, '.', '').' h/d</span>
 				</div>
 			</div>
 			';

@@ -12,9 +12,8 @@ $clean = addslashes($l);
 
 $abstractColor = '#DDD';
 $codeColor = '#000';
-$visualColor = '#8B87F2';
-$audioColor = '#79F2C3';
-$personalColor = '#AAA';
+$visualColor = '#ED8274';
+$audioColor = '#9BC1BC';
 
 include 'assets/construct.php';
 ?>

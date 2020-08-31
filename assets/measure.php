@@ -8,7 +8,6 @@ function measures($l, $measureType, $pageType, $h) {
 	global $codeColor;
 	global $audioColor;
 	global $visualColor;
-	global $personalColor;
 
 	$conn = connect();
 	$result = $conn->query($q);
@@ -42,8 +41,8 @@ function measures($l, $measureType, $pageType, $h) {
 		//create all measures
 		for ($i = 0; $i < sizeof($rows); $i++) {
 
-			//don't include 'personal' division unless it's particularly relevant
-			if ($h > 10 && $rows[$i][0] == 'Personal' && ($rows[$i][1] / $h * 100) < 5 || $rows[$i][0] == 'None') continue;
+			//remove "none" categories
+			if ($rows[$i][0] == "None") continue;
 
 			//get measure division ratio
 			if (!$pageType) $ratio = getDivisionRatio(null, null, $rows[$i][0], $measureType);
@@ -83,10 +82,6 @@ function measures($l, $measureType, $pageType, $h) {
 
 						case 'Abstract':
 							$color = $abstractColor;
-							break;
-
-						case 'Personal':
-							$color = $personalColor;
 							break;
 					}
 
