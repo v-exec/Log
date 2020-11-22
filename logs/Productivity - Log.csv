@@ -1,7 +1,183 @@
 Date,Time,Project,Task,Division,Details
+2020-11-22,1.0,Log,Development,Code,Small graph update.
+2020-11-22,2.5,V-OS,Writing,Abstract,Project documentation and portfolio rewrite.
+2020-11-21,0.5,V-OS,Writing,Abstract,Project documentation.
+2020-11-21,3.0,CTD,Design,Abstract,Teaching.
+2020-11-20,1.5,Jagged Orbit,Photography,Visual,Video editing.
+2020-11-19,6.0,Jagged Orbit,Photography,Visual,Recording generated landscapes.
+2020-11-19,2.0,Jagged Orbit,Design,Visual,Visual debugging.
+2020-11-19,0.5,Jam,Performance,Audio,Guitar.
+2020-11-18,3.0,Jagged Orbit,Photography,Visual,Recording generated landscapes.
+2020-11-18,1.0,Jam,Performance,Audio,Guitar.
+2020-11-18,2.0,Penny,3D,Visual,Model corrections.
+2020-11-17,4.5,Early Midnight,3D,Visual,Procedural modeling.
+2020-11-17,2.0,Chroniqueur,Development,Code,Simulation interfacing.
+2020-11-16,4.0,Study,Research,Abstract,ADHD.
+2020-11-15,7.0,Early Midnight,3D,Visual,Procedural modeling.
+2020-11-14,3.0,Early Midnight,3D,Visual,Procedural modeling.
+2020-11-14,3.0,CTD,Design,Abstract,Teaching.
+2020-11-13,1.0,Study,Research,Abstract,Dialog writing.
+2020-11-13,0.5,Chroniqueur,Design,Abstract,Meeting.
+2020-11-12,0.5,Penny,Design,Visual,Meeting for feedback implementation.
+2020-11-11,1.0,Study,Research,Abstract,Storytelling in games.
+2020-11-10,1.0,Study,Research,Abstract,Storytelling in games.
+2020-11-09,0.5,Chroniqueur,Design,Code,Vignette system design.
+2020-11-08,4.0,Toryomu,3D,Visual,Procedural modeling and rendering.
+2020-11-07,1.5,Chroniqueur,Composition,Audio,Soundtrack production.
+2020-11-07,6.0,Toryomu,3D,Visual,Procedural modeling and rendering.
+2020-11-07,3.0,CTD,Design,Abstract,Teaching.
+2020-11-06,5.5,Toryomu,3D,Visual,Procedural modeling and rendering.
+2020-11-06,1.0,Chroniqueur,Design,Abstract,Meeting.
+2020-11-05,1.5,Toryomu,Research,Visual,Procedural modeling learning.
+2020-11-05,9.5,Toryomu,3D,Visual,Procedural modeling.
+2020-11-04,8.0,Toryomu,3D,Visual,Procedural modeling.
+2020-11-04,1.0,Chroniqueur,Design,Code,Image generation.
+2020-11-04,1.5,Chroniqueur,Development,Code,Map pinning.
+2020-11-03,2.5,Early Midnight,3D,Visual,Texture mapping and study.
+2020-11-03,1.0,V-OS,Writing,Abstract,Project documentation.
+2020-11-03,0.5,Invictus,3D,Visual,Web viewer explanation.
+2020-11-02,2.0,Early Midnight,3D,Visual,Material design.
+2020-11-01,2.0,Early Midnight,3D,Visual,Material design.
+2020-10-31,2.5,Early Midnight,3D,Visual,Procedural modeling.
+2020-10-31,0.5,Chroniqueur,Composition,Audio,Soundtrack production.
+2020-10-31,3.0,CTD,Design,Abstract,Teaching.
+2020-10-30,2.5,Early Midnight,3D,Visual,Procedural modeling and material design.
+2020-10-30,1.0,V-OS,Design,Abstract,CV update.
+2020-10-30,1.0,Chroniqueur,Design,Abstract,Meeting.
+2020-10-29,0.5,Penny,3D,Visual,Renders and model tweaks.
+2020-10-29,9.0,Early Midnight,3D,Visual,Procedural modeling.
+2020-10-29,2.0,Early Midnight,Research,Visual,Procedural modeling learning.
+2020-10-28,1.0,Penny,3D,Visual,Renders and model tweaks.
+2020-10-28,6.0,Early Midnight,3D,Visual,Procedural modeling.
+2020-10-28,2.0,Early Midnight,Research,Visual,Procedural modeling learning.
+2020-10-27,9.0,Early Midnight,3D,Visual,Procedural modeling learning.
+2020-10-26,8.0,Early Midnight,3D,Visual,Procedural modeling learning.
+2020-10-26,0.5,Jam,Composition,Audio,Mixing learning.
+2020-10-26,1.0,Penny,3D,Visual,Renders and model tweaks.
+2020-10-25,0.5,Penny,3D,Visual,Renders and model tweaks.
+2020-10-25,6.5,Early Midnight,3D,Visual,Procedural modeling learning.
+2020-10-24,3.0,Early Midnight,Research,Visual,Procedural modeling learning.
+2020-10-24,2.0,Chroniqueur,Development,Code,Implement height into sim.
+2020-10-24,3.5,CTD,Design,Abstract,Teaching.
+2020-10-23,0.5,V-OS,Design,Abstract,Portfolio design.
+2020-10-23,2.0,Chroniqueur,Design,Abstract,Meeting.
+2020-10-22,3.5,Chroniqueur,Composition,Audio,Soundtrack production.
+2020-10-21,2.0,Study,Research,Abstract,Game design and narrative.
+2020-10-21,1.5,Penny,3D,Visual,Retopo and rigging.
+2020-10-20,2.0,Study,Research,Abstract,Game design and narrative.
+2020-10-20,2.0,Penny,3D,Visual,Retopo and rigging.
+2020-10-19,2.5,Penny,3D,Visual,"Model corrections, material tweaking and rendering."
+2020-10-18,3.0,Chroniqueur,Development,Code,Terrain implementation with simulation.
+2020-10-17,3.5,CTD,Design,Abstract,Teaching.
+2020-10-16,2.5,Chroniqueur,Development,Code,Terrain implementation with simulation.
+2020-10-16,1.0,Study,Research,Abstract,"Mental health, CBT, and SSRI."
+2020-10-15,2.5,Chroniqueur,Composition,Audio,Soundtrack production.
+2020-10-15,0.5,Invictus,3D,Visual,Web glove tweaking.
+2020-10-15,1.0,Penny,3D,Visual,Pipeline tests.
+2020-10-14,1.0,Jam,Composition,Audio,Revisiting old songs.
+2020-10-14,3.0,Chroniqueur,3D,Visual,Asset production.
+2020-10-14,6.0,Penny,3D,Visual,"Toon shader, mesh Blender implementation."
+2020-10-13,4.0,Jagged Orbit,3D,Visual,Photogrammetry.
+2020-10-13,1.0,Doodle,2D,Visual,Illustration.
+2020-10-12,3.0,Jagged Orbit,Development,Code,"Rendering, camera suite development."
+2020-10-11,0.5,Penny,3D,Visual,Test scene production.
+2020-10-11,0.5,Penny,Research,Visual,Pipeline research.
+2020-10-10,3.0,Doodle,2D,Visual,Illustration.
+2020-10-10,1.0,Invictus,3D,Visual,Modeling and texturing.
+2020-10-09,7.0,Invictus,3D,Visual,Modeling and texturing.
+2020-10-09,1.5,Chroniqueur,Design,Abstract,Meeting.
+2020-10-08,1.5,Doodle,2D,Visual,Illustration.
+2020-10-07,7.0,Chroniqueur,3D,Visual,"Texture production, implementation, and testing."
+2020-10-06,0.5,Chroniqueur,3D,Visual,"Texture production, implementation, and testing."
+2020-10-05,5.0,Chroniqueur,3D,Visual,"Asset production, implementation, and testing."
+2020-10-05,1.0,Jam,Composition,Audio,Sampling and mixing.
+2020-10-04,3.0,Doodle,3D,Visual,Modeling.
+2020-10-03,1.5,Jam,Composition,Audio,Sampling and mixing.
+2020-10-03,0.5,Doodle,Photography,Visual,Game photography.
+2020-10-03,0.5,Chroniqueur,Development,Code,Terrain codebase implementation.
+2020-10-03,3.5,CTD,Design,Abstract,Teaching.
+2020-10-02,2.0,Tinker,Development,Code,Streaming talker app.
+2020-10-02,1.0,Chroniqueur,Development,Code,Terrain codebase implementation.
+2020-10-02,1.0,Chroniqueur,Design,Abstract,Meeting.
+2020-10-01,2.0,Chroniqueur,Development,Code,Terrain codebase implementation.
+2020-10-01,1.0,Study,Research,Abstract,Progression design.
+2020-09-30,4.0,Chroniqueur,Development,Code,Terrain population.
+2020-09-30,0.5,Tinker,Development,Code,Programming help.
+2020-09-29,1.5,Study,Research,Abstract,Level design.
+2020-09-28,1.5,Study,Research,Abstract,Level design.
+2020-09-27,0.5,Invictus,3D,Visual,Modeling.
+2020-09-26,3.5,CTD,Design,Abstract,Teaching.
+2020-09-25,0.5,Invictus,3D,Visual,Modeling.
+2020-09-25,1.0,CTD,Design,Abstract,Teaching preparations.
+2020-09-25,0.5,Rig,Maintenance,Abstract,Finance management.
+2020-09-25,0.5,Chroniqueur,Design,Abstract,Meeting.
+2020-09-24,0.5,Rig,Maintenance,Abstract,Finance management.
+2020-09-24,0.5,CTD,Design,Abstract,Teaching preparations.
+2020-09-24,2.0,Chroniqueur,Composition,Audio,Composition.
+2020-09-23,1.0,Chroniqueur,Composition,Audio,Composition.
+2020-09-23,1.0,Rig,Maintenance,Abstract,Equipment cleaning.
+2020-09-23,1.0,Study,Research,Abstract,Self-employment mechanics.
+2020-09-23,3.0,Invictus,3D,Visual,"Fluid simulations, animation, UV editing."
+2020-09-22,4.0,Invictus,3D,Visual,"Fluid simulations, animation, UV editing."
+2020-09-22,1.5,Doodle,2D,Visual,Illustration.
+2020-09-21,0.0,CTD,Event,Abstract,Sign on to contract.
+2020-09-21,1.5,Doodle,2D,Visual,Illustration.
+2020-09-21,1.0,Study,Research,Abstract,Fitness.
+2020-09-21,2.5,Invictus,3D,Visual,Fluid simulations and animation.
+2020-09-20,2.5,Invictus,3D,Visual,Fluid simulations and animation.
+2020-09-19,1.0,Rig,Maintenance,Code,Budget and spending organization and visualization.
+2020-09-19,1.5,Study,Research,Abstract,Finance.
+2020-09-19,0.5,Full_Body,Writing,Abstract,Documentation.
+2020-09-19,3.5,Full_Body,Development,Code,App design.
+2020-09-18,8.5,Full_Body,Development,Code,App design.
+2020-09-18,1.0,Chroniqueur,Design,Abstract,Meeting.
+2020-09-17,2.0,Full_Body,Development,Code,App design.
+2020-09-17,1.0,Full_Body,Writing,Abstract,Documentation.
+2020-09-17,1.0,Full_Body,Design,Abstract,App design.
+2020-09-17,1.0,Rig,Design,Abstract,Spreadsheet reorganization.
+2020-09-17,1.5,Chroniqueur,Development,Code,Map generation.
+2020-09-17,0.5,Study,Research,Abstract,Investments.
+2020-09-17,0.5,Study,Research,Code,Hardware.
+2020-09-16,0.5,Study,Research,Code,Hardware.
+2020-09-16,6.0,Chroniqueur,Development,Code,Map generation.
+2020-09-16,1.5,Study,Research,Abstract,Finance.
+2020-09-15,1.5,V-OS,Writing,Abstract,"Document Fracas and Expansion, organizational tweaks."
+2020-09-15,1.0,Doodle,Photography,Visual,Photo editing.
+2020-09-15,1.0,Study,Research,Abstract,"Free will, AI, mindfulness."
+2020-09-15,1.0,Jagged Orbit,Development,Code,Particle system.
+2020-09-14,1.5,Tinker,Development,Code,Machine learning.
+2020-09-14,5.0,Jagged Orbit,Development,Code,Particle and camera systems.
+2020-09-13,1.0,Study,Research,Abstract,Deception game design.
+2020-09-13,0.5,Jagged Orbit,Design,Visual,Particle system tweaking.
+2020-09-13,2.0,Jagged Orbit,Design,Code,Asset pipeline set up and documentation.
+2020-09-13,1.5,Study,Research,Code,Hardware and manufacturers.
+2020-09-12,1.5,Study,Research,Code,Hardware and manufacturers.
+2020-09-12,1.0,Jam,Composition,Audio,Jam.
+2020-09-11,0.5,Rig,Maintenance,Abstract,Cleaning.
+2020-09-11,1.0,Jagged Orbit,Design,Visual,Footage acquisition.
+2020-09-11,0.5,Rig,Development,Code,Schedule code additions.
+2020-09-11,3.0,Rig,Research,Code,Hardware and manufacturers.
+2020-09-11,1.0,Chroniqueur,Development,Code,Terrain generation.
+2020-09-10,4.0,Jam,Composition,Audio,Composition.
+2020-09-09,2.0,Chroniqueur,Development,Code,Terrain generation.
+2020-09-08,1.0,Chroniqueur,Composition,Audio,Guitar and composition.
+2020-09-08,1.0,Jam,Composition,Audio,Composition.
+2020-09-07,2.0,Invictus,3D,Visual,Fluid simulations and animation.
+2020-09-06,4.0,Rig,Research,Code,Hardware and manufacturers.
+2020-09-06,0.5,Log,Maintenance,Abstract,Log cleaning.
+2020-09-06,0.5,Study,Research,Abstract,European history.
+2020-09-05,1.0,Study,Research,Abstract,European history.
+2020-09-04,1.0,Study,Research,Abstract,Evolution.
+2020-09-03,0.5,Study,Research,Abstract,Game market.
+2020-09-02,1.0,Chroniqueur,Research,Code,Terrain generation algorithms.
+2020-09-02,0.0,Chroniqueur,Event,Abstract,Sign on to project.
+2020-09-02,1.0,Rig,Design,Abstract,Personal organization through sheets.
+2020-09-02,6.0,Rig,Development,Code,Personal organization through sheets.
+2020-09-01,1.0,Doodle,Photography,Visual,Photo editing.
+2020-09-01,0.5,V-OS,Research,Code,VPS considerations.
 2020-08-31,3.0,Log,Development,Code,Create Python script to replace Ruby for CSV parsing.
 2020-08-31,2.0,V-OS,Maintenance,Code,"Clean up 'exp' projects, add small documentation."
-2020-08-30,0.0,None,None,None,
+2020-08-30,0.5,Jam,Performance,Audio,Guitar.
 2020-08-29,2.0,Log,Design,Abstract,Reorganizing and charting data.
 2020-08-28,2.0,Invictus,3D,Visual,Animation.
 2020-08-27,0.5,PESSIMISTIC STATEMENT,2D,Visual,Embroidery.
@@ -46,7 +222,7 @@ Date,Time,Project,Task,Division,Details
 2020-08-01,0.0,Various,Event,Abstract,Camping.
 2020-07-31,0.5,Invictus,Photography,Visual,Commercial draft editing.
 2020-07-30,1.5,Invictus,Photography,Visual,Commercial draft editing.
-2020-07-29,1.0,Jam,Composition,Audio,Vocals and guitar.
+2020-07-29,1.0,Jam,Performance,Audio,Vocals and guitar.
 2020-07-29,1.0,PESSIMISTIC STATEMENT,2D,Visual,Apparel and branding design.
 2020-07-29,3.5,Invictus,3D,Visual,Animation rendering.
 2020-07-29,1.0,Study,Research,Abstract,Survival gear.
@@ -137,7 +313,7 @@ Date,Time,Project,Task,Division,Details
 2020-06-10,5.0,Architects of Souls,Composition,Audio,Composition and experimental sound synthesis.
 2020-06-09,3.0,Invictus,3D,Visual,"Logo reveal tweaks, glove reworking."
 2020-06-09,5.0,Architects of Souls,Composition,Audio,Composition and experimental sound synthesis.
-2020-06-09,1.5,Jam,Composition,Audio,Guitar.
+2020-06-09,1.5,Jam,Performance,Audio,Guitar.
 2020-06-08,2.5,Invictus,Design,Visual,"Logo reveal tweaks, project team planning."
 2020-06-07,1.0,Study,Research,Abstract,Philosophy.
 2020-06-07,1.0,Study,Research,Abstract,Baking.
@@ -269,7 +445,7 @@ Date,Time,Project,Task,Division,Details
 2020-03-15,3.0,Log,2D,Visual,UI design.
 2020-03-15,1.0,Log,Design,Abstract,System use.
 2020-03-15,0.5,Jam,Composition,Audio,Audio mixing.
-2020-03-15,1.0,Jam,Composition,Audio,Guitar and vocals.
+2020-03-15,1.0,Jam,Performance,Audio,Guitar and vocals.
 2020-03-14,2.5,Log,2D,Visual,UI design.
 2020-03-14,3.0,Log,Design,Abstract,System use.
 2020-03-14,1.5,Log,Development,Code,Database connection and usage.
@@ -279,25 +455,25 @@ Date,Time,Project,Task,Division,Details
 2020-03-12,3.5,Onsen Bastards,3D,Visual,"Object 3D      , texturing, and animating."
 2020-03-11,1.0,Qurotema,Writing,Abstract,Documentation and exhibtion submission.
 2020-03-10,6.0,Onsen Bastards,3D,Visual,"Marine animal 3D      , texturing, and animating."
-2020-03-09,6.0,Onsen Bastards,3D,Visual,Marine animal 3D      .
+2020-03-09,6.0,Onsen Bastards,3D,Visual,Marine animal 3D.
 2020-03-09,0.5,Furo,Design,Abstract,Scheduling.
 2020-03-08,6.0,Onsen Bastards,3D,Visual,Marine animal 3D       and texturing.
 2020-03-08,1.5,Log,Development,Code,Database research and setup.
 2020-03-07,1.0,Log,Research,Code,Database research.
 2020-03-07,1.5,Jam,Composition,Audio,Song composition.
-2020-03-07,4.0,Jam,Composition,Audio,"Guitar, vocals."
-2020-03-06,1.0,Jam,Composition,Audio,Guitar.
-2020-03-06,1.0,Labors of Love,Composition,Audio,Score composition.
+2020-03-07,4.0,Jam,Performance,Audio,"Guitar, vocals."
+2020-03-06,1.0,Jam,Performance,Audio,Guitar.
+2020-03-06,1.0,Fruits of Labour,Composition,Audio,Score composition.
 2020-03-06,1.0,Log,Design,Abstract,Software design.
 2020-03-05,1.0,Log,Design,Abstract,Software design.
-2020-03-05,1.0,Labors of Love,Composition,Audio,Score composition.
-2020-03-05,1.5,Jam,Composition,Audio,Guitar.
-2020-03-04,3.0,Jam,Composition,Audio,Guitar.
-2020-03-04,3.5,Labors of Love,Composition,Audio,Score composition.
-2020-03-03,1.5,Jam,Composition,Audio,Guitar.
-2020-03-03,3.0,Labors of Love,Composition,Audio,Score composition.
+2020-03-05,1.0,Fruits of Labour,Composition,Audio,Score composition.
+2020-03-05,1.5,Jam,Performance,Audio,Guitar.
+2020-03-04,3.0,Jam,Performance,Audio,Guitar.
+2020-03-04,3.5,Fruits of Labour,Composition,Audio,Score composition.
+2020-03-03,1.5,Jam,Performance,Audio,Guitar.
+2020-03-03,3.0,Fruits of Labour,Composition,Audio,Score composition.
 2020-03-03,2.0,Furo,Development,Code,"Prototye build, camera system finalization."
-2020-03-02,1.0,Labors of Love,Composition,Audio,Score composition.
+2020-03-02,1.0,Fruits of Labour,Composition,Audio,Score composition.
 2020-03-02,1.0,Tinker,Development,Code,Unity coaching.
 2020-03-02,1.0,Study,Research,Abstract,Progress feedback.
 2020-03-02,1.0,Furo,Research,Abstract,Progress feedback.
@@ -322,23 +498,23 @@ Date,Time,Project,Task,Division,Details
 2020-02-20,3.0,Study,Research,Abstract,"Dance, the purpose of life."
 2020-02-19,1.5,Doodle,2D,Visual,Layout teaching.
 2020-02-19,2.0,Stream,Performance,Abstract,Game streaming.
-2020-02-19,1.5,Labors of Love,Composition,Audio,Score composition.
-2020-02-18,3.5,Labors of Love,Composition,Audio,Score composition.
+2020-02-19,1.5,Fruits of Labour,Composition,Audio,Score composition.
+2020-02-18,3.5,Fruits of Labour,Composition,Audio,Score composition.
 2020-02-18,1.0,V-OS,Research,Abstract,CV and portfolio update.
 2020-02-18,3.0,Study,Research,Abstract,Digital art industry.
-2020-02-17,1.5,Labors of Love,Composition,Audio,Score composition.
+2020-02-17,1.5,Fruits of Labour,Composition,Audio,Score composition.
 2020-02-17,3.0,Furo,Research,Abstract,Character animation techniques.
 2020-02-16,2.0,Jam,Composition,Audio,Vocals.
 2020-02-16,2.0,Jam,Research,Audio,"Ambient performance by Simon, Max, and others."
 2020-02-15,1.5,Jam,Composition,Audio,Vocals.
-2020-02-15,1.5,Labors of Love,Composition,Audio,Score composition.
-2020-02-14,1.5,Jam,Composition,Audio,Guitar.
-2020-02-14,1.5,Labors of Love,Composition,Audio,Score composition.
+2020-02-15,1.5,Fruits of Labour,Composition,Audio,Score composition.
+2020-02-14,1.5,Jam,Performance,Audio,Guitar.
+2020-02-14,1.5,Fruits of Labour,Composition,Audio,Score composition.
 2020-02-13,1.0,Various,Performance,Abstract,College speech about CART and the industry.
 2020-02-12,2.0,Stream,Performance,Abstract,Game streaming.
 2020-02-11,1.0,Doodle,Research,Visual,Illustration studies.
-2020-02-11,2.0,Labors of Love,Composition,Audio,Score composition.
-2020-02-10,2.0,Labors of Love,Composition,Audio,Score composition.
+2020-02-11,2.0,Fruits of Labour,Composition,Audio,Score composition.
+2020-02-10,2.0,Fruits of Labour,Composition,Audio,Score composition.
 2020-02-10,1.0,Doodle,3D,Visual,3D project proposals feedback.
 2020-02-10,1.0,Furo,Research,Abstract,Proposal feedback.
 2020-02-09,1.0,Furo,2D,Visual,Proposal.
@@ -347,11 +523,11 @@ Date,Time,Project,Task,Division,Details
 2020-02-08,0.5,Furo,Writing,Abstract,Proposal.
 2020-02-08,1.0,Stream,Performance,Abstract,Game streaming.
 2020-02-08,1.0,Study,Research,Abstract,Escape room game design.
-2020-02-08,1.0,Labors of Love,Composition,Audio,Score composition.
+2020-02-08,1.0,Fruits of Labour,Composition,Audio,Score composition.
 2020-02-07,3.0,Furo,Writing,Abstract,Story writing and research.
 2020-02-06,1.0,Furo,3D,Abstract,Story writing and research
 2020-02-06,1.0,Furo,Writing,Abstract,Story writing and research.
-2020-02-06,1.0,Labors of Love,Research,Audio,Score composition.
+2020-02-06,1.0,Fruits of Labour,Research,Audio,Score composition.
 2020-02-05,2.0,Stream,Performance,Abstract,Game streaming.
 2020-02-04,1.0,Study,Research,Abstract,3rd person combat systems.
 2020-02-03,3.0,Furo,Writing,Abstract,Story writing and research.
@@ -463,13 +639,13 @@ Date,Time,Project,Task,Division,Details
 2019-12-08,3.0,Study,Research,Abstract,Dating.
 2019-12-07,0.5,You Are X,Writing,Abstract,Documentation.
 2019-12-06,1.0,You Are X,2D,Visual,Physical build dismantling.
-2019-12-05,0.5,Jam,Composition,Audio,Guitar.
+2019-12-05,0.5,Jam,Performance,Audio,Guitar.
 2019-12-05,0.5,You Are X,Writing,Abstract,Documentation.
 2019-12-05,0.5,4D Society,Development,Code,Website debugging.
 2019-12-05,0.5,Doodle,Photography,Visual,Photo editing.
-2019-12-05,0.5,Doodle,Performance,Visual,Photography 3D      .
+2019-12-05,0.5,Doodle,Performance,Visual,Photography 3D.
 2019-12-05,0.5,Jam,Performance,Audio,Dance.
-2019-12-04,0.5,Doodle,Performance,Visual,Photography 3D      .
+2019-12-04,0.5,Doodle,Performance,Visual,Photography 3D.
 2019-12-03,1.0,4D Society,Development,Code,Website development.
 2019-12-03,1.0,4D Society,2D,Visual,Visual assets for website.
 2019-12-02,1.0,Jam,Composition,Audio,Vocals.
@@ -513,7 +689,7 @@ Date,Time,Project,Task,Division,Details
 2019-11-22,1.5,Chimera,3D,Visual,3D       and 3D printing prep.
 2019-11-22,2.0,You Are X,Development,Code,Testing and debugging.
 2019-11-22,4.0,You Are X,2D,Visual,Physical build painting.
-2019-11-21,5.0,Chimera,3D,Visual,3D      .
+2019-11-21,5.0,Chimera,3D,Visual,3D.
 2019-11-20,7.0,4D Society,Development,Code,Shader programming.
 2019-11-19,0.5,You Are X,3D,Visual,Environment production.
 2019-11-19,1.5,You Are X,2D,Visual,Environment production.
@@ -593,11 +769,11 @@ Date,Time,Project,Task,Division,Details
 2019-10-21,1.0,Doodle,Photography,Visual,Nature photography.
 2019-10-20,2.0,Qurotema,3D,Visual,Rock production.
 2019-10-20,3.0,Qurotema,Development,Code,Shader programming.
-2019-10-20,1.0,Jam,Composition,Audio,Guitar.
+2019-10-20,1.0,Jam,Performance,Audio,Guitar.
 2019-10-19,7.5,Cord,Development,Code,App programming.
 2019-10-19,1.0,Study,Research,Abstract,Socialization with strangers.
 2019-10-19,0.5,Jam,Research,Audio,Composition.
-2019-10-18,0.5,Jam,Composition,Audio,Guitar.
+2019-10-18,0.5,Jam,Performance,Audio,Guitar.
 2019-10-18,0.5,Cord,2D,Visual,Logo production.
 2019-10-18,2.0,Cord,Development,Code,App programming.
 2019-10-18,4.0,You Are X,Design,Abstract,Project design and testing.
@@ -608,7 +784,7 @@ Date,Time,Project,Task,Division,Details
 2019-10-16,1.5,You Are X,Development,Code,Website tweaking.
 2019-10-16,3.0,Study,Research,Abstract,Game design.
 2019-10-16,1.0,4D Society,Development,Code,Shader coding.
-2019-10-16,1.0,Jam,Composition,Audio,Guitar.
+2019-10-16,1.0,Jam,Performance,Audio,Guitar.
 2019-10-15,0.5,4D Society,2D,Visual,Logo production.
 2019-10-15,2.0,4D Society,Design,Visual,Level design and environment art.
 2019-10-15,1.0,4D Society,Research,Code,Baking and level design.
@@ -620,14 +796,14 @@ Date,Time,Project,Task,Division,Details
 2019-10-12,1.0,Architects of Souls,Composition,Audio,Composition.
 2019-10-11,1.0,Jam,Composition,Audio,Composition.
 2019-10-11,1.0,Architects of Souls,Composition,Audio,Composition.
-2019-10-11,1.0,Jam,Composition,Audio,Guitar.
+2019-10-11,1.0,Jam,Performance,Audio,Guitar.
 2019-10-11,1.0,You Are X,Development,Code,Migrate project to different Unity version.
 2019-10-11,1.0,Freya,Design,Abstract,"Rewriting bot, adding translation."
 2019-10-11,3.5,Freya,Development,Code,"Rewriting bot, adding translation."
 2019-10-10,1.0,Jam,Composition,Audio,Composition.
 2019-10-10,1.5,Study,Research,Abstract,Teaching careers.
 2019-10-10,1.5,Doodle,Research,Visual,Infographics analysis.
-2019-10-10,0.5,Jam,Composition,Audio,Guitar.
+2019-10-10,0.5,Jam,Performance,Audio,Guitar.
 2019-10-09,0.5,Architects of Souls,Composition,Audio,Composition.
 2019-10-09,3.0,Study,Research,Abstract,Game design.
 2019-10-09,0.5,You Are X,Development,Code,Scene sequencing.
@@ -665,7 +841,7 @@ Date,Time,Project,Task,Division,Details
 2019-09-27,2.0,You Are X,Development,Code,Post processing and platform adjustment.
 2019-09-26,1.0,Jam,Research,Audio,Composition and engineering learning.
 2019-09-26,5.0,Input Peripherals,2D,Visual,Brainstorming and experimentation for infographic.
-2019-09-26,0.5,Jam,Composition,Audio,Guitar.
+2019-09-26,0.5,Jam,Performance,Audio,Guitar.
 2019-09-25,2.0,Jam,Research,Audio,Composition and engineering learning.
 2019-09-25,3.0,Study,Research,Abstract,Game design.
 2019-09-24,1.5,Qurotema,3D,Visual,3D       and texturing.
@@ -850,11 +1026,11 @@ Date,Time,Project,Task,Division,Details
 2019-07-13,1.5,Sports,Research,Code,Gymnastics.
 2019-07-12,0.5,Study,Linguistics,Abstract,Syntax.
 2019-07-12,3.0,Japan,Linguistics,Abstract,Japanese.
-2019-07-11,0.5,Jam,Composition,Audio,Guitar teaching.
+2019-07-11,0.5,Jam,Performance,Audio,Guitar teaching.
 2019-07-11,1.5,Tinker,Development,Code,Web programming teaching.
 2019-07-11,2.0,Study,Writing,Abstract,Creative writing.
-2019-07-10,1.0,Jam,Composition,Audio,Guitar teaching.
-2019-07-09,1.5,Jam,Composition,Audio,Guitar teaching.
+2019-07-10,1.0,Jam,Performance,Audio,Guitar teaching.
+2019-07-09,1.5,Jam,Performance,Audio,Guitar teaching.
 2019-07-09,1.0,Study,Research,Abstract,Corporate programming careers.
 2019-07-09,1.5,Study,Research,Abstract,Game studies.
 2019-07-08,1.5,Japan,Linguistics,Abstract,Kanji.
@@ -960,7 +1136,7 @@ Date,Time,Project,Task,Division,Details
 2019-05-27,0.5,A Drop in an Ocean of Sand,Writing,Abstract,Creative writing.
 2019-05-27,1.5,Tinker,Design,Abstract,Platforming game design.
 2019-05-27,2.0,Jam,Composition,Audio,Songwriting.
-2019-05-26,1.0,Jam,Writing,Audio,Songwriting.
+2019-05-26,1.0,Jam,Composition,Audio,Songwriting.
 2019-05-26,1.0,Study,Research,Abstract,Exploration-based game design.
 2019-05-25,4.5,Sports,Performance,Abstract,Biking to Odaiba.
 2019-05-25,1.0,Study,Research,Abstract,Exploration-based game design.
@@ -1051,19 +1227,19 @@ Date,Time,Project,Task,Division,Details
 2019-04-16,1.5,Tinker,Research,Code,Cycling technology and techniques.
 2019-04-15,2.5,Japan,Linguistics,Abstract,Kanji.
 2019-04-14,2.0,Study,Design,Abstract,Cooperative gameplay design.
-2019-04-13,0.0,None,None,None,
+2019-04-13,0.5,Japan,Linguistics,Abstract,Speaking.
 2019-04-12,2.0,Architects of Souls,Composition,Audio,Composition.
 2019-04-12,0.5,FeatherFall,3D,Visual,3D printing preparation.
 2019-04-11,1.5,Architects of Souls,Composition,Audio,Composition.
 2019-04-10,1.0,Study,Design,Abstract,Difficulty design.
-2019-04-10,1.0,FeatherFall,3D,Visual,3D      .
-2019-04-09,0.5,FeatherFall,3D,Visual,3D      .
+2019-04-10,1.0,FeatherFall,3D,Visual,3D.
+2019-04-09,0.5,FeatherFall,3D,Visual,3D.
 2019-04-08,1.0,Forms,Photography,Visual,Picture editing.
-2019-04-07,1.0,FeatherFall,3D,Visual,3D      .
+2019-04-07,1.0,FeatherFall,3D,Visual,3D.
 2019-04-07,1.5,Forms,Photography,Visual,Picture editing.
 2019-04-06,3.5,Forms,Photography,Visual,Picture taking and editing.
-2019-04-06,1.0,FeatherFall,3D,Visual,3D      .
-2019-04-05,2.0,FeatherFall,3D,Visual,3D      .
+2019-04-06,1.0,FeatherFall,3D,Visual,3D.
+2019-04-05,2.0,FeatherFall,3D,Visual,3D.
 2019-04-05,2.0,Various,Linguistics,Abstract,English teaching.
 2019-04-04,3.0,Jam,Composition,Audio,Vocals.
 2019-04-04,2.0,Various,Linguistics,Abstract,English teaching.
@@ -1123,7 +1299,7 @@ Date,Time,Project,Task,Division,Details
 2019-02-21,1.5,Jam,Composition,Audio,Rhythm games.
 2019-02-20,3.0,Jam,Design,Audio,Rhythm games.
 2019-02-19,1.5,Jam,Design,Audio,Rhythm games.
-2019-02-18,1.5,Jam,Composition,Audio,Guitar.
+2019-02-18,1.5,Jam,Performance,Audio,Guitar.
 2019-02-17,1.5,Perfect Empathy,Development,Code,Styling fixes.
 2019-02-17,2.0,Study,Research,Abstract,Anatomy.
 2019-02-16,0.5,Perfect Empathy,Development,Code,Styling fixes.
@@ -1203,21 +1379,21 @@ Date,Time,Project,Task,Division,Details
 2019-01-05,1.5,V-OS,Writing,Abstract,Lifeset update.
 2019-01-05,0.5,BlindRob Lander,Development,Code,Finishing touches.
 2019-01-05,2.0,Jam,Composition,Audio,"Deathbeds cover, wip song finalizations."
-2019-01-04,2.0,Jam,Composition,Audio,Guitar and vocals.
+2019-01-04,2.0,Jam,Performance,Audio,Guitar and vocals.
 2019-01-04,2.0,Jam,Composition,Audio,Deathbeds cover.
 2019-01-04,1.0,BlindRob Lander,Development,Code,Interaction design.
 2019-01-03,2.5,Tinker,Development,Code,Gallery of Babel.
 2019-01-03,4.0,Study,Research,Abstract,"Chemicals, and sexual physiology."
-2019-01-03,1.5,Jam,Composition,Audio,Guitar.
+2019-01-03,1.5,Jam,Performance,Audio,Guitar.
 2019-01-02,2.0,Doodle,3D,Visual,Fusion 360 learning.
-2019-01-02,1.5,Jam,Composition,Audio,Guitar.
-2019-01-01,1.0,Jam,Composition,Audio,Guitar.
+2019-01-02,1.5,Jam,Performance,Audio,Guitar.
+2019-01-01,1.0,Jam,Performance,Audio,Guitar.
 2019-01-01,3.5,Doodle,3D,Visual,Fusion 360 learning.
 2018-12-31,0.5,Study,Research,Abstract,Herbal medicine.
 2018-12-30,1.0,Forms,Photography,Visual,Picture editing.
 2018-12-29,2.0,Forms,Photography,Visual,Picture editing.
 2018-12-29,2.0,Jam,Composition,Audio,Composition.
-2018-12-29,1.0,Jam,Composition,Audio,Guitar.
+2018-12-29,1.0,Jam,Performance,Audio,Guitar.
 2018-12-29,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-29,0.5,Rig,Research,Code,Troubleshooting.
 2018-12-28,0.5,Rig,Research,Code,Troubleshooting.
@@ -1226,8 +1402,8 @@ Date,Time,Project,Task,Division,Details
 2018-12-26,1.0,Forms,Photography,Visual,Picture taking.
 2018-12-25,1.0,Forms,Photography,Visual,Picture taking.
 2018-12-24,2.0,Study,Research,Abstract,Relationships.
-2018-12-23,1.5,Jam,Composition,Audio,Guitar.
-2018-12-22,5.0,Jam,Composition,Audio,Vocals and guitar.
+2018-12-23,1.5,Jam,Performance,Audio,Guitar.
+2018-12-22,5.0,Jam,Performance,Audio,Vocals and guitar.
 2018-12-21,1.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-20,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-20,0.5,Study,Research,Abstract,Alternative psychological review of stanford prison experiment.
@@ -1239,8 +1415,8 @@ Date,Time,Project,Task,Division,Details
 2018-12-17,1.0,Study,Design,Abstract,Asymetric game design.
 2018-12-16,1.0,Study,Research,Abstract,Psychology.
 2018-12-16,2.0,Jam,Composition,Audio,Composition.
-2018-12-16,1.0,Jam,Composition,Audio,Guitar.
-2018-12-15,3.0,Jam,Composition,Audio,Guitar.
+2018-12-16,1.0,Jam,Performance,Audio,Guitar.
+2018-12-15,3.0,Jam,Performance,Audio,Guitar.
 2018-12-15,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-14,1.0,Japan,Linguistics,Abstract,Japanese.
 2018-12-13,0.5,Study,Research,Audio,Funk genre.
@@ -1251,7 +1427,7 @@ Date,Time,Project,Task,Division,Details
 2018-12-11,0.5,Study,Research,Audio,"Band formation, management, and musicianship."
 2018-12-11,1.5,Study,Design,Abstract,Social design.
 2018-12-11,1.0,BlindRob Lander,Development,Code,Styling.
-2018-12-11,3.0,Jam,Composition,Audio,Guitar.
+2018-12-11,3.0,Jam,Performance,Audio,Guitar.
 2018-12-11,3.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-10,3.5,Forms,Photography,Visual,Picture editing.
 2018-12-10,7.0,Study,Design,Abstract,"Tokyo architecture, city design, behavioral biology, and social design."
@@ -1260,45 +1436,45 @@ Date,Time,Project,Task,Division,Details
 2018-12-08,1.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-08,2.0,Machine Girl,Composition,Audio,Band rehearsal and practice.
 2018-12-07,1.0,Japan,Linguistics,Abstract,Japanese.
-2018-12-06,2.0,Doodle,3D,Visual,3D      .
+2018-12-06,2.0,Doodle,3D,Visual,3D.
 2018-12-05,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-04,0.5,BlindRob Lander,2D,Visual,Logo and icons.
 2018-12-04,3.0,BlindRob Lander,Development,Code,Web development.
 2018-12-04,3.0,Japan,Linguistics,Abstract,Japanese.
-2018-12-03,0.5,Jam,Composition,Audio,Guitar.
+2018-12-03,0.5,Jam,Performance,Audio,Guitar.
 2018-12-03,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-03,3.5,Study,Research,Abstract,"Tokyo architecture, city design, and freelance work."
 2018-12-02,1.0,Study,Design,Abstract,Geotracking app design.
 2018-12-02,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-12-01,2.0,Study,Research,Abstract,Freelance work.
 2018-12-01,1.0,Forms,Photography,Visual,Picture editing.
-2018-12-01,1.0,Jam,Composition,Audio,Guitar.
-2018-11-30,1.5,Jam,Composition,Audio,Guitar.
+2018-12-01,1.0,Jam,Performance,Audio,Guitar.
+2018-11-30,1.5,Jam,Performance,Audio,Guitar.
 2018-11-29,1.5,Forms,Photography,Visual,Picture editing.
 2018-11-29,3.0,Machine Girl,Composition,Audio,Band rehearsal and practice.
 2018-11-29,3.0,Japan,Linguistics,Abstract,Japanese.
 2018-11-28,2.5,Forms,Photography,Visual,Picture taking and editing.
-2018-11-28,3.0,Jam,Composition,Audio,Guitar.
+2018-11-28,3.0,Jam,Performance,Audio,Guitar.
 2018-11-28,0.5,Tinker,Research,Code,Bone conduction technology.
 2018-11-28,1.0,Jam,Composition,Audio,Composition.
 2018-11-27,1.0,Forms,Photography,Visual,Picture editing.
 2018-11-27,1.5,Jam,Composition,Audio,Composition.
-2018-11-27,3.0,Jam,Composition,Audio,Guitar.
-2018-11-26,2.5,Jam,Composition,Audio,Guitar.
+2018-11-27,3.0,Jam,Performance,Audio,Guitar.
+2018-11-26,2.5,Jam,Performance,Audio,Guitar.
 2018-11-25,0.5,Jam,Composition,Audio,Composition.
-2018-11-25,3.0,Jam,Composition,Audio,Guitar and theory.
+2018-11-25,3.0,Jam,Performance,Audio,Guitar and theory.
 2018-11-25,1.5,Forms,Photography,Visual,Picture editing.
 2018-11-24,1.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-23,1.5,Forms,Photography,Visual,Picture taking.
 2018-11-23,1.0,Jam,Composition,Audio,Composition.
-2018-11-23,2.0,Jam,Composition,Audio,Guitar and theory.
+2018-11-23,2.0,Jam,Performance,Audio,Guitar and theory.
 2018-11-22,3.0,Japan,Linguistics,Abstract,Japanese.
-2018-11-21,0.5,Jam,Composition,Audio,Guitar and theory.
+2018-11-21,0.5,Jam,Performance,Audio,Guitar and theory.
 2018-11-21,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-21,3.0,Study,Design,Abstract,Urban studies and theory.
-2018-11-20,0.5,Log,Writing,Code,Task review.
+2018-11-20,0.5,Log,Writing,Abstract,Task review.
 2018-11-20,2.0,Forms,Photography,Visual,Picture editing.
-2018-11-20,2.5,Jam,Composition,Audio,Guitar and theory.
+2018-11-20,2.5,Jam,Performance,Audio,Guitar and theory.
 2018-11-19,3.0,Study,Design,Abstract,Tokyo architecture and city design.
 2018-11-18,0.0,Japan,Event,Abstract,"Hakone travel, scenery."
 2018-11-18,0.5,Forms,Photography,Visual,Picture taking.
@@ -1309,11 +1485,11 @@ Date,Time,Project,Task,Division,Details
 2018-11-16,0.5,Japan,Research,Abstract,Buddhism.
 2018-11-16,1.5,Perfect Empathy,2D,Visual,Visual assets review and rework.
 2018-11-16,1.0,Perfect Empathy,Development,Code,Web port.
-2018-11-16,2.0,Jam,Composition,Audio,Guitar and theory.
+2018-11-16,2.0,Jam,Performance,Audio,Guitar and theory.
 2018-11-16,1.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-15,1.0,Japan,Research,Abstract,Buddhism.
 2018-11-15,4.0,Perfect Empathy,Development,Code,Web port.
-2018-11-15,0.5,Jam,Composition,Audio,Guitar.
+2018-11-15,0.5,Jam,Performance,Audio,Guitar.
 2018-11-15,2.0,Machine Girl,Composition,Audio,Band rehearsal and practice.
 2018-11-15,3.0,Japan,Linguistics,Abstract,Japanese.
 2018-11-14,3.0,Perfect Empathy,Development,Code,Web port.
@@ -1321,8 +1497,8 @@ Date,Time,Project,Task,Division,Details
 2018-11-13,2.5,Perfect Empathy,Development,Code,Web port.
 2018-11-13,4.0,Study,Research,Abstract,Social spaces in urban environments.
 2018-11-13,0.5,Jam,Composition,Audio,Composition.
-2018-11-13,2.5,Jam,Composition,Audio,Guitar.
-2018-11-12,0.5,Jam,Composition,Audio,Guitar.
+2018-11-13,2.5,Jam,Performance,Audio,Guitar.
+2018-11-12,0.5,Jam,Performance,Audio,Guitar.
 2018-11-12,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-12,1.0,Forms,Photography,Visual,Picture editing.
 2018-11-12,3.0,Study,Design,Abstract,Tokyo architecture and city design.
@@ -1333,22 +1509,22 @@ Date,Time,Project,Task,Division,Details
 2018-11-10,2.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-10,0.5,Jam,Research,Audio,Music theory.
 2018-11-09,4.0,Perfect Empathy,Development,Code,Web port.
-2018-11-09,3.0,Jam,Composition,Audio,Vocals and guitar.
+2018-11-09,3.0,Jam,Performance,Audio,Vocals and guitar.
 2018-11-09,1.0,Jam,Research,Audio,Music theory.
 2018-11-08,2.0,Jam,Composition,Audio,Composition.
 2018-11-08,0.5,Jam,Research,Audio,Music theory.
 2018-11-08,5.0,Perfect Empathy,Development,Code,Web port.
 2018-11-08,1.0,Japan,Linguistics,Abstract,Japanese.
 2018-11-07,3.0,Study,Design,Abstract,Urban studies and theory.
-2018-11-07,0.5,Jam,Composition,Audio,Guitar and theory.
+2018-11-07,0.5,Jam,Performance,Audio,Guitar and theory.
 2018-11-07,1.5,Perfect Empathy,Development,Code,Web port.
 2018-11-06,2.0,Perfect Empathy,Development,Code,Web port.
 2018-11-06,1.0,Japan,Writing,Abstract,Blog writing.
-2018-11-06,3.0,Jam,Composition,Audio,Guitar and theory.
+2018-11-06,3.0,Jam,Performance,Audio,Guitar and theory.
 2018-11-06,2.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-05,3.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-05,1.0,Jam,Performance,Audio,Dance.
-2018-11-05,2.5,Jam,Composition,Audio,Guitar and theory.
+2018-11-05,2.5,Jam,Performance,Audio,Guitar and theory.
 2018-11-05,2.5,Study,Design,Abstract,Tokyo architecture and city design.
 2018-11-04,0.5,Jam,Performance,Audio,Dance.
 2018-11-04,1.5,Japan,Linguistics,Abstract,Japanese.
@@ -1366,11 +1542,11 @@ Date,Time,Project,Task,Division,Details
 2018-10-31,0.5,Log,Writing,Abstract,Theoretical documentation.
 2018-10-30,0.5,Purity,Development,Code,PHP update fix.
 2018-10-30,2.0,Forms,Photography,Visual,Picture editing.
-2018-10-30,1.0,Jam,Composition,Audio,Guitar.
+2018-10-30,1.0,Jam,Performance,Audio,Guitar.
 2018-10-30,1.0,Jam,Research,Audio,Music theory.
 2018-10-29,3.0,Study,Design,Abstract,Tokyo architecture and city design.
 2018-10-29,1.0,Japan,Linguistics,Abstract,Japanese writing.
-2018-10-28,0.5,Machine Girl,Composition,Audio,Guitar.
+2018-10-28,0.5,Machine Girl,Performance,Audio,Guitar.
 2018-10-28,1.0,Forms,Photography,Visual,Picture editing.
 2018-10-27,2.0,Forms,Photography,Visual,Picture taking.
 2018-10-27,2.5,Japan,Linguistics,Abstract,Japanese.
@@ -1388,7 +1564,7 @@ Date,Time,Project,Task,Division,Details
 2018-10-23,0.5,Study,Research,Abstract,Letter of intent revewing.
 2018-10-23,3.0,Japan,Linguistics,Abstract,Japanese.
 2018-10-23,2.5,Study,Research,Abstract,Relationships.
-2018-10-22,0.5,Machine Girl,Composition,Audio,Guitar.
+2018-10-22,0.5,Machine Girl,Performance,Audio,Guitar.
 2018-10-22,3.0,Study,Design,Abstract,Tokyo architecture and city design.
 2018-10-22,0.5,Doodle,2D,Visual,Illustration practice.
 2018-10-21,1.0,Forms,Photography,Visual,Picture taking.
@@ -1397,14 +1573,14 @@ Date,Time,Project,Task,Division,Details
 2018-10-20,5.5,Forms,Photography,Visual,Picture editing.
 2018-10-19,4.0,Forms,Photography,Visual,Picture taking and editing.
 2018-10-19,2.0,Japan,Linguistics,Abstract,Japanese.
-2018-10-19,2.5,Machine Girl,Composition,Audio,Guitar.
+2018-10-19,2.5,Machine Girl,Performance,Audio,Guitar.
 2018-10-18,3.5,Japan,Linguistics,Abstract,Japanese.
-2018-10-18,0.5,Machine Girl,Composition,Audio,Guitar.
-2018-10-17,1.5,Machine Girl,Composition,Audio,Guitar.
+2018-10-18,0.5,Machine Girl,Performance,Audio,Guitar.
+2018-10-17,1.5,Machine Girl,Performance,Audio,Guitar.
 2018-10-17,3.0,Study,Design,Abstract,Urban studies and theory.
 2018-10-17,1.0,Doodle,2D,Visual,Illustration practice.
 2018-10-16,0.5,Study,Design,Abstract,Web development help.
-2018-10-16,2.5,Machine Girl,Composition,Audio,Guitar.
+2018-10-16,2.5,Machine Girl,Performance,Audio,Guitar.
 2018-10-16,3.5,Japan,Linguistics,Abstract,Japanese.
 2018-10-15,0.5,Doodle,2D,Visual,Illustration practice.
 2018-10-15,3.0,Study,Design,Abstract,Tokyo architecture and city design.
@@ -1546,7 +1722,7 @@ Date,Time,Project,Task,Division,Details
 2018-08-04,6.0,Drone,Development,Code,Simulation programming.
 2018-08-04,3.5,Drone,Research,Code,"Anatomy of a drone, production planning."
 2018-08-04,1.5,Drone,Research,Abstract,Drone piloting.
-2018-08-04,0.5,Drone,3D,Visual,3D      .
+2018-08-04,0.5,Drone,3D,Visual,3D.
 2018-08-03,1.5,Drone,Design,Visual,Graphics settings.
 2018-08-03,3.0,Drone,3D,Visual,"3D      , UV, rendering, texturing."
 2018-08-03,2.0,Drone,Research,Abstract,Drone piloting.
@@ -1619,7 +1795,7 @@ Date,Time,Project,Task,Division,Details
 2018-06-28,2.0,Skins 6.0,Writing,Abstract,Content consistency review.
 2018-06-28,3.5,Luna,Development,Code,Updates.
 2018-06-27,1.0,Obx,Maintenance,Code,Machine tinkering.
-2018-06-27,0.5,Purity,Writing,Code,Documentation.
+2018-06-27,0.5,Purity,Writing,Abstract,Documentation.
 2018-06-27,0.5,Purity,Development,Code,Procedural page generation.
 2018-06-27,2.0,V-OS,Development,Code,"Tags revamp, procedural page generation."
 2018-06-27,2.0,Skins 6.0,2D,Visual,Presentation slides.
@@ -1724,7 +1900,7 @@ Date,Time,Project,Task,Division,Details
 2018-05-27,0.5,Jam,Composition,Audio,Vocals.
 2018-05-27,0.5,Ethera's Word,Writing,Abstract,Storywriting.
 2018-05-27,1.5,Ethera's Word,2D,Visual,Compositing.
-2018-05-27,1.0,Ethera's Word,3D,Visual,Face 3D      .
+2018-05-27,1.0,Ethera's Word,3D,Visual,Face 3D.
 2018-05-26,0.5,Luna,Design,Abstract,Structure considerations.
 2018-05-26,2.0,Jam,Composition,Audio,Composition.
 2018-05-25,0.5,Study,Research,Abstract,Combat systems.
@@ -1760,7 +1936,7 @@ Date,Time,Project,Task,Division,Details
 2018-05-13,1.5,Jam,Composition,Audio,Audio project updates.
 2018-05-13,0.5,V-OS,Writing,Abstract,Verse entries.
 2018-05-12,0.5,Doodle,Design,Visual,Web layout design.
-2018-05-12,2.5,Jam,Composition,Audio,"Jam, vocals, guitar."
+2018-05-12,2.5,Jam,Performance,Audio,"Jam, vocals, guitar."
 2018-05-11,2.0,Skins 6.0,Research,Code,Programming cheat sheet content.
 2018-05-11,1.0,Obx,Research,Code,Apple developer account troubleshooting.
 2018-05-10,2.5,Obx,Research,Abstract,Various.
@@ -1773,7 +1949,7 @@ Date,Time,Project,Task,Division,Details
 2018-05-06,3.0,Architects of Souls,Composition,Audio,Mixing.
 2018-05-05,1.0,Jam,Composition,Audio,Composition.
 2018-05-05,0.5,V-OS,Writing,Abstract,Verse entries.
-2018-05-04,1.0,Jam,Composition,Audio,Guitar.
+2018-05-04,1.0,Jam,Performance,Audio,Guitar.
 2018-05-04,2.0,Jam,Composition,Audio,Composition experimentation.
 2018-05-04,1.0,Architects of Souls,Composition,Audio,Composition.
 2018-05-04,1.0,Ark Simulation,2D,Visual,Schematics art production.
@@ -1788,9 +1964,9 @@ Date,Time,Project,Task,Division,Details
 2018-05-01,5.5,Skins 6.0,Design,Abstract,Hawaii workshop lessons.
 2018-05-01,1.5,Ark Simulation,2D,Visual,Schematics art production.
 2018-04-30,5.0,Ark Simulation,2D,Visual,Schematics art production.
-2018-04-30,0.5,Ark Simulation,3D,Visual,Ark simulator 3D      .
+2018-04-30,0.5,Ark Simulation,3D,Visual,Ark simulator 3D.
 2018-04-30,4.5,Skins 6.0,Design,Abstract,Hawaii workshop lessons.
-2018-04-29,2.0,Ark Simulation,3D,Visual,Ark simulator 3D      .
+2018-04-29,2.0,Ark Simulation,3D,Visual,Ark simulator 3D.
 2018-04-29,4.0,Ark Simulation,2D,Visual,Schematics art production.
 2018-04-29,1.5,Ark Simulation,Research,Visual,Schematics art study.
 2018-04-28,1.0,Dunes of Simila,3D,Visual,Procedural terrain and displacement study.
@@ -1823,10 +1999,10 @@ Date,Time,Project,Task,Division,Details
 2018-04-19,3.5,Obx,Maintenance,Code,Project maintenance and testing.
 2018-04-18,4.5,Eradise,3D,Visual,Character animation.
 2018-04-17,2.0,V-OS,Design,Visual,Redesign considerations.
-2018-04-17,3.5,Eradise,3D,Visual,Character rigging and 3D      .
+2018-04-17,3.5,Eradise,3D,Visual,Character rigging and 3D.
 2018-04-17,1.5,Jam,Composition,Audio,"Guitar, composition."
 2018-04-16,0.0,Various,Event,Abstract,Semester end.
-2018-04-16,1.0,Jam,Composition,Audio,Guitar.
+2018-04-16,1.0,Jam,Performance,Audio,Guitar.
 2018-04-16,1.5,Eradise,3D,Visual,Character rigging.
 2018-04-16,3.5,V-OS,Design,Visual,Redesign considerations.
 2018-04-16,1.0,Study,Research,Abstract,New media artists.
@@ -1834,7 +2010,7 @@ Date,Time,Project,Task,Division,Details
 2018-04-15,3.0,Eradise,3D,Visual,Character 3D       and unwrapping.
 2018-04-14,0.5,V-OS,Maintenance,Abstract,Link updates and small rewrites.
 2018-04-14,2.5,Purity,Development,Code,Image annotations and styling system rework.
-2018-04-14,1.5,Eradise,3D,Visual,Character 3D      .
+2018-04-14,1.5,Eradise,3D,Visual,Character 3D.
 2018-04-13,0.5,Study,Research,Abstract,Narrative development strategies.
 2018-04-13,2.0,Japan,Research,Abstract,Japan exchange documentation.
 2018-04-12,6.0,Eradise,3D,Visual,Character 3D       and terrain generation.
@@ -1918,7 +2094,7 @@ Date,Time,Project,Task,Division,Details
 2018-03-19,3.5,You Are Two,Research,Abstract,Review and playtesting.
 2018-03-18,2.5,Eradise,Linguistics,Visual,Typeface.
 2018-03-18,2.0,You Are Two,Composition,Audio,Music.
-2018-03-18,1.5,You Are Two,3D,Visual,Prop 3D      .
+2018-03-18,1.5,You Are Two,3D,Visual,Prop 3D.
 2018-03-18,4.0,You Are Two,Design,Abstract,Level design and level components.
 2018-03-17,3.0,You Are Two,Design,Abstract,Level design and level components.
 2018-03-16,2.0,Eradise,Design,Abstract,Concept work.
@@ -1953,7 +2129,7 @@ Date,Time,Project,Task,Division,Details
 2018-03-06,3.5,Obx,Research,Code,Apple iOS release builds and testing.
 2018-03-05,7.0,Keerosin,3D,Visual,"UVs, ID maps, low poly variant, sculpting, substance integration."
 2018-03-05,3.0,You Are Two,Design,Abstract,"Meeting, level design overview, mechanics overview."
-2018-03-04,1.5,Keerosin,3D,Visual,Low poly variant 3D      .
+2018-03-04,1.5,Keerosin,3D,Visual,Low poly variant 3D.
 2018-03-04,1.5,You Are Two,Design,Abstract,"Level design, movement design."
 2018-03-04,3.5,You Are Two,Development,Code,"Movement system, github issue resolution."
 2018-03-04,1.5,Jam,Composition,Audio,Vocals.
@@ -1961,12 +2137,12 @@ Date,Time,Project,Task,Division,Details
 2018-03-03,0.5,You Are Two,Design,Audio,Audio samples collection.
 2018-03-03,1.5,You Are Two,Design,Abstract,"Level design, movement design."
 2018-03-03,2.0,You Are Two,Development,Code,Movement system and asset integration.
-2018-03-03,3.0,Keerosin,3D,Visual,Low poly variant 3D      .
+2018-03-03,3.0,Keerosin,3D,Visual,Low poly variant 3D.
 2018-03-02,5.5,Study,Performance,Abstract,Artcade exhibition.
 2018-03-02,2.0,DotCycle,Maintenance,Code,Artcade setup.
 2018-03-02,1.0,Keerosin,Design,Visual,3D       workflow.
 2018-03-01,2.5,Study,Design,Abstract,Game design help and discussion.
-2018-03-01,2.0,Keerosin,3D,Visual,3D      .
+2018-03-01,2.0,Keerosin,3D,Visual,3D.
 2018-03-01,1.0,Japan,Research,Abstract,Japan exchange documentation.
 2018-03-01,3.5,Obx,Research,Code,Apple iOS release builds and testing.
 2018-02-28,0.5,Study,Research,Abstract,Graphic effects implementations.
@@ -1981,17 +2157,17 @@ Date,Time,Project,Task,Division,Details
 2018-02-26,1.0,You Are Two,Composition,Audio,Theme song composition.
 2018-02-26,3.0,You Are Two,Design,Abstract,Progress overview and tasks documentation.
 2018-02-25,1.0,Study,Writing,Abstract,Self.
-2018-02-25,2.5,Keerosin,3D,Visual,3D      .
+2018-02-25,2.5,Keerosin,3D,Visual,3D.
 2018-02-25,0.5,You Are Two,Development,Code,Sanity tweaking.
-2018-02-25,1.0,Jam,Composition,Audio,Guitar and vocals.
+2018-02-25,1.0,Jam,Performance,Audio,Guitar and vocals.
 2018-02-25,2.5,Japan,Research,Abstract,Japan exchange documentation.
-2018-02-24,1.5,Keerosin,3D,Visual,3D      .
+2018-02-24,1.5,Keerosin,3D,Visual,3D.
 2018-02-24,3.0,Japan,Research,Abstract,Japan exchange documentation.
-2018-02-24,1.0,Jam,Composition,Audio,Guitar and vocals.
+2018-02-24,1.0,Jam,Performance,Audio,Guitar and vocals.
 2018-02-23,1.0,Study,Research,Abstract,Relationships.
-2018-02-23,1.0,Keerosin,3D,Visual,3D      .
+2018-02-23,1.0,Keerosin,3D,Visual,3D.
 2018-02-23,2.0,Japan,Research,Abstract,Japan exchange documentation.
-2018-02-22,0.5,Jam,Composition,Audio,Guitar and vocals.
+2018-02-22,0.5,Jam,Performance,Audio,Guitar and vocals.
 2018-02-22,2.5,Japan,Research,Abstract,Japan exchange documentation.
 2018-02-22,3.0,Obx,Research,Code,"APK modification, Apple distribution."
 2018-02-21,2.0,Doodle,2D,Visual,CV update.
@@ -2016,7 +2192,7 @@ Date,Time,Project,Task,Division,Details
 2018-02-16,5.0,Study,Research,Code,Private virtual networks and OS debugging.
 2018-02-16,3.0,Doodle,Research,Visual,"Concepts review, pipeline study."
 2018-02-16,0.5,Doodle,2D,Visual,Concept art.
-2018-02-15,1.0,Jam,Composition,Audio,Guitar.
+2018-02-15,1.0,Jam,Performance,Audio,Guitar.
 2018-02-15,1.5,Monospace_Garden,Development,Code,Game dev.
 2018-02-15,3.0,Tinker,Development,Code,Code help.
 2018-02-15,1.0,Obx,Research,Code,Hololens development technologies.
@@ -2048,10 +2224,10 @@ Date,Time,Project,Task,Division,Details
 2018-02-09,1.5,Keerosin,3D,Visual,Concept reviews.
 2018-02-08,3.5,Sin-D,3D,Visual,Cindy sculpting and mouth retopologizing.
 2018-02-08,1.0,Keerosin,2D,Visual,Concept paintover.
-2018-02-08,1.5,Keerosin,3D,Visual,Blockout 3D      .
+2018-02-08,1.5,Keerosin,3D,Visual,Blockout 3D.
 2018-02-08,2.0,Obx,Research,Code,"App building, release, and app store uploading."
 2018-02-08,2.0,Obx,Development,Code,App testing and debugging.
-2018-02-07,2.5,Keerosin,3D,Visual,Blockout 3D      .
+2018-02-07,2.5,Keerosin,3D,Visual,Blockout 3D.
 2018-02-07,0.5,You Are Two,Design,Abstract,Systems design.
 2018-02-07,1.0,Sin-D,Development,Code,Cindy sculpting.
 2018-02-07,1.5,Monospace_Garden,Development,Code,Game dev.
@@ -2095,7 +2271,7 @@ Date,Time,Project,Task,Division,Details
 2018-01-28,0.5,Study,Research,Abstract,New media artworks.
 2018-01-28,0.5,You Are Two,2D,Visual,Concept art.
 2018-01-27,1.0,You Are Two,2D,Visual,Concept art.
-2018-01-27,1.0,Jam,Composition,Audio,Guitar.
+2018-01-27,1.0,Jam,Performance,Audio,Guitar.
 2018-01-27,1.5,Study,Research,Abstract,New media artworks.
 2018-01-27,2.0,You Are Two,Design,Abstract,Scheduling and design doc.
 2018-01-27,4.0,You Are Two,Development,Code,Movement system work.
@@ -2118,7 +2294,7 @@ Date,Time,Project,Task,Division,Details
 2018-01-21,0.5,Architects of Souls,Composition,Audio,Quick review.
 2018-01-21,2.5,Doodle,3D,Visual,Holosight texturing.
 2018-01-21,1.5,You Are Two,Research,Abstract,Brainstorming.
-2018-01-20,2.0,Doodle,3D,Visual,Helmet 3D      .
+2018-01-20,2.0,Doodle,3D,Visual,Helmet 3D.
 2018-01-20,1.5,You Are Two,Research,Abstract,Brainstorming.
 2018-01-20,3.0,Tinker,Research,Code,Unity graphics and shaders techniques.
 2018-01-20,3.0,Various,Writing,Abstract,Ubisoft internship application.
@@ -2151,7 +2327,7 @@ Date,Time,Project,Task,Division,Details
 2018-01-10,1.5,Obx,Research,Abstract,Lab and application publishing research.
 2018-01-10,1.5,Obx,Development,Code,Application updating and debugging.
 2018-01-10,1.0,Nil Cursor,3D,Visual,"Scene, lighting, rendering."
-2018-01-10,2.5,Nil Cursor,3D,Visual,Character 3D      .
+2018-01-10,2.5,Nil Cursor,3D,Visual,Character 3D.
 2018-01-09,0.5,Dunes of Simila,3D,Visual,Procedural terrain and displacement study.
 2018-01-09,1.0,V-OS,Writing,Abstract,Verse and personal writing.
 2018-01-09,1.5,Study,Research,Abstract,Narrative and aesthetic input (BLAME!).
@@ -2282,7 +2458,7 @@ Date,Time,Project,Task,Division,Details
 2017-11-23,2.0,TA253,Research,Code,Correction.
 2017-11-23,2.5,Architects of Souls,Composition,Audio,Samples processing and arrangement.
 2017-11-22,4.0,Architects of Souls,Composition,Audio,Samples processing.
-2017-11-22,0.5,Architects of Souls,Composition,Audio,Guitar recording.
+2017-11-22,0.5,Architects of Souls,Performance,Audio,Guitar recording.
 2017-11-22,0.5,Cryptonaut,Writing,Abstract,Design document.
 2017-11-22,2.5,Relay,2D,Visual,Poster design.
 2017-11-21,0.5,Moré,3D,Visual,Scene composition.
@@ -2340,7 +2516,7 @@ Date,Time,Project,Task,Division,Details
 2017-11-06,0.5,Jam,Composition,Audio,Piano.
 2017-11-05,1.0,Relay,Development,Code,Server.
 2017-11-05,1.5,Study,Research,Abstract,Cooperative game design.
-2017-11-05,0.5,Jam,Composition,Audio,Guitar.
+2017-11-05,0.5,Jam,Performance,Audio,Guitar.
 2017-11-04,1.5,TA253,Research,Code,Correction.
 2017-11-04,2.5,Relay,Development,Code,UI.
 2017-11-03,0.5,Relay,Development,Code,UI.
@@ -2370,7 +2546,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-24,2.5,TA253,Research,Code,Code help.
 2017-10-24,3.0,Study,Research,Abstract,Tabletop RPG gameplay testing and study.
 2017-10-23,1.0,Qurotema,Development,Code,Sky and texture animation.
-2017-10-23,3.5,Qurotema,3D,Visual,"Procedural textures, lighting, Gates 3D      ."
+2017-10-23,3.5,Qurotema,3D,Visual,"Procedural textures, lighting, Gates 3D."
 2017-10-23,1.5,Eyebat,3D,Visual,Texturing.
 2017-10-22,1.0,Eyebat,3D,Visual,Texturing.
 2017-10-22,1.5,Qurotema,3D,Visual,Procedural textures.
@@ -2379,7 +2555,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-21,3.5,Qurotema,3D,Visual,Procedural textures.
 2017-10-20,6.0,Qurotema,3D,Visual,Procedural textures.
 2017-10-20,1.0,Eyebat,3D,Visual,Texture painting.
-2017-10-19,2.0,Jam,Composition,Audio,"Piano, guitar."
+2017-10-19,2.0,Jam,Performance,Audio,"Piano, guitar."
 2017-10-19,3.5,Tinker,Development,Audio,Additive synthesizer programming.
 2017-10-19,0.5,Study,Writing,Abstract,Tabletop RPG scenario writing.
 2017-10-18,0.5,Jam,Composition,Audio,Piano.
@@ -2416,7 +2592,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-10,3.5,Study,Research,Abstract,"Design, game design, loop of execution and evaluation."
 2017-10-09,4.0,Tinker,Development,Code,HTML and CSS teaching.
 2017-10-09,4.0,Atomic AI,3D,Visual,Modifier experimentation and rendering (2).
-2017-10-09,2.5,Doodle,3D,Visual,Texturing and experimental 3D      .
+2017-10-09,2.5,Doodle,3D,Visual,Texturing and experimental 3D.
 2017-10-08,2.0,V-OS,Development,Visual,Styling experimentation.
 2017-10-08,1.5,Stream,Performance,Abstract,DPWS Battlefront 2 stream.
 2017-10-08,1.0,Atomic AI,3D,Visual,Modifier experimentation and rendering (1).
@@ -2442,7 +2618,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-02,1.0,Wite,Development,Code,Modular interfacing engine.
 2017-10-02,0.5,Wite,Research,Code,Modular interfacing engine.
 2017-10-02,1.5,Perfect Empathy,Design,Visual,Priting and organizing.
-2017-10-02,0.5,Jam,Composition,Audio,Guitar and keyboard.
+2017-10-02,0.5,Jam,Performance,Audio,Guitar and keyboard.
 2017-10-02,1.0,Purity,Development,Code,Small formatting fixes.
 2017-10-02,0.5,LOGO,Development,Code,Add index.
 2017-10-01,2.0,Perfect Empathy,2D,Visual,"Visuals cleanup, print sheets."
@@ -2452,13 +2628,13 @@ Date,Time,Project,Task,Division,Details
 2017-10-01,5.5,Log,Development,Code,Refactoring.
 2017-09-30,4.0,TA253,Research,Code,Correction.
 2017-09-30,6.5,LOGO,Development,Code,Add logs functionality.
-2017-09-30,1.0,Eyebat,3D,Visual,Eyebat 3D      .
+2017-09-30,1.0,Eyebat,3D,Visual,Eyebat 3D.
 2017-09-29,1.0,Study,Research,Abstract,"User interfacing, game psychology."
 2017-09-29,1.0,Study,Research,Abstract,"User interfacing, game psychology."
 2017-09-29,1.0,LOGO,Research,Code,Local commands implementation.
 2017-09-29,3.0,LOGO,Development,Code,Local commands implementation.
 2017-09-29,1.0,LOGO,Design,Abstract,Basic setup and speech.
-2017-09-29,0.5,Perfect Empathy,Writing,Visual,Documentation and communication.
+2017-09-29,0.5,Perfect Empathy,Writing,Abstract,Documentation and communication.
 2017-09-29,2.5,Perfect Empathy,2D,Visual,Logo and visual support for instructions.
 2017-09-28,1.5,Purity,Development,Code,Add executable PHP parsing.
 2017-09-28,3.0,Perfect Empathy,Design,Abstract,"Journal entry, card quantity change and testing, rule examples refinement."
@@ -2467,7 +2643,7 @@ Date,Time,Project,Task,Division,Details
 2017-09-27,0.5,Rig,Maintenance,Code,Update backup.
 2017-09-27,1.0,Study,Research,Abstract,Manifold Garden testing.
 2017-09-27,1.0,Perfect Empathy,Design,Abstract,"Task delegation, time organization, planning."
-2017-09-27,3.5,Eyebat,3D,Visual,Eyebat 3D      .
+2017-09-27,3.5,Eyebat,3D,Visual,Eyebat 3D.
 2017-09-27,1.0,Study,Research,Abstract,Net art review.
 2017-09-26,1.5,Jam,Research,Audio,Acoustic awareness.
 2017-09-26,2.0,TA253,Research,Code,Code helping.
@@ -2493,7 +2669,7 @@ Date,Time,Project,Task,Division,Details
 2017-09-21,1.0,Perfect Empathy,Writing,Abstract,Design journal.
 2017-09-20,1.5,Study,Research,Abstract,Ryan Whittier Hale art.
 2017-09-20,0.5,Tinker,Research,Code,Microprocessors.
-2017-09-20,4.0,Eyebat,3D,Visual,Shoe and eyebat 3D      .
+2017-09-20,4.0,Eyebat,3D,Visual,Shoe and eyebat 3D.
 2017-09-20,0.5,V-OS,Design,Abstract,Tiny updates.
 2017-09-20,0.5,Doodle,2D,Visual,Truli rework and selection update.
 2017-09-19,2.0,Jam,Research,Audio,"MaxMSP, analog synths, acoustics."
@@ -2513,25 +2689,25 @@ Date,Time,Project,Task,Division,Details
 2017-09-15,1.0,Perfect Empathy,2D,Visual,Iconography design and production.
 2017-09-15,5.0,Perfect Empathy,Design,Abstract,Game design.
 2017-09-15,0.5,Doodle,3D,Visual,"Shark lighting, texturing, rendering."
-2017-09-15,2.5,Doodle,3D,Visual,Shark 3D      .
+2017-09-15,2.5,Doodle,3D,Visual,Shark 3D.
 2017-09-14,1.0,DotCycle,Development,Code,Shader code.
 2017-09-14,2.0,DotCycle,Research,Code,Shader code.
 2017-09-14,2.0,Perfect Empathy,Design,Abstract,Game design.
 2017-09-14,1.0,Tinker,Research,Abstract,"Math types, information architecture on the web."
 2017-09-13,0.5,DotCycle,Research,Code,Shader code.
 2017-09-13,0.5,Study,Research,Abstract,Postmodernist philosophy.
-2017-09-13,3.5,Doodle,3D,Visual,Hard-surface 3D      .
+2017-09-13,3.5,Doodle,3D,Visual,Hard-surface 3D.
 2017-09-13,2.0,Study,Research,Abstract,Net art history.
 2017-09-12,2.0,Tinker,Development,Code,MaxMSP programming.
 2017-09-12,1.5,Jam,Research,Audio,Audio engineering and acoustic environments.
 2017-09-12,0.5,TA253,Research,Code,Coding help.
 2017-09-12,3.5,Study,Research,Abstract,"Games, play."
 2017-09-11,3.0,Dentatsuna,3D,Visual,"Texturing, lighting, rendering."
-2017-09-11,1.5,Dentatsuna,3D,Visual,Environment 3D      .
+2017-09-11,1.5,Dentatsuna,3D,Visual,Environment 3D.
 2017-09-11,0.5,Jam,Research,Audio,Adaptability of creativity in audio.
 2017-09-11,1.5,Perfect Empathy,Research,Abstract,"Game design reading, dominos study, journal writing."
 2017-09-10,5.5,Dentatsuna,3D,Visual,"Texturing, lighting, rendering."
-2017-09-10,3.5,Dentatsuna,3D,Visual,Environment 3D      .
+2017-09-10,3.5,Dentatsuna,3D,Visual,Environment 3D.
 2017-09-09,0.5,Seven,Development,Code,"Easing, web release."
 2017-09-09,1.0,Purity,Development,Code,"Line endings, site hosting platforms."
 2017-09-09,3.0,Purity,Development,Code,"Visual redesign, optimization."
@@ -2543,7 +2719,7 @@ Date,Time,Project,Task,Division,Details
 2017-09-07,1.0,Tinker,Research,Code,MaxMSP study.
 2017-09-07,1.0,TA253,Research,Abstract,Curriculum and class design review.
 2017-09-06,0.5,Acid Archives,Research,Audio,Mood experimentation and research.
-2017-09-06,3.0,Doodle,3D,Visual,Hard-surface 3D      .
+2017-09-06,3.0,Doodle,3D,Visual,Hard-surface 3D.
 2017-09-06,1.0,Tinker,Development,Code,CART351 site setup.
 2017-09-06,1.0,Purity,Development,Code,PHP 7.0 debugging.
 2017-09-06,0.5,Acid Archives,Writing,Abstract,Acid archives story.
@@ -2614,13 +2790,13 @@ Date,Time,Project,Task,Division,Details
 2017-08-14,0.5,V-OS,Writing,Abstract,"List sorting, page writing."
 2017-08-14,1.0,DimoRat,Development,Code,Player states.
 2017-08-14,1.0,Di,2D,Visual,Image editing.
-2017-08-14,1.5,Di,3D,Visual,Character 3D      .
+2017-08-14,1.5,Di,3D,Visual,Character 3D.
 2017-08-14,0.5,V-OS,Writing,Abstract,"Visual tweaks, small writing fixes, small reorganization."
 2017-08-13,1.0,DimoRat,Development,Code,Main setup.
 2017-08-12,0.5,Tinker,Research,Abstract,Fighting systems.
 2017-08-12,0.5,DimoRat,Development,Code,Main setup.
 2017-08-11,0.5,Jam,Composition,Audio,Ether Sphere composition.
-2017-08-11,0.5,Di,3D,Visual,Character 3D      .
+2017-08-11,0.5,Di,3D,Visual,Character 3D.
 2017-08-11,0.5,Doodle,2D,Visual,Pixel art.
 2017-08-11,0.0,AGD,Event,Abstract,Camp end.
 2017-08-11,3.5,AGD,Development,Code,Game development help.
@@ -2645,16 +2821,16 @@ Date,Time,Project,Task,Division,Details
 2017-08-02,0.5,V-OS,Writing,Abstract,Small rewrites and styling tuning.
 2017-08-02,1.5,AGD,Research,Abstract,Teaching.
 2017-08-02,3.5,AGD,Development,Code,Example game and help.
-2017-08-01,4.0,Di,3D,Visual,Character 3D      .
+2017-08-01,4.0,Di,3D,Visual,Character 3D.
 2017-08-01,3.0,AGD,Research,Abstract,Teaching and brainstorming.
 2017-08-01,1.5,AGD,Development,Code,Example game and help.
-2017-07-31,4.5,Di,3D,Visual,Character 3D      .
+2017-07-31,4.5,Di,3D,Visual,Character 3D.
 2017-07-31,3.5,AGD,Research,Abstract,Teaching.
 2017-07-31,1.5,AGD,Development,Code,Example game and help.
 2017-07-31,0.0,AGD,Event,Abstract,Camp beginning.
-2017-07-30,2.5,Di,3D,Visual,Character 3D      .
+2017-07-30,2.5,Di,3D,Visual,Character 3D.
 2017-07-29,0.5,Di,3D,Visual,Character rendering.
-2017-07-29,7.0,Di,3D,Visual,Character 3D      .
+2017-07-29,7.0,Di,3D,Visual,Character 3D.
 2017-07-29,3.0,Di,2D,Visual,Character drawing.
 2017-07-28,2.0,Di,Writing,Abstract,Character writing.
 2017-07-28,0.5,Study,Research,Abstract,Self-assessment.
@@ -2673,7 +2849,7 @@ Date,Time,Project,Task,Division,Details
 2017-07-24,0.5,Study,Research,Abstract,Cryptocurrency.
 2017-07-23,2.0,Sira,Photography,Visual,Trip to Montreal's events.
 2017-07-22,0.5,AGD,Design,Abstract,Level design.
-2017-07-22,0.5,AGD,Writing,Code,Documentation.
+2017-07-22,0.5,AGD,Writing,Abstract,Documentation.
 2017-07-22,0.5,AGD,Development,Code,Example game development.
 2017-07-21,0.5,Stream,Research,Code,Streaming setup.
 2017-07-21,2.5,AGD,Composition,Audio,Soundtrack and sound effects.
@@ -2699,7 +2875,7 @@ Date,Time,Project,Task,Division,Details
 2017-07-15,2.0,Tinker,Development,Code,"Phone, tablet, and laptop debugging."
 2017-07-15,1.0,Doodle,Photography,Visual,Experimental self-portrait.
 2017-07-15,0.5,Doodle,2D,Visual,Experimental self-portrait.
-2017-07-15,0.5,Jam,Composition,Audio,Guitar.
+2017-07-15,0.5,Jam,Performance,Audio,Guitar.
 2017-07-15,2.0,AGD,Development,Code,Example game development.
 2017-07-15,0.5,The Cosmic Affliction,Composition,Audio,Strider snare and mix fixes.
 2017-07-14,0.5,The Cosmic Affliction,Design,Audio,Album review.
@@ -2709,7 +2885,7 @@ Date,Time,Project,Task,Division,Details
 2017-07-13,1.5,Doodle,Photography,Visual,Lowe outing pictures editing.
 2017-07-13,0.5,The Cosmic Affliction,Composition,Audio,Dark Dye composition.
 2017-07-13,0.5,V-OS,Development,Visual,Small visual tweaks across V-OS network.
-2017-07-12,0.5,Jam,Composition,Audio,Guitar and vocals.
+2017-07-12,0.5,Jam,Performance,Audio,Guitar and vocals.
 2017-07-12,2.5,AGD,Writing,Abstract,Lecture presentation writing.
 2017-07-11,0.5,AGD,Writing,Abstract,Lecture presentation writing.
 2017-07-10,1.0,Datum,Development,Code,Movement system.
@@ -2843,14 +3019,14 @@ Date,Time,Project,Task,Division,Details
 2017-05-26,3.0,Keyde,Development,Code,"UI, unique mode tuning, debugging, mode changing, mode transition, color easing, organization."
 2017-05-26,1.0,Keyde,Design,Visual,"UI, mode tuning."
 2017-05-26,0.5,The Cosmic Affliction,Design,Audio,Album review.
-2017-05-25,0.5,Jam,Composition,Audio,Guitar.
+2017-05-25,0.5,Jam,Performance,Audio,Guitar.
 2017-05-25,2.0,Keyde,Development,Code,"UI, menu screen, mode changing, controls."
 2017-05-24,3.0,Keyde,Development,Visual,"Audio implementation, harmonograph documentation."
 2017-05-23,0.5,Study,Research,Abstract,Alchemy.
 2017-05-23,2.0,Keyde,Design,Visual,"Visuals dissection, modes interaction and transition, UI design."
 2017-05-22,0.5,Keyde,Development,Visual,Audio implementation and graphics tuning.
 2017-05-22,1.5,Keyde,Composition,Audio,Composition.
-2017-05-21,0.5,Jam,Composition,Audio,Guitar and vocals.
+2017-05-21,0.5,Jam,Performance,Audio,Guitar and vocals.
 2017-05-21,0.5,Keyde,Composition,Audio,Composition.
 2017-05-21,1.0,V-OS,Writing,Abstract,Verse writing.
 2017-05-21,0.5,Doodle,2D,Visual,Analog image.
@@ -2876,22 +3052,22 @@ Date,Time,Project,Task,Division,Details
 2017-05-11,0.5,The Cosmic Affliction,Composition,Audio,Thousand Year Dream composition.
 2017-05-11,0.5,The Cosmic Affliction,Design,Audio,Album structure and narrative refining.
 2017-05-11,2.5,The Cosmic Affliction,2D,Visual,Drawing.
-2017-05-10,0.5,Jam,Composition,Audio,Guitar.
+2017-05-10,0.5,Jam,Performance,Audio,Guitar.
 2017-05-10,1.0,The Cosmic Affliction,3D,Visual,3D fractal scavenging and rendering.
 2017-05-10,2.5,Keyde,Development,Code,Sprite cloud.
 2017-05-09,1.0,The Cosmic Affliction,3D,Visual,3D fractal scavenging.
 2017-05-09,1.0,Study,Research,Abstract,Japanese poverty.
-2017-05-09,1.0,Jam,Composition,Audio,Guitar and vocals.
+2017-05-09,1.0,Jam,Performance,Audio,Guitar and vocals.
 2017-05-09,2.0,Keyde,Research,Visual,Point cloud shaders and visual research.
 2017-05-08,0.5,Keyde,Composition,Audio,Drone music production.
-2017-05-08,0.5,Jam,Composition,Audio,Guitar.
+2017-05-08,0.5,Jam,Performance,Audio,Guitar.
 2017-05-08,1.0,Keyde,Design,Visual,Modes and visuals design.
-2017-05-07,1.0,Jam,Composition,Audio,Guitar.
+2017-05-07,1.0,Jam,Performance,Audio,Guitar.
 2017-05-07,1.0,Keyde,2D,Visual,Visuals research.
 2017-05-07,0.5,Tinker,Research,Code,Neural networks and image processing.
 2017-05-07,0.5,The Cosmic Affliction,Composition,Audio,Spacefarer intro rework.
 2017-05-06,1.0,Study,Research,Abstract,Martial arts styles.
-2017-05-06,2.0,Jam,Composition,Audio,"Piano, guitar, vocals."
+2017-05-06,2.0,Jam,Performance,Audio,"Piano, guitar, vocals."
 2017-05-05,0.5,Doodle,2D,Visual,Material symbol.
 2017-05-05,0.5,The Cosmic Affliction,Composition,Audio,Thousand Year Dream composition.
 2017-05-05,1.0,Study,Research,Abstract,Jordan Peterson: Psychology and interpersonal interaction and relationships.
@@ -2981,7 +3157,7 @@ Date,Time,Project,Task,Division,Details
 2017-04-06,1.0,Elyium,Writing,Abstract,Entities writing.
 2017-04-06,0.5,Drone Dreams,Research,Code,Javascript and html canvas.
 2017-04-05,2.0,Drone Dreams,Composition,Audio,Composition.
-2017-04-05,0.5,Jam,Composition,Audio,Guitar.
+2017-04-05,0.5,Jam,Performance,Audio,Guitar.
 2017-04-05,3.0,Elyium,Development,Code,"Saving system and input field fix, custom saving implementation, optimizations, debugging."
 2017-04-04,1.5,The Cosmic Affliction,Composition,Audio,Spacefarer composition.
 2017-04-04,0.5,Study,Research,Abstract,Anthropocene.
@@ -2990,14 +3166,14 @@ Date,Time,Project,Task,Division,Details
 2017-04-02,0.5,Jam,Composition,Audio,Sound synthesis and composition.
 2017-04-02,2.0,V-OS,Writing,Abstract,"V-OS page for V-OS, LinkedIn page, V-OS rewrites."
 2017-04-02,0.5,Elyium,Development,Code,Conflict reset feature and writing fix.
-2017-04-02,1.5,Jam,Composition,Audio,Guitar.
-2017-04-01,1.0,Jam,Composition,Audio,Guitar.
+2017-04-02,1.5,Jam,Performance,Audio,Guitar.
+2017-04-01,1.0,Jam,Performance,Audio,Guitar.
 2017-04-01,3.0,Interactive Narratives,Writing,Abstract,Narrative in interactive media research.
 2017-03-31,0.5,Log,Development,Code,"Apostrophe escape, testing, documentation, bugfixes."
 2017-03-31,1.0,Interactive Narratives,Writing,Abstract,Narrative in interactive media research.
 2017-03-31,0.5,V-OS,Development,Code,Security testing and development.
 2017-03-30,1.0,Study,Research,Abstract,MBTI and social typology.
-2017-03-30,1.0,Jam,Composition,Audio,Guitar.
+2017-03-30,1.0,Jam,Performance,Audio,Guitar.
 2017-03-30,0.5,Study,Writing,Abstract,Exploration of societies and control structures.
 2017-03-29,2.0,Drone Dreams,Composition,Audio,"Audio synthesis theory, collaborative experimentation."
 2017-03-29,1.0,Drone Dreams,Writing,Abstract,Presentation and artist's statement.
@@ -3039,7 +3215,7 @@ Date,Time,Project,Task,Division,Details
 2017-03-12,1.0,V-OS,Writing,Abstract,Log integration.
 2017-03-12,1.0,Log,2D,Visual,Log logo.
 2017-03-12,8.0,Log,Development,Code,"Web development, SQL connectivity, tasks page, and V-OS page."
-2017-03-11,1.0,Jam,Composition,Audio,Guitar.
+2017-03-11,1.0,Jam,Performance,Audio,Guitar.
 2017-03-11,1.0,V-OS,Design,Abstract,Preparation for logging tool page.
 2017-03-11,2.0,Log,2D,Visual,Interface design.
 2017-03-11,2.0,Log,Design,Abstract,Log organization.
@@ -3048,14 +3224,14 @@ Date,Time,Project,Task,Division,Details
 2017-03-10,2.5,Log,Design,Abstract,Database design and development.
 2017-03-10,0.5,Drone Dreams,Writing,Abstract,Documentation and V-OS page.
 2017-03-10,0.5,Elyium,Development,Code,Interface refactoring.
-2017-03-10,1.0,Jam,Composition,Audio,Guitar.
-2017-03-09,1.0,Jam,Composition,Audio,Guitar.
+2017-03-10,1.0,Jam,Performance,Audio,Guitar.
+2017-03-09,1.0,Jam,Performance,Audio,Guitar.
 2017-03-09,4.0,Drone Dreams,Development,Code,"PureData debugging, testing, communication system finalization."
 2017-03-09,0.5,Study,Research,Abstract,Artificial intelligence.
 2017-03-08,3.5,Drone Dreams,Development,Code,Communication system development.
 2017-03-07,3.5,Study,Writing,Abstract,Noise and communication theory.
 2017-03-07,1.0,Drone Dreams,Research,Code,NodeJS and server research.
-2017-03-07,0.5,Jam,Composition,Audio,Guitar.
+2017-03-07,0.5,Jam,Performance,Audio,Guitar.
 2017-03-07,2.0,Qurotema,Photography,Visual,Edit and upload Quro video.
 2017-03-07,0.5,Doodle,2D,Visual,Script edits.
 2017-03-06,2.0,Doodle,2D,Visual,Rework script and create font.
@@ -3063,7 +3239,7 @@ Date,Time,Project,Task,Division,Details
 2017-03-05,0.5,AGD,Design,Abstract,Game design curriculum writing.
 2017-03-05,4.0,Drone Dreams,Development,Code,PureData patch development.
 2017-03-05,0.5,Drone Dreams,Research,Code,PureData research.
-2017-03-05,1.0,Jam,Composition,Audio,Guitar.
+2017-03-05,1.0,Jam,Performance,Audio,Guitar.
 2017-03-05,1.0,Rig,Maintenance,Code,Update backup.
 2017-03-04,0.5,Drone Dreams,2D,Visual,Ven logo creation.
 2017-03-04,4.0,Drone Dreams,Development,Code,"NodeJS setup, server and interface development."
@@ -3134,7 +3310,7 @@ Date,Time,Project,Task,Division,Details
 2017-02-06,1.0,Ontologica,Development,Visual,"Refine level, add environment animation."
 2017-02-06,0.5,Study,Research,Abstract,Computation in new media.
 2017-02-05,4.0,Elyium,Design,Code,Further development and design for narrative generation.
-2017-02-05,2.5,Jam,Composition,Audio,"Guitar, sound experimentation."
+2017-02-05,2.5,Jam,Performance,Audio,"Guitar, sound experimentation."
 2017-02-05,1.0,Ontologica,Development,Visual,Rebuild level in Unreal.
 2017-02-04,9.0,Elyium,Development,Code,"Preliminary infrastructure development, image-to-ascii algorithm."
 2017-02-04,1.0,VisN,Composition,Audio,"Edit Mantycore reading, add to Unity scene."

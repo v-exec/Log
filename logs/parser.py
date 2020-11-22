@@ -8,7 +8,7 @@ logs = []
 
 # file setup
 output = open("parse.sql", "w")
-source = open("Log - Log.csv", "r")
+source = open("Productivity - Log.csv", "r")
 
 # for each line in source
 count = 0

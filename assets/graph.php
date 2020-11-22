@@ -1,6 +1,6 @@
 <?php
-function graph($l, $desiredDays, $type, $h) {
-	$graphData = setupGraph($l, $desiredDays, $type);
+function graph($l, $desiredDays, $limit, $type, $h) {
+	$graphData = setupGraph($l, $desiredDays, $limit, $type);
 
 	$h = $graphData[2];
 	$desiredDays = $graphData[3];
@@ -32,22 +32,13 @@ function graph($l, $desiredDays, $type, $h) {
 		//holds date
 		$now = $rows[0][0];
 
-		//get date offset
-		if (!$type) {
-			$today = new DateTime();
-			$recent = new DateTime($now);
-			$difference = $today->diff($recent)->format("%a");
-		} else {
-			$difference = 0;
-		}
-
 		//fill $days array with set number of days ($n)
 		for ($i = 0; $i < $desiredDays; $i++) {
 			array_push($days, null);
 		}
 
 		//number of days before last log (-1 to count current day)
-		$dayCount = $desiredDays - 1 - $difference;
+		$dayCount = $desiredDays - 1;
 
 		//pass through all logs, separate them into each $day, fill each $day with its respective logs, and then put every $day into $days
 		for ($i = 0; $i < sizeof($rows); $i++) {
@@ -244,67 +235,60 @@ function graph($l, $desiredDays, $type, $h) {
 	$conn->close();
 }
 
-function setupGraph($l, $desiredDays, $type) {
+function setupGraph($l, $desiredDays, $limit, $type) {
 
 	//if spec page, find delimitations of contextual topic's logs
 	if ($type != null) {
 		$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id where '.$type.'.name = '."'".$l."'".' group by date order by log.id asc;';
-
-		$conn = connect();
-		$result = $conn->query($query);
-
-		if ($result->num_rows > 0) {
-			$rows = array();
-
-			//get query results
-			while ($row = $result->fetch_assoc()) {
-				array_push($rows, [$row['date'], $row['hours']]);
-			}
-
-			//if no specified day number is set, get timespan dynamically
-			if ($desiredDays == 0) {
-				$first = new DateTime($rows[sizeof($rows)-1][0]);
-				$first = $first->sub(new DateInterval('P1D'));
-				$last = new DateTime($rows[0][0]);
-				$difference = $last->diff($first)->format("%a");
-			} else {
-				echo 'hi';
-				$last = new DateTime($rows[0][0]);
-				$first = $last->sub(new DateInterval('P'.$d.'D'));
-				$difference = $last->diff($first)->format("%a");
-			}
-
-			//limit to 90 days
-			if ($difference > 90) $difference = 90;
-
-			$days = $difference;
-
-			if ($days <= 0) $days = 1;
-
-			$now = $last;
-			$now = $now->format('Y-m-d');
-
-			$old = new DateTime($now);
-			$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
-			$old = $old->format('Y-m-d');
-
-			$hours = getNum('select sum(time) as num_hours, '.$type.'.name as type from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$type.'.name = '."'".$l."'".';', 'num_hours');
-
-			$conn->close();
-
-			return array($old, $now, $hours, $days);
-		}
 	} else {
-		$now = new DateTime();
+		$query = 'select log.date, sum(log.time) as hours from log left join project on project.id = log.project_id join task on task.id = log.task_id join division on division.id = log.division_id group by date order by log.id asc;';
+	}
+
+	$conn = connect();
+	$result = $conn->query($query);
+
+	if ($result->num_rows > 0) {
+		$rows = array();
+
+		//get query results
+		while ($row = $result->fetch_assoc()) {
+			array_push($rows, [$row['date'], $row['hours']]);
+		}
+
+		//if no specified day number is set, get timespan dynamically
+		if ($desiredDays == 0) {
+			$first = new DateTime($rows[sizeof($rows)-1][0]);
+			$first = $first->sub(new DateInterval('P1D'));
+			$last = new DateTime($rows[0][0]);
+			$difference = $last->diff($first)->format("%a");
+		} else {
+			$last = new DateTime($rows[0][0]);
+			$first = $last->sub(new DateInterval('P'.$d.'D'));
+			$difference = $last->diff($first)->format("%a");
+		}
+
+		//limit
+		if ($difference > $limit) $difference = $limit;
+
+		$days = $difference;
+
+
+		if ($days <= 0) $days = 1;
+
+		$now = $last;
 		$now = $now->format('Y-m-d');
 
 		$old = new DateTime($now);
-		$old = $old->sub(new DateInterval('P'.($desiredDays - 1).'D'));
+		$old = $old->sub(new DateInterval('P'.($days - 1).'D'));
 		$old = $old->format('Y-m-d');
 
-		$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
+		if ($type != null) {
+			$hours = getNum('select sum(time) as num_hours, '.$type.'.name as type from log left join '.$type.' on '.$type.'.id = log.'.$type.'_id where date between '."'".$old."'".' and '."'".$now."'".' and '.$type.'.name = '."'".$l."'".';', 'num_hours');
+		} else {
+			$hours = getNum('select sum(time) as num_hours from log where date between '."'".$old."'".' and '."'".$now."'".';', 'num_hours');
+		}
 
-		$days = $desiredDays;
+		$conn->close();
 
 		return array($old, $now, $hours, $days);
 	}

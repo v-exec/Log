@@ -27,8 +27,8 @@ function home($h) {
 	title($clean, $type);
 	timeline($clean, $type);
 
-	graph($clean, 90, $type, $h);
-	graph($clean, 14, $type, $h);
+	graph($clean, 0, 90, $type, $h);
+	graph($clean, 0, 14, $type, $h);
 
 	measures($clean, 'division', null, $h);
 	measures($clean, 'task', null, $h);
@@ -43,7 +43,7 @@ function spec() {
 
 	title($clean, $type);
 	timeline($clean, $type);
-	graph($clean, 0, $type, $h);
+	graph($clean, 0, 90, $type, $h);
 
 	if ($type != 'division') {
 		measures($clean, 'division', $type, $h);
