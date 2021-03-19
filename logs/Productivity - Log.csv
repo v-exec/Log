@@ -1,4 +1,208 @@
 Date,Time,Project,Task,Division,Details
+2021-03-19,0.5,Rig,Design,Code,Simplify weekly schedule visuals.
+2021-03-19,0.5,Invictus,Development,Code,Web viewer.
+2021-03-19,1.5,LucasParis,Design,Abstract,Project planning.
+2021-03-18,3.5,CTD,Performance,Code,Teaching.
+2021-03-18,1.0,CTD,Design,Code,Course prep.
+2021-03-18,1.0,Invictus,Development,Code,Web viewer.
+2021-03-18,1.0,Invictus,Research,Code,Realtime web rendering.
+2021-03-17,0.5,Jam,Composition,Audio,Composition.
+2021-03-17,1.0,Invictus,Development,Code,Web viewer.
+2021-03-17,1.0,Invictus,Research,Code,Realtime web rendering.
+2021-03-17,2.0,Sports,Performance,Abstract,Biking.
+2021-03-16,1.5,Jam,Composition,Audio,Audio mixing.
+2021-03-16,1.0,Study,Research,Abstract,Stock market.
+2021-03-16,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-03-15,1.0,Tinker,Maintenance,Code,Tax returns.
+2021-03-15,3.0,Rig,Development,Code,Dashboard.
+2021-03-15,1.0,Invictus,Research,Code,Meeting about viewer.
+2021-03-14,0.5,Invictus,Research,Code,Meeting about viewer.
+2021-03-14,2.0,Chroniqueur,Development,Code,Vignette generation.
+2021-03-13,6.5,CTD,Performance,Visual,Teaching.
+2021-03-12,1.0,Study,Research,Abstract,Stock market.
+2021-03-11,3.5,CTD,Performance,Code,Teaching.
+2021-03-11,2.0,Chroniqueur,Development,Code,Terrain generation.
+2021-03-10,2.0,Study,Research,Abstract,Stock market.
+2021-03-09,0.5,Jam,Composition,Audio,Music theory.
+2021-03-09,0.5,Penny,3D,Visual,Rendering.
+2021-03-08,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-03-08,3.5,Penny,3D,Visual,Mouth animation.
+2021-03-08,1.5,Study,Research,Abstract,Social contract theory.
+2021-03-07,1.0,Study,Research,Abstract,Nature of envy.
+2021-03-06,1.0,Sports,Research,Abstract,Yoga.
+2021-03-06,6.0,CTD,Performance,Visual,Teaching.
+2021-03-05,2.5,Study,Research,Abstract,"Neuroscience, productivity."
+2021-03-05,1.5,Penny,3D,Visual,Animation.
+2021-03-05,0.5,Jam,Composition,Audio,Guitar and mixing.
+2021-03-04,0.5,Jam,Composition,Audio,Guitar and mixing.
+2021-03-04,1.0,CTD,Design,Code,Course prep.
+2021-03-04,3.0,CTD,Performance,Code,Teaching.
+2021-03-04,1.0,Study,Research,Abstract,Finances.
+2021-03-03,3.0,Navmos,3D,Visual,Sculpting and rendering.
+2021-03-02,1.5,Chroniqueur,Development,Code,Terrain generation and rendering.
+2021-03-01,0.5,Penny,Research,Visual,Lip syncing.
+2021-03-01,1.5,Study,Research,Abstract,Finance.
+2021-02-28,1.0,Study,Research,Abstract,Finance.
+2021-02-27,1.0,Jam,Performance,Audio,Guitar.
+2021-02-27,1.0,Penny,3D,Visual,Rendering and video.
+2021-02-27,6.0,CTD,Performance,Visual,Teaching.
+2021-02-27,1.0,Study,Research,Abstract,Financial independence.
+2021-02-26,5.0,Penny,3D,Visual,"Character design updates, rigging, and animation."
+2021-02-26,0.5,Study,Research,Abstract,Financial independence.
+2021-02-25,0.5,Study,Research,Abstract,Financial independence.
+2021-02-25,2.5,Penny,3D,Visual,Character design updates.
+2021-02-25,3.0,CTD,Performance,Code,Teaching.
+2021-02-24,1.0,Study,Research,Abstract,Puzzle game design.
+2021-02-23,2.5,Navmos,3D,Visual,Sculpting.
+2021-02-23,1.0,Stream,Performance,Abstract,Streaming.
+2021-02-23,1.0,Jam,Composition,Audio,Audio asset treatment.
+2021-02-23,0.5,Study,Research,Abstract,Fast fashion and unethical production practices.
+2021-02-23,2.5,Chroniqueur,Development,Code,"Unity editor programming, vignette system, terrain generation."
+2021-02-23,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-02-22,1.0,Stream,Performance,Abstract,Streaming.
+2021-02-22,2.5,Navmos,3D,Visual,Sculpting.
+2021-02-22,2.0,Chroniqueur,Development,Code,Vignette system.
+2021-02-22,0.5,DISCONNECT - RECONNECT,Performance,Audio,"Singing, guitar."
+2021-02-22,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-02-22,0.5,Wurli,Design,Visual,Concept art review.
+2021-02-21,2.5,Wurli,Development,Code,Movement system and softbody physics.
+2021-02-21,1.0,Wurli,Design,Abstract,Game design.
+2021-02-20,2.5,Jam,Composition,Audio,Composition.
+2021-02-20,1.0,Study,Research,Abstract,Business strategy.
+2021-02-20,0.5,Penny,Research,Abstract,Meeting.
+2021-02-20,6.5,CTD,Performance,Visual,Teaching.
+2021-02-19,2.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-02-18,2.0,Navmos,3D,Visual,"Posing, cloth simulation."
+2021-02-18,3.0,CTD,Performance,Code,Teaching.
+2021-02-17,2.0,Navmos,3D,Visual,"Posing, sculpting."
+2021-02-17,0.5,Jam,Composition,Audio,Composition.
+2021-02-17,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-02-16,1.5,Study,Research,Abstract,Finances.
+2021-02-16,5.5,Navmos,3D,Visual,"Sculpting, cloth, rendering."
+2021-02-15,1.5,Navmos,3D,Visual,"Posing, sculpting."
+2021-02-14,0.5,Sports,Performance,Abstract,Sledding.
+2021-02-13,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-02-13,1.0,Study,Research,Abstract,Finances.
+2021-02-13,6.0,CTD,Performance,Visual,Teaching.
+2021-02-12,0.5,CTD,Design,Abstract,Course prep.
+2021-02-12,1.5,Penny,3D,Visual,Posing.
+2021-02-12,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-02-12,1.0,DISCONNECT - RECONNECT,Composition,Audio,Drums and mixing.
+2021-02-11,2.0,Study,Research,Abstract,Finances.
+2021-02-11,1.0,DISCONNECT - RECONNECT,Composition,Audio,Drums and mixing.
+2021-02-11,3.0,CTD,Performance,Code,Teaching.
+2021-02-11,1.0,Penny,3D,Visual,Posing.
+2021-02-10,2.5,Penny,3D,Visual,Posing.
+2021-02-10,0.5,Penny,Photography,Visual,Video editing.
+2021-02-10,0.5,DISCONNECT - RECONNECT,Composition,Audio,Drums and mixing.
+2021-02-09,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-02-09,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-02-09,2.0,Penny,3D,Visual,Animation tweaking.
+2021-02-09,0.5,Chroniqueur,Design,Abstract,Meeting.
+2021-02-08,2.5,Chroniqueur,Development,Code,"Vignette system rewriting, terrain content generation."
+2021-02-08,0.5,Penny,Design,Visual,Meeting.
+2021-02-08,0.5,Architects of Souls,Composition,Audio,"Project updating, composition."
+2021-02-07,0.5,Study,Research,Abstract,Level design.
+2021-02-06,1.0,Jam,Performance,Audio,Guitar.
+2021-02-06,1.0,Navmos,3D,Visual,"Modeling, posing, rendering."
+2021-02-06,0.5,CTD,Maintenance,Abstract,Recording updates and organization.
+2021-02-06,6.0,CTD,Performance,Visual,Teaching.
+2021-02-05,5.0,Navmos,3D,Visual,"Modeling, posing, rendering."
+2021-02-05,0.5,CTD,Writing,Abstract,Course prep.
+2021-02-04,3.0,Navmos,3D,Visual,Modeling and rigging.
+2021-02-04,0.5,CTD,Writing,Code,Teaching materials documentation.
+2021-02-04,3.0,CTD,Performance,Code,Teaching.
+2021-02-04,1.0,CTD,Writing,Abstract,Course prep.
+2021-02-03,0.5,Navmos,Photography,Visual,Photo editing.
+2021-02-03,2.5,Navmos,3D,Visual,"Modeling, posing, rendering."
+2021-02-02,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-02-02,0.5,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-02-02,1.5,Navmos,3D,Visual,Modeling.
+2021-02-02,1.0,Chroniqueur,Development,Code,Terrain and lighting.
+2021-02-01,0.5,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-01-31,0.5,Navmos,3D,Visual,Modeling.
+2021-01-30,6.0,CTD,Performance,Visual,Teaching.
+2021-01-29,0.5,Rig,Development,Code,Browser interface overriding.
+2021-01-29,0.5,Log,Design,Abstract,Add more graphs.
+2021-01-29,1.0,CTD,Research,Abstract,Course prep.
+2021-01-28,3.0,CTD,Performance,Code,Teaching.
+2021-01-28,1.0,Study,Research,Abstract,Language definition in society.
+2021-01-28,2.0,CTD,Writing,Abstract,Course prep.
+2021-01-27,0.5,CTD,Writing,Abstract,Course prep.
+2021-01-27,1.0,Log,Design,Abstract,Add more graphs.
+2021-01-27,1.0,Penny,Photography,Visual,Video editing.
+2021-01-26,0.5,Log,Design,Abstract,Add more graphs.
+2021-01-26,0.5,Study,Linguistics,Abstract,Syntax.
+2021-01-26,7.5,Penny,3D,Visual,"Review, cleanup, animation, rendering."
+2021-01-26,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-01-25,1.0,Penny,3D,Visual,Review.
+2021-01-25,5.0,Chroniqueur,Development,Code,Terrain generation.
+2021-01-24,1.0,Study,Research,Abstract,Minecraft modpack design study.
+2021-01-23,6.0,CTD,Performance,Visual,Teaching.
+2021-01-22,1.0,CTD,Writing,Abstract,Course prep.
+2021-01-21,0.0,CTD,Event,Abstract,Sign new contracts.
+2021-01-21,4.0,Navmos,3D,Visual,Scene production.
+2021-01-21,1.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-01-21,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-01-20,1.0,Penny,Design,Visual,Feedback.
+2021-01-20,1.0,Penny,Photography,Visual,Video editing.
+2021-01-19,1.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-01-19,6.0,Rig,Design,Code,Installation
+2021-01-18,4.0,Rig,Performance,Code,New rig building.
+2021-01-18,0.0,Rig,Event,Abstract,New rig.
+2021-01-17,1.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-01-17,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-01-16,1.5,Penny,3D,Visual,Briefing and package preparation.
+2021-01-15,1.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-01-15,3.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-01-15,2.5,Chroniqueur,Development,Code,Terrain generation and rendering.
+2021-01-14,2.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-01-14,2.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-01-13,2.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
+2021-01-13,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-01-13,2.0,Navmos,3D,Visual,Style development.
+2021-01-12,1.0,Study,Research,Abstract,Astronomy.
+2021-01-12,1.0,Jam,Performance,Audio,Guitar.
+2021-01-12,1.0,Navmos,3D,Visual,Style development.
+2021-01-12,0.5,Chroniqueur,Design,Abstract,Meeting.
+2021-01-11,2.0,Navmos,3D,Visual,Style development.
+2021-01-11,4.0,Penny,3D,Visual,Storyboarding.
+2021-01-10,2.0,Jam,Performance,Audio,Guitar.
+2021-01-10,3.0,Navmos,3D,Visual,Tarot card development.
+2021-01-09,3.5,Navmos,Writing,Abstract,Tarot cards and the occult.
+2021-01-09,3.0,Study,Research,Abstract,Cryptocurrency and economy.
+2021-01-09,0.5,Penny,Research,Abstract,Animation planning.
+2021-01-08,1.0,Navmos,Writing,Abstract,Tarot cards and the occult.
+2021-01-08,0.5,V-OS,Writing,Abstract,Project documentation.
+2021-01-07,4.0,Early Midnight,Development,Code,Procedural modeling.
+2021-01-07,1.5,Navmos,Research,Abstract,Tarot cards and the occult.
+2021-01-07,1.0,Tinker,Research,Code,Hardware.
+2021-01-07,0.5,Chroniqueur,Development,Code,Refactoring.
+2021-01-06,1.0,Navmos,Research,Abstract,Tarot cards and the occult.
+2021-01-06,1.0,Tinker,Research,Code,Hardware.
+2021-01-05,0.5,Tinker,Research,Code,Stock tracking.
+2021-01-04,1.0,CTD,Research,Abstract,Meeting.
+2021-01-03,0.5,Tinker,Research,Code,Stock tracking.
+2021-01-02,1.0,Study,Research,Abstract,Open sandbox game design.
+2021-01-01,1.5,Tinker,Research,Code,Hardware.
+2020-12-31,1.5,Tinker,Research,Code,Hardware.
+2020-12-30,1.0,Study,Research,Abstract,Open sandbox game design.
+2020-12-29,1.0,Study,Research,Abstract,Open sandbox game design.
+2020-12-28,1.0,Study,Research,Abstract,Open sandbox game design.
+2020-12-27,1.0,Tinker,Research,Code,Custom mechanical keyboards.
+2020-12-26,0.5,Full_Body,Writing,Abstract,Documentation.
+2020-12-26,0.5,Full_Body,Development,Code,Pause timer addition.
+2020-12-25,1.0,Tinker,Research,Code,Custom mechanical keyboards.
+2020-12-25,1.0,Study,Research,Abstract,Incremental games and factory design.
+2020-12-24,1.0,Study,Research,Abstract,Incremental games and factory design.
+2020-12-23,0.5,Full_Body,Development,Code,Debugging.
+2020-12-22,3.5,Full_Body,Development,Code,Timer development.
+2020-12-21,1.0,Study,Research,Abstract,Incremental games and factory design.
+2020-12-20,1.0,Study,Research,Abstract,Incremental games and factory design.
+2020-12-19,1.0,Jam,Composition,Audio,Music production.
+2020-12-19,1.0,Study,Research,Abstract,Incremental games and factory design.
+2020-12-18,1.0,Chroniqueur,Development,Code,Vignette system development.
+2020-12-18,0.5,Jam,Research,Audio,Mastering.
 2020-12-17,1.5,Chroniqueur,Development,Code,Vignette system development.
 2020-12-17,0.5,V-OS,Writing,Abstract,Project documentation.
 2020-12-17,3.5,Early Midnight,3D,Visual,Procedural generation and rendering.
@@ -14,7 +218,7 @@ Date,Time,Project,Task,Division,Details
 2020-12-12,1.0,Early Midnight,3D,Code,Procedural modeling.
 2020-12-12,1.0,Early Midnight,2D,Visual,Fictional UI design.
 2020-12-12,1.0,Study,Research,Abstract,Environmental design.
-2020-12-12,3.5,CTD,Design,Abstract,Teaching.
+2020-12-12,3.5,CTD,Performance,Visual,Teaching.
 2020-12-11,1.0,Study,Research,Abstract,Environmental design.
 2020-12-10,1.5,Tinker,Research,Code,Game file encoding.
 2020-12-09,1.5,Early Midnight,3D,Code,Procedural modeling.
@@ -34,7 +238,7 @@ Date,Time,Project,Task,Division,Details
 2020-11-30,9.0,Early Midnight,3D,Code,Procedural modeling.
 2020-11-29,5.0,Early Midnight,3D,Code,Procedural modeling.
 2020-11-28,3.0,Early Midnight,3D,Code,Procedural modeling.
-2020-11-28,3.0,CTD,Design,Abstract,Teaching.
+2020-11-28,3.0,CTD,Performance,Visual,Teaching.
 2020-11-27,1.0,Jam,Performance,Audio,Guitar.
 2020-11-27,1.0,Chroniqueur,Design,Abstract,Meeting.
 2020-11-26,1.0,Penny,3D,Visual,Texturing.
@@ -53,7 +257,7 @@ Date,Time,Project,Task,Division,Details
 2020-11-22,1.0,Log,Development,Code,Small graph update.
 2020-11-22,2.5,V-OS,Writing,Abstract,Project documentation and portfolio rewrite.
 2020-11-21,0.5,V-OS,Writing,Abstract,Project documentation.
-2020-11-21,3.0,CTD,Design,Abstract,Teaching.
+2020-11-21,3.0,CTD,Performance,Visual,Teaching.
 2020-11-20,1.5,Jagged Orbit,Photography,Visual,Video editing.
 2020-11-19,6.0,Jagged Orbit,Photography,Visual,Recording generated landscapes.
 2020-11-19,2.0,Jagged Orbit,Design,Visual,Visual debugging.
@@ -66,7 +270,7 @@ Date,Time,Project,Task,Division,Details
 2020-11-16,4.0,Study,Research,Abstract,ADHD.
 2020-11-15,7.0,Early Midnight,3D,Code,Procedural modeling.
 2020-11-14,3.0,Early Midnight,3D,Code,Procedural modeling.
-2020-11-14,3.0,CTD,Design,Abstract,Teaching.
+2020-11-14,3.0,CTD,Performance,Visual,Teaching.
 2020-11-13,1.0,Study,Research,Abstract,Dialog writing.
 2020-11-13,0.5,Chroniqueur,Design,Abstract,Meeting.
 2020-11-12,0.5,Penny,Design,Visual,Meeting for feedback implementation.
@@ -76,7 +280,7 @@ Date,Time,Project,Task,Division,Details
 2020-11-08,4.0,Toryomu,3D,Visual,Procedural modeling and rendering.
 2020-11-07,1.5,Chroniqueur,Composition,Audio,Soundtrack production.
 2020-11-07,6.0,Toryomu,3D,Visual,Procedural modeling and rendering.
-2020-11-07,3.0,CTD,Design,Abstract,Teaching.
+2020-11-07,3.0,CTD,Performance,Visual,Teaching.
 2020-11-06,5.5,Toryomu,3D,Visual,Procedural modeling and rendering.
 2020-11-06,1.0,Chroniqueur,Design,Abstract,Meeting.
 2020-11-05,1.5,Toryomu,Research,Visual,Procedural modeling learning.
@@ -91,7 +295,7 @@ Date,Time,Project,Task,Division,Details
 2020-11-01,2.0,Early Midnight,3D,Visual,Material design.
 2020-10-31,2.5,Early Midnight,3D,Code,Procedural modeling.
 2020-10-31,0.5,Chroniqueur,Composition,Audio,Soundtrack production.
-2020-10-31,3.0,CTD,Design,Abstract,Teaching.
+2020-10-31,3.0,CTD,Performance,Visual,Teaching.
 2020-10-30,2.5,Early Midnight,3D,Visual,Procedural modeling and material design.
 2020-10-30,1.0,V-OS,Design,Abstract,CV update.
 2020-10-30,1.0,Chroniqueur,Design,Abstract,Meeting.
@@ -109,7 +313,7 @@ Date,Time,Project,Task,Division,Details
 2020-10-25,6.5,Early Midnight,3D,Code,Procedural modeling learning.
 2020-10-24,3.0,Early Midnight,Research,Code,Procedural modeling learning.
 2020-10-24,2.0,Chroniqueur,Development,Code,Implement height into sim.
-2020-10-24,3.5,CTD,Design,Abstract,Teaching.
+2020-10-24,3.5,CTD,Performance,Visual,Teaching.
 2020-10-23,0.5,V-OS,Design,Abstract,Portfolio design.
 2020-10-23,2.0,Chroniqueur,Design,Abstract,Meeting.
 2020-10-22,3.5,Chroniqueur,Composition,Audio,Soundtrack production.
@@ -119,7 +323,7 @@ Date,Time,Project,Task,Division,Details
 2020-10-20,2.0,Penny,3D,Visual,Retopo and rigging.
 2020-10-19,2.5,Penny,3D,Visual,"Model corrections, material tweaking and rendering."
 2020-10-18,3.0,Chroniqueur,Development,Code,Terrain implementation with simulation.
-2020-10-17,3.5,CTD,Design,Abstract,Teaching.
+2020-10-17,3.5,CTD,Performance,Visual,Teaching.
 2020-10-16,2.5,Chroniqueur,Development,Code,Terrain implementation with simulation.
 2020-10-16,1.0,Study,Research,Abstract,"Mental health, CBT, and SSRI."
 2020-10-15,2.5,Chroniqueur,Composition,Audio,Soundtrack production.
@@ -146,7 +350,7 @@ Date,Time,Project,Task,Division,Details
 2020-10-03,1.5,Jam,Composition,Audio,Sampling and mixing.
 2020-10-03,0.5,Doodle,Photography,Visual,Game photography.
 2020-10-03,0.5,Chroniqueur,Development,Code,Terrain codebase implementation.
-2020-10-03,3.5,CTD,Design,Abstract,Teaching.
+2020-10-03,3.5,CTD,Performance,Visual,Teaching.
 2020-10-02,2.0,Tinker,Development,Code,Streaming talker app.
 2020-10-02,1.0,Chroniqueur,Development,Code,Terrain codebase implementation.
 2020-10-02,1.0,Chroniqueur,Design,Abstract,Meeting.
@@ -157,7 +361,7 @@ Date,Time,Project,Task,Division,Details
 2020-09-29,1.5,Study,Research,Abstract,Level design.
 2020-09-28,1.5,Study,Research,Abstract,Level design.
 2020-09-27,0.5,Invictus,3D,Visual,Modeling.
-2020-09-26,3.5,CTD,Design,Abstract,Teaching.
+2020-09-26,3.5,CTD,Performance,Visual,Teaching.
 2020-09-25,0.5,Invictus,3D,Visual,Modeling.
 2020-09-25,1.0,CTD,Design,Abstract,Teaching preparations.
 2020-09-25,0.5,Rig,Maintenance,Abstract,Finance management.
@@ -2280,13 +2484,12 @@ Date,Time,Project,Task,Division,Details
 2018-02-08,2.0,Obx,Development,Code,App testing and debugging.
 2018-02-07,2.5,Keerosin,3D,Visual,Blockout 3D.
 2018-02-07,0.5,You Are Two,Design,Abstract,Systems design.
-2018-02-07,1.0,Sin-D,Development,Code,Cindy sculpting.
+2018-02-07,1.0,Sin-D,3D,Visual,Cindy sculpting.
 2018-02-07,1.5,Monospace_Garden,Development,Code,Game dev.
 2018-02-06,3.5,You Are Two,Development,Code,Shader programming.
 2018-02-06,3.0,You Are Two,Research,Code,Shader programming.
 2018-02-06,1.0,Obx,Research,Code,OpenGL research.
-2018-02-05,2.5,Sin-D,Development,Code,Cindy sculpting.
-2018-02-05,2.5,Sin-D,Development,Code,Cindy sculpting.
+2018-02-05,2.5,Sin-D,3D,Visual,Cindy sculpting.
 2018-02-05,1.0,You Are Two,Development,Code,Shader programming.
 2018-02-05,3.0,You Are Two,Design,Abstract,Concept work.
 2018-02-04,0.5,Boza,2D,Visual,Event banner production.
@@ -2365,9 +2568,9 @@ Date,Time,Project,Task,Division,Details
 2018-01-15,3.0,Doodle,3D,Visual,Texturing and rendering practice.
 2018-01-15,0.5,V-OS,Writing,Abstract,Verse writing.
 2018-01-15,3.0,Obx,Development,Code,Application updating and debugging.
-2018-01-14,0.5,Doodle,3D,Visual,3D       practice.
+2018-01-14,0.5,Doodle,3D,Visual,3D practice.
 2018-01-14,1.5,Study,Research,Abstract,Digital RPGs.
-2018-01-13,2.0,Doodle,3D,Visual,3D       practice.
+2018-01-13,2.0,Doodle,3D,Visual,3D practice.
 2018-01-13,4.5,Monospace_Garden,Development,Code,Game dev.
 2018-01-12,2.5,Monospace_Garden,Development,Code,Game dev.
 2018-01-12,1.5,Doodle,3D,Visual,Baking.
@@ -2377,8 +2580,7 @@ Date,Time,Project,Task,Division,Details
 2018-01-10,0.5,V-OS,Writing,Abstract,Nil Cursors.
 2018-01-10,1.5,Obx,Research,Abstract,Lab and application publishing research.
 2018-01-10,1.5,Obx,Development,Code,Application updating and debugging.
-2018-01-10,1.0,Nil Cursor,3D,Visual,"Scene, lighting, rendering."
-2018-01-10,2.5,Nil Cursor,3D,Visual,Character 3D.
+2018-01-10,3.5,Nil Cursor,3D,Visual,"3D character, scene, lighting, rendering."
 2018-01-09,0.5,Dunes of Simila,3D,Visual,Procedural terrain and displacement study.
 2018-01-09,1.0,V-OS,Writing,Abstract,Verse and personal writing.
 2018-01-09,1.5,Study,Research,Abstract,Narrative and aesthetic input (BLAME!).

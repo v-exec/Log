@@ -4,7 +4,7 @@ source ./credentials.sh
 
 parse() {
 	echo "parsing log"
-	python parser.py
+	py parser.py
 }
 
 repository() {
