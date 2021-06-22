@@ -1,6 +1,234 @@
 Date,Time,Project,Task,Division,Details
+2021-06-21,0.5,Tinker,Development,Code,Web dev.
+2021-06-21,1.5,Argos,Photography,Visual,Video editing.
+2021-06-21,0.5,Doodle,Research,Visual,Fashion.
+2021-06-21,1.0,LucasParis,Development,Code,Chain reaction system.
+2021-06-20,0.5,Doodle,Research,Visual,Fashion.
+2021-06-19,0.5,Argos,Photography,Visual,Video editing.
+2021-06-19,3.0,CTD,Performance,Visual,Teaching.
+2021-06-18,1.0,V-OS,Writing,Abstract,Research editing.
+2021-06-18,1.5,Argos,Photography,Visual,Video editing.
+2021-06-18,2.0,Idle,Development,Code,"User interfacing, server setup."
+2021-06-17,2.0,Idle,Development,Code,User interfacing.
+2021-06-17,0.5,Jam,Performance,Audio,Guitar.
+2021-06-16,1.0,Jam,Performance,Audio,Guitar.
+2021-06-15,1.0,Idle,Development,Code,User interfacing.
+2021-06-15,3.0,Iregular,Development,Code,Javascript challenge.
+2021-06-15,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-06-14,5.0,Chroniqueur,Development,Code,Region identification.
+2021-06-13,1.5,Argos,Photography,Visual,Video editing.
+2021-06-12,0.5,Argos,Photography,Visual,Video editing.
+2021-06-11,2.0,Study,Research,Abstract,Behavioral biology.
+2021-06-11,1.0,Chroniqueur,Development,Code,Memory leak fix.
+2021-06-10,5.0,Idle,Development,Code,User interfacing.
+2021-06-09,1.0,Idle,Development,Code,User interfacing.
+2021-06-09,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-09,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-06-08,2.0,Study,Research,Abstract,Behavioral biology.
+2021-06-08,2.0,Idle,Development,Code,User interfacing.
+2021-06-07,1.5,Argos,Photography,Visual,Video editing.
+2021-06-07,1.0,Study,Research,Abstract,Behavioral biology.
+2021-06-06,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-06-06,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-05,1.0,Sports,Performance,Abstract,Kayaking.
+2021-06-05,1.0,Jam,Performance,Audio,Guitar.
+2021-06-04,1.0,Jam,Performance,Audio,Guitar.
+2021-06-03,1.0,Jam,Performance,Audio,Guitar.
+2021-06-02,0.5,Jam,Performance,Audio,Vocals.
+2021-06-02,1.0,Jam,Composition,Audio,Mixing.
+2021-06-02,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-06-02,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-02,0.5,Chroniqueur,Design,Abstract,Meeting.
+2021-06-01,2.0,Chroniqueur,Development,Code,Visuals development.
+2021-06-01,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-06-01,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-01,0.5,Invictus,Development,Code,Loading animation.
+2021-06-01,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-05-31,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-31,1.5,DISCONNECT - RECONNECT,Composition,Audio,Song composition.
+2021-05-31,3.5,Idle,Development,Code,Debugging.
+2021-05-31,0.5,Study,Writing,Abstract,Art education.
+2021-05-31,0.5,AgentCell,Writing,Abstract,Documentation.
+2021-05-31,0.5,Invictus,2D,Visual,Loading animation.
+2021-05-30,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-30,1.0,DISCONNECT - RECONNECT,Composition,Audio,Song composition.
+2021-05-30,0.5,Chroniqueur,Development,Code,Visuals development.
+2021-05-29,2.0,Jam,Performance,Audio,Guitar and vocals.
+2021-05-29,4.0,Jam,Composition,Audio,Composition.
+2021-05-28,4.0,Idle,Development,Code,User interfacing.
+2021-05-28,1.0,Study,Research,Abstract,Dwarf Fortress game design.
+2021-05-28,1.5,Chroniqueur,Development,Code,Visuals development.
+2021-05-27,1.0,Jam,Performance,Audio,Guitar.
+2021-05-27,7.5,Idle,Development,Code,User interfacing and server communication.
+2021-05-27,0.5,Invictus,Development,Code,Debugging.
+2021-05-26,6.5,Idle,Development,Code,User interfacing.
+2021-05-26,0.5,Argos,2D,Visual,Credits production.
+2021-05-26,1.0,Tinker,Design,Code,UE5 testing.
+2021-05-25,0.5,Argos,2D,Visual,Credits production.
+2021-05-25,0.5,Invictus,Development,Code,3D viewer tweaking.
+2021-05-25,0.5,Invictus,Design,Abstract,Meeting.
+2021-05-24,0.5,Idle,2D,Visual,Iconography cleaning.
+2021-05-24,1.0,Argos,2D,Visual,Credits production.
+2021-05-24,0.5,Invictus,Development,Code,Debugging.
+2021-05-23,5.0,Invictus,Development,Code,3D viewer implementation.
+2021-05-23,2.0,Argos,2D,Visual,"Logo cleanup, title and credits production."
+2021-05-22,4.0,Invictus,Development,Code,3D viewer implementation.
+2021-05-21,0.5,DISCONNECT - RECONNECT,Composition,Audio,Song composition.
+2021-05-21,1.0,Argos,2D,Visual,"Logo cleanup, title and credits production."
+2021-05-21,1.5,Argos,Photography,Visual,Video editing.
+2021-05-21,6.0,Invictus,Development,Code,3D viewer implementation.
+2021-05-21,1.5,Invictus,Research,Code,Wordpress and Vue.js.
+2021-05-21,0.5,Argos,Design,Visual,Credits production.
+2021-05-20,0.5,Argos,Design,Visual,Credits production.
+2021-05-20,6.0,Invictus,Research,Code,Wordpress and Vue.js.
+2021-05-20,5.0,Invictus,Development,Code,3D viewer implementation.
+2021-05-19,1.0,Invictus,Design,Code,Web migration meeting.
+2021-05-18,1.0,Argos,Photography,Visual,Video editing.
+2021-05-18,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-18,1.0,DISCONNECT - RECONNECT,Composition,Audio,Song composition.
+2021-05-18,1.5,Chroniqueur,Design,Abstract,Meeting.
+2021-05-17,1.0,Jam,Composition,Audio,Song composition.
+2021-05-17,1.0,Jam,Performance,Audio,Guitar and vocals.
+2021-05-17,0.5,Chroniqueur,Development,Code,Asset additions.
+2021-05-17,1.0,LucasParis,Development,Code,"Interaction hierarchy, environment scaling."
+2021-05-16,2.5,Argos,Photography,Visual,Video editing.
+2021-05-16,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-16,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition and mixing.
+2021-05-15,1.0,Study,Research,Abstract,Relationships.
+2021-05-14,5.0,DISCONNECT - RECONNECT,Composition,Audio,Composition and mixing.
+2021-05-14,4.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-14,0.5,Argos,Design,Visual,Editing design.
+2021-05-13,0.5,Argos,Maintenance,Code,Davinci setup.
+2021-05-12,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-12,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition and mixing.
+2021-05-12,1.0,Argos,Photography,Visual,Video editing.
+2021-05-12,0.5,Argos,Design,Visual,Meeting for editing.
+2021-05-12,1.0,Chroniqueur,Development,Code,Debugging.
+2021-05-11,3.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-05-11,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-05-11,0.5,Argos,Design,Visual,Meeting for editing.
+2021-05-11,3.5,Chroniqueur,Development,Code,"Map consistency, custom billboard rendering."
+2021-05-10,1.5,Jam,Performance,Audio,Guitar.
+2021-05-10,1.0,Jam,Composition,Audio,Composition.
+2021-05-10,5.0,Idle,Development,Code,Server-side security.
+2021-05-10,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-05-09,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-05-09,1.0,Jam,Performance,Audio,Guitar.
+2021-05-08,7.0,Idle,Development,Code,Full stack development.
+2021-05-07,5.0,Idle,Development,Code,Full stack development.
+2021-05-07,2.0,Idle,Design,Abstract,Project brief.
+2021-05-06,3.0,CTD,Performance,Code,Teaching.
+2021-05-06,0.5,LucasParis,Development,Code,Menu tweaking.
+2021-05-06,1.0,Penny,3D,Visual,Rendering.
+2021-05-05,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-05-05,1.0,Penny,3D,Visual,Texturing and rendering.
+2021-05-05,4.5,Chroniqueur,Development,Code,Map systems.
+2021-05-05,1.0,Chroniqueur,2D,Visual,Map asset tweaking.
+2021-05-05,0.5,LucasParis,Design,Abstract,Meeting.
+2021-05-04,1.0,LucasParis,Development,Code,Environment manipulation.
+2021-05-04,0.5,Chroniqueur,Design,Abstract,Project planning.
+2021-05-04,0.5,LucasParis,Writing,Abstract,Grant letters.
+2021-05-03,1.0,Study,Research,Abstract,Progression systems.
+2021-05-02,0.5,Invictus,Writing,Abstract,Documentation.
+2021-05-02,1.0,Study,Research,Abstract,Progression systems.
+2021-05-01,1.0,Chroniqueur,Development,Code,Camera system.
+2021-04-30,1.0,Study,Research,Abstract,Progression systems.
+2021-04-29,3.0,CTD,Performance,Code,Teaching.
+2021-04-29,0.5,Chroniqueur,Development,Code,Map to world interfacing.
+2021-04-28,0.5,DISCONNECT - RECONNECT,Performance,Audio,Vocals.
+2021-04-28,3.5,LucasParis,Development,Code,UI.
+2021-04-27,6.0,LucasParis,Development,Code,UI and input systems.
+2021-04-26,1.0,LucasParis,Writing,Abstract,Grant letters.
+2021-04-26,1.5,Invictus,Writing,Abstract,Documentation.
+2021-04-26,1.5,Invictus,3D,Visual,Texturing.
+2021-04-25,1.0,Study,Research,Abstract,Rhythm games.
+2021-04-24,1.0,Jam,Performance,Audio,Guitar.
+2021-04-23,1.0,Jam,Performance,Audio,Guitar.
+2021-04-23,2.5,Chroniqueur,Development,Code,Map interfacing.
+2021-04-22,3.0,CTD,Performance,Code,Teaching.
+2021-04-22,4.0,LucasParis,Development,Code,Spline color and resolution controls and saving.
+2021-04-21,2.5,LucasParis,Development,Code,Spline stroke size controls.
+2021-04-20,3.0,Invictus,Development,Code,Custom text to texture.
+2021-04-20,0.5,Chroniqueur,Design,Abstract,Meeting and research.
+2021-04-20,1.0,LucasParis,Design,Abstract,Meeting and research.
+2021-04-20,0.5,Penny,3D,Visual,Rendering.
+2021-04-19,0.5,Penny,3D,Visual,Rendering.
+2021-04-18,3.0,Penny,3D,Visual,"Animation, texture tweaking."
+2021-04-17,2.5,LucasParis,Development,Code,Saving and loading.
+2021-04-16,1.0,LucasParis,Development,Code,Serialization.
+2021-04-16,1.0,LucasParis,Research,Code,Serialization.
+2021-04-15,3.5,CTD,Performance,Code,Teaching.
+2021-04-15,1.0,LucasParis,Development,Code,Cross-platform input handling.
+2021-04-14,4.0,LucasParis,Development,Code,Plugin implementation.
+2021-04-14,1.0,LucasParis,Research,Code,Serialization.
+2021-04-14,0.5,LucasParis,Design,Abstract,"Meeting, plugin review."
+2021-04-14,4.5,Early Midnight,3D,Code,Procedural modeling.
+2021-04-13,2.5,Early Midnight,3D,Code,Procedural modeling.
+2021-04-13,2.0,Invictus,Development,Code,Mobile compatibility.
+2021-04-13,0.5,Chroniqueur,Development,Code,Civilization updating.
+2021-04-12,0.5,Invictus,Development,Code,Camera controls.
+2021-04-12,1.5,Chroniqueur,Development,Code,Civilization size.
+2021-04-11,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-04-10,2.0,CTD,Performance,Visual,Teaching.
+2021-04-09,1.0,CTD,Research,Visual,Course prep.
+2021-04-09,5.0,LucasParis,Development,Code,Procedural mesh generation.
+2021-04-09,6.5,LucasParis,Research,Code,Procedural mesh generation.
+2021-04-08,1.0,Seven,Development,Code,"Cleaning, updating."
+2021-04-08,3.0,CTD,Performance,Code,Teaching.
+2021-04-08,0.5,CTD,Design,Abstract,Course prep.
+2021-04-08,1.5,Chroniqueur,Development,Code,"Building billboards, spawning, civilization checks."
+2021-04-07,1.5,Invictus,Development,Code,Mobile compatibility and tweaking.
+2021-04-07,0.5,Invictus,Design,Abstract,Site migration meeting.
+2021-04-06,0.5,LucasParis,Research,Code,VR debugging.
+2021-04-05,7.5,Invictus,Development,Code,Texture projection and refactoring.
+2021-04-05,2.0,Invictus,Research,Code,Texture projection and refactoring.
+2021-04-05,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-04-05,1.0,LucasParis,Design,Code,"Meeting, code update, design considerations."
+2021-04-04,0.5,AgentCell,Research,Code,Algorithm modeling.
+2021-04-04,1.0,AgentCell,Development,Code,Algorithm modeling.
+2021-04-03,8.0,AgentCell,Development,Code,Algorithm modeling.
+2021-04-03,2.0,AgentCell,Research,Code,Trigonometry.
+2021-04-02,4.5,AgentCell,Development,Code,Algorithm modeling.
+2021-04-01,4.5,AgentCell,Development,Code,Algorithm modeling.
+2021-04-01,3.0,CTD,Performance,Code,Teaching.
+2021-04-01,0.5,CTD,Design,Code,Course prep.
+2021-04-01,1.0,LucasParis,Development,Code,VR setup and behaviour linking.
+2021-03-31,1.0,AgentCell,Development,Code,Algorithm modeling.
+2021-03-31,1.0,AgentCell,Research,Code,Compute shaders.
+2021-03-31,2.0,Rig,Writing,Abstract,CV updates.
+2021-03-31,0.5,3DM,Design,Abstract,Program onboarding.
+2021-03-30,0.5,AgentCell,Research,Code,Algorithm modeling.
+2021-03-30,1.0,Early Midnight,3D,Code,Procedural modeling.
+2021-03-30,0.5,3DM,Design,Abstract,Program onboarding.
+2021-03-30,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-03-29,2.0,Early Midnight,3D,Code,Procedural modeling.
+2021-03-29,1.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-03-29,2.5,LucasParis,Development,Code,Spline creator and VR setup.
+2021-03-28,0.5,Study,Research,Abstract,Party game design.
+2021-03-27,3.0,Early Midnight,3D,Code,Procedural modeling.
+2021-03-26,3.0,Chroniqueur,Development,Code,Vignette drawing.
+2021-03-26,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-03-25,1.5,Early Midnight,3D,Code,Procedural modeling.
+2021-03-25,3.0,CTD,Performance,Code,Teaching.
+2021-03-25,0.5,3DM,Design,Abstract,Program onboarding.
+2021-03-24,2.0,Early Midnight,3D,Code,Procedural modeling.
+2021-03-24,1.5,Early Midnight,Research,Code,Procedural modeling.
+2021-03-24,1.0,Invictus,Design,Abstract,Proposal meeting.
+2021-03-23,2.5,Penny,3D,Visual,Mouth animation.
+2021-03-23,1.5,Invictus,Writing,Abstract,Services agreement and proposal.
+2021-03-22,0.5,Penny,3D,Visual,Rendering.
+2021-03-22,3.0,Early Midnight,Research,Visual,Procedural modeling research.
+2021-03-22,1.5,Penny,Design,Visual,Camera rework.
+2021-03-21,5.5,Early Midnight,3D,Code,Procedural modeling.
+2021-03-21,1.0,Early Midnight,Research,Visual,Procedural modeling research.
+2021-03-20,2.0,Early Midnight,3D,Code,Procedural modeling.
+2021-03-20,3.0,CTD,Performance,Visual,Teaching.
+2021-03-20,3.5,Invictus,Development,Code,Web viewer.
+2021-03-20,2.0,Invictus,Research,Code,Web viewer.
+2021-03-19,1.0,CTD,Design,Visual,Course prep.
 2021-03-19,0.5,Rig,Design,Code,Simplify weekly schedule visuals.
 2021-03-19,0.5,Invictus,Development,Code,Web viewer.
+2021-03-19,0.5,Penny,Design,Visual,Meeting.
 2021-03-19,1.5,LucasParis,Design,Abstract,Project planning.
 2021-03-18,3.5,CTD,Performance,Code,Teaching.
 2021-03-18,1.0,CTD,Design,Code,Course prep.
@@ -174,7 +402,7 @@ Date,Time,Project,Task,Division,Details
 2021-01-09,0.5,Penny,Research,Abstract,Animation planning.
 2021-01-08,1.0,Navmos,Writing,Abstract,Tarot cards and the occult.
 2021-01-08,0.5,V-OS,Writing,Abstract,Project documentation.
-2021-01-07,4.0,Early Midnight,Development,Code,Procedural modeling.
+2021-01-07,4.0,Early Midnight,3D,Code,Procedural modeling.
 2021-01-07,1.5,Navmos,Research,Abstract,Tarot cards and the occult.
 2021-01-07,1.0,Tinker,Research,Code,Hardware.
 2021-01-07,0.5,Chroniqueur,Development,Code,Refactoring.
