@@ -1,4 +1,290 @@
 Date,Time,Project,Task,Division,Details
+2021-10-06,1.0,QU-6,2D,Visual,Pablo visuals - video editing.
+2021-10-06,0.5,QU-6,3D,Visual,Pablo visuals.
+2021-10-06,3.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
+2021-10-06,0.5,Iregular,Design,Abstract,Meetings.
+2021-10-05,0.5,Jam,Performance,Audio,Synth and keyboard playing.
+2021-10-05,1.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
+2021-10-05,1.5,Iregular,Design,Abstract,"Meetings, audio feedback video recording."
+2021-10-04,2.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
+2021-10-04,1.5,QU-6,2D,Visual,Pablo visuals - video editing.
+2021-10-04,0.5,QU-6,3D,Visual,Pablo visuals.
+2021-10-03,1.5,QU-6,2D,Visual,Pablo visuals - video editing.
+2021-10-03,3.5,QU-6,3D,Visual,Pablo visuals.
+2021-10-02,0.5,Jam,Performance,Audio,Guitar.
+2021-10-01,2.0,ADDS90,3D,Visual,Pablo visuals.
+2021-10-01,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-10-01,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-10-01,1.5,Iregular,Development,Code,Telescopes tweaking.
+2021-09-30,3.5,Iregular,Development,Code,Telescopes testing and tweaking.
+2021-09-30,1.5,Iregular,Design,Abstract,Meetings.
+2021-09-29,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-09-29,1.0,Iregular,Design,Abstract,Meetings.
+2021-09-28,1.0,Iregular,Design,Abstract,Meetings.
+2021-09-28,0.5,Jam,Composition,Audio,Synth jamming.
+2021-09-28,2.5,Iregular,Development,Code,Products and Telescopes testing and tweaking.
+2021-09-27,2.0,Iregular,Development,Code,"Products optimizations, general preprocessing and instructions integration."
+2021-09-27,0.5,Iregular,Design,Abstract,Meetings.
+2021-09-26,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-09-26,0.5,Doodle,Photography,Visual,Photo editing.
+2021-09-25,1.0,Doodle,Photography,Visual,Photo taking.
+2021-09-24,6.0,Iregular,Development,Code,Products and telescopes instructions and data smoothing. Tweaking and testing.
+2021-09-24,0.5,Iregular,Design,Abstract,Meetings.
+2021-09-23,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-09-23,3.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-09-16,1.0,Iregular,Development,Code,Redesign coding.
+2021-09-23,1.5,Iregular,Design,Abstract,Meetings.
+2021-09-22,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-09-22,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-09-22,0.5,Iregular,Development,Code,Redesign coding.
+2021-09-22,2.5,Iregular,Design,Abstract,Meetings.
+2021-09-21,4.0,Iregular,Development,Code,Redesign coding and UI integration.
+2021-09-21,1.0,Iregular,Design,Abstract,Meetings.
+2021-09-20,1.0,Iregular,Development,Code,Redesign coding.
+2021-09-20,3.5,Iregular,Design,Abstract,Meetings.
+2021-09-19,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-09-19,0.5,DISCONNECT - RECONNECT,Performance,Audio,Vocals.
+2021-09-18,1.0,Jam,Performance,Audio,Piano.
+2021-09-18,1.0,Navmos,Writing,Abstract,Documentation on V-OS.
+2021-09-18,1.0,Study,Research,Abstract,Astrophysics.
+2021-09-17,1.0,Jam,Performance,Audio,Piano.
+2021-09-17,2.5,Iregular,Development,Code,Merging.
+2021-09-16,0.5,Iregular,Design,Abstract,Meetings.
+2021-09-15,2.5,Iregular,Development,Code,"Face and trash color coordination, UI refactoring, permissions UI."
+2021-09-15,2.5,Iregular,Design,Abstract,Meetings.
+2021-09-14,4.0,Iregular,Development,Code,App UI.
+2021-09-14,0.5,Iregular,Design,Abstract,Meetings.
+2021-09-13,0.5,V-OS,Research,Abstract,Business registration.
+2021-09-13,1.0,CAT,Design,Abstract,Game design document production.
+2021-09-13,2.5,Iregular,Design,Abstract,Meetings.
+2021-09-12,1.0,CAT,Research,Abstract,Playground game research.
+2021-09-12,0.5,Study,Research,Abstract,Story writing.
+2021-09-11,0.0,Various,Event,Abstract,Business registered.
+2021-09-11,5.0,Iregular,Development,Code,"Tweaking, cell exclusion, animations."
+2021-09-10,7.0,Iregular,Development,Code,"Multigrid system, idle mode adjustments, mapping."
+2021-09-09,1.0,CAT,Design,Abstract,Game design document production.
+2021-09-09,3.5,Iregular,Development,Code,"Grid animations, graphic additions, participant tracking, React learning."
+2021-09-09,2.0,Iregular,Design,Abstract,Meetings.
+2021-09-08,6.0,Iregular,Development,Code,"UI, recording and sharing systems, aesthetic additions to grid."
+2021-09-08,0.5,Iregular,Research,Visual,Shader research - fire.
+2021-09-08,2.0,Iregular,Design,Abstract,Meetings.
+2021-09-07,2.0,Iregular,Design,Abstract,Meetings.
+2021-09-07,3.0,Iregular,Development,Code,Background shader.
+2021-09-06,3.0,Iregular,Development,Code,Image disappearing and loading.
+2021-09-05,6.5,Jam,Composition,Audio,Future Nostalgia remix.
+2021-09-05,4.0,Iregular,Development,Code,"Idle mode, animations, relative scaling."
+2021-09-04,3.5,Iregular,Development,Code,"Shader creation, idle animations."
+2021-09-03,3.0,Iregular,Development,Code,"Grid fixing, shader development and filter behavior tweaking."
+2021-09-03,1.0,Tinker,Performance,Code,Teaching.
+2021-09-02,5.5,Iregular,Development,Code,"Docker setup, image fetching, grid fixing, system architecture."
+2021-09-02,2.0,Iregular,Design,Abstract,Meetings.
+2021-09-01,2.0,LucasParis,Development,Code,Camera follow system and debugging.
+2021-09-01,2.0,Iregular,Development,Code,Docker setup and image fetching.
+2021-09-01,1.5,Iregular,Design,Abstract,Meetings.
+2021-09-01,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-08-31,1.0,Iregular,Development,Code,Docker setup.
+2021-08-31,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-08-31,0.5,DISCONNECT - RECONNECT,Performance,Audio,Vocals.
+2021-08-31,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-08-31,0.5,Iregular,Design,Abstract,Meetings.
+2021-08-30,2.0,Iregular,Development,Code,Shader writing and small grid fixes.
+2021-08-30,1.0,Iregular,Research,Code,Instagram API research.
+2021-08-30,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-08-30,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar.
+2021-08-30,1.0,Iregular,Design,Abstract,Meetings.
+2021-08-29,2.0,Jam,Research,Audio,Mutek show.
+2021-08-28,3.0,CTD,Performance,Visual,Teaching.
+2021-08-28,0.5,Jam,Composition,Audio,"Mixing, composition."
+2021-08-27,2.0,Study,Research,Abstract,Epidemology.
+2021-08-27,1.0,Iregular,Development,Code,Dynamic grid system dev.
+2021-08-27,0.5,Jam,Performance,Audio,Vocals and guitar.
+2021-08-27,1.5,Jam,Composition,Audio,"Mixing, composition."
+2021-08-26,1.5,Jam,Research,Audio,Mutek show.
+2021-08-26,1.0,Iregular,Development,Code,Dynamic grid system dev.
+2021-08-26,1.0,Iregular,Design,Abstract,Meetings.
+2021-08-25,0.5,Jam,Performance,Audio,Guitar and vocals.
+2021-08-25,0.5,Jam,Composition,Audio,Song structure transcription.
+2021-08-25,3.5,Iregular,Design,Abstract,Meetings.
+2021-08-25,2.5,Chroniqueur,Development,Code,Web dev.
+2021-08-25,0.5,Idle,Development,Code,Debugging.
+2021-08-24,1.5,Chroniqueur,Development,Code,Web dev.
+2021-08-24,4.5,Iregular,Development,Code,Develop dynamic grid system.
+2021-08-23,1.0,Iregular,Development,Code,Develop dynamic grid system.
+2021-08-22,0.5,Study,Research,Abstract,Psychadelics.
+2021-08-21,3.0,CTD,Performance,Visual,Teaching.
+2021-08-20,3.0,Iregular,Development,Code,Develop dynamic grid system.
+2021-08-19,3.0,Iregular,Development,Code,"Add new sounds, develop dynamic grid system."
+2021-08-19,1.0,Invictus,Development,Code,Debugging.
+2021-08-19,1.5,Jam,Composition,Audio,Future bass composition.
+2021-08-19,1.5,Iregular,Design,Abstract,Meeting.
+2021-08-18,1.0,Jam,Composition,Audio,Future bass composition.
+2021-08-18,1.0,Iregular,Development,Code,Project setup.
+2021-08-18,1.0,Tinker,Design,Code,Teaching.
+2021-08-18,1.0,LucasParis,Development,Code,"OSC communication, debugging."
+2021-08-17,1.5,LucasParis,Development,Code,"OSC communication, debugging."
+2021-08-17,1.0,Chroniqueur,Design,Abstract,Design meeting.
+2021-08-17,1.5,Jam,Composition,Audio,Future bass composition.
+2021-08-17,0.5,Iregular,Design,Abstract,Meeting.
+2021-08-16,1.5,Iregular,Design,Abstract,Meeting.
+2021-08-16,5.0,Jam,Composition,Audio,Future bass composition.
+2021-08-15,2.5,Jam,Composition,Audio,Future bass composition.
+2021-08-15,6.0,Idle,Development,Code,"Debugging, file chunking."
+2021-08-14,3.0,CTD,Performance,Visual,Teaching.
+2021-08-13,0.5,CTD,Research,Visual,Class prep.
+2021-08-13,4.0,Iregular,Development,Code,"Refactoring, cleaning, documentation, audio integration, optimization."
+2021-08-13,1.0,Iregular,Composition,Audio,Mixing and audio composition.
+2021-08-12,2.0,Iregular,Development,Code,"Parameterization, flocking tweaks, debugging, audio integration."
+2021-08-12,2.5,LucasParis,Development,Code,"OSC communication, debugging."
+2021-08-11,2.0,Iregular,Development,Code,Flocking and audio.
+2021-08-11,2.0,Iregular,Design,Abstract,Meetings.
+2021-08-11,0.5,LucasParis,Design,Code,"Debugging, planning."
+2021-08-11,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-08-10,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-08-10,0.5,LucasParis,Design,Abstract,Movement and audio triggering design.
+2021-08-10,2.5,LucasParis,Development,Code,"Sound mapping, player movement, debugging."
+2021-08-10,1.5,Iregular,Development,Code,Flocking.
+2021-08-10,0.5,Iregular,Design,Abstract,Meetings.
+2021-08-09,4.0,Iregular,Development,Code,Flocking.
+2021-08-09,0.5,LucasParis,Development,Code,"Sound mapping, player movement, debugging."
+2021-08-09,0.5,Iregular,Design,Abstract,Meetings.
+2021-08-08,1.0,Study,Research,Abstract,Types of players in game design.
+2021-08-07,0.5,LucasParis,Development,Code,Object pooling.
+2021-08-06,3.0,Chroniqueur,Development,Code,Web dev.
+2021-08-05,3.5,Chroniqueur,Development,Code,"Data saving, debugging, website creation."
+2021-08-05,2.5,Iregular,Development,Code,"Physics, optimizaton, audio."
+2021-08-05,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-08-05,1.5,Iregular,Design,Abstract,Meetings.
+2021-08-04,3.0,Iregular,Development,Code,"Face rework, audio tweaks."
+2021-08-03,4.0,LucasParis,Development,Code,Player scaling rework.
+2021-08-03,1.0,Iregular,Development,Code,Audio implementation.
+2021-08-03,1.5,Chroniqueur,Design,Abstract,Meeting.
+2021-08-03,0.5,Iregular,Design,Abstract,Meetings.
+2021-08-02,0.5,Chroniqueur,Development,Code,Main menu functionality.
+2021-08-02,0.5,Iregular,Design,Abstract,Meetings.
+2021-08-01,1.0,Study,Research,Abstract,Progression systems.
+2021-07-31,6.0,Iregular,Development,Code,"Debugging, refactoring, idle mode production, optimization, testing."
+2021-07-31,3.0,CTD,Performance,Visual,Teaching.
+2021-07-31,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-07-30,7.0,Iregular,Development,Code,"Debugging, refactoring, idle mode production, optimization, testing."
+2021-07-30,1.5,Rig,Maintenance,Code,Desktop setup.
+2021-07-29,0.5,Rig,Maintenance,Code,Desktop setup.
+2021-07-29,6.5,Iregular,Development,Code,"Debugging, sound implementation, refactoring, testing."
+2021-07-28,0.5,Iregular,Development,Code,"Debugging, optimization."
+2021-07-28,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-07-28,1.0,Iregular,Design,Abstract,Meetings.
+2021-07-27,5.0,Iregular,Development,Code,"Optimization, asset cleaning, data smoothing, face drawing."
+2021-07-27,1.0,Iregular,Design,Abstract,Meetings.
+2021-07-26,1.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-07-26,1.5,DISCONNECT - RECONNECT,Performance,Audio,"Vocals, guitar."
+2021-07-26,0.5,Iregular,Development,Code,Optimization.
+2021-07-26,1.5,Iregular,Design,Abstract,Meetings.
+2021-07-25,0.5,Jam,Performance,Audio,Vocals.
+2021-07-25,4.0,LucasParis,Development,Code,Player scaling rework.
+2021-07-25,0.5,V-OS,Writing,Abstract,Invictus project documentation.
+2021-07-25,0.5,Iregular,Development,Code,Trash handling.
+2021-07-24,0.5,LucasParis,Development,Code,Debugging
+2021-07-24,1.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-07-24,3.0,CTD,Performance,Visual,Teaching.
+2021-07-23,1.0,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-07-23,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-07-23,5.0,LucasParis,Development,Code,UI dev.
+2021-07-23,1.0,Rig,Research,Code,Linux environment setup.
+2021-07-22,1.0,Iregular,Design,Code,Demo.
+2021-07-22,3.0,Iregular,Development,Code,Face interaction and overall app behavior.
+2021-07-22,0.5,Invictus,Development,Code,Debugging.
+2021-07-21,0.5,Chroniqueur,Composition,Audio,Composition.
+2021-07-21,0.5,Chroniqueur,Development,Code,Intro sequence.
+2021-07-21,2.5,Iregular,Development,Code,Face interaction and parameterization.
+2021-07-21,1.0,Iregular,Research,Code,Tracker set up.
+2021-07-21,1.5,Iregular,Design,Abstract,Meetings.
+2021-07-20,3.0,Invictus,Development,Code,Golf glove implementation.
+2021-07-20,5.5,Iregular,Research,Code,Tracker set up.
+2021-07-20,0.5,Iregular,Design,Abstract,Meeting.
+2021-07-19,0.5,LucasParis,Development,Code,UI dev.
+2021-07-19,0.5,Invictus,Development,Code,Golf glove implementation.
+2021-07-19,0.5,Chroniqueur,3D,Visual,Material creation.
+2021-07-19,0.5,Iregular,Design,Abstract,Meeting.
+2021-07-18,3.0,Invictus,Development,Code,Golf glove implementation.
+2021-07-17,1.0,Jam,Research,Audio,Sound design experimentation.
+2021-07-17,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-07-17,3.0,Invictus,Development,Code,Golf glove implementation.
+2021-07-17,3.0,CTD,Performance,Visual,Teaching.
+2021-07-16,5.0,Iregular,Development,Code,Vegetation design and development.
+2021-07-16,2.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-07-16,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-07-16,0.5,Iregular,Design,Abstract,Meeting.
+2021-07-15,0.5,Invictus,Design,Visual,Viewer review.
+2021-07-15,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-07-15,3.0,Iregular,Development,Code,Vegetation design and development.
+2021-07-15,0.5,Iregular,Design,Abstract,Meetings.
+2021-07-14,1.0,LucasParis,Design,Abstract,Meeting.
+2021-07-14,5.0,Invictus,Development,Code,Golf glove implementation.
+2021-07-14,0.5,Tinker,Development,Code,Teaching.
+2021-07-14,1.0,Iregular,Development,Code,Debugging and optimization.
+2021-07-14,1.5,Iregular,Design,Abstract,Meetings.
+2021-07-13,2.5,Doodle,Design,Abstract,Design and projection study.
+2021-07-13,0.5,Doodle,3D,Visual,Geocity gif.
+2021-07-13,1.5,Iregular,Development,Code,Face asset and behavior development.
+2021-07-13,1.5,Iregular,Design,Abstract,Meetings.
+2021-07-13,4.0,Iregular,Research,Code,Linux installation and dev environment set up.
+2021-07-13,0.5,Chroniqueur,3D,Visual,Texture update.
+2021-07-12,6.0,Invictus,Development,Code,Golf glove implementation.
+2021-07-12,0.5,LucasParis,Development,Code,Debugging.
+2021-07-12,0.5,Iregular,Research,Code,Rendering for fractal growth patterns.
+2021-07-12,2.0,Iregular,Design,Abstract,Meetings.
+2021-07-11,1.0,Study,Research,Abstract,Conceptual art.
+2021-07-10,3.0,CTD,Performance,Visual,Teaching.
+2021-07-09,1.5,Iregular,Development,Code,Physics programming.
+2021-07-08,2.5,LucasParis,Development,Code,Save system debugging.
+2021-07-08,1.5,Iregular,Development,Code,"Code cleanup, physics programming."
+2021-07-08,2.0,Chroniqueur,Development,Code,Debugging.
+2021-07-08,1.0,Iregular,Design,Abstract,Meeting.
+2021-07-07,1.0,Chroniqueur,Research,Code,Shaders.
+2021-07-07,3.0,Chroniqueur,Development,Code,"Billboard pooling system, shader tweaking."
+2021-07-07,0.5,Iregular,Development,Code,Code cleanup.
+2021-07-07,3.0,Iregular,Research,Code,"Products integration into Cursor, Cursor learning."
+2021-07-07,1.5,Iregular,Design,Abstract,Meeting.
+2021-07-06,1.5,Iregular,Development,Code,Products development.
+2021-07-06,1.5,LucasParis,Development,Code,Debugging.
+2021-07-06,2.0,Invictus,Development,Code,"Map fixing, region and projection setup."
+2021-07-06,1.0,Chroniqueur,Design,Abstract,Meeting.
+2021-07-06,1.5,Iregular,Research,Abstract,Meeting and time tracking.
+2021-07-05,1.5,Iregular,Development,Code,Products development.
+2021-07-05,1.0,Iregular,Design,Abstract,Meeting.
+2021-07-04,0.5,Iregular,Development,Code,Products development.
+2021-07-03,1.0,Iregular,Development,Code,Products development.
+2021-07-03,3.0,CTD,Performance,Visual,Teaching.
+2021-07-03,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-07-02,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-07-02,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-07-02,4.0,Iregular,Development,Code,"Environment setup, matterjs and pixi setup."
+2021-07-01,3.0,LucasParis,Development,Code,Chain reaction system.
+2021-07-01,2.0,Jam,Research,Audio,Electro acoustics.
+2021-06-30,0.5,Invictus,Development,Code,Bugfixing.
+2021-06-30,0.5,Iregular,Development,Code,Environment setup.
+2021-06-30,4.0,Iregular,Design,Abstract,Meeting.
+2021-06-29,1.5,Chroniqueur,Development,Code,Culture house identification.
+2021-06-29,0.5,Iregular,Maintenance,Abstract,Setup.
+2021-06-28,1.0,Architects of Souls,Composition,Audio,Composition.
+2021-06-27,2.0,Study,Research,Abstract,Storytelling techniques.
+2021-06-26,3.0,CTD,Performance,Visual,Teaching.
+2021-06-26,0.5,LucasParis,Development,Code,Chain reaction system.
+2021-06-26,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-25,1.0,Navmos,3D,Visual,Modeling and character posing.
+2021-06-25,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-06-25,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-24,1.0,LucasParis,Development,Code,Chain reaction system.
+2021-06-24,1.0,Sports,Research,Abstract,Gymnastics.
+2021-06-24,0.5,Study,Research,Abstract,Mechanics.
+2021-06-24,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-06-24,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-06-23,1.5,Sports,Research,Abstract,Gymnastics.
+2021-06-23,1.5,Chroniqueur,Development,Code,Data visualization.
+2021-06-23,0.5,Invictus,3D,Visual,Model analysis and feedback.
+2021-06-22,0.5,Invictus,3D,Visual,Model analysis and feedback.
+2021-06-22,1.0,Iregular,Research,Abstract,Founder meeting.
+2021-06-22,3.5,LucasParis,Development,Code,Chain reaction system.
+2021-06-21,1.0,Jam,Composition,Audio,Composition.
 2021-06-21,0.5,Tinker,Development,Code,Web dev.
 2021-06-21,1.5,Argos,Photography,Visual,Video editing.
 2021-06-21,0.5,Doodle,Research,Visual,Fashion.
@@ -297,7 +583,7 @@ Date,Time,Project,Task,Division,Details
 2021-02-21,1.0,Wurli,Design,Abstract,Game design.
 2021-02-20,2.5,Jam,Composition,Audio,Composition.
 2021-02-20,1.0,Study,Research,Abstract,Business strategy.
-2021-02-20,0.5,Penny,Research,Abstract,Meeting.
+2021-02-20,0.5,Penny,Design,Abstract,Meeting.
 2021-02-20,6.5,CTD,Performance,Visual,Teaching.
 2021-02-19,2.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
 2021-02-18,2.0,Navmos,3D,Visual,"Posing, cloth simulation."
@@ -409,7 +695,7 @@ Date,Time,Project,Task,Division,Details
 2021-01-06,1.0,Navmos,Research,Abstract,Tarot cards and the occult.
 2021-01-06,1.0,Tinker,Research,Code,Hardware.
 2021-01-05,0.5,Tinker,Research,Code,Stock tracking.
-2021-01-04,1.0,CTD,Research,Abstract,Meeting.
+2021-01-04,1.0,CTD,Design,Abstract,Meeting.
 2021-01-03,0.5,Tinker,Research,Code,Stock tracking.
 2021-01-02,1.0,Study,Research,Abstract,Open sandbox game design.
 2021-01-01,1.5,Tinker,Research,Code,Hardware.
@@ -439,7 +725,7 @@ Date,Time,Project,Task,Division,Details
 2020-12-15,1.5,Early Midnight,3D,Visual,Material design.
 2020-12-15,0.5,Jam,Performance,Audio,Guitar.
 2020-12-15,0.5,Chroniqueur,Development,Code,Vignette system programming.
-2020-12-15,1.5,Invictus,Research,Abstract,Meeting.
+2020-12-15,1.5,Invictus,Design,Abstract,Meeting.
 2020-12-14,1.0,Tinker,Research,Code,Realtime rendering study.
 2020-12-13,1.0,Jam,Performance,Audio,Guitar.
 2020-12-13,1.0,Study,Research,Abstract,Environmental design.
@@ -474,7 +760,7 @@ Date,Time,Project,Task,Division,Details
 2020-11-25,0.5,Study,Writing,Abstract,Game design research.
 2020-11-25,2.5,Early Midnight,3D,Code,Procedural modeling.
 2020-11-25,2.0,Chroniqueur,Development,Code,Vignette system development.
-2020-11-25,0.5,Penny,Research,Abstract,Meeting.
+2020-11-25,0.5,Penny,Design,Abstract,Meeting.
 2020-11-25,0.5,Early Midnight,Research,Code,Research improvement methods.
 2020-11-24,2.5,Early Midnight,3D,Code,Procedural modeling.
 2020-11-24,1.5,Chroniqueur,Design,Code,Vignette system design.
