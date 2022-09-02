@@ -1,18 +1,537 @@
 Date,Time,Project,Task,Division,Details
-2021-10-06,1.0,QU-6,2D,Visual,Pablo visuals - video editing.
-2021-10-06,0.5,QU-6,3D,Visual,Pablo visuals.
+2022-09-01,3.0,Kabam,3D,Visual,Art support and cutscene management.
+2022-09-01,2.0,Kabam,Development,Code,Debugging.
+2022-08-31,1.5,V-OS,Writing,Abstract,Timekeeping rewrite.
+2022-08-31,4.0,Full_Body,Development,Code,Redesign and refactor.
+2022-08-31,5.0,Kabam,Development,Code,Debugging.
+2022-08-30,9.0,Full_Body,Development,Code,Redesign and refactor.
+2022-08-30,1.0,V-OS,Design,Abstract,Small design changes.
+2022-08-29,1.0,Full_Body,Development,Code,Database redesign.
+2022-08-29,5.0,Full_Body,2D,Visual,Redesign.
+2022-08-29,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-28,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-27,1.0,Study,Research,Abstract,Storytelling.
+2022-08-27,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-26,1.0,Study,Research,Abstract,Storytelling.
+2022-08-26,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-25,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-24,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-23,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-22,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-21,1.0,Full_Body,Design,Abstract,New input system.
+2022-08-21,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-20,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-19,0.5,Big Mountain,Photography,Visual,Photography.
+2022-08-18,5.0,Kabam,3D,Visual,Cutscene system.
+2022-08-17,5.0,Kabam,3D,Visual,Cutscene system.
+2022-08-16,5.0,Kabam,3D,Visual,Cutscene system.
+2022-08-15,4.0,Kabam,3D,Visual,"Lighting and camera polish, texturing."
+2022-08-14,1.0,Sports,Performance,Abstract,Skating.
+2022-08-13,1.5,Mountain III,3D,Visual,Material design and rendering.
+2022-08-12,1.0,Kabam,Design,Abstract,Meetings.
+2022-08-12,2.0,Kabam,2D,Visual,Shader documentation.
+2022-08-11,2.0,Mountain III,3D,Visual,Material design and rendering.
+2022-08-11,2.0,Kabam,Development,Code,Debugging and documentation.
+2022-08-11,1.0,Kabam,Design,Abstract,Meetings.
+2022-08-10,3.0,Mountain III,3D,Visual,Material design and rendering.
+2022-08-10,2.0,Kabam,Design,Abstract,Meetings.
+2022-08-10,3.0,Kabam,3D,Visual,Modeling and scene setup.
+2022-08-09,2.0,Mountain III,3D,Visual,Scene design.
+2022-08-09,5.5,Kabam,Development,Code,Debugging.
+2022-08-09,0.5,Invictus,Design,Abstract,UI/UX modifications.
+2022-08-08,2.0,Kabam,3D,Visual,Modeling.
+2022-08-08,6.0,Kabam,Development,Code,Lighting system.
+2022-08-07,1.0,Study,Research,Abstract,Game design.
+2022-08-06,1.0,Study,Research,Abstract,Game design.
+2022-08-05,2.5,Kabam,3D,Visual,Lighting.
+2022-08-04,0.5,Invictus,Writing,Abstract,Contract writing.
+2022-08-04,5.0,Kabam,Development,Code,Debugging.
+2022-08-04,1.0,Kabam,Design,Abstract,Meetings.
+2022-08-03,1.5,Kabam,Development,Code,Debugging.
+2022-08-03,1.5,Kabam,Design,Abstract,Meetings.
+2022-08-03,2.5,Chroniqueur,Development,Code,Camera system.
+2022-08-02,1.0,Sports,Performance,Abstract,Swimming.
+2022-08-02,4.5,Chroniqueur,Development,Code,Camera system.
+2022-08-02,4.0,Kabam,Development,Code,Debugging.
+2022-08-02,1.5,Kabam,Design,Abstract,Meetings.
+2022-08-01,0.5,Wurli,Development,Code,Project re-setup
+2022-08-01,2.5,Kabam,3D,Visual,Lighting.
+2022-08-01,2.0,Kabam,Development,Code,Debugging.
+2022-07-31,1.0,Sports,Performance,Abstract,Stand-up paddling.
+2022-07-30,0.5,Study,Design,Abstract,Interior design.
+2022-07-29,1.0,Invictus,Development,Code,Page fix.
+2022-07-29,4.5,Kabam,Development,Code,City lighting rework.
+2022-07-28,1.0,Sports,Performance,Abstract,Swimming.
+2022-07-28,2.0,Kabam,Development,Code,Debugging.
+2022-07-27,2.0,Kabam,Development,Code,Debugging.
+2022-07-26,1.0,Mountain III,3D,Visual,Scene design.
+2022-07-26,1.0,Invictus,Design,Abstract,Meetings.
+2022-07-26,2.0,Kabam,Development,Code,Debugging.
+2022-07-26,1.5,Kabam,Design,Abstract,Meetings.
+2022-07-25,4.0,Mountain III,3D,Visual,Scene design.
+2022-07-25,2.5,Kabam,Design,Abstract,Meetings.
+2022-07-25,2.0,Chroniqueur,Development,Code,Vignette system.
+2022-07-24,1.0,Sports,Performance,Abstract,Skating.
+2022-07-23,2.0,Study,Research,Abstract,Procedural design.
+2022-07-22,2.0,Study,Research,Abstract,Procedural design.
+2022-07-21,2.0,Kabam,Design,Visual,Meeting.
+2022-07-20,0.5,Invictus,Design,Visual,Asset review.
+2022-07-20,3.0,Kabam,Development,Code,Debugging.
+2022-07-19,1.0,Kabam,Design,Visual,Meeting.
+2022-07-19,3.0,Kabam,Development,Code,Camera system.
+2022-07-18,2.0,Kabam,Design,Visual,Pipeline and concepts.
+2022-07-18,4.0,Kabam,Development,Code,Camera system.
+2022-07-17,1.0,Study,Research,Abstract,Storytelling.
+2022-07-16,2.0,Study,Research,Abstract,Interior design.
+2022-07-15,2.0,Study,Research,Abstract,Interior design.
+2022-07-14,1.0,Kabam,Development,Code,Debugging.
+2022-07-13,3.5,Kabam,Design,Visual,Concepting.
+2022-07-12,1.0,Doodle,Design,Visual,Pablo art direction.
+2022-07-12,1.0,Kabam,Development,Code,Debugging.
+2022-07-11,1.0,Kabam,Development,Code,Debugging.
+2022-07-11,1.0,Rig,Design,Abstract,Organization.
+2022-07-10,0.5,Study,Research,Abstract,Amusement park design.
+2022-07-09,0.5,Study,Research,Abstract,Cycling urban design.
+2022-07-09,0.5,Furo,Writing,Abstract,Writing.
+2022-07-08,0.5,Sports,Performance,Abstract,Skating.
+2022-07-07,3.0,Kabam,Design,Abstract,Meetings and lighting.
+2022-07-07,0.5,Chroniqueur,Development,Code,Visual tweaks.
+2022-07-07,0.5,Chroniqueur,Design,Abstract,Meeting.
+2022-07-06,2.0,Kabam,Design,Abstract,Meetings and lighting.
+2022-07-06,1.5,Invictus,Design,Abstract,Meeting.
+2022-07-05,0.5,Chroniqueur,Design,Abstract,Camera system design.
+2022-07-05,1.0,Kabam,Design,Abstract,Meetings.
+2022-07-05,0.5,Doodle,Photography,Visual,Photo editing.
+2022-07-04,3.0,Kabam,Development,Visual,Lighting.
+2022-07-04,0.5,Chroniqueur,Development,Code,Debugging.
+2022-07-04,1.0,Invictus,Design,Visual,Rendering specs research and communication.
+2022-07-03,0.5,Doodle,Photography,Visual,Photo editing.
+2022-07-02,0.5,Doodle,Photography,Visual,Photography.
+2022-07-02,1.0,Sports,Performance,Abstract,Stand Up Paddling
+2022-07-01,0.5,Doodle,Photography,Visual,Photography.
+2022-06-30,3.5,Kabam,Development,Visual,Lighting.
+2022-06-29,1.0,Furo,Writing,Abstract,Writing.
+2022-06-29,1.0,Study,Research,Abstract,Game design.
+2022-06-29,1.0,Sports,Research,Abstract,Roller skating.
+2022-06-29,6.0,Kabam,Development,Visual,"Lighting, debugging."
+2022-06-28,2.0,Sports,Performance,Abstract,Roller skating.
+2022-06-28,4.5,Kabam,Development,Visual,"Lighting, debugging."
+2022-06-27,2.0,Sports,Performance,Abstract,Roller skating.
+2022-06-27,4.0,Kabam,Development,Visual,Debugging.
+2022-06-26,2.0,Sports,Performance,Abstract,Roller skating.
+2022-06-25,1.0,Sports,Performance,Abstract,Roller skating.
+2022-06-24,0.5,Sports,Performance,Abstract,Pool.
+2022-06-23,3.5,Kabam,Development,Visual,"Lighting, animation tweaking."
+2022-06-23,0.5,Chroniqueur,Development,Code,Debugging.
+2022-06-22,3.5,Kabam,Development,Code,"Tool programming, lighting."
+2022-06-22,3.0,Chroniqueur,Development,Code,"Terrain overlay, local km2 views."
+2022-06-21,2.5,Kabam,Design,Visual,"Design meetings, animation studies."
+2022-06-21,1.5,Kabam,Development,Code,Tool programming.
+2022-06-20,0.5,Sports,Research,Abstract,Skating.
+2022-06-20,5.0,Kabam,Development,Visual,"Item placement standardization, animation study."
+2022-06-19,0.5,Study,Research,Abstract,Storytelling.
+2022-06-18,0.5,Study,Research,Abstract,Cooking.
+2022-06-17,0.5,Kabam,Research,Visual,Animation study and docmentation.
+2022-06-16,3.0,Kabam,Research,Visual,Animation study and docmentation.
+2022-06-15,6.0,Kabam,Development,Visual,"VFX, debugging."
+2022-06-14,1.5,Furo,Writing,Abstract,Story writing.
+2022-06-14,1.0,Kabam,Development,Visual,"VFX, debugging."
+2022-06-14,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2022-06-14,1.0,DISCONNECT - RECONNECT,Performance,Audio,Recording.
+2022-06-13,2.0,Kabam,Development,Visual,"VFX, debugging."
+2022-06-13,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2022-06-13,2.0,Furo,Writing,Abstract,Story writing.
+2022-06-12,1.0,Study,Research,Abstract,Mobile environment graphics development.
+2022-06-11,1.0,Study,Research,Abstract,Mobile environment graphics development.
+2022-06-10,2.0,Furo,Writing,Abstract,Story writing.
+2022-06-09,2.0,Kabam,3D,Visual,Materials.
+2022-06-09,1.0,Kabam,Development,Code,Debugging.
+2022-06-09,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2022-06-08,2.0,Kabam,Development,Visual,VFX.
+2022-06-07,4.0,Kabam,Development,Visual,VFX.
+2022-06-07,1.5,Kabam,Development,Visual,VFX.
+2022-06-06,2.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2022-06-06,2.0,Kabam,Development,Code,Debugging.
+2022-06-05,1.0,Study,Research,Abstract,Game design.
+2022-06-04,1.0,Study,Research,Abstract,Game design.
+2022-06-03,1.0,Chroniqueur,Development,Code,Terrain overlay system.
+2022-06-03,1.5,Chroniqueur,Design,Code,Design meeting.
+2022-06-03,1.0,Kabam,Development,Code,VFX debugging.
+2022-06-02,1.5,Kabam,Writing,Abstract,Documentation overhaul.
+2022-06-01,1.0,Kabam,Design,Visual,Map redesign.
+2022-06-01,3.0,Kabam,Writing,Abstract,Documentation overhaul.
+2022-05-31,1.0,Tinker,Development,Code,Hack scripting.
+2022-05-31,4.0,Kabam,Writing,Abstract,Documentation overhaul.
+2022-05-30,4.0,Kabam,Writing,Abstract,Documentation overhaul.
+2022-05-29,0.5,Study,Research,Abstract,Attraction.
+2022-05-28,0.5,Study,Research,Abstract,Baking.
+2022-05-27,1.0,Kabam,Development,Code,Debugging.
+2022-05-26,2.0,Kabam,Development,Code,Debugging.
+2022-05-25,2.0,Kabam,Research,Abstract,Project structure review.
+2022-05-24,2.0,Kabam,Development,Code,Debugging.
+2022-05-23,1.0,Study,Research,Abstract,Storytelling - Demon Slayer.
+2022-05-22,1.0,Study,Research,Abstract,Storytelling - Demon Slayer.
+2022-05-21,1.0,Study,Research,Abstract,Storytelling - Demon Slayer.
+2022-05-20,1.0,Study,Research,Abstract,Storytelling - Demon Slayer.
+2022-05-19,2.0,Kabam,Development,Code,Debugging.
+2022-05-18,2.0,Kabam,Development,Code,Debugging.
+2022-05-17,2.0,Kabam,Development,Code,Debugging.
+2022-05-16,2.0,Kabam,Development,Code,Debugging.
+2022-05-15,0.5,Doodle,Photography,Visual,Photography.
+2022-05-14,1.0,Study,Writing,Abstract,DnD character creation.
+2022-05-13,0.5,Sports,Performance,Abstract,Tag.
+2022-05-12,2.0,Kabam,Development,Code,Debugging.
+2022-05-11,3.0,Kabam,Development,Code,Reference scene programming.
+2022-05-11,1.0,Kabam,Writing,Abstract,Documentation.
+2022-05-10,4.0,Kabam,Development,Code,Reference scene programming and debugging.
+2022-05-09,2.0,Study,Writing,Abstract,DnD character creation.
+2022-05-09,1.0,Kabam,Design,Abstract,Design meetings.
+2022-05-09,1.0,Study,Research,Abstract,Storytelling - Demon Slayer.
+2022-05-08,1.0,Study,Research,Abstract,Storytelling - Demon Slayer.
+2022-05-07,1.0,Study,Research,Abstract,Storytelling - HxH.
+2022-05-06,0.5,Kabam,Development,Code,Debugging.
+2022-05-06,1.0,Kabam,Development,Code,Art meeting.
+2022-05-05,0.5,Kabam,Development,Code,Debugging.
+2022-05-04,6.0,Kabam,Development,Code,Lightmapping and debugging.
+2022-05-03,6.0,Kabam,Development,Code,"Integration, tool programming."
+2022-05-02,6.0,Kabam,Development,Code,"Integration, tool programming."
+2022-05-01,1.0,Study,Research,Abstract,Storytelling - HxH.
+2022-04-30,1.0,Study,Research,Abstract,Storytelling - Everything Everywhere All At Once.
+2022-04-29,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2022-04-29,2.0,Kabam,Development,Code,"Integration, tool programming."
+2022-04-28,2.0,Kabam,Development,Code,"Integration, tool programming."
+2022-04-27,2.0,Kabam,Development,Code,Integration.
+2022-04-26,6.0,Kabam,Development,Code,Integration.
+2022-04-25,1.0,Study,Research,Abstract,"Storytelling, Banff."
+2022-04-25,6.0,Kabam,Development,Code,"Art review, tool programming."
+2022-04-24,0.5,Study,Research,Abstract,Storytelling.
+2022-04-23,0.5,Study,Research,Abstract,Storytelling.
+2022-04-22,1.0,Tinker,Research,Code,Wave function collapse algorithm.
+2022-04-22,6.0,Kabam,Development,Code,Integration.
+2022-04-21,1.0,Tinker,Research,Code,Wave function collapse algorithm.
+2022-04-21,6.0,Kabam,Development,Code,Integration.
+2022-04-20,2.0,Kabam,Writing,Abstract,Documentation.
+2022-04-20,3.0,Kabam,Development,Code,Integration.
+2022-04-19,3.0,Kabam,Development,Code,Integration.
+2022-04-18,1.0,Tinker,Research,Code,Parallels and emulation.
+2022-04-17,1.0,Study,Research,Abstract,Storytelling.
+2022-04-16,1.0,Study,Research,Abstract,Spas.
+2022-04-15,2.0,Fluctuations,3D,Visual,Clothes design and modeling.
+2022-04-14,3.0,Kabam,Research,Code,Integration learning and design meets.
+2022-04-14,6.0,Fluctuations,3D,Visual,Clothes design and modeling.
+2022-04-13,3.0,Kabam,Research,Code,Integration learning and design meets.
+2022-04-13,6.0,Fluctuations,3D,Visual,Clothes design and modeling.
+2022-04-12,2.0,Fluctuations,3D,Visual,Skinning and posing.
+2022-04-12,3.0,Kabam,Research,Code,Integration learning and design meets.
+2022-04-11,1.0,Study,Research,Abstract,Storytelling learning.
+2022-04-11,1.5,Kabam,Research,Visual,Design meeting.
+2022-04-11,2.5,Kabam,3D,Visual,Lighting.
+2022-04-10,0.5,Study,Research,Abstract,Storytelling learning.
+2022-04-09,2.0,Jam,Performance,Audio,Vocals.
+2022-04-08,1.0,Kabam,Research,Visual,Design meeting.
+2022-04-07,6.0,Kabam,Writing,Abstract,Documentation overhaul.
+2022-04-06,6.0,Kabam,Writing,Abstract,Documentation overhaul.
+2022-04-05,5.0,Kabam,Writing,Abstract,Documentation overhaul.
+2022-04-05,1.0,Chroniqueur,Development,Code,Add new outfits.
+2022-04-05,1.0,Kabam,Research,Code,"Bugfixing, integration documentation."
+2022-04-04,1.0,Kabam,Development,Code,Bugfixing.
+2022-04-04,5.0,Kabam,Research,Abstract,Pipeline research.
+2022-04-03,1.0,Study,Research,Abstract,Progression mechanics.
+2022-04-02,1.0,Study,Research,Abstract,Storytelling.
+2022-04-01,2.0,Jam,Performance,Audio,Singing.
+2022-04-01,2.0,Chroniqueur,Research,Abstract,Meeting.
+2022-04-01,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-31,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-31,1.0,Esquisse d'une Sandbox,Research,Abstract,Grant review.
+2022-03-30,1.0,Study,Research,Abstract,Dynamic storytelling.
+2022-03-30,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-29,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-28,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-27,1.0,Study,Research,Abstract,Storytelling.
+2022-03-26,1.0,Study,Research,Abstract,Board games.
+2022-03-25,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-24,1.0,Esquisse d'une Sandbox,Research,Abstract,Budget.
+2022-03-24,2.0,Fluctuations,3D,Visual,Texturing.
+2022-03-24,2.0,Fluctuations,3D,Visual,Rigging.
+2022-03-24,4.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-23,2.0,Fluctuations,3D,Visual,Rigging.
+2022-03-23,5.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-22,1.0,Study,Research,Abstract,Taxes.
+2022-03-22,3.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-22,1.5,Tinker,Research,Code,Minecraft modding.
+2022-03-21,1.5,Fluctuations,3D,Visual,Rigging.
+2022-03-21,6.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-20,1.5,Fluctuations,3D,Visual,Rigging.
+2022-03-20,1.0,Study,Research,Abstract,Puzzles.
+2022-03-19,1.0,Study,Research,Abstract,Roleplaying.
+2022-03-18,0.5,V-OS,Writing,Abstract,Deprecate log subdomain.
+2022-03-18,1.0,Chroniqueur,Research,Abstract,Design meeting.
+2022-03-18,1.0,Fluctuations,3D,Visual,Rigging.
+2022-03-18,3.5,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-17,4.0,Fluctuations,3D,Visual,Rigging.
+2022-03-17,5.0,Kabam,Research,Abstract,Setup and pipeline learning.
+2022-03-16,5.0,Fluctuations,3D,Visual,Rigging.
+2022-03-16,0.5,MiOsc,Writing,Abstract,Documentation.
+2022-03-16,2.0,Kabam,Research,Code,Pipeline learning.
+2022-03-16,1.0,Study,Research,Abstract,Non-euclidian space.
+2022-03-15,1.0,Study,Research,Abstract,Difficulty in game design.
+2022-03-15,5.0,Kabam,Research,Code,Pipeline learning.
+2022-03-14,5.0,Kabam,Research,Abstract,"Setting up, onboarding, security training."
+2022-03-13,1.0,Study,Research,Abstract,True crime.
+2022-03-12,1.0,Jam,Research,Audio,Electroacoustic music.
+2022-03-12,1.0,Study,Research,Abstract,True crime.
+2022-03-11,1.0,Study,Research,Abstract,True crime.
+2022-03-10,2.5,Esquisse d'une Sandbox,Design,Abstract,Budget.
+2022-03-10,1.0,Chroniqueur,Development,Code,Multiple portrait drawing.
+2022-03-09,1.0,Chroniqueur,Design,Abstract,Vignette system refactor.
+2022-03-09,2.0,Chroniqueur,Development,Code,Multiple portrait drawing.
+2022-03-08,2.0,Study,Research,Abstract,Character sheets.
+2022-03-07,0.5,Doodle,Research,Visual,Retopo teaching.
+2022-03-06,0.5,Study,Research,Abstract,Colors in animals.
+2022-03-05,0.5,Study,Research,Abstract,Open world games and combat mechanics.
+2022-03-04,0.5,Study,Research,Abstract,Open world games and combat mechanics.
+2022-03-03,1.0,Chroniqueur,Development,Code,General development.
+2022-03-02,1.0,Chroniqueur,Design,Abstract,Meeting.
+2022-03-02,0.5,Float4,Design,Abstract,Meeting.
+2022-03-01,1.0,Esquisse d'une Sandbox,Design,Abstract,Space meeting.
+2022-02-28,1.0,Study,Research,Abstract,Open world games.
+2022-02-27,4.0,Sports,Performance,Abstract,Skiing.
+2022-02-26,1.0,Study,Research,Abstract,Jigsaw puzzles.
+2022-02-25,1.5,MiOsc,Photography,Visual,Video editing.
+2022-02-25,1.0,Float4,Design,Abstract,Interview.
+2022-02-25,1.0,Study,Writing,Abstract,Taxes.
+2022-02-24,1.5,MiOsc,Photography,Visual,Video editing.
+2022-02-24,1.0,Esquisse d'une Sandbox,Design,Abstract,Design meeting.
+2022-02-24,1.0,Kabam,Design,Abstract,Interview.
+2022-02-23,0.5,Kabam,Design,Abstract,Interview.
+2022-02-23,5.0,Chroniqueur,Development,Code,"Terrain management development, movement, debugging."
+2022-02-23,0.5,MiOsc,3D,Visual,Rendering.
+2022-02-22,0.5,Float4,Design,Abstract,Interview.
+2022-02-22,2.5,MiOsc,3D,Visual,Scene production.
+2022-02-22,0.5,V-OS,Writing,Abstract,Portfolio update.
+2022-02-21,0.5,V-OS,Writing,Abstract,Portfolio update.
+2022-02-20,1.5,Study,Research,Abstract,Game progression and MMOs.
+2022-02-19,1.5,Study,Research,Abstract,Game progression and MMOs.
+2022-02-18,2.5,Chroniqueur,Design,Abstract,Meeting.
+2022-02-18,2.5,Chroniqueur,Development,Code,Procedural model generation and asset population.
+2022-02-17,2.0,Esquisse d'une Sandbox,Writing,Abstract,Gallery submissions.
+2022-02-16,2.5,Chroniqueur,Development,Code,Procedural model generation and asset population.
+2022-02-15,1.0,Study,Research,Abstract,"Leveling and combat in games, crypto and game project management."
+2022-02-14,1.0,Study,Research,Abstract,"Leveling and combat in games, crypto and game project management."
+2022-02-13,1.0,Study,Research,Abstract,"Leveling and combat in games, crypto and game project management."
+2022-02-12,1.0,Study,Research,Abstract,"Leveling and combat in games, crypto and game project management."
+2022-02-11,1.0,Study,Research,Abstract,"Leveling and combat in games, crypto and game project management."
+2022-02-10,1.5,Esquisse d'une Sandbox,Writing,Abstract,Gallery submissions.
+2022-02-09,1.5,Chroniqueur,Development,Code,Procedural model generation.
+2022-02-08,3.0,Chroniqueur,Development,Code,Procedural model generation.
+2022-02-08,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2022-02-07,2.5,Chroniqueur,Development,Code,"Refactoring, new billboard system updating, UI adjustments."
+2022-02-06,0.5,Study,Research,Abstract,Architecture.
+2022-02-05,1.0,Fluctuations,3D,Visual,Texturing.
+2022-02-04,4.0,Fluctuations,3D,Visual,Texturing and rigging.
+2022-02-03,2.0,Chroniqueur,Development,Code,Optimization.
+2022-02-03,1.0,Invictus,Research,Abstract,Design meeting.
+2022-02-02,5.0,Chroniqueur,Development,Code,Optimization.
+2022-02-02,2.5,Fluctuations,3D,Visual,Texturing.
+2022-02-01,2.0,Fluctuations,3D,Visual,Texturing.
+2022-02-01,2.0,Chroniqueur,Development,Code,Optimization.
+2022-01-31,1.5,Fluctuations,2D,Visual,Typography decal design.
+2022-01-30,0.5,Doodle,Research,Visual,Tattoos.
+2022-01-29,0.5,Doodle,Research,Visual,Installation design.
+2022-01-28,2.0,Fluctuations,3D,Visual,Texturing.
+2022-01-27,1.0,Doodle,3D,Visual,Teaching.
+2022-01-27,1.0,Esquisse d'une Sandbox,Photography,Visual,Parameter showcase video development.
+2022-01-27,2.0,Esquisse d'une Sandbox,Development,Code,Particle system development.
+2022-01-27,0.5,Esquisse d'une Sandbox,Writing,Abstract,Proposal fixes.
+2022-01-27,0.5,Chroniqueur,Development,Code,Debugging.
+2022-01-26,1.5,Esquisse d'une Sandbox,2D,Visual,Proposal production.
+2022-01-26,2.0,Esquisse d'une Sandbox,Design,Abstract,Meeting.
+2022-01-25,2.0,Fluctuations,3D,Visual,"Modeling, unwrapping, texturing."
+2022-01-25,3.0,Chroniqueur,Development,Code,"Debugging, add deserts, add vignette to prompt."
+2022-01-25,1.0,Doodle,Research,Visual,Tattoos.
+2022-01-24,1.0,Doodle,Research,Visual,Tattoos.
+2022-01-23,2.0,Chroniqueur,3D,Visual,Square kilometer visual tests.
+2022-01-23,1.0,Doodle,Research,Visual,Tattoos.
+2022-01-22,2.0,CTD,Performance,Visual,Teaching.
+2022-01-21,2.0,Chroniqueur,3D,Visual,Square kilometer visual tests.
+2022-01-21,1.5,Chroniqueur,Design,Abstract,Meeting.
+2022-01-20,1.5,Chroniqueur,Development,Code,Debugging.
+2022-01-19,1.0,Esquisse d'une Sandbox,3D,Visual,Instillation 3D environment.
+2022-01-19,1.0,Esquisse d'une Sandbox,2D,Visual,Installation diagram.
+2022-01-19,1.0,Esquisse d'une Sandbox,Development,Code,Panoramic photo capture.
+2022-01-18,0.5,Study,Research,Abstract,Game design study.
+2022-01-17,0.5,Study,Research,Abstract,Dating.
+2022-01-16,0.5,Study,Research,Abstract,Game design study.
+2022-01-15,0.5,Study,Research,Abstract,Game design study.
+2022-01-14,1.0,Chroniqueur,Development,Code,Debugging.
+2022-01-14,0.5,Fluctuations,Research,Visual,Retopo learning.
+2022-01-13,9.0,Fluctuations,3D,Visual,"Retopo, modeling, shaders."
+2022-01-12,3.0,Fluctuations,3D,Visual,Retopo.
+2022-01-12,2.5,Esquisse d'une Sandbox,Writing,Abstract,Propject proposal writing.
+2022-01-11,0.5,Fluctuations,Research,Visual,Retopo learning.
+2022-01-10,0.5,Study,Research,Abstract,Dating.
+2022-01-09,0.5,Study,Research,Abstract,Dating.
+2022-01-08,2.0,CTD,Performance,Visual,Teaching.
+2022-01-07,1.5,Chroniqueur,Design,Abstract,Design meeting.
+2022-01-06,3.0,Fluctuations,3D,Visual,Retopo.
+2022-01-06,1.0,Esquisse d'une Sandbox,Photography,Visual,Trailer editing.
+2022-01-06,3.0,Esquisse d'une Sandbox,Development,Code,Trailer development.
+2022-01-05,4.0,Fluctuations,3D,Visual,Retopo.
+2022-01-05,1.0,Chroniqueur,Development,Code,Culture system and asset integration.
+2022-01-05,1.0,Study,Research,Abstract,Experimental game design.
+2022-01-04,0.5,Study,Research,Abstract,Dating.
+2022-01-03,0.5,Study,Research,Abstract,Dating.
+2022-01-02,0.5,Study,Research,Abstract,Dating.
+2022-01-01,0.5,Study,Research,Abstract,Dating.
+2021-12-31,0.5,Study,Research,Abstract,Dating.
+2021-12-30,0.5,Study,Research,Abstract,Dating.
+2021-12-29,1.0,Fluctuations,2D,Visual,Graphics research.
+2021-12-29,1.0,Jam,Performance,Audio,Ukulele.
+2021-12-28,1.0,Fluctuations,Design,Abstract,Overarching project design and reference research.
+2021-12-28,2.0,Esquisse d'une Sandbox,Writing,Abstract,Documentation.
+2021-12-27,0.5,Study,Linguistics,Abstract,Slavic linguistcs.
+2021-12-26,0.5,Study,Research,Abstract,Dating.
+2021-12-25,1.0,Fluctuations,3D,Visual,Modeling.
+2021-12-24,0.5,Study,Research,Abstract,Dating.
+2021-12-23,4.0,Fluctuations,3D,Visual,Modeling.
+2021-12-22,7.0,Fluctuations,3D,Visual,Modeling.
+2021-12-21,8.0,Fluctuations,3D,Visual,Modeling.
+2021-12-20,2.0,Fluctuations,3D,Visual,Modeling.
+2021-12-19,0.5,Study,Research,Abstract,Autism.
+2021-12-18,0.5,Jam,Performance,Audio,Ukulele.
+2021-12-18,3.0,CTD,Performance,Visual,Teaching.
+2021-12-17,1.0,Fluctuations,3D,Visual,Modeling.
+2021-12-17,0.5,Full_Body,Development,Code,Debugging.
+2021-12-16,1.5,Jam,Performance,Audio,"Guitar, vocals, mixing."
+2021-12-16,0.5,Fluctuations,3D,Visual,Modeling.
+2021-12-16,1.5,Esquisse d'une Sandbox,Design,Abstract,"Installation design and conceptualization, formal documentation."
+2021-12-15,2.5,Fluctuations,3D,Visual,Modeling.
+2021-12-14,2.5,Fluctuations,3D,Visual,Modeling.
+2021-12-14,1.0,Study,Research,Abstract,Glasses.
+2021-12-13,1.0,Jam,Performance,Audio,Ukulele and teaching.
+2021-12-13,1.0,Fluctuations,3D,Visual,Modeling.
+2021-12-12,0.5,Study,Research,Abstract,Storytelling.
+2021-12-11,3.0,CTD,Performance,Visual,Teaching.
+2021-12-10,1.0,Study,Research,Abstract,Storytelling.
+2021-12-10,1.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-12-09,0.5,Esquisse d'une Sandbox,Development,Code,Audio reactivity.
+2021-12-09,3.0,Esquisse d'une Sandbox,Development,Code,"Scene setup, particle system merge, audio reactivity."
+2021-12-08,1.5,Doodle,Research,Visual,"Modeling, grooming, concept art."
+2021-12-07,1.0,Esquisse d'une Sandbox,Design,Abstract,"Installation design and conceptualization, formal documentation."
+2021-12-06,1.5,Esquisse d'une Sandbox,Development,Code,Scene setup.
+2021-12-05,0.5,Jam,Research,Audio,Guitar teaching.
+2021-12-04,3.0,CTD,Performance,Visual,Teaching.
+2021-12-03,1.5,Jam,Performance,Audio,Guitar.
+2021-12-02,1.0,Rig,Maintenance,Abstract,Factory building and server setup.
+2021-12-01,1.5,Study,Research,Abstract,Economy and cryptocurrency.
+2021-12-01,2.5,Rig,Maintenance,Abstract,Reinstallation.
+2021-11-30,2.0,Esquisse d'une Sandbox,Design,Abstract,"Installation design and conceptualization, formal documentation."
+2021-11-30,1.5,Rig,Maintenance,Abstract,Reinstallation.
+2021-11-29,0.5,Jam,Performance,Audio,Teaching and playing ukulele.
+2021-11-28,1.5,Jam,Performance,Audio,Teaching and playing ukulele.
+2021-11-27,3.0,CTD,Performance,Visual,Teaching.
+2021-11-26,1.0,Chroniqueur,Design,Abstract,Simulation design.
+2021-11-25,0.5,Jam,Performance,Audio,Guitar.
+2021-11-25,2.0,Rig,Maintenance,Code,"Backups, cleaning, ready for reinstall."
+2021-11-25,4.0,Chroniqueur,Development,Code,Portrait system.
+2021-11-24,1.0,Jam,Performance,Audio,Guitar.
+2021-11-24,3.0,Chroniqueur,Development,Code,Portrait system.
+2021-11-24,3.0,Esquisse d'une Sandbox,3D,Visual,Installation simulation.
+2021-11-23,2.0,Esquisse d'une Sandbox,Research,Visual,Visuals research.
+2021-11-22,4.5,Chroniqueur,Development,Code,Portrait system.
+2021-11-22,1.0,Jam,Performance,Audio,Guitar.
+2021-11-21,0.5,Study,Research,Abstract,Storytelling.
+2021-11-20,1.0,Jam,Performance,Audio,Guitar.
+2021-11-20,3.0,CTD,Performance,Visual,Teaching.
+2021-11-19,0.5,Study,Research,Abstract,Storytelling.
+2021-11-18,3.0,Study,Research,Abstract,Buddhism.
+2021-11-17,1.0,Doodle,Performance,Visual,3D teaching.
+2021-11-17,1.5,Jam,Performance,Audio,Guitar and vocals.
+2021-11-17,1.0,Study,Research,Abstract,Ukuleles.
+2021-11-16,1.5,Jam,Composition,Audio,Soundtrack composition.
+2021-11-16,2.0,Study,Research,Abstract,Ukuleles.
+2021-11-16,1.5,Chroniqueur,Design,Abstract,Portrait system design.
+2021-11-15,1.0,Study,Research,Abstract,Storytelling.
+2021-11-14,1.0,Study,Research,Abstract,Cognitive behavioral therapy.
+2021-11-13,3.0,CTD,Performance,Visual,Teaching.
+2021-11-12,1.5,Study,Research,Abstract,Disease.
+2021-11-11,1.5,Chroniqueur,Development,Code,Website interface adjustments and language detection.
+2021-11-10,0.5,Jam,Performance,Audio,Guitar and vocals.
+2021-11-09,0.5,Jam,Performance,Audio,Guitar and vocals.
+2021-11-08,1.0,Study,Performance,Abstract,Roleplaying.
+2021-11-08,1.0,Study,Research,Abstract,DnD mechanics and roleplaying.
+2021-11-08,1.0,Jam,Performance,Audio,Guitar and vocals.
+2021-11-08,0.5,Invictus,Development,Code,Debugging.
+2021-11-08,2.5,Chroniqueur,Development,Code,Website interface adjustments.
+2021-11-07,0.5,Study,Research,Abstract,Home appliances.
+2021-11-06,3.0,CTD,Performance,Visual,Teaching.
+2021-11-05,3.0,Study,Research,Abstract,Furniture design.
+2021-11-04,1.5,Chroniqueur,Development,Code,Debugging.
+2021-11-03,2.5,Jam,Composition,Audio,Mixing.
+2021-11-03,1.0,Jam,Performance,Audio,Guitar and vocals.
+2021-11-02,0.5,Chroniqueur,Development,Code,Debugging.
+2021-11-01,1.0,Doodle,Photography,Visual,Filming and video editing.
+2021-11-01,1.0,Jam,Performance,Audio,Guitar and vocals.
+2021-11-01,3.0,Jam,Composition,Audio,Mixing.
+2021-10-31,1.0,Jam,Performance,Audio,Guitar and vocals.
+2021-10-30,3.0,CTD,Performance,Visual,Teaching.
+2021-10-29,1.0,Jam,Performance,Audio,Guitar and vocals.
+2021-10-29,2.0,Chroniqueur,Development,Code,Text fading system and UI.
+2021-10-28,2.5,Study,Research,Abstract,Cosmology.
+2021-10-27,0.5,CTD,Design,Abstract,Course content catch-up.
+2021-10-27,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-10-26,0.5,Jam,Performance,Audio,Guitar and vocals.
+2021-10-26,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-10-26,2.0,Chroniqueur,Development,Code,Text fading system and UI.
+2021-10-26,2.0,Study,Design,Abstract,D&D character creation.
+2021-10-25,4.0,Chroniqueur,Development,Code,Text fading system and UI.
+2021-10-24,0.5,Study,Research,Abstract,Freelance lifestyle.
+2021-10-23,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-10-23,3.0,CTD,Performance,Visual,Photoshop teaching.
+2021-10-22,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition and mixing learning.
+2021-10-22,1.0,Tinker,Design,Abstract,Home project design.
+2021-10-21,1.0,Various,Research,Abstract,Business registration and invoice design.
+2021-10-21,0.5,DISCONNECT - RECONNECT,Maintenance,Audio,Project mixdown.
+2021-10-21,2.0,Chroniqueur,Development,Code,Text fading system.
+2021-10-20,0.5,Doodle,Research,Visual,Footwear.
+2021-10-19,2.0,Study,Writing,Abstract,Art group application.
+2021-10-18,0.5,Iregular,Design,Abstract,Debrief meeting.
+2021-10-18,0.5,Doodle,Research,Visual,Footwear.
+2021-10-18,0.5,Iregular,Development,Code,Documentation and debugging.
+2021-10-17,1.0,Study,Research,Abstract,Toronto visit.
+2021-10-16,1.0,Study,Research,Abstract,Toronto visit.
+2021-10-15,1.5,Chroniqueur,Design,Code,Interest system design.
+2021-10-14,2.0,Iregular,Development,Code,Debugging and coding.
+2021-10-13,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2021-10-13,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-10-13,3.0,Tinker,Development,Code,Shader development and behavior scripting.
+2021-10-12,1.0,Tinker,Development,Code,Unity scene setup.
+2021-10-12,1.5,Chroniqueur,Development,Code,"Progress system, git tweaking."
+2021-10-12,0.5,QU-6,Writing,Abstract,Statement.
+2021-10-11,1.0,Jam,Composition,Audio,Jam.
+2021-10-11,3.0,Iregular,Development,Code,Remote debugging and coding.
+2021-10-10,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2021-10-10,1.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
+2021-10-10,2.0,Iregular,Development,Code,"Testing, updating, debugging."
+2021-10-09,3.0,Iregular,Development,Code,Remote debugging.
+2021-10-08,3.5,Iregular,Development,Code,"Documentation, remote tweaking."
+2021-10-07,0.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
+2021-10-07,2.5,QU-6,2D,Visual,Video editing and rendering.
+2021-10-07,3.5,Study,Writing,Abstract,"Mathematical notation, comedic paper writing."
+2021-10-06,1.0,QU-6,2D,Visual,Video editing.
+2021-10-06,0.5,QU-6,3D,Visual,Visuals development.
 2021-10-06,3.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
 2021-10-06,0.5,Iregular,Design,Abstract,Meetings.
 2021-10-05,0.5,Jam,Performance,Audio,Synth and keyboard playing.
 2021-10-05,1.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
 2021-10-05,1.5,Iregular,Design,Abstract,"Meetings, audio feedback video recording."
 2021-10-04,2.5,Iregular,Development,Code,Telescopes tweaking and audio implementation.
-2021-10-04,1.5,QU-6,2D,Visual,Pablo visuals - video editing.
-2021-10-04,0.5,QU-6,3D,Visual,Pablo visuals.
-2021-10-03,1.5,QU-6,2D,Visual,Pablo visuals - video editing.
-2021-10-03,3.5,QU-6,3D,Visual,Pablo visuals.
+2021-10-04,1.5,QU-6,2D,Visual,Video editing.
+2021-10-04,0.5,QU-6,3D,Visual,Visuals development.
+2021-10-03,1.5,QU-6,2D,Visual,Video editing.
+2021-10-03,3.5,QU-6,3D,Visual,Visuals development.
 2021-10-02,0.5,Jam,Performance,Audio,Guitar.
-2021-10-01,2.0,ADDS90,3D,Visual,Pablo visuals.
+2021-10-01,2.0,ADDS90,3D,Visual,Visuals development.
 2021-10-01,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
 2021-10-01,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
 2021-10-01,1.5,Iregular,Development,Code,Telescopes tweaking.
