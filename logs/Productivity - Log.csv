@@ -1,4 +1,101 @@
 Date,Time,Project,Task,Division,Details
+2022-10-04,1.0,Toriyomu,Writing,Abstract,Documentation.
+2022-10-04,0.5,Toriyomu,3D,Visual,Lighting and rendering.
+2022-10-03,3.0,Toriyomu,3D,Visual,"Lighting, texturing, and rendering."
+2022-10-03,2.0,Jam,Performance,Audio,Melodica and piano.
+2022-10-03,1.0,Kabam,Development,Code,Debugging.
+2022-10-03,1.5,Kabam,Design,Abstract,Meetings and art review.
+2022-10-03,1.5,Invictus,3D,Visual,Asset review.
+2022-10-03,1.0,Jam,Research,Audio,Music theory.
+2022-10-02,1.0,Sports,Performance,Abstract,Skating.
+2022-10-02,1.5,Jam,Performance,Audio,Piano.
+2022-10-01,1.0,Study,Research,Abstract,Game design.
+2022-09-30,2.0,Jam,Performance,Audio,Melodica and piano.
+2022-09-29,2.0,Toriyomu,3D,Visual,"Generation improvements, lighting, and rendering."
+2022-09-29,3.0,Jam,Performance,Audio,Melodica and piano.
+2022-09-29,1.0,Kabam,Design,Abstract,Meetings.
+2022-09-29,1.0,Kabam,Development,Code,Debugging.
+2022-09-28,1.0,Toriyomu,3D,Visual,"Texturing, lighting, and rendering."
+2022-09-28,1.0,Kabam,Development,Code,Debugging.
+2022-09-28,1.0,Kabam,Design,Abstract,Meetings
+2022-09-27,2.0,Sky,Development,Visual,Lighting.
+2022-09-27,1.0,Kabam,Development,Code,Debugging.
+2022-09-26,1.5,Jam,Research,Audio,Music theory.
+2022-09-26,1.0,Study,Research,Abstract,Storytelling.
+2022-09-26,0.5,Kabam,Design,Abstract,Meetings
+2022-09-26,3.0,Kabam,3D,Visual,Lighting.
+2022-09-25,1.0,Jam,Research,Audio,Music theory.
+2022-09-25,3.0,Toriyomu,3D,Code,Generation tweaking.
+2022-09-25,1.0,Toriyomu,3D,Visual,Material rework.
+2022-09-25,0.5,Chroniqueur,Writing,Code,Documentation.
+2022-09-25,1.0,Invictus,Development,Code,UI changes and documentation.
+2022-09-24,0.5,Doodle,3D,Visual,Teaching.
+2022-09-23,1.0,Kabam,Design,Code,Support and debugging.
+2022-09-23,3.0,Toriyomu,3D,Code,Mesh generation rework.
+2022-09-22,1.5,Kabam,Design,Abstract,Meetings.
+2022-09-22,3.0,Kabam,Design,Code,Lighting tweaking and debugging.
+2022-09-21,3.5,Invictus,Development,Code,Projected graphic generation.
+2022-09-21,1.5,Kabam,Design,Abstract,Meetings.
+2022-09-21,2.0,Kabam,Design,Code,Debugging.
+2022-09-21,1.0,Study,Research,Audio,Instruments.
+2022-09-21,0.5,Sky,Development,Code,Tweaking.
+2022-09-20,1.0,Study,Research,Abstract,Game design.
+2022-09-20,3.0,Kabam,Design,Code,Debugging.
+2022-09-20,1.5,Study,Research,Abstract,Game design.
+2022-09-19,1.0,Study,Research,Abstract,Game design.
+2022-09-19,1.0,Chroniqueur,Development,Code,Asset integration.
+2022-09-19,2.0,Kabam,3D,Visual,Debugging.
+2022-09-19,0.5,Kabam,Design,Abstract,Meetings.
+2022-09-19,4.0,Invictus,Development,Code,UI programming.
+2022-09-18,0.5,Full_Body,Development,Code,Database management.
+2022-09-18,0.5,Invictus,Development,Code,UI programming.
+2022-09-18,1.0,Jam,Performance,Audio,Guitar and harmonica.
+2022-09-17,1.0,Study,Research,Audio,Instruments.
+2022-09-17,0.5,Invictus,Design,Abstract,UX design.
+2022-09-16,4.5,Invictus,Development,Code,Web dev.
+2022-09-16,1.0,Study,Research,Abstract,Game design.
+2022-09-15,1.0,Study,Research,Abstract,Fitness.
+2022-09-15,1.5,Kabam,Design,Abstract,Meetings.
+2022-09-15,1.5,Kabam,3D,Visual,Lighting.
+2022-09-15,1.0,Kabam,Development,Code,Debugging
+2022-09-14,3.0,Mountain III,3D,Visual,"Storyboarding, lighting, and texturing."
+2022-09-14,1.0,Study,Research,Abstract,Fitness.
+2022-09-14,1.5,Kabam,Development,Code,Debugging.
+2022-09-14,1.0,Kabam,Design,Abstract,Meeting.
+2022-09-13,4.0,Doodle,2D,Visual,Painting.
+2022-09-13,2.0,Sky,Development,Code,"Refactor, lighting, and prop management."
+2022-09-13,1.0,Sky,3D,Visual,Prop modeling and texturing.
+2022-09-13,2.0,Kabam,Development,Code,Debugging and teaching.
+2022-09-12,0.5,Sky,3D,Visual,Prop modeling.
+2022-09-12,1.0,Jam,Performance,Audio,Harmonica and audio engineering.
+2022-09-12,1.0,Tinker,Development,Code,Teaching.
+2022-09-12,3.5,Kabam,3D,Visual,Lighting.
+2022-09-12,0.5,Kabam,Design,Abstract,Meetings.
+2022-09-11,2.0,Doodle,3D,Visual,Non photorealistic rendering.
+2022-09-11,2.0,Jam,Performance,Audio,Harmonica and audio engineering.
+2022-09-11,2.0,Esquisse d'une Sandbox,Design,Abstract,Brainstorming and design.
+2022-09-10,2.0,Doodle,3D,Visual,Non photorealistic rendering.
+2022-09-08,4.0,Kabam,3D,Visual,Lighting.
+2022-09-08,1.0,Kabam,Design,Abstract,Meetings and technical art support.
+2022-09-07,3.5,Full_Body,Development,Code,UI improvements.
+2022-09-07,1.5,Sky,Development,Code,Dynamic sky system.
+2022-09-07,0.5,Kabam,3D,Visual,Scene review.
+2022-09-07,2.0,Kabam,Design,Abstract,Meetings.
+2022-09-07,2.0,Invictus,Development,Code,Site improvements.
+2022-09-07,1.0,Study,Writing,Abstract,Dream logging and writing.
+2022-09-06,2.0,Sky,Development,Code,Dynamic sky system.
+2022-09-06,3.0,Invictus,Development,Code,Site improvements.
+2022-09-06,1.0,Kabam,Design,Code,Onboarding help and meetings.
+2022-09-06,1.0,Doodle,3D,Visual,Sculpting learning.
+2022-09-05,1.0,Doodle,3D,Visual,Sculpting learning.
+2022-09-05,4.0,Tinker,Development,Code,Teaching.
+2022-09-04,1.0,Doodle,3D,Visual,Sculpting and texturing learning.
+2022-09-04,4.0,Tinker,Development,Code,Teaching.
+2022-09-03,3.0,Tinker,Development,Code,Teaching.
+2022-09-02,2.0,Full_Body,Development,Code,UX adjustments and hard mode addition.
+2022-09-02,1.0,Study,Research,Abstract,Registered savings accounts.
+2022-09-02,4.0,Kabam,3D,Visual,"Art support, lighting, cutscene management."
+2022-09-01,1.0,Log,Development,Code,Hosting setup.
 2022-09-01,3.0,Kabam,3D,Visual,Art support and cutscene management.
 2022-09-01,2.0,Kabam,Development,Code,Debugging.
 2022-08-31,1.5,V-OS,Writing,Abstract,Timekeeping rewrite.
@@ -1310,15 +1407,15 @@ Date,Time,Project,Task,Division,Details
 2020-11-11,1.0,Study,Research,Abstract,Storytelling in games.
 2020-11-10,1.0,Study,Research,Abstract,Storytelling in games.
 2020-11-09,0.5,Chroniqueur,Design,Code,Vignette system design.
-2020-11-08,4.0,Toryomu,3D,Visual,Procedural modeling and rendering.
+2020-11-08,4.0,Toriyomu,3D,Visual,Procedural modeling and rendering.
 2020-11-07,1.5,Chroniqueur,Composition,Audio,Soundtrack production.
-2020-11-07,6.0,Toryomu,3D,Visual,Procedural modeling and rendering.
+2020-11-07,6.0,Toriyomu,3D,Visual,Procedural modeling and rendering.
 2020-11-07,3.0,CTD,Performance,Visual,Teaching.
-2020-11-06,5.5,Toryomu,3D,Visual,Procedural modeling and rendering.
+2020-11-06,5.5,Toriyomu,3D,Visual,Procedural modeling and rendering.
 2020-11-06,1.0,Chroniqueur,Design,Abstract,Meeting.
-2020-11-05,1.5,Toryomu,Research,Visual,Procedural modeling learning.
-2020-11-05,9.5,Toryomu,3D,Visual,Procedural modeling.
-2020-11-04,8.0,Toryomu,3D,Visual,Procedural modeling.
+2020-11-05,1.5,Toriyomu,Research,Code,Procedural modeling learning.
+2020-11-05,9.5,Toriyomu,3D,Code,Procedural modeling.
+2020-11-04,8.0,Toriyomu,3D,Code,Procedural modeling.
 2020-11-04,1.0,Chroniqueur,Design,Code,Image generation.
 2020-11-04,1.5,Chroniqueur,Development,Code,Map pinning.
 2020-11-03,2.5,Early Midnight,3D,Visual,Texture mapping and study.

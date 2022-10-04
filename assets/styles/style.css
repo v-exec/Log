@@ -88,6 +88,10 @@ a:hover {
 	color: #fff;
 }
 
+#footer a:hover {
+	background-color: #777;
+}
+
 #footer-content {
 	padding: 30px 40px 30px 40px;
 	overflow: auto;
