@@ -1,4 +1,133 @@
-Date,Time,,Task,Division,Details
+Date,Time,Project,Task,Division,Details
+2023-09-20,0.5,V-OS,Writing,Abstract,Project documentation.
+2023-09-20,2.5,Time Breaker,Photography,Visual,Breakdown video editing.
+2023-09-20,0.5,Study,Research,Abstract,"Storytelling, game design."
+2023-09-20,0.5,Jam,Performance,Audio,Drumming.
+2023-09-20,0.5,Kabam,Writing,Abstract,Documentation.
+2023-09-20,2.5,Kabam,Development,Code,Shader development.
+2023-09-19,2.5,Time Breaker,Photography,Visual,Breakdown video editing.
+2023-09-19,0.5,Jam,Performance,Audio,Drumming.
+2023-09-19,6.5,Kabam,Development,Code,"Shader development, animation retargeting."
+2023-09-18,3.5,Time Breaker,3D,Visual,Breakdown video scene setup.
+2023-09-17,3.0,Time Breaker,3D,Visual,Breakdown video scene setup.
+2023-09-16,1.0,Study,Research,Abstract,Game design.
+2023-09-15,1.0,Study,Research,Abstract,Game design.
+2023-09-14,7.0,Doodle,3D,Visual,3D challenge scene creation.
+2023-09-14,1.5,Study,Research,Abstract,Game design.
+2023-09-13,1.0,Kabam,3D,Visual,Shader debugging.
+2023-09-13,3.0,Study,Research,Abstract,Game design.
+2023-09-12,3.0,Kabam,Design,Code,Shader development.
+2023-09-12,3.0,Kabam,Design,Abstract,"Meetings, organizing and delegating tasks."
+2023-09-11,1.5,Rig,Maintenance,Abstract,Sheets updates and context menu customization.
+2023-09-10,0.5,Rig,Maintenance,Abstract,Obsidian organization and note offloading.
+2023-09-10,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-10,0.0,Various,Event,None,Japan trip return.
+2023-09-09,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-09,1.0,Doodle,Research,Visual,Hair cards.
+2023-09-08,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-08,3.0,Doodle,Research,Visual,"Hair cards, sketching, rendering."
+2023-09-07,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-07,0.5,Doodle,Research,Visual,3D rendering.
+2023-09-06,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-06,1.5,Study,Research,Abstract,"Math, storytelling, science fiction."
+2023-09-05,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-05,2.0,Doodle,Research,Visual,Compositing reading.
+2023-09-04,2.0,Doodle,Research,Visual,Compositing reading.
+2023-09-03,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-03,2.0,Doodle,Research,Visual,3D render review.
+2023-09-02,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-02,3.0,Doodle,Research,Visual,3D render review.
+2023-09-01,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-09-01,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-31,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-30,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-30,1.5,Study,Research,Abstract,TeamLabs exhibit.
+2023-08-29,0.5,Study,Research,Abstract,Posing.
+2023-08-29,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-29,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-28,0.5,Study,Research,Abstract,Posing.
+2023-08-28,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-28,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-27,0.5,Study,Research,Abstract,Posing.
+2023-08-27,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-27,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-26,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-26,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-25,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-25,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-24,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-24,1.0,Study,Research,Abstract,Platformer game design.
+2023-08-24,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-23,1.0,Study,Research,Abstract,Platformer game design.
+2023-08-23,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-23,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-22,0.5,Japan,Linguistics,Abstract,Japanese.
+2023-08-22,1.0,Study,Research,Abstract,Platformer game design.
+2023-08-22,0.5,Doodle,Research,Visual,3D rendering.
+2023-08-21,1.0,Study,Research,Abstract,Platformer game design.
+2023-08-21,0.0,Various,Event,None,Japan trip.
+2023-08-20,2.5,Time Breaker,2D,Visual,Color correction and grading.
+2023-08-20,1.0,Time Breaker,Research,Visual,Color correction and grading.
+2023-08-19,1.0,Time Breaker,3D,Visual,"Rendering, hair simulation."
+2023-08-19,1.5,Time Breaker,2D,Visual,Impact frame illustration.
+2023-08-19,1.0,Time Breaker,Research,Visual,Color correction and grading.
+2023-08-18,4.0,Time Breaker,3D,Visual,"Rendering, small adjustments, scene optimization."
+2023-08-17,4.0,Time Breaker,3D,Visual,"Rendering, small adjustments, animation, scene optimization."
+2023-08-16,5.0,Time Breaker,3D,Visual,Tweaking character animation.
+2023-08-16,0.5,Kabam,Design,Abstract,Meetings.
+2023-08-16,1.0,Kabam,Development,Code,VFX debugging.
+2023-08-15,9.0,Time Breaker,3D,Visual,Environment and lighting.
+2023-08-15,1.5,Kabam,3D,Visual,"Shader testing, pipeline design, rigging."
+2023-08-14,8.5,Time Breaker,3D,Visual,Environment and VFX.
+2023-08-13,7.5,Time Breaker,3D,Visual,"Modeling, texturing, lighting."
+2023-08-12,3.5,Time Breaker,3D,Visual,Clothes design and animation.
+2023-08-11,4.5,Time Breaker,3D,Visual,Clothes design and animation.
+2023-08-10,9.0,Time Breaker,3D,Visual,"Rigging, animation, scene management, clothing design."
+2023-08-09,10.0,Time Breaker,3D,Visual,Rigging and animation.
+2023-08-09,0.5,Kabam,Design,Abstract,Meetings.
+2023-08-08,9.0,Time Breaker,3D,Visual,"Texturing, hair, grooming, lighting."
+2023-08-07,8.0,Time Breaker,3D,Visual,"Hair, grooming."
+2023-08-07,0.5,Kabam,Design,Abstract,Art management.
+2023-08-06,11.5,Time Breaker,3D,Visual,"Retopology, modeling, rigging, animation."
+2023-08-05,7.0,Time Breaker,3D,Visual,"Sculpting, retopology."
+2023-08-04,6.0,Time Breaker,3D,Visual,"Environment, sculpting."
+2023-08-04,0.5,Kabam,Development,Code,Shader help.
+2023-08-03,7.0,Time Breaker,3D,Visual,"Environment, sculpting."
+2023-08-03,1.0,Time Breaker,2D,Visual,Concept art.
+2023-08-03,1.0,Kabam,Development,Code,Shader help.
+2023-08-02,5.5,Time Breaker,3D,Visual,"Rigigng, animation, environment, lighting, special effects."
+2023-08-02,2.0,Kabam,Development,Code,Debugging.
+2023-08-01,4.5,Time Breaker,3D,Visual,Texturing.
+2023-08-01,3.0,Kabam,3D,Visual,Modeling and texturing pipeline.
+2023-08-01,1.0,Kabam,Design,Abstract,Meetings.
+2023-08-01,2.0,Kabam,Development,Code,Debugging.
+2023-07-31,9.0,Time Breaker,3D,Visual,"Sheathe modeling, character and helmet modeling, arm texturing, animation."
+2023-07-31,1.0,Kabam,Design,Abstract,Meetings and task management.
+2023-07-30,5.0,Time Breaker,3D,Visual,Sword and sheathe parametric modeling.
+2023-07-30,1.0,Sports,Performance,Abstract,Stand-up paddling.
+2023-07-29,1.0,Time Breaker,2D,Visual,Concept art.
+2023-07-29,5.0,Time Breaker,Design,Visual,"Mood board, brainstorm, resources."
+2023-07-28,1.0,Study,Research,Abstract,"Urban design, game design."
+2023-07-28,1.5,Kabam,Development,Code,"Shader development, stylized rendering."
+2023-07-27,0.5,Architects of Souls,Performance,Audio,Guitar.
+2023-07-27,0.5,Architects of Souls,Composition,Audio,Song composition.
+2023-07-27,1.0,Study,Research,Abstract,Vocals.
+2023-07-27,0.5,Kabam,Design,Abstract,Meetings.
+2023-07-27,0.5,Kabam,Performance,Abstract,Presentation.
+2023-07-27,1.5,Kabam,Writing,Abstract,Photoshop tool development presentation writing.
+2023-07-26,0.5,Study,Research,Abstract,Game design.
+2023-07-26,5.0,Kabam,Development,Code,"Shader development, stylized rendering."
+2023-07-26,1.0,Kabam,Design,Code,Engineer meeting.
+2023-07-25,2.0,Rig,Research,Abstract,Data organization.
+2023-07-25,1.0,Study,Research,Abstract,Psychology.
+2023-07-25,1.0,Kabam,Design,Abstract,Meetings.
+2023-07-24,3.0,Kabam,Development,Code,"Shader development, stylized rendering."
+2023-07-24,0.5,Kabam,Design,Abstract,Meetings.
+2023-07-23,1.0,CAT,Design,Abstract,Game design.
+2023-07-23,0.5,V-OS,Writing,Abstract,Site cleanup.
+2023-07-23,1.5,Fluctuations,3D,Visual,Storyboarding.
+2023-07-22,1.0,V-OS,Writing,Abstract,Portfolio updates and site cleanup.
+2023-07-21,2.0,Study,Research,Abstract,"Game design, fashion."
 2023-07-20,2.0,V-OS,Writing,Abstract,Phrasing fixes and project documentation.
 2023-07-20,2.5,Off,Development,Visual,Point cloud audio visualization.
 2023-07-19,1.0,Study,Research,Abstract,"Game design, urban design."
@@ -17,7 +146,7 @@ Date,Time,,Task,Division,Details
 2023-07-14,4.0,Fluctuations,3D,Visual,Character rendering and debugging.
 2023-07-13,3.0,Fluctuations,3D,Visual,Character rendering and debugging.
 2023-07-12,1.0,Kabam,Design,Visual,Character art meetings.
-2023-07-12,0.5,Study,Research,Visual,Animation and NPR.
+2023-07-12,0.5,Doodle,Research,Visual,Animation and NPR.
 2023-07-11,2.0,Study,Research,Abstract,"World generation, game design."
 2023-07-11,4.0,Kabam,Development,Code,Photoshop tool development.
 2023-07-10,1.0,Doodle,3D,Visual,Animation and NPR.
@@ -26,7 +155,7 @@ Date,Time,,Task,Division,Details
 2023-07-10,1.0,Kabam,Design,Abstract,Meetings.
 2023-07-10,0.5,Fluctuations,3D,Visual,Desert environment.
 2023-07-10,0.5,Kabam,Development,Code,Asset management.
-2023-07-09,1.0,Study,Research,Visual,Animation and NPR.
+2023-07-09,1.0,Doodle,Research,Visual,Animation and NPR.
 2023-07-09,1.5,Study,Research,Abstract,"Game design, storytelling."
 2023-07-08,1.0,Study,Research,Abstract,Game design.
 2023-07-07,1.0,Study,Research,Abstract,Game design.
@@ -1340,7 +1469,7 @@ Date,Time,,Task,Division,Details
 2021-10-03,1.5,QU-6,2D,Visual,Video editing.
 2021-10-03,3.5,QU-6,3D,Visual,Visuals development.
 2021-10-02,0.5,Jam,Performance,Audio,Guitar.
-2021-10-01,2.0,ADDS90,3D,Visual,Visuals development.
+2021-10-01,2.0,Fluctuations,3D,Visual,Visuals development.
 2021-10-01,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar and vocals.
 2021-10-01,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
 2021-10-01,1.5,Iregular,Development,Code,Telescopes tweaking.
