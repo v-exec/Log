@@ -1,4 +1,1017 @@
 Date,Time,Project,Task,Division,Details
+2024-12-15,0.5,VOIDNET,Design,Abstract,Puzzle design.
+2024-12-15,1.0,Study,Research,Abstract,Entrepeneurship.
+2024-12-15,4.5,VOIDNET,Development,Code,"Spring forces, 3D to 2D UI."
+2024-12-14,4.0,VOIDNET,Design,Visual,"Link styling, intro improvements, responsive design."
+2024-12-13,6.5,VOIDNET,Development,Code,"Terminal feedback, intro sequence, refactoring."
+2024-12-13,0.5,VOIDNET,Design,Visual,UI references.
+2024-12-12,5.0,VOIDNET,Development,Code,Refactoring.
+2024-12-11,5.0,VOIDNET,Development,Code,"Signal player, UI."
+2024-12-11,0.5,V-OS,Writing,Abstract,Cleanup.
+2024-12-11,1.0,Jam,Research,Audio,Composition and mixing.
+2024-12-10,6.0,VOIDNET,Development,Code,"Signal player, UI, debugging."
+2024-12-09,7.0,VOIDNET,Development,Code,"Rendering, navigation."
+2024-12-09,1.0,VOIDNET,Writing,Abstract,Narrative writing.
+2024-12-08,6.0,VOIDNET,Development,Code,"Rendering, navigation."
+2024-12-07,4.0,VOIDNET,Development,Code,"Rendering, navigation."
+2024-12-06,3.0,VOIDNET,Development,Code,"Rendering, navigation."
+2024-12-05,3.0,VOIDNET,Development,Code,"Parsing, debugging."
+2024-12-04,1.5,Canals,3D,Visual,"Point cloud distortion, render tests and storyboarding."
+2024-12-03,1.5,Doodle,Photography,Visual,Nikko photography.
+2024-12-02,0.5,Study,Research,Abstract,Idle game design.
+2024-12-01,0.5,Doodle,Photography,Visual,Travel photography.
+2024-11-30,3.0,VOIDNET,Development,Code,"Backend development, parser optimization."
+2024-11-29,5.0,VOIDNET,Development,Code,"Terminal development, parsing fixes, layout."
+2024-11-29,0.5,Study,Research,Abstract,Coop game design.
+2024-11-28,1.5,VOIDNET,3D,Code,"Map development, code cleanup."
+2024-11-27,6.0,VOIDNET,3D,Code,Map development.
+2024-11-26,2.0,VOIDNET,Development,Code,Site deployment.
+2024-11-25,1.0,Study,Research,Abstract,Incremental games.
+2024-11-24,2.0,Jam,Research,Audio,Last Dinosaurs concert.
+2024-11-24,5.0,VOIDNET,Development,Code,"Parsing, basic styling, optimization."
+2024-11-23,1.5,VOIDNET,Development,Code,Parsing.
+2024-11-22,3.0,VOIDNET,Development,Code,Parsing.
+2024-11-22,1.0,Doodle,Photography,Visual,Mount Takao photography.
+2024-11-21,2.5,VOIDNET,Development,Code,Parsing.
+2024-11-21,2.0,VOIDNET,Development,Code,Parsing.
+2024-11-20,2.0,VOIDNET,Development,Code,Parsing.
+2024-11-19,1.0,Study,Research,Abstract,Cosy games.
+2024-11-18,2.0,Study,Research,Abstract,"Cosy games, bullet hell swarm incremental games."
+2024-11-17,1.0,Study,Research,Abstract,Cosy games.
+2024-11-16,2.0,Canals,3D,Visual,"Pipeline optimization, visual exploration."
+2024-11-15,1.0,Canals,3D,Visual,Pipeline optimization.
+2024-11-14,1.0,Study,Research,Abstract,Cosy games.
+2024-11-14,2.0,Sanea Ima,Development,Code,"Site migration, SEO, styling."
+2024-11-13,0.5,Study,Research,Abstract,The well-played game.
+2024-11-13,2.5,Doodle,Photography,Visual,Enoshima photography.
+2024-11-13,1.5,Sanea Ima,Development,Code,Site migration debugging.
+2024-11-12,1.5,Study,Research,Abstract,Narrative game design.
+2024-11-12,0.5,Sanea Ima,Design,Abstract,"Debugging, teaching."
+2024-11-11,1.0,Study,Research,Abstract,Space sim game design.
+2024-11-10,2.0,Study,Research,Abstract,Roguelike and narrative card game design.
+2024-11-09,1.0,Doodle,Research,Visual,"Mori art museum, fine arts."
+2024-11-08,2.0,Doodle,Photography,Visual,Video editing.
+2024-11-08,0.5,Study,Research,Abstract,Roguelike card game design.
+2024-11-07,1.0,Study,Research,Abstract,Roguelike card game design.
+2024-11-07,0.5,Doodle,Photography,Visual,Video filming.
+2024-11-06,1.0,Study,Research,Abstract,Roguelike card game design.
+2024-11-05,0.5,Study,Research,Abstract,"Incremental game design, simulation game design."
+2024-11-04,0.5,Study,Research,Abstract,Incremental game design.
+2024-11-03,0.5,Study,Research,Abstract,"Incremental game design, simulation game design."
+2024-11-02,1.0,Study,Research,Abstract,"Finance tracking, management game design, bullet hell game design."
+2024-11-01,1.5,Study,Research,Abstract,The Well Played Game.
+2024-11-01,0.0,Various,Event,None,Move to Japan.
+2024-10-31,1.5,Study,Research,Abstract,The Well Played Game.
+2024-10-30,1.0,Study,Research,Abstract,Space sim game design.
+2024-10-29,1.0,Study,Research,Abstract,Space sim game design.
+2024-10-28,1.0,Study,Research,Abstract,Space sim game design.
+2024-10-27,0.5,Rig,Maintenance,Abstract,Moving.
+2024-10-26,0.5,Rig,Maintenance,Abstract,Moving.
+2024-10-25,0.5,Rig,Maintenance,Abstract,Moving.
+2024-10-25,0.0,Various,Event,None,Move out.
+2024-10-24,0.5,Rig,Maintenance,Abstract,Moving.
+2024-10-23,1.0,Canals,Photography,Visual,Photogrammetry processing.
+2024-10-23,8.0,Canals,Photography,Visual,Photogrammetry processing.
+2024-10-22,5.0,Canals,Photography,Visual,Photogrammetry processing.
+2024-10-21,3.0,Canals,Photography,Visual,Photogrammetry processing.
+2024-10-20,3.0,Canals,Photography,Visual,Photogrammetry capture.
+2024-10-19,1.0,Sanea Ima,Development,Code,Mobile responsiveness.
+2024-10-18,7.0,Sanea Ima,Development,Code,"Web development, cleanup and frontend, mobile responsiveness."
+2024-10-18,2.0,Study,Research,Abstract,Psychology of social media.
+2024-10-17,4.5,Sanea Ima,Development,Code,"Web development, cleanup and CMS backend."
+2024-10-16,1.0,Study,Research,Abstract,Incremental game design.
+2024-10-15,3.5,Sanea Ima,Design,Visual,Web design.
+2024-10-14,4.5,Sanea Ima,Design,Visual,Web design.
+2024-10-13,0.5,Study,Research,Abstract,"Music and culture, game design."
+2024-10-12,1.5,Study,Design,Abstract,Diving horror game design.
+2024-10-12,1.0,Rig,Research,Abstract,Backpacks.
+2024-10-11,1.0,Study,Design,Abstract,Diving horror game design.
+2024-10-11,0.0,Various,Event,None,Quit job at Dpt.
+2024-10-11,3.5,Dpt.,Development,Visual,Shader development and debugging.
+2024-10-11,1.5,Dpt.,Design,Abstract,Meetings.
+2024-10-10,0.5,Sports,Research,Abstract,Pilates research.
+2024-10-10,6.0,Dpt.,Development,Visual,Shader development.
+2024-10-10,1.0,Dpt.,Design,Abstract,Meetings.
+2024-10-09,1.0,Study,Research,Abstract,Horror game design.
+2024-10-09,1.5,Dpt.,Development,Code,Debugging.
+2024-10-09,3.5,Dpt.,Design,Abstract,Meetings.
+2024-10-08,1.0,Dpt.,Development,Visual,Shader development.
+2024-10-08,0.5,Dpt.,Design,Abstract,Meetings.
+2024-10-07,1.5,Dpt.,Development,Visual,"Animation system development, shader fixes."
+2024-10-07,0.5,Dpt.,Design,Abstract,Meetings.
+2024-10-06,0.5,Study,Research,Abstract,Game design.
+2024-10-05,0.5,Study,Research,Abstract,Game design.
+2024-10-05,2.0,Rig,Maintenance,Abstract,Selling belongings.
+2024-10-04,0.5,Study,Research,Abstract,Game design.
+2024-10-04,2.5,Dpt.,Development,Code,Debugging.
+2024-10-04,0.5,Dpt.,Design,Abstract,Meetings.
+2024-10-03,0.5,Study,Research,Abstract,Game design.
+2024-10-03,1.5,Dpt.,Development,Code,Interaction system development.
+2024-10-03,0.5,Dpt.,Design,Abstract,Meetings.
+2024-10-02,0.5,Study,Research,Abstract,Game design.
+2024-10-02,4.0,Dpt.,Development,Code,Debugging.
+2024-10-02,1.0,Dpt.,Design,Abstract,Meetings.
+2024-10-01,0.5,Study,Research,Abstract,Game design.
+2024-10-01,4.0,Dpt.,Development,Visual,"Shader animation, particle systems."
+2024-10-01,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-30,4.0,Dpt.,Development,Visual,"Shader animation, particle systems."
+2024-09-30,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-29,0.5,Study,Research,Abstract,Game design.
+2024-09-28,0.5,Study,Research,Abstract,Game design.
+2024-09-27,0.5,Study,Research,Abstract,Game design.
+2024-09-27,2.5,Dpt.,Development,Visual,Shader animation.
+2024-09-27,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-26,0.5,Study,Research,Abstract,Game design.
+2024-09-26,1.0,Dpt.,Development,Visual,Shader animation.
+2024-09-26,1.5,Dpt.,Design,Abstract,Meetings.
+2024-09-25,0.5,Study,Research,Abstract,Game design.
+2024-09-25,1.0,Dpt.,Development,Visual,Shader animation.
+2024-09-25,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-24,0.5,Study,Research,Abstract,Game design.
+2024-09-24,2.0,Dpt.,Development,Visual,Shader animation.
+2024-09-24,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-23,0.5,Study,Research,Abstract,Game design.
+2024-09-23,2.0,Dpt.,Development,Visual,Shader animation.
+2024-09-23,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-22,0.5,Study,Research,Abstract,Game design.
+2024-09-21,0.5,Study,Research,Abstract,Game design.
+2024-09-20,2.0,Dpt.,Development,Visual,Shader programming.
+2024-09-20,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-19,1.0,Dpt.,Development,Visual,Shader programming.
+2024-09-19,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-18,4.0,Dpt.,Development,Visual,Shader programming.
+2024-09-18,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-17,3.5,Dpt.,Development,Visual,Shader programming.
+2024-09-17,2.5,Dpt.,Design,Abstract,Meetings.
+2024-09-16,1.0,Dpt.,Development,Visual,Shader programming.
+2024-09-16,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-15,1.0,Study,Research,Abstract,Game design.
+2024-09-14,1.0,Study,Research,Abstract,Game design.
+2024-09-14,7.0,Study,Performance,Abstract,Acting and storytelling.
+2024-09-14,1.0,Study,Writing,Abstract,"Storytelling, game design."
+2024-09-13,1.0,Study,Research,Abstract,Game design.
+2024-09-13,2.5,Dpt.,Development,Code,"Integration debugging, shader tweaking, tech art support."
+2024-09-13,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-12,1.0,Study,Research,Abstract,Game design.
+2024-09-12,3.0,Dpt.,3D,Visual,"Integration debugging, shader tweaking, tech art support."
+2024-09-12,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-11,3.0,Dpt.,3D,Visual,Integration debugging and shader tweaking.
+2024-09-11,1.0,Jam,Research,Audio,Sound synthesis.
+2024-09-11,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-10,1.0,Jam,Research,Audio,Sound synthesis.
+2024-09-10,4.0,Dpt.,3D,Visual,"Modeling, unwrapping, texturing, shaders."
+2024-09-10,2.5,Dpt.,Design,Abstract,Meetings.
+2024-09-10,1.0,Study,Research,Abstract,Game design.
+2024-09-09,5.0,Dpt.,3D,Code,"3D debugging, shaders."
+2024-09-09,1.5,Dpt.,Design,Abstract,Meetings.
+2024-09-08,0.5,Study,Research,Abstract,Game design.
+2024-09-07,0.5,Study,Research,Abstract,Game design.
+2024-09-06,4.0,Dpt.,3D,Code,Shader development.
+2024-09-06,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-06,0.5,Study,Research,Abstract,Game design.
+2024-09-05,3.0,Dpt.,3D,Code,Shader development.
+2024-09-05,0.5,Study,Research,Abstract,Game design.
+2024-09-05,2.0,Dpt.,Design,Abstract,Meetings.
+2024-09-05,4.5,Doodle,3D,Visual,Low poly modeling.
+2024-09-04,3.0,Dpt.,3D,Code,Shader development.
+2024-09-04,1.0,Dpt.,Design,Abstract,Meetings.
+2024-09-04,0.5,Study,Research,Abstract,Game design.
+2024-09-03,4.5,Dpt.,3D,Code,Shader development.
+2024-09-03,0.5,Dpt.,Design,Abstract,Meetings.
+2024-09-03,0.5,Study,Research,Abstract,Game design.
+2024-09-02,1.0,Study,Research,Abstract,Game design.
+2024-09-01,1.0,Study,Research,Abstract,Game design.
+2024-09-01,0.5,Sanea Ima,Design,Abstract,Client requirements.
+2024-08-31,1.0,Study,Research,Abstract,Game design.
+2024-08-30,4.0,Study,Performance,Abstract,Acting and storytelling.
+2024-08-30,1.0,Study,Writing,Abstract,Writing.
+2024-08-30,1.0,Study,Research,Abstract,Game design.
+2024-08-29,3.0,Dpt.,Development,Visual,Shader development.
+2024-08-29,2.0,Dpt.,Design,Abstract,Meetings.
+2024-08-28,3.0,Dpt.,Development,Visual,Shader development.
+2024-08-28,1.0,Dpt.,Design,Abstract,Meetings.
+2024-08-27,4.5,Dpt.,Development,Code,"Signs and feedback system development, debugging."
+2024-08-27,1.0,Dpt.,Design,Abstract,Meetings.
+2024-08-26,1.0,Study,Research,Abstract,Game design.
+2024-08-26,1.0,Doodle,2D,Visual,Minecraft skins.
+2024-08-26,3.0,Dpt.,Development,Code,"Signs and feedback system development, debugging."
+2024-08-26,2.5,Dpt.,Design,Abstract,Meetings.
+2024-08-25,1.0,Doodle,2D,Visual,Minecraft skins.
+2024-08-25,0.5,Jam,Performance,Audio,Public speaking.
+2024-08-24,2.0,Rig,Maintenance,Abstract,"Cleaning, backup, software setup."
+2024-08-24,1.0,Study,Research,Abstract,Game design.
+2024-08-23,3.5,Sports,Performance,Abstract,"Kayak, archery."
+2024-08-22,1.0,Tinker,Research,Abstract,Hardware.
+2024-08-22,2.0,VOIDNET,Development,Code,Parsing.
+2024-08-22,1.0,Rig,Research,Abstract,"Ergonomics, peripheral tech."
+2024-08-22,2.0,Rig,Maintenance,Code,Setup new rig.
+2024-08-22,1.5,Dpt.,3D,Code,"Shader development, shader support."
+2024-08-22,3.0,Dpt.,Design,Abstract,Meetings.
+2024-08-21,1.5,Japan,Linguistics,Abstract,Japanese.
+2024-08-21,1.0,Tinker,Research,Abstract,Hardware.
+2024-08-21,4.0,Dpt.,Design,Abstract,Meetings.
+2024-08-20,3.0,VOIDNET,Development,Code,"Data flow, bundling, parsing."
+2024-08-20,2.5,Study,Research,Abstract,"Game design, AI."
+2024-08-20,4.0,Dpt.,3D,Visual,"Modeling, texturing, shaders."
+2024-08-20,0.5,Dpt.,Design,Abstract,Meetings.
+2024-08-19,3.0,VOIDNET,Development,Code,"Data flow, bundling, parsing."
+2024-08-19,1.0,Dpt.,Development,Code,Debugging.
+2024-08-19,1.0,Dpt.,Design,Abstract,Meetings.
+2024-08-18,4.0,VOIDNET,Development,Code,"Data flow, bundling, parsing."
+2024-08-17,2.0,VOIDNET,Development,Code,Data flow.
+2024-08-17,1.0,Study,Research,Abstract,Game design.
+2024-08-16,1.0,VOIDNET,Design,Abstract,Experience design.
+2024-08-16,0.5,Jam,Performance,Audio,Guitar.
+2024-08-16,1.0,Dpt.,Development,Visual,Shader development.
+2024-08-16,0.5,Dpt.,Design,Abstract,Meetings.
+2024-08-15,6.0,Dpt.,3D,Visual,"Environment modeling, rigging, integration."
+2024-08-15,0.5,Dpt.,Design,Abstract,Meetings.
+2024-08-14,1.0,Study,Research,Abstract,Game design.
+2024-08-14,1.5,Dpt.,3D,Visual,Procedural tiled hex system.
+2024-08-14,1.0,Dpt.,Development,Code,UI development and debugging.
+2024-08-14,2.0,Dpt.,Design,Abstract,Meetings.
+2024-08-13,1.5,Dpt.,Design,Abstract,Meetings.
+2024-08-13,1.0,Doodle,Development,Visual,Machine learning image generation.
+2024-08-12,2.0,Study,Research,Abstract,Game design.
+2024-08-12,5.0,Doodle,Development,Visual,Machine learning image generation.
+2024-08-11,2.0,Study,Research,Abstract,Game design.
+2024-08-10,3.5,Sports,Performance,Abstract,Volleyball.
+2024-08-09,0.5,Sports,Performance,Abstract,Swimming.
+2024-08-08,1.0,Sports,Performance,Abstract,Volleyball.
+2024-08-07,1.5,Rig,Maintenance,Abstract,Shortcut hardware setup.
+2024-08-07,1.0,Dpt.,Design,Abstract,Meetings.
+2024-08-06,1.0,Rig,Maintenance,Abstract,Shortcut hardware setup.
+2024-08-06,3.0,Dpt.,Development,Visual,Layouts workshop.
+2024-08-05,1.0,Canals,Design,Abstract,Art direction alignment and brainstorming.
+2024-08-05,3.0,Dpt.,Development,Visual,Layouts workshop.
+2024-08-04,1.0,Doodle,3D,Visual,Animation challenge prototyping.
+2024-08-03,0.5,Doodle,3D,Visual,Animation challenge prototyping.
+2024-08-02,0.5,Canals,Design,Abstract,Art direction alignment and brainstorming.
+2024-08-02,1.5,Dpt.,Design,Abstract,Meetings.
+2024-08-01,0.5,Canals,Design,Abstract,Art direction alignment and brainstorming.
+2024-08-01,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-31,0.5,Canals,Photography,Visual,"Editing, post processing."
+2024-07-31,2.0,Canals,3D,Visual,Animation and rendering.
+2024-07-30,0.5,Canals,Photography,Visual,"Editing, post processing."
+2024-07-30,1.5,Canals,3D,Visual,Animation and rendering.
+2024-07-30,1.5,Tinker,Development,Code,Obsidian plugin development.
+2024-07-30,1.0,Dpt.,Design,Abstract,Client management.
+2024-07-30,2.0,Dpt.,3D,Visual,Scene management.
+2024-07-29,1.5,Canals,3D,Visual,Draft production.
+2024-07-29,1.0,Study,Research,Abstract,Game design.
+2024-07-29,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-29,1.0,Dpt.,3D,Code,"Shader development, scene management."
+2024-07-28,0.5,Jam,Performance,Audio,"Guitar, piano."
+2024-07-27,1.0,Sports,Performance,Abstract,Kayak.
+2024-07-27,0.5,Jam,Performance,Audio,"Guitar, piano."
+2024-07-26,0.5,Dpt.,Development,Code,Testing.
+2024-07-26,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-25,0.5,Canals,Photography,Visual,"Editing, post processing."
+2024-07-25,1.0,Canals,3D,Visual,"Animation, rendering."
+2024-07-25,3.0,Dpt.,3D,Code,Shader development.
+2024-07-25,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-25,0.5,Doodle,Research,Visual,Photo editing in darktable.
+2024-07-24,0.5,Study,Research,Abstract,Game design.
+2024-07-24,3.0,Dpt.,3D,Code,Shader development.
+2024-07-24,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-24,1.0,Doodle,Photography,Visual,Photo editing.
+2024-07-23,0.5,Study,Research,Abstract,Game design.
+2024-07-23,2.0,Dpt.,3D,Code,Shader development.
+2024-07-23,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-22,1.0,Jam,Performance,Audio,Guitar.
+2024-07-22,1.0,Lydia EP Cover,3D,Visual,Scene setup.
+2024-07-22,0.5,Study,Writing,Abstract,Writing.
+2024-07-22,0.5,Dpt.,3D,Visual,Level management.
+2024-07-22,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-21,1.0,Study,Research,Abstract,Game design.
+2024-07-20,1.5,Jam,Performance,Audio,Guitar.
+2024-07-20,1.0,Study,Writing,Abstract,Writing.
+2024-07-20,1.0,Study,Research,Abstract,Game design.
+2024-07-19,1.0,Dpt.,Development,Code,"Visual feedback system development, debugging."
+2024-07-19,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-18,2.0,Dpt.,3D,Code,Shader development.
+2024-07-18,1.5,Dpt.,Design,Abstract,Meetings.
+2024-07-17,2.5,Dpt.,3D,Visual,Material and shaders management.
+2024-07-17,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-16,1.5,Study,Research,Abstract,Game design.
+2024-07-16,6.0,Dpt.,Development,Code,"Visual feedback system development, debugging."
+2024-07-16,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-15,1.0,Study,Research,Abstract,Game design.
+2024-07-15,1.0,Dpt.,Development,Code,Debugging.
+2024-07-14,1.0,Study,Research,Abstract,Game design.
+2024-07-13,1.0,Study,Research,Abstract,Game design.
+2024-07-12,1.0,Study,Research,Abstract,Game design.
+2024-07-12,4.0,Dpt.,Development,Code,Game development and scene management.
+2024-07-12,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-11,1.5,Canals,3D,Visual,Animation and rendering.
+2024-07-11,1.0,Study,Research,Abstract,Game design.
+2024-07-11,1.5,Dpt.,Design,Abstract,Meetings.
+2024-07-11,2.0,Dpt.,Development,Code,Debugging.
+2024-07-10,2.0,Dpt.,Development,Code,Debugging.
+2024-07-10,0.5,Dpt.,Development,Visual,Shader development.
+2024-07-10,2.0,Dpt.,Design,Abstract,Meetings.
+2024-07-09,0.5,Furo,Writing,Abstract,Storytelling.
+2024-07-09,1.0,Study,Research,Abstract,Storytelling.
+2024-07-09,5.5,Canals,3D,Visual,Procedural modeling and rendering.
+2024-07-09,3.0,Dpt.,Development,Code,"Visual feedback system development, debugging."
+2024-07-09,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-08,1.0,Study,Writing,Abstract,Storytelling.
+2024-07-08,7.0,Canals,3D,Visual,Procedural modeling.
+2024-07-07,0.5,Sanea Ima,Design,Visual,Web design.
+2024-07-07,3.0,Canals,3D,Visual,Procedural modeling.
+2024-07-06,1.0,Study,Research,Abstract,Game design.
+2024-07-06,3.0,Canals,3D,Visual,Procedural modeling.
+2024-07-05,1.0,Study,Research,Abstract,Game design.
+2024-07-05,2.5,Dpt.,3D,Visual,Visual feedback system parameter tweaking.
+2024-07-05,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-04,1.0,Study,Research,Abstract,Game design.
+2024-07-04,2.0,Dpt.,Development,Code,Visual feedback system development.
+2024-07-04,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-03,1.0,Dpt.,Development,Code,Visual feedback system development.
+2024-07-03,1.0,Dpt.,Design,Abstract,Meetings.
+2024-07-02,5.5,Dpt.,Development,Code,Visual feedback system development.
+2024-07-02,0.5,Dpt.,Design,Abstract,Meetings.
+2024-07-01,0.5,Study,Research,Abstract,Game design.
+2024-06-30,0.5,Furo,Writing,Abstract,Writing.
+2024-06-30,1.5,Canals,3D,Visual,Procedural modeling.
+2024-06-30,0.5,Study,Research,Abstract,Game design.
+2024-06-29,0.5,Study,Research,Abstract,Game design.
+2024-06-28,4.0,Canals,3D,Visual,Procedural modeling.
+2024-06-28,1.0,Study,Research,Abstract,"Game design, fitness."
+2024-06-27,1.0,Study,Research,Abstract,"Game design, fitness."
+2024-06-27,1.5,Canals,3D,Visual,Procedural modeling.
+2024-06-27,3.0,Dpt.,Development,Code,Visual feedback system development.
+2024-06-27,1.0,Dpt.,Design,Abstract,Meetings.
+2024-06-26,1.0,Study,Research,Abstract,Game design.
+2024-06-26,0.5,Canals,Design,Abstract,Concept work.
+2024-06-26,3.0,Dpt.,Development,Code,Visual feedback system development.
+2024-06-26,1.0,Dpt.,Design,Abstract,Meetings.
+2024-06-25,1.0,Dpt.,Design,Abstract,"Meetings, admin."
+2024-06-24,1.0,Study,Research,Abstract,Game design.
+2024-06-23,2.0,Study,Research,Abstract,Game design.
+2024-06-22,1.0,Study,Research,Abstract,Game design.
+2024-06-21,1.0,Study,Research,Abstract,Game design.
+2024-06-21,1.0,Dpt.,Development,Code,Signs and feedback system planning and development.
+2024-06-21,2.5,Dpt.,Design,Abstract,Meetings.
+2024-06-20,1.0,Study,Research,Abstract,Game design.
+2024-06-20,1.5,Dpt.,Development,Code,"Particle system engine configuration, debugging."
+2024-06-20,0.5,Dpt.,Design,Abstract,Meetings.
+2024-06-19,1.0,Study,Research,Abstract,Game design.
+2024-06-19,1.5,Canals,3D,Visual,"Procedural modeling, project research."
+2024-06-19,1.5,Doodle,3D,Visual,3D software.
+2024-06-19,1.5,Dpt.,3D,Visual,Sequences.
+2024-06-19,0.5,Dpt.,Design,Abstract,Meetings.
+2024-06-18,1.0,Study,Research,Abstract,Game design.
+2024-06-18,1.0,Dpt.,Development,Code,Project updates and player feedback system.
+2024-06-18,2.0,Dpt.,Design,Abstract,Meetings.
+2024-06-17,1.0,Study,Research,Abstract,Game design.
+2024-06-16,0.0,Various,Event,None,Return to Montreal.
+2024-06-16,0.5,Doodle,Photography,Visual,Photography.
+2024-06-15,0.5,Doodle,Photography,Visual,Photography.
+2024-06-14,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-14,0.5,Doodle,Photography,Visual,Photography.
+2024-06-13,0.5,Doodle,Photography,Visual,Photography.
+2024-06-12,0.5,Doodle,Photography,Visual,Photography.
+2024-06-11,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-11,0.5,Doodle,Photography,Visual,Photography.
+2024-06-10,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-10,0.5,Doodle,Photography,Visual,Photography.
+2024-06-09,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-09,0.5,Doodle,Photography,Visual,Photography.
+2024-06-08,0.5,Doodle,Design,Visual,Fashion.
+2024-06-08,0.5,Doodle,Photography,Visual,Photography.
+2024-06-07,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-07,0.5,Doodle,Photography,Visual,Photography.
+2024-06-06,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-06,0.5,Doodle,Photography,Visual,Photography.
+2024-06-05,0.5,Study,Linguistics,Abstract,Japanese.
+2024-06-05,0.5,Doodle,Photography,Visual,Photography.
+2024-06-04,0.5,Doodle,Photography,Visual,Photography.
+2024-06-03,0.5,Doodle,Photography,Visual,Photography.
+2024-06-03,0.0,Various,Event,None,Leave to Vegas.
+2024-06-02,1.0,Study,Research,Abstract,Game design.
+2024-06-01,1.0,Study,Research,Abstract,Acting.
+2024-05-31,5.0,Jellum,3D,Visual,"Procedural modeling, simulations, rendering."
+2024-05-31,1.0,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-31,1.0,Dpt.,Design,Abstract,Meetings.
+2024-05-30,6.0,Jellum,3D,Visual,Procedural modeling and simulation.
+2024-05-30,2.0,Dpt.,Development,Code,Game programming.
+2024-05-30,3.0,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-30,0.5,Dpt.,Design,Abstract,Meetings.
+2024-05-29,3.0,Jellum,3D,Visual,Procedural modeling and simulation.
+2024-05-29,1.0,Dpt.,Development,Code,Game programming.
+2024-05-29,3.5,Dpt.,Design,Abstract,Meetings.
+2024-05-28,4.0,Jellum,3D,Visual,Procedural modeling and animation.
+2024-05-28,6.0,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-27,3.0,Jellum,3D,Visual,Procedural modeling and animation.
+2024-05-27,1.0,Study,Research,Abstract,Game design.
+2024-05-27,1.5,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-27,0.5,Dpt.,Design,Abstract,Meetings.
+2024-05-26,2.0,Study,Research,Abstract,Game design.
+2024-05-25,1.0,Study,Research,Abstract,Game design.
+2024-05-24,1.0,Study,Research,Abstract,Game design.
+2024-05-23,5.0,Red,3D,Visual,Point cloud work.
+2024-05-23,3.5,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-22,1.0,Study,Research,Abstract,Game design.
+2024-05-22,4.0,Red,3D,Visual,Point cloud work.
+2024-05-22,4.0,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-21,1.0,Study,Research,Abstract,Game design.
+2024-05-20,2.0,Study,Research,Abstract,Game design.
+2024-05-19,1.0,Study,Research,Abstract,Game design.
+2024-05-18,1.0,Canals,Design,Abstract,"Project brief, brainstorming."
+2024-05-18,1.0,Blue,Composition,Audio,"Composition, mixing."
+2024-05-17,6.0,Blue,Composition,Audio,"Composition, mixing."
+2024-05-17,1.5,Dpt.,Development,Code,Tools programming.
+2024-05-17,1.0,Dpt.,Design,Abstract,Meetings.
+2024-05-16,3.0,Blue,Composition,Audio,Composition.
+2024-05-16,2.5,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-16,2.0,Dpt.,Design,Abstract,Meetings.
+2024-05-15,2.0,Blue,Composition,Audio,Composition.
+2024-05-15,1.5,Dpt.,Design,Abstract,Meetings.
+2024-05-15,2.0,Dpt.,3D,Visual,Shader and VFX development.
+2024-05-14,1.5,Blue,Composition,Audio,Composition.
+2024-05-14,6.0,Dpt.,3D,Visual,VFX and shader workshop.
+2024-05-13,6.0,Dpt.,3D,Visual,VFX and shader workshop.
+2024-05-12,1.0,Study,Research,Abstract,Game design.
+2024-05-11,1.0,Blue,Composition,Audio,Composition.
+2024-05-11,3.0,Rig,Maintenance,Code,Midi controller setup.
+2024-05-10,1.0,Study,Research,Abstract,Game design.
+2024-05-10,2.0,Dpt.,3D,Visual,VFX production.
+2024-05-10,1.5,Dpt.,Design,Abstract,Meetings.
+2024-05-09,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-05-09,3.0,Dpt.,3D,Visual,Animation debugging.
+2024-05-08,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-05-08,1.0,Jam,Research,Audio,Music production.
+2024-05-08,4.0,Dpt.,3D,Visual,VFX production.
+2024-05-07,4.0,Dpt.,3D,Visual,VFX production.
+2024-05-07,2.0,Dpt.,Design,Abstract,Meetings.
+2024-05-06,0.5,Dpt.,3D,Visual,VFX optimization.
+2024-05-06,1.0,Dpt.,Development,Code,Loading optimization.
+2024-05-06,1.0,Dpt.,Design,Abstract,Meetings.
+2024-05-05,1.0,Study,Research,Abstract,Game design.
+2024-05-05,2.0,Jam,Research,Audio,Music production.
+2024-05-05,1.0,Tinker,Maintenance,Abstract,File management.
+2024-05-04,1.0,Study,Research,Abstract,Game design.
+2024-05-04,2.0,Jam,Research,Audio,Music production.
+2024-05-04,2.0,Tinker,Maintenance,Abstract,File management.
+2024-05-03,6.0,Dpt.,3D,Visual,"Shader and VFX development, animation."
+2024-05-03,0.5,Dpt.,Design,Abstract,Meetings.
+2024-05-02,1.0,Study,Research,Abstract,Game design.
+2024-05-02,3.0,Dpt.,3D,Visual,VFX production.
+2024-05-02,2.0,Dpt.,Design,Abstract,"Meetings, task management."
+2024-05-01,2.5,Study,Research,Abstract,"Music hardware, DnD systems cleanup.."
+2024-05-01,2.0,Dpt.,3D,Visual,VFX production.
+2024-05-01,0.5,Dpt.,Design,Abstract,"Meetings, task management."
+2024-04-30,0.5,Study,Research,Abstract,Game design.
+2024-04-30,2.0,Dpt.,3D,Visual,VFX production.
+2024-04-30,2.0,Dpt.,Design,Abstract,"Meetings, task management."
+2024-04-29,2.0,Fluctuations,3D,Visual,"Lighting, camera angles."
+2024-04-29,1.0,Dpt.,3D,Visual,VFX production.
+2024-04-29,2.0,Dpt.,Design,Abstract,"Meetings, task management."
+2024-04-29,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-04-28,0.5,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
+2024-04-28,5.0,Fluctuations,3D,Visual,"Procedural systems, lighting."
+2024-04-27,3.0,Study,Research,Abstract,Art initiatives.
+2024-04-26,1.5,Dpt.,3D,Visual,"VFX, visuals design."
+2024-04-26,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-04-25,0.5,Dpt.,Design,Abstract,Meetings.
+2024-04-25,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-04-25,1.0,Dpt.,Design,Abstract,Management meetings.
+2024-04-25,3.0,Dpt.,3D,Visual,"VFX, visuals design."
+2024-04-24,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-04-24,1.0,DISCONNECT - RECONNECT,Composition,Audio,"Composition, mixing."
+2024-04-24,2.0,Dpt.,Development,Code,Game system debugging.
+2024-04-24,2.0,Dpt.,3D,Visual,"VFX, visuals design."
+2024-04-23,1.0,Study,Research,Abstract,"Jobs, work system."
+2024-04-23,0.5,DISCONNECT - RECONNECT,Composition,Audio,"Composition, mixing."
+2024-04-23,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar.
+2024-04-23,5.5,Dpt.,3D,Visual,"VFX, visuals design."
+2024-04-23,1.0,Dpt.,Design,Abstract,"Meetings, admin."
+2024-04-22,1.0,Dpt.,Design,Abstract,"Meetings, admin."
+2024-04-21,2.0,Study,Research,Abstract,"Medicine, psychology."
+2024-04-21,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2024-04-20,2.0,Study,Research,Abstract,"Medicine, psychology."
+2024-04-19,3.0,Study,Research,Abstract,"Medicine, psychology, VR experience design."
+2024-04-19,0.5,Dpt.,Design,Abstract,"Meetings, admin."
+2024-04-18,2.0,Study,Research,Abstract,"Medicine, psychology."
+2024-04-18,1.0,Dpt.,Development,Code,Game system debugging.
+2024-04-18,3.5,Dpt.,3D,Visual,"Asset review, particle systems."
+2024-04-18,1.0,Dpt.,Design,Abstract,"Meetings, admin."
+2024-04-17,3.5,Study,Research,Abstract,"Medicine, fitness."
+2024-04-17,4.0,Dpt.,Design,Abstract,"Meetings, project planning and design."
+2024-04-16,2.0,Study,Research,Abstract,Psychology.
+2024-04-16,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2024-04-16,3.0,Dpt.,Development,Code,Game development.
+2024-04-16,1.5,Dpt.,Design,Abstract,Meetings.
+2024-04-15,3.5,Dpt.,Development,Code,Mixed reality development.
+2024-04-15,0.5,Dpt.,Design,Abstract,Meetings and admin organization.
+2024-04-15,0.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
+2024-04-14,1.0,Study,Research,Abstract,"Game design, storytelling."
+2024-04-13,1.0,Study,Research,Abstract,"Game design, storytelling."
+2024-04-12,1.0,Study,Research,Abstract,"Game design, storytelling."
+2024-04-12,2.0,Dpt.,3D,Visual,VFX production.
+2024-04-12,0.5,Dpt.,3D,Code,Shader development.
+2024-04-12,1.0,Dpt.,Design,Abstract,Meetings.
+2024-04-11,1.0,Study,Research,Abstract,"Game design, storytelling."
+2024-04-11,2.5,Dpt.,Development,Code,Technical animation debugging.
+2024-04-11,1.0,Dpt.,3D,Visual,VFX production.
+2024-04-11,1.5,Dpt.,Design,Abstract,Project management meetings.
+2024-04-11,0.5,Jam,Performance,Audio,Guitar.
+2024-04-10,1.0,Study,Research,Abstract,"Game design, storytelling."
+2024-04-10,1.0,Full_Body,Development,Code,"Randomization feature, UI cleanup."
+2024-04-10,1.0,Dpt.,Development,Code,Debugging.
+2024-04-10,1.0,Dpt.,3D,Visual,VFX production.
+2024-04-10,3.5,Dpt.,Design,Abstract,Naming and project organization meeting.
+2024-04-09,2.5,Dpt.,3D,Visual,"VFX production, scene management support."
+2024-04-09,0.5,Dpt.,Design,Abstract,Meetings and admin organization.
+2024-04-08,1.5,Dpt.,Design,Abstract,Meetings and admin organization.
+2024-04-07,2.0,Study,Research,Abstract,Storytelling.
+2024-04-06,0.5,Jam,Composition,Audio,Composition.
+2024-04-06,2.0,Study,Research,Abstract,Storytelling.
+2024-04-05,3.0,Study,Research,Abstract,"Storytelling, game design."
+2024-04-05,3.0,Dpt.,Design,Abstract,Project planning.
+2024-04-04,3.0,Study,Research,Abstract,"Storytelling, game design."
+2024-04-04,3.0,Dpt.,Design,Abstract,Project planning.
+2024-04-03,3.0,Study,Research,Abstract,"Storytelling, game design."
+2024-04-02,6.0,Dpt.,Design,Abstract,Project planning workshop.
+2024-04-02,2.0,Study,Research,Abstract,Storytelling.
+2024-04-01,1.0,Study,Research,Abstract,Game design.
+2024-03-31,1.0,Study,Research,Abstract,Storytelling.
+2024-03-30,1.0,Study,Research,Abstract,Game design.
+2024-03-29,1.0,Study,Research,Abstract,Game design.
+2024-03-28,3.0,Dpt.,3D,Visual,"VFX production, scene management and animation."
+2024-03-28,3.0,Dpt.,Design,Abstract,Meetings.
+2024-03-27,2.5,Dpt.,Development,Code,"Building, debugging."
+2024-03-27,2.0,Dpt.,Design,Abstract,Meetings.
+2024-03-26,0.5,Dpt.,Design,Abstract,Meetings.
+2024-03-26,3.5,Dpt.,Development,Code,MR development.
+2024-03-25,1.5,Dpt.,Development,Code,Debugging.
+2024-03-25,0.5,Dpt.,Design,Abstract,Meetings.
+2024-03-25,0.5,Dpt.,Maintenance,Abstract,Time tracking.
+2024-03-24,1.0,Study,Research,Abstract,Game design.
+2024-03-24,1.0,Doodle,Photography,Visual,Video editing.
+2024-03-23,2.0,Study,Research,Abstract,Storytelling.
+2024-03-22,6.0,Rig,Maintenance,Code,Linux installation.
+2024-03-22,0.5,Dpt.,3D,Visual,Animation.
+2024-03-21,4.0,Rig,Maintenance,Code,Linux installation.
+2024-03-21,1.5,Dpt.,3D,Visual,VFX production.
+2024-03-21,1.5,Dpt.,Maintenance,Code,Desktop profile setup.
+2024-03-21,2.0,Dpt.,Design,Abstract,Meetings.
+2024-03-21,1.0,Doodle,Photography,Visual,Video filming.
+2024-03-20,1.0,Dpt.,3D,Visual,"Animation, asset review."
+2024-03-20,3.0,Dpt.,Development,Code,Debugging.
+2024-03-20,0.5,Dpt.,Design,Abstract,Meetings.
+2024-03-19,1.0,Dpt.,3D,Visual,Animation.
+2024-03-19,1.5,Dpt.,Design,Abstract,Meetings.
+2024-03-19,2.5,Dpt.,Development,Code,Debugging.
+2024-03-18,0.5,Dpt.,Development,Code,Debugging.
+2024-03-18,0.5,Dpt.,Maintenance,Code,App building.
+2024-03-18,0.5,Dpt.,3D,Visual,Asset creation.
+2024-03-18,1.5,Dpt.,3D,Code,Shader development.
+2024-03-18,1.0,Dpt.,Design,Abstract,Meetings.
+2024-03-17,1.0,Study,Research,Abstract,"Game design, story telling."
+2024-03-16,1.0,Study,Research,Abstract,"Game design, story telling."
+2024-03-15,1.0,Study,Research,Abstract,"Game design, story telling."
+2024-03-15,1.0,Video Validator,Development,Code,Python discord bot development.
+2024-03-15,1.5,Dpt.,3D,Visual,Scene management.
+2024-03-15,1.0,Dpt.,Design,Abstract,Meetings.
+2024-03-14,1.5,Dpt.,3D,Visual,Scene management.
+2024-03-14,1.0,Dpt.,3D,Code,Particle system and shader development.
+2024-03-14,1.5,Dpt.,Design,Abstract,Meetings.
+2024-03-13,1.0,Video Validator,Writing,Abstract,Documentation.
+2024-03-13,4.5,Video Validator,Development,Code,Python discord bot development.
+2024-03-13,1.0,Dpt.,3D,Code,Shader development.
+2024-03-13,1.5,Dpt.,Design,Abstract,Meetings.
+2024-03-12,8.0,Video Validator,Development,Code,Python discord bot development.
+2024-03-12,1.0,Dpt.,3D,Code,Particle system development.
+2024-03-12,1.5,Dpt.,Design,Abstract,Meetings.
+2024-03-12,1.0,Dpt.,3D,Code,Shader development.
+2024-03-11,4.0,Video Validator,Development,Code,Python discord bot development.
+2024-03-11,1.0,Rig,Maintenance,Abstract,Organization.
+2024-03-11,0.5,Dpt.,3D,Code,Shader development.
+2024-03-10,2.5,Video Validator,Development,Code,Python desktop app development.
+2024-03-10,1.5,Eternal Ascent,Writing,Abstract,Documentation.
+2024-03-10,1.0,Study,Research,Abstract,Game design.
+2024-03-09,2.5,Eternal Ascent,Writing,Abstract,Documentation.
+2024-03-09,2.0,V-OS,2D,Visual,Documentation.
+2024-03-08,1.0,Study,Research,Abstract,Game design.
+2024-03-08,2.0,Eternal Ascent,3D,Visual,B roll.
+2024-03-08,2.0,Dpt.,3D,Visual,VFX development.
+2024-03-07,1.0,Study,Research,Abstract,Game design.
+2024-03-07,2.0,Eternal Ascent,3D,Visual,B roll.
+2024-03-07,3.5,Dpt.,Design,Abstract,Meetings.
+2024-03-06,1.0,Study,Research,Abstract,Game design.
+2024-03-06,0.5,Sanea Ima,Development,Code,Meta tag setup.
+2024-03-06,0.5,Dpt.,Writing,Abstract,Documentation.
+2024-03-06,0.5,Dpt.,Design,Abstract,Meetings.
+2024-03-05,1.0,Study,Research,Abstract,Game design.
+2024-03-05,1.0,V-OS,2D,Visual,CV rework.
+2024-03-05,1.0,Dpt.,3D,Code,Shader optimization.
+2024-03-05,1.0,Dpt.,Writing,Abstract,Documentation.
+2024-03-04,1.0,Study,Research,Abstract,Game design.
+2024-03-04,2.0,Dpt.,Maintenance,Abstract,Admin.
+2024-03-04,0.5,Dpt.,3D,Code,Shader development.
+2024-03-04,0.5,Dpt.,Design,Abstract,Meetings.
+2024-03-03,3.0,Eternal Ascent,3D,Visual,Animation.
+2024-03-02,3.0,Eternal Ascent,3D,Visual,Rigging.
+2024-03-01,1.0,Eternal Ascent,3D,Visual,Rigging.
+2024-03-01,1.5,Dpt.,3D,Visual,Scene management.
+2024-03-01,2.5,Dpt.,3D,Code,Shader development.
+2024-03-01,1.5,Dpt.,Design,Abstract,Meetings and review.
+2024-02-29,3.0,Eternal Ascent,3D,Visual,Rigging.
+2024-02-29,1.0,Dpt.,3D,Code,Shader development.
+2024-02-29,1.5,Dpt.,3D,Visual,Scene management.
+2024-02-29,2.5,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-29,1.5,Dpt.,Design,Abstract,Meetings and review.
+2024-02-28,1.0,Study,Research,Abstract,Game design.
+2024-02-28,3.0,Eternal Ascent,3D,Visual,"Rigging, texturing, material development."
+2024-02-28,2.0,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-28,1.0,Dpt.,Design,Abstract,Project and pipeline coordination.
+2024-02-28,3.0,Dpt.,3D,Visual,Scene management.
+2024-02-27,1.0,Study,Research,Abstract,Game design.
+2024-02-27,4.0,Eternal Ascent,3D,Visual,"Modeling, texturing, material development."
+2024-02-27,5.0,Dpt.,3D,Visual,"Scene management, VFX development.."
+2024-02-27,2.5,Dpt.,Design,Abstract,Meetings and review.
+2024-02-26,1.0,Study,Research,Abstract,Game design.
+2024-02-26,4.0,Eternal Ascent,3D,Visual,"Modeling, texturing, material development."
+2024-02-26,1.0,Dpt.,3D,Code,Shader development.
+2024-02-26,0.5,Dpt.,Design,Abstract,Testing and meetings.
+2024-02-26,0.5,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-26,1.0,Dpt.,Maintenance,Abstract,Project documentation.
+2024-02-25,1.0,Study,Research,Abstract,Game design.
+2024-02-25,6.0,Eternal Ascent,3D,Visual,UV unwrapping and rigging.
+2024-02-24,12.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-24,1.0,Doodle,3D,Visual,Retopo learning.
+2024-02-23,3.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-23,0.5,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-23,4.0,Dpt.,3D,Visual,"VFX development, VFX tweaking."
+2024-02-23,0.5,Doodle,3D,Visual,Modeling learning.
+2024-02-23,1.5,Dpt.,Design,Abstract,Testing and meetings.
+2024-02-22,3.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-22,2.0,Dpt.,3D,Visual,"VFX development, VFX tweaking."
+2024-02-22,1.5,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-22,0.5,Dpt.,Design,Abstract,Meetings.
+2024-02-22,1.0,Dpt.,Development,Code,Debugging.
+2024-02-21,1.0,Study,Research,Abstract,Game design.
+2024-02-21,3.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-21,1.0,Jam,Composition,Audio,"Music composition, sampling and remixing."
+2024-02-21,1.0,Dpt.,Design,Abstract,Meetings.
+2024-02-21,5.0,Dpt.,3D,Visual,"VFX development, VFX tweaking."
+2024-02-21,1.0,Dpt.,Maintenance,Code,Project setup.
+2024-02-20,4.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-20,1.5,Jam,Composition,Audio,"Music composition, sampling and remixing."
+2024-02-20,1.0,Dpt.,3D,Visual,VFX development.
+2024-02-20,3.0,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-20,2.5,Dpt.,Design,Abstract,Meetings.
+2024-02-19,1.0,Dpt.,3D,Visual,VFX development.
+2024-02-19,2.5,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-19,2.0,Dpt.,Design,Abstract,Meetings.
+2024-02-19,3.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-18,8.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-17,6.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-16,6.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-16,0.5,Dpt.,Development,Code,Push and pull interaction system.
+2024-02-16,0.5,Dpt.,Design,Abstract,Meetings.
+2024-02-15,4.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-15,0.5,Dpt.,Design,Abstract,Build review.
+2024-02-15,2.0,Dpt.,3D,Code,Shader development.
+2024-02-15,1.5,Dpt.,Maintenance,Code,Hardware setup.
+2024-02-14,1.0,Dpt.,Maintenance,Code,Hardware setup.
+2024-02-14,1.0,Dpt.,Design,Abstract,Meetings.
+2024-02-14,6.5,Dpt.,Development,Code,Game development.
+2024-02-13,3.0,Dpt.,Development,Code,Game development.
+2024-02-13,2.5,Dpt.,Maintenance,Code,Troubleshooting and project setup.
+2024-02-13,2.0,Dpt.,Design,Abstract,Meetings.
+2024-02-12,2.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-12,2.5,Dpt.,Development,Code,Game development.
+2024-02-12,1.0,Dpt.,2D,Visual,VFX development.
+2024-02-12,2.0,Dpt.,Design,Abstract,Meetings.
+2024-02-11,1.0,Study,Research,Abstract,Game design.
+2024-02-11,4.0,Shaders Workshop,Performance,Abstract,Workshop.
+2024-02-10,3.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-10,1.0,Study,Research,Abstract,Game design.
+2024-02-09,1.0,Study,Writing,Abstract,Dev help.
+2024-02-09,2.0,Dpt.,3D,Code,VFX development.
+2024-02-09,2.0,Dpt.,Design,Abstract,Meetings.
+2024-02-08,2.0,Dpt.,3D,Code,VFX development.
+2024-02-08,2.0,Dpt.,Design,Abstract,Meetings.
+2024-02-08,0.5,Study,Research,Abstract,Game design.
+2024-02-07,6.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-07,3.5,Dpt.,3D,Code,Shader development.
+2024-02-07,1.5,Dpt.,Design,Abstract,Meetings.
+2024-02-06,2.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-06,1.0,Japan,Linguistics,Abstract,Japanese.
+2024-02-06,4.5,Dpt.,3D,Code,Shader development.
+2024-02-06,1.0,Dpt.,Design,Abstract,Meetings.
+2024-02-06,0.5,Rig,Maintenance,Abstract,Adobe installations.
+2024-02-05,4.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-05,3.0,Dpt.,Design,Abstract,Meetings.
+2024-02-05,5.5,Dpt.,3D,Code,Shader development.
+2024-02-05,1.0,Dpt.,3D,Visual,"Rigging, modeling."
+2024-02-04,1.0,Eternal Ascent,Research,Visual,Reference research.
+2024-02-04,2.5,Shaders Workshop,2D,Visual,Shaders workshop presentation.
+2024-02-04,0.5,Extension,Photography,Visual,Rendering.
+2024-02-03,1.0,Study,Research,Abstract,Game design.
+2024-02-02,6.0,Dpt.,3D,Code,Shader breakdown and development.
+2024-02-01,4.0,Shaders Workshop,2D,Visual,Shaders workshop presentation.
+2024-02-01,3.0,Shaders Workshop,3D,Visual,Shaders workshop.
+2024-02-01,2.5,Dpt.,3D,Visual,"Rigging, shader development."
+2024-01-31,0.5,Tinker,Research,Code,Hardware.
+2024-01-31,4.5,Shaders Workshop,3D,Visual,Shaders workshop.
+2024-01-31,0.5,Shaders Workshop,Writing,Code,Shaders workshop.
+2024-01-30,0.5,Tinker,Research,Code,Hardware.
+2024-01-30,3.0,Shaders Workshop,3D,Visual,Shaders workshop.
+2024-01-30,5.0,Dpt.,3D,Visual,Rigging.
+2024-01-29,4.5,Dpt.,3D,Visual,Rigging.
+2024-01-29,1.5,Dpt.,Design,Abstract,Production and team meetings.
+2024-01-28,3.0,Shaders Workshop,Writing,Code,Shaders workshop.
+2024-01-27,2.0,Shaders Workshop,Writing,Code,Shaders workshop.
+2024-01-27,2.0,Dpt.,3D,Visual,Rigging.
+2024-01-26,12.0,Dpt.,3D,Visual,Rigging.
+2024-01-25,6.5,Dpt.,3D,Visual,Rigging.
+2024-01-25,1.0,Dpt.,Design,Abstract,Source control meeting.
+2024-01-24,1.0,Study,Research,Abstract,Game design.
+2024-01-24,1.0,Dpt.,Design,Abstract,Source control meeting.
+2024-01-24,3.0,Dpt.,3D,Visual,Rigging.
+2024-01-23,1.0,Jam,Research,Audio,Music production.
+2024-01-23,1.0,Study,Research,Abstract,Game design.
+2024-01-23,5.0,Dpt.,3D,Visual,Rigging.
+2024-01-23,0.5,Dpt.,Design,Abstract,Production and team meetings.
+2024-01-22,1.5,Dpt.,3D,Visual,Rigging.
+2024-01-22,1.0,Dpt.,Design,Abstract,Production and team meetings.
+2024-01-22,1.0,Study,Research,Abstract,"Game design, storytelling."
+2024-01-21,2.0,Study,Research,Abstract,"Game design, storytelling."
+2024-01-20,1.0,Study,Research,Abstract,Game design.
+2024-01-19,1.0,Study,Research,Abstract,Game design.
+2024-01-19,1.5,Dpt.,3D,Visual,Rigging.
+2024-01-19,0.5,Dpt.,Design,Abstract,Production and team meetings.
+2024-01-18,0.5,Jam,Research,Audio,Music production.
+2024-01-18,5.0,Dpt.,3D,Visual,Rigging.
+2024-01-18,2.0,Dpt.,Design,Abstract,Production and team meetings.
+2024-01-17,1.5,Jam,Research,Audio,Music production.
+2024-01-17,6.0,Dpt.,3D,Visual,Rigging.
+2024-01-17,1.5,Dpt.,Design,Abstract,Production and team meetings.
+2024-01-16,0.5,Jam,Research,Audio,Music production.
+2024-01-16,0.5,Study,Research,Abstract,Hardware.
+2024-01-16,6.0,Dpt.,3D,Visual,Rigging.
+2024-01-16,0.5,Dpt.,Design,Abstract,Team meetings.
+2024-01-15,0.5,Jam,Research,Audio,Music production.
+2024-01-15,6.5,Dpt.,3D,Visual,Rigging.
+2024-01-14,1.0,Study,Research,Abstract,"Game design, story writing."
+2024-01-13,1.0,Study,Research,Abstract,"Game design, story writing."
+2024-01-12,1.0,Study,Research,Abstract,Psychology and human exploitation.
+2024-01-12,1.0,Dpt.,Design,Abstract,Team meetings.
+2024-01-12,2.5,Dpt.,3D,Visual,Character rigging.
+2024-01-12,1.0,Extension,Photography,Visual,Rendering.
+2024-01-12,1.0,Dpt.,Design,Abstract,Project kickoff meeting.
+2024-01-11,0.5,Jam,Research,Audio,Music production.
+2024-01-11,0.5,Doodle,Research,Visual,Rendering.
+2024-01-11,1.0,Extension,Photography,Visual,Rendering.
+2024-01-11,2.0,Dpt.,3D,Visual,Rigging and file formats.
+2024-01-11,5.0,Dpt.,Design,Abstract,"Meetings, project overviews."
+2024-01-10,0.5,Shaders Workshop,Writing,Code,Shaders workshop.
+2024-01-10,0.5,Doodle,Research,Visual,Film making.
+2024-01-10,1.0,Dpt.,Research,Visual,Rigging technique study.
+2024-01-10,2.5,Dpt.,3D,Visual,Mesh optimization.
+2024-01-10,0.5,Dpt.,Design,Abstract,Task communication.
+2024-01-10,2.0,Jam,Research,Audio,Music production.
+2024-01-09,1.5,Study,Research,Abstract,"Game design, hardware, psychology."
+2024-01-09,1.0,Dpt.,Research,Visual,Rig study.
+2024-01-09,2.0,Dpt.,3D,Visual,Rig design.
+2024-01-09,1.0,Dpt.,Design,Abstract,Task list organization.
+2024-01-09,1.0,Jam,Research,Audio,Music production.
+2024-01-08,0.5,Study,Research,Abstract,Hardware.
+2024-01-08,2.0,Dpt.,3D,Visual,Blendshape transfer and mesh review.
+2024-01-08,2.0,Dpt.,Design,Abstract,"Meetings, animation design."
+2024-01-07,1.0,Study,Research,Abstract,"Game design, hardware."
+2024-01-06,1.5,Dpt.,3D,Visual,Skin weighting.
+2024-01-06,2.0,Study,Research,Abstract,Game design.
+2024-01-05,0.5,Study,Research,Abstract,Game design.
+2024-01-04,1.0,Study,Research,Abstract,Game design.
+2024-01-04,0.5,Furo,Writing,Abstract,Writing.
+2024-01-03,1.5,Tinker,Research,Code,Android development.
+2024-01-03,0.5,Study,Research,Abstract,Game design.
+2024-01-02,1.0,Study,Writing,Abstract,Japan logs.
+2024-01-02,2.0,Tinker,Research,Code,Android development.
+2024-01-01,1.0,Tinker,Research,Code,Android development.
+2024-01-01,1.0,Study,Research,Abstract,"Game design, psychology."
+2023-12-31,0.5,Tinker,Research,Code,Android development.
+2023-12-31,1.0,Study,Research,Abstract,"Game design, psychology."
+2023-12-30,0.5,Study,Research,Abstract,Game design.
+2023-12-30,1.0,Tinker,Research,Code,Android development.
+2023-12-29,0.5,Study,Research,Abstract,Game design.
+2023-12-29,2.5,Tinker,Research,Code,Android development.
+2023-12-29,0.5,Rig,Maintenance,Code,Phone clean up and set up.
+2023-12-28,3.0,Tinker,Research,Code,Android development.
+2023-12-28,3.0,Rig,Maintenance,Code,Phone clean up and set up.
+2023-12-27,4.0,Tinker,Research,Code,Android development.
+2023-12-27,0.5,Trailblazer,Design,Abstract,Spellcasting system.
+2023-12-26,3.0,Tinker,Research,Code,Android development.
+2023-12-25,3.0,Tinker,Research,Code,Phone hardware and software.
+2023-12-24,1.0,Tinker,Research,Code,Phone hardware and software.
+2023-12-23,1.0,Study,Research,Abstract,"Game design, modpack creation, server set up."
+2023-12-22,6.0,Dpt.,3D,Visual,"Rigging, UV fixing, topology."
+2023-12-22,0.5,Dpt.,Research,Visual,"Rigging, 3D assistance."
+2023-12-21,0.5,Jam,Research,Audio,Mixing study.
+2023-12-21,6.0,Dpt.,3D,Visual,"Rigging, UV fixing, topology."
+2023-12-21,2.0,Dpt.,Research,Visual,"Rigging, project study, VFX, meetings."
+2023-12-20,1.0,Jam,Research,Audio,Mixing study.
+2023-12-20,4.0,Dpt.,3D,Visual,Rigging.
+2023-12-20,2.0,Dpt.,Research,Abstract,"Meetings, VFX pipeline definition."
+2023-12-19,2.0,Dpt.,3D,Visual,Rigging.
+2023-12-19,3.0,Dpt.,Research,Visual,Rigging study.
+2023-12-19,2.5,Dpt.,Research,Abstract,"Meetings, project study, asset list breakdown."
+2023-12-18,0.5,Jam,Research,Audio,Mixing study.
+2023-12-18,2.5,Dpt.,3D,Visual,Rigging.
+2023-12-18,4.0,Dpt.,Research,Abstract,"Project study, VFX pipeline definition."
+2023-12-17,0.5,Jam,Research,Audio,Composition study.
+2023-12-16,0.5,Jam,Research,Audio,Composition study.
+2023-12-16,0.5,Study,Research,Abstract,Game design.
+2023-12-15,1.5,Study,Research,Abstract,Game design.
+2023-12-15,1.5,Jam,Composition,Audio,Composition.
+2023-12-15,0.5,Dpt.,2D,Visual,UI design.
+2023-12-15,3.0,Dpt.,3D,Visual,"Rigging, file handling and exporting."
+2023-12-15,2.5,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-14,2.0,Jam,Composition,Audio,Composition.
+2023-12-14,2.5,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-14,4.5,Dpt.,3D,Visual,Rigging.
+2023-12-13,2.0,Dpt.,3D,Visual,"VFX production, rigging."
+2023-12-13,3.0,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-13,1.0,Study,Research,Abstract,Game design.
+2023-12-12,1.0,Study,Research,Abstract,Game design.
+2023-12-12,1.5,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-12,5.5,Dpt.,3D,Visual,"VFX production, rigging."
+2023-12-11,0.5,Study,Research,Abstract,Game design.
+2023-12-11,7.0,Dpt.,3D,Visual,"VFX production, rigging."
+2023-12-11,0.5,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-10,1.0,Fluctuations,3D,Visual,"Environment, optimization."
+2023-12-10,0.5,Study,Research,Abstract,Game design.
+2023-12-09,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition and mixing.
+2023-12-09,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar.
+2023-12-09,0.5,Study,Research,Abstract,Game design.
+2023-12-08,0.5,DISCONNECT - RECONNECT,Performance,Audio,Guitar.
+2023-12-08,1.0,Study,Research,Abstract,Game design.
+2023-12-08,0.5,Fluctuations,3D,Visual,Environment.
+2023-12-08,3.0,Dpt.,Research,Visual,Rigging practices and study.
+2023-12-08,3.0,Dpt.,3D,Visual,Rigging.
+2023-12-07,0.5,Doodle,Research,Visual,VFX production.
+2023-12-07,0.5,Dpt.,3D,Visual,Rigging concept.
+2023-12-07,4.0,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-06,9.0,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-05,6.5,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-04,6.5,Dpt.,Research,Abstract,"Onboarding, project study."
+2023-12-04,0.5,Study,Research,Abstract,Game design.
+2023-12-03,0.5,Study,Research,Abstract,Game design.
+2023-12-02,0.5,Study,Research,Abstract,Game design.
+2023-12-01,0.5,Jam,Performance,Audio,Drumming.
+2023-11-30,0.5,Study,Research,Abstract,Game design.
+2023-11-29,0.5,Study,Research,Abstract,Game design.
+2023-11-28,1.0,Study,Research,Abstract,Game design.
+2023-11-27,0.0,Various,Event,None,Last day at Kabam.
+2023-11-27,1.0,Sports,Performance,Audio,Dance.
+2023-11-27,2.0,Kabam,3D,Visual,"Lighting fixes, post processing fixes."
+2023-11-27,1.0,Kabam,Writing,Abstract,Documentation.
+2023-11-27,1.0,Study,Research,Abstract,Game design.
+2023-11-26,3.0,Study,Performance,Abstract,Acting.
+2023-11-26,2.0,Study,Research,Abstract,Game design.
+2023-11-25,1.0,Study,Writing,Abstract,DnD story writing.
+2023-11-25,2.0,Study,Research,Abstract,Game design.
+2023-11-24,2.0,Study,Research,Abstract,Game design.
+2023-11-24,3.0,Kabam,Design,Abstract,"Exit interview, offboarding tasks and knowledge transfer."
+2023-11-23,2.0,Kabam,Design,Abstract,Offboarding tasks and knowledge transfer.
+2023-11-22,1.0,Study,Research,Abstract,Game desgin.
+2023-11-22,2.0,Kabam,Writing,Abstract,Documentation.
+2023-11-21,1.0,Dpt.,Research,Abstract,Onboarding.
+2023-11-21,1.0,Study,Research,Abstract,Game desgin.
+2023-11-21,2.0,Kabam,Writing,Abstract,Documentation.
+2023-11-20,1.0,Study,Research,Abstract,Game desgin.
+2023-11-20,1.0,Dpt.,Design,Abstract,Management structure.
+2023-11-20,2.0,Kabam,Writing,Abstract,Documentation.
+2023-11-19,2.0,Study,Research,Abstract,"Content creation, game design."
+2023-11-18,2.0,Study,Research,Abstract,Digital creation careers.
+2023-11-18,1.0,Jam,Performance,Audio,Drumming.
+2023-11-17,1.0,Jam,Performance,Audio,Drumming.
+2023-11-16,1.0,Study,Research,Abstract,Game design.
+2023-11-16,1.0,Jam,Performance,Audio,Drumming.
+2023-11-16,4.0,Kabam,Writing,Abstract,Documentation.
+2023-11-15,1.0,Kabam,Writing,Abstract,Documentation.
+2023-11-14,3.0,Kabam,3D,Visual,"Lighting, post processing."
+2023-11-13,1.5,Kabam,3D,Visual,"Lighting, post processing."
+2023-11-12,0.5,Study,Research,Abstract,Game design.
+2023-11-11,0.5,Study,Research,Abstract,Game design.
+2023-11-10,0.5,Study,Research,Abstract,Game design.
+2023-11-09,1.0,Study,Research,Abstract,Game design.
+2023-11-09,2.5,Kabam,3D,Visual,Lighting.
+2023-11-08,1.0,Study,Research,Abstract,Game design.
+2023-11-08,0.5,Kabam,3D,Visual,VFX optimizations.
+2023-11-08,0.5,Kabam,Design,Abstract,Meetings.
+2023-11-07,2.0,Kabam,3D,Visual,Lighting.
+2023-11-07,1.0,Kabam,Design,Abstract,Meetings.
+2023-11-06,0.5,Dpt.,Design,Abstract,Meetings.
+2023-11-06,1.0,Kabam,Design,Abstract,Meetings.
+2023-11-06,1.0,Study,Research,Abstract,Game design.
+2023-11-05,1.0,Study,Research,Abstract,Game design.
+2023-11-04,1.0,Study,Research,Abstract,Game design.
+2023-11-03,1.0,Dpt.,Design,Abstract,Meetings.
+2023-11-02,0.5,Study,Research,Abstract,Game design.
+2023-11-02,5.5,Kabam,3D,Visual,"Debugging, VFX production, tiling systems."
+2023-11-02,0.5,Kabam,Design,Abstract,Meetings.
+2023-11-01,0.5,Kabam,Design,Abstract,Meetings.
+2023-11-01,1.0,Study,Research,Abstract,Game design.
+2023-10-31,1.0,Dpt.,Design,Abstract,Meetings.
+2023-10-31,1.0,Study,Research,Abstract,Game design.
+2023-10-30,1.0,Study,Research,Abstract,Game design.
+2023-10-30,2.0,Kabam,3D,Visual,VFX production.
+2023-10-29,1.0,Study,Research,Abstract,Game design.
+2023-10-28,1.0,Study,Research,Abstract,Game design.
+2023-10-27,3.5,Kabam,3D,Visual,VFX production.
+2023-10-26,0.5,Study,Research,Abstract,Game design.
+2023-10-26,0.5,Kabam,Design,Abstract,Meetings and coordination.
+2023-10-25,0.5,Study,Research,Abstract,Game design.
+2023-10-24,0.5,Dpt.,Design,Abstract,Meetings.
+2023-10-24,1.0,Study,Research,Abstract,Game design.
+2023-10-24,1.5,Kabam,3D,Visual,VFX production.
+2023-10-23,1.0,Study,Research,Abstract,Game design.
+2023-10-23,3.5,Kabam,3D,Visual,VFX production.
+2023-10-23,1.0,Kabam,Development,Code,Shader programming.
+2023-10-23,1.5,Kabam,Design,Abstract,Meetings and coordination.
+2023-10-22,1.0,Study,Research,Abstract,Game design.
+2023-10-21,0.5,Jam,Performance,Audio,Drumming.
+2023-10-21,1.0,Study,Research,Abstract,Game design.
+2023-10-20,1.0,Study,Research,Abstract,Game design.
+2023-10-20,0.5,Jam,Performance,Audio,Drumming.
+2023-10-20,1.0,Study,Writing,Abstract,"Dream writing, story writing."
+2023-10-19,1.5,Study,Writing,Abstract,Spreadsheet overhaul and character writing.
+2023-10-19,0.5,Jam,Performance,Audio,Drumming.
+2023-10-19,2.0,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-19,1.5,Kabam,Design,Abstract,Meetings.
+2023-10-18,1.5,Study,Writing,Abstract,"Character writing, AI image generation."
+2023-10-18,1.0,Study,Research,Abstract,Game design.
+2023-10-18,0.5,Jam,Performance,Audio,Drumming.
+2023-10-18,2.0,Kabam,Development,Code,Shader programming.
+2023-10-17,1.0,Study,Research,Abstract,Game design.
+2023-10-17,1.0,Kabam,Development,Code,Shader programming.
+2023-10-16,1.5,Fluctuations,3D,Visual,"Procedural modeling, VFX."
+2023-10-16,0.5,Kabam,Design,Abstract,Meetings.
+2023-10-15,2.5,Study,Performance,Abstract,Acting.
+2023-10-15,2.5,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-14,1.0,Study,Research,Abstract,"Race driving, drifting."
+2023-10-14,0.5,Jam,Performance,Audio,Drumming.
+2023-10-13,0.5,Doodle,Research,Visual,Fashion.
+2023-10-13,0.5,Kabam,Design,Visual,"Work coordination, shader testing."
+2023-10-12,1.0,Kabam,Design,Abstract,Meetings.
+2023-10-12,1.5,Kabam,Design,Visual,"Work coordination, shader testing."
+2023-10-12,1.5,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-11,1.0,Kabam,Development,Code,Shader programming.
+2023-10-11,1.0,Study,Writing,Abstract,Character writing.
+2023-10-11,1.5,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-10,1.0,Kabam,Design,Abstract,Meetings.
+2023-10-10,1.0,Kabam,Development,Code,Shader programming.
+2023-10-10,1.5,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-09,1.5,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-08,1.0,Study,Research,Abstract,Game design.
+2023-10-07,5.0,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-07,1.0,Study,Writing,Abstract,Interactive story writing.
+2023-10-06,2.0,Study,Performance,Abstract,Acting.
+2023-10-06,2.0,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-05,1.0,Kabam,Development,Code,Shader design and development.
+2023-10-05,2.0,Kabam,Design,Abstract,Meetings.
+2023-10-05,1.0,Study,Writing,Abstract,Interactive story writing.
+2023-10-05,4.0,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-04,4.0,Study,Research,Abstract,Storytelling and roleplay game design.
+2023-10-03,1.0,Kabam,Design,Abstract,Meetings.
+2023-10-03,0.5,Sanea Ima,Development,Code,Web development.
+2023-10-03,0.5,Sanea Ima,Design,Visual,Web design.
+2023-10-02,4.0,Study,Research,Abstract,Roleplay game design.
+2023-10-01,4.0,Study,Research,Abstract,Roleplay game design.
+2023-09-30,2.5,Study,Research,Abstract,Roleplay game design.
+2023-09-30,0.5,Jam,Performance,Audio,Drumming.
+2023-09-29,1.5,Sanea Ima,Development,Code,Web development.
+2023-09-29,1.5,Study,Research,Abstract,"Roleplay game design, fitness."
+2023-09-29,0.5,Jam,Performance,Audio,Drumming.
+2023-09-28,2.0,Study,Research,Abstract,Game design.
+2023-09-28,0.5,Sanea Ima,Design,Visual,Web design.
+2023-09-28,1.0,Fluctuations,3D,Visual,"Storyboarding, scene review."
+2023-09-28,0.5,Kabam,Design,Abstract,Build systems meeting.
+2023-09-28,0.5,Jam,Performance,Audio,Drumming.
+2023-09-27,0.5,Furo,Writing,Abstract,Story writing.
+2023-09-27,2.5,Study,Research,Abstract,"Management, game design."
+2023-09-27,1.5,Doodle,3D,Visual,"3D help, clothing and hair."
+2023-09-26,1.0,Furo,Writing,Abstract,Story writing.
+2023-09-26,1.0,Jam,Performance,Audio,Drumming.
+2023-09-26,0.5,Study,Research,Abstract,Game design.
+2023-09-26,1.5,Kabam,Design,Abstract,Pipeline management.
+2023-09-26,4.0,Kabam,3D,Visual,"Texture creation for shader testing, shader development, model review."
+2023-09-25,1.5,Study,Research,Abstract,Game design.
+2023-09-25,0.5,Kabam,3D,Visual,Texture creation for shader testing.
+2023-09-24,1.0,Furo,Writing,Abstract,Story writing.
+2023-09-24,1.0,Jam,Performance,Audio,Drumming.
+2023-09-24,1.0,Study,Research,Abstract,Game design.
+2023-09-24,1.0,Doodle,3D,Visual,Procedural modeling.
+2023-09-23,2.0,Fluctuations,3D,Visual,"Procedural modeling, scene optimization, color correction."
+2023-09-23,1.5,Study,Research,Abstract,Game design.
+2023-09-22,1.5,Study,Research,Abstract,Game design.
+2023-09-21,1.5,Study,Research,Abstract,Game design.
 2023-09-20,0.5,V-OS,Writing,Abstract,Project documentation.
 2023-09-20,2.5,Time Breaker,Photography,Visual,Breakdown video editing.
 2023-09-20,0.5,Study,Research,Abstract,"Storytelling, game design."
@@ -253,7 +1266,7 @@ Date,Time,Project,Task,Division,Details
 2023-05-29,0.5,Kabam,Design,Abstract,Meetings.
 2023-05-28,1.0,Study,Research,Abstract,"Game design, fitness."
 2023-05-28,0.5,Sanea Ima,Development,Code,Debugging.
-2023-05-27,0.5,Sports,Performance,Abstract,Dance.
+2023-05-27,0.5,Sports,Performance,Audio,Dance.
 2023-05-26,1.5,Kabam,Design,Abstract,Meetings.
 2023-05-26,0.5,Sanea Ima,Development,Code,Site updates.
 2023-05-26,0.5,Invictus,Development,Code,Baseball glove integration.
@@ -692,7 +1705,7 @@ Date,Time,Project,Task,Division,Details
 2022-12-01,1.0,Kabam,Development,Code,Debugging.
 2022-12-01,1.0,Kabam,Design,Visual,Meetings.
 2022-12-01,0.5,Tinker,Development,Code,Coding.
-2022-12-01,1.0,Tinker,Research,Visual,Rendering.
+2022-12-01,1.0,Tinker,Research,Code,Rendering.
 2022-12-01,0.5,Kabam,Development,Code,Debugging.
 2022-11-30,0.5,Timescape,Writing,Abstract,Title and artist statement.
 2022-11-30,2.0,Study,Research,Abstract,Psychology.
@@ -1427,7 +2440,7 @@ Date,Time,Project,Task,Division,Details
 2021-10-23,2.0,DISCONNECT - RECONNECT,Composition,Audio,Mixing.
 2021-10-23,3.0,CTD,Performance,Visual,Photoshop teaching.
 2021-10-22,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition and mixing learning.
-2021-10-22,1.0,Tinker,Design,Abstract,Home project design.
+2021-10-22,1.0,Tinker,Design,Code,Home project design.
 2021-10-21,1.0,Various,Research,Abstract,Business registration and invoice design.
 2021-10-21,0.5,DISCONNECT - RECONNECT,Maintenance,Audio,Project mixdown.
 2021-10-21,2.0,Chroniqueur,Development,Code,Text fading system.
@@ -1516,7 +2529,7 @@ Date,Time,Project,Task,Division,Details
 2021-09-13,2.5,Iregular,Design,Abstract,Meetings.
 2021-09-12,1.0,CAT,Research,Abstract,Playground game research.
 2021-09-12,0.5,Study,Research,Abstract,Story writing.
-2021-09-11,0.0,Various,Event,Abstract,Business registered.
+2021-09-11,0.0,Various,Event,None,Business registered.
 2021-09-11,5.0,Iregular,Development,Code,"Tweaking, cell exclusion, animations."
 2021-09-10,7.0,Iregular,Development,Code,"Multigrid system, idle mode adjustments, mapping."
 2021-09-09,1.0,CAT,Design,Abstract,Game design document production.
@@ -2111,7 +3124,7 @@ Date,Time,Project,Task,Division,Details
 2021-01-24,1.0,Study,Research,Abstract,Minecraft modpack design study.
 2021-01-23,6.0,CTD,Performance,Visual,Teaching.
 2021-01-22,1.0,CTD,Writing,Abstract,Course prep.
-2021-01-21,0.0,CTD,Event,Abstract,Sign new contracts.
+2021-01-21,0.0,CTD,Event,None,Sign new contracts.
 2021-01-21,4.0,Navmos,3D,Visual,Scene production.
 2021-01-21,1.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
 2021-01-21,1.0,DISCONNECT - RECONNECT,Composition,Audio,Composition.
@@ -2120,7 +3133,7 @@ Date,Time,Project,Task,Division,Details
 2021-01-19,1.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
 2021-01-19,6.0,Rig,Design,Code,Installation
 2021-01-18,4.0,Rig,Performance,Code,New rig building.
-2021-01-18,0.0,Rig,Event,Abstract,New rig.
+2021-01-18,0.0,Rig,Event,None,New rig.
 2021-01-17,1.0,DISCONNECT - RECONNECT,Performance,Audio,Singing and guitar.
 2021-01-17,2.5,DISCONNECT - RECONNECT,Composition,Audio,Composition.
 2021-01-16,1.5,Penny,3D,Visual,Briefing and package preparation.
@@ -2346,7 +3359,7 @@ Date,Time,Project,Task,Division,Details
 2020-09-23,3.0,Invictus,3D,Visual,"Fluid simulations, animation, UV editing."
 2020-09-22,4.0,Invictus,3D,Visual,"Fluid simulations, animation, UV editing."
 2020-09-22,1.5,Doodle,2D,Visual,Illustration.
-2020-09-21,0.0,CTD,Event,Abstract,Sign on to contract.
+2020-09-21,0.0,CTD,Event,None,Sign on to contract.
 2020-09-21,1.5,Doodle,2D,Visual,Illustration.
 2020-09-21,1.0,Study,Research,Abstract,Fitness.
 2020-09-21,2.5,Invictus,3D,Visual,Fluid simulations and animation.
@@ -2396,7 +3409,7 @@ Date,Time,Project,Task,Division,Details
 2020-09-04,1.0,Study,Research,Abstract,Evolution.
 2020-09-03,0.5,Study,Research,Abstract,Game market.
 2020-09-02,1.0,Chroniqueur,Research,Code,Terrain generation algorithms.
-2020-09-02,0.0,Chroniqueur,Event,Abstract,Sign on to project.
+2020-09-02,0.0,Chroniqueur,Event,None,Sign on to project.
 2020-09-02,1.0,Rig,Design,Abstract,Personal organization through sheets.
 2020-09-02,6.0,Rig,Development,Code,Personal organization through sheets.
 2020-09-01,1.0,Doodle,Photography,Visual,Photo editing.
@@ -2445,7 +3458,7 @@ Date,Time,Project,Task,Division,Details
 2020-08-03,1.0,Doodle,Photography,Visual,Photo editing.
 2020-08-02,2.5,Sports,Performance,Abstract,Kayaking.
 2020-08-01,1.0,Doodle,Photography,Visual,Photo taking.
-2020-08-01,0.0,Various,Event,Abstract,Camping.
+2020-08-01,0.0,Various,Event,None,Camping.
 2020-07-31,0.5,Invictus,Photography,Visual,Commercial draft editing.
 2020-07-30,1.5,Invictus,Photography,Visual,Commercial draft editing.
 2020-07-29,1.0,Jam,Performance,Audio,Vocals and guitar.
@@ -2576,11 +3589,11 @@ Date,Time,Project,Task,Division,Details
 2020-05-18,2.5,Invictus,Research,Visual,Publicity material research.
 2020-05-18,2.5,Fracas,Photography,Visual,Photogrammetry.
 2020-05-17,4.0,Tinker,Research,Code,Bike mechanics and microphones.
-2020-05-17,4.5,Tinker,Maintenance,Abstract,Construction work.
+2020-05-17,4.5,Tinker,Maintenance,Code,Construction work.
 2020-05-17,1.0,Fracas,Photography,Visual,Photogrammetry.
 2020-05-16,1.5,Tinker,Research,Code,Bike mechanics.
 2020-05-16,0.5,Study,Research,Abstract,Machine learning on GPU.
-2020-05-16,4.5,Tinker,Maintenance,Abstract,Construction work.
+2020-05-16,4.5,Tinker,Maintenance,Code,Construction work.
 2020-05-15,1.5,Fracas,Development,Abstract,Scene production and project management.
 2020-05-15,1.5,Fracas,Photography,Visual,Photogrammetry.
 2020-05-15,1.0,Study,Research,Abstract,Machine learning on GPU.
@@ -2782,7 +3795,7 @@ Date,Time,Project,Task,Division,Details
 2020-01-19,1.5,Furo,Research,Visual,Experimental graphics project proposals.
 2020-01-19,1.5,Furo,3D,Visual,Fluid systems practice.
 2020-01-19,0.5,Nakade,Photography,Visual,Documentation.
-2020-01-18,0.0,Nakade,Event,Abstract,"Return to Montreal, win first place in Synchrony."
+2020-01-18,0.0,Nakade,Event,None,"Return to Montreal, win first place in Synchrony."
 2020-01-18,2.0,Study,Research,Abstract,Demoscene.
 2020-01-18,2.0,Nakade,Design,Abstract,"Demo sequencing, animation, and design."
 2020-01-18,1.0,Nakade,Development,Code,"Demo building, animation, debugging."
@@ -2796,7 +3809,7 @@ Date,Time,Project,Task,Division,Details
 2020-01-15,1.0,Nakade,Photography,Visual,Photogrammetry.
 2020-01-15,1.0,Nakade,Development,Code,Shader design.
 2020-01-15,4.5,Nakade,Composition,Audio,Soundtrack production.
-2020-01-15,0.0,Nakade,Event,Abstract,Travel to New York City.
+2020-01-15,0.0,Nakade,Event,None,Travel to New York City.
 2020-01-14,5.5,Nakade,Composition,Audio,Soundtrack production.
 2020-01-14,2.5,Study,Research,Abstract,"Business methodologies, electric cars, and media studios."
 2020-01-13,1.0,Study,Research,Abstract,Business methodologies.
@@ -2823,7 +3836,7 @@ Date,Time,Project,Task,Division,Details
 2020-01-03,1.5,Doodle,Research,Visual,Fashion.
 2020-01-02,1.0,Japan,Linguistics,Abstract,Japanese.
 2020-01-02,2.0,Study,Research,Abstract,Storytelling.
-2020-01-01,0.0,Various,Event,Abstract,Travel back to Montreal.
+2020-01-01,0.0,Various,Event,None,Travel back to Montreal.
 2020-01-01,1.0,Japan,Linguistics,Abstract,Japanese.
 2020-01-01,2.0,Doodle,Research,Visual,Modern art.
 2019-12-31,0.5,Doodle,Photography,Visual,Photography.
@@ -2831,7 +3844,7 @@ Date,Time,Project,Task,Division,Details
 2019-12-30,1.5,Doodle,Photography,Visual,Photography.
 2019-12-30,5.0,Study,Research,Abstract,"Teslas, electric vehicles, performance arts, broadway, art history."
 2019-12-29,3.0,Study,Research,Abstract,"Teslas, electric vehicles, and stock brockerage."
-2019-12-28,0.0,Various,Event,Abstract,Travel to New York City.
+2019-12-28,0.0,Various,Event,None,Travel to New York City.
 2019-12-28,0.5,Study,Research,Abstract,Combat mechanics and power-fantasy game design.
 2019-12-28,0.5,Doodle,Research,Visual,Fashion.
 2019-12-27,1.0,Doodle,Research,Visual,Fashion.
@@ -2851,9 +3864,9 @@ Date,Time,Project,Task,Division,Details
 2019-12-16,1.0,Doodle,Research,Visual,Fashion.
 2019-12-15,1.0,Study,Research,Abstract,Progression design.
 2019-12-15,1.0,Study,Research,Abstract,Longevity and health.
-2019-12-15,2.5,Jam,Performance,Audio,Dance.
+2019-12-15,2.5,Sports,Performance,Audio,Dance.
 2019-12-14,3.5,Study,Research,Abstract,"Longevity and health, game progression design."
-2019-12-14,1.5,Jam,Performance,Audio,Dance.
+2019-12-14,1.5,Sports,Performance,Audio,Dance.
 2019-12-14,1.0,Doodle,Research,Visual,Fashion.
 2019-12-13,3.0,Study,Research,Abstract,Dating.
 2019-12-13,1.0,Tinker,Development,Code,Shader writing.
@@ -2870,7 +3883,7 @@ Date,Time,Project,Task,Division,Details
 2019-12-05,0.5,4D Society,Development,Code,Website debugging.
 2019-12-05,0.5,Doodle,Photography,Visual,Photo editing.
 2019-12-05,0.5,Doodle,Performance,Visual,Photography 3D.
-2019-12-05,0.5,Jam,Performance,Audio,Dance.
+2019-12-05,0.5,Sports,Performance,Audio,Dance.
 2019-12-04,0.5,Doodle,Performance,Visual,Photography 3D.
 2019-12-03,1.0,4D Society,Development,Code,Website development.
 2019-12-03,1.0,4D Society,2D,Visual,Visual assets for website.
@@ -2895,12 +3908,12 @@ Date,Time,Project,Task,Division,Details
 2019-11-28,1.5,Chimera,2D,Visual,"Print stats, set up piece."
 2019-11-27,2.0,You Are X,Development,Code,Testing and debugging.
 2019-11-27,4.0,You Are X,3D,Visual,Environment production.
-2019-11-27,1.0,Jam,Performance,Audio,Dance.
+2019-11-27,1.0,Sports,Performance,Audio,Dance.
 2019-11-27,1.0,4D Society,Performance,Abstract,Pitch and feedback.
 2019-11-26,1.0,4D Society,Writing,Abstract,Pitch writing and practice.
 2019-11-26,2.5,Qurotema,Development,Code,"Sun click, audio implementation, instrument tweaking."
 2019-11-26,1.5,Qurotema,Composition,Audio,Instrument sounds.
-2019-11-26,0.5,Jam,Performance,Audio,Dance.
+2019-11-26,0.5,Sports,Performance,Audio,Dance.
 2019-11-26,1.5,Chimera,Photography,Visual,Filming and editing.
 2019-11-26,3.0,Chimera,3D,Visual,3D printing.
 2019-11-25,2.5,Qurotema,Development,Code,"Sequencer instrument, strings restructuring, sun click."
@@ -2951,12 +3964,12 @@ Date,Time,Project,Task,Division,Details
 2019-11-07,1.0,Chimera,Research,Visual,Physical infographic design.
 2019-11-07,2.0,You Are X,Development,Code,Text toggle and UI systems for VR.
 2019-11-06,1.0,Doodle,2D,Visual,Pamphlet design.
-2019-11-06,1.0,Jam,Performance,Audio,Dance.
+2019-11-06,1.0,Sports,Performance,Audio,Dance.
 2019-11-06,2.0,4D Society,Design,Visual,Level design and graphics.
 2019-11-06,2.0,Study,Research,Abstract,Game design.
 2019-11-05,1.0,4D Society,Design,Abstract,Level design.
 2019-11-05,2.0,4D Society,3D,Visual,Texturing.
-2019-11-04,1.0,Jam,Performance,Audio,Dance.
+2019-11-04,1.0,Sports,Performance,Audio,Dance.
 2019-11-04,3.0,4D Society,3D,Visual,Texturing.
 2019-11-04,2.0,Tinker,Research,Code,VR systems.
 2019-11-03,4.0,4D Society,3D,Visual,Texturing.
@@ -3015,8 +4028,8 @@ Date,Time,Project,Task,Division,Details
 2019-10-15,2.0,4D Society,Design,Visual,Level design and environment art.
 2019-10-15,1.0,4D Society,Research,Code,Baking and level design.
 2019-10-14,3.0,Qurotema,Development,Code,"Shader programming, environment art."
-2019-10-13,2.5,Jam,Performance,Audio,Dance.
-2019-10-13,0.0,Various,Event,Abstract,Brother's wedding.
+2019-10-13,2.5,Sports,Performance,Audio,Dance.
+2019-10-13,0.0,Various,Event,None,Brother's wedding.
 2019-10-12,2.0,Cord,Research,Code,Machine learning.
 2019-10-12,2.0,You Are X,3D,Visual,Scene production.
 2019-10-12,1.0,Architects of Souls,Composition,Audio,Composition.
@@ -3059,11 +4072,11 @@ Date,Time,Project,Task,Division,Details
 2019-09-30,3.5,Architects of Souls,Composition,Audio,Composition and mixing.
 2019-09-29,1.0,Architects of Souls,Composition,Audio,Composition and mixing.
 2019-09-29,3.5,You Are X,Development,Code,Shader programming.
-2019-09-28,0.0,Various,Event,Abstract,Brother's bachelor party.
+2019-09-28,0.0,Various,Event,None,Brother's bachelor party.
 2019-09-27,0.5,Architects of Souls,Composition,Audio,Composition and mixing.
 2019-09-27,2.5,You Are X,Design,Abstract,Master design document and tasks list.
 2019-09-27,2.0,You Are X,3D,Visual,Space design mockup.
-2019-09-27,1.0,Jam,Performance,Audio,Dance.
+2019-09-27,1.0,Sports,Performance,Audio,Dance.
 2019-09-27,2.0,You Are X,Development,Code,Post processing and platform adjustment.
 2019-09-26,1.0,Jam,Research,Audio,Composition and engineering learning.
 2019-09-26,5.0,Input Peripherals,2D,Visual,Brainstorming and experimentation for infographic.
@@ -3075,13 +4088,13 @@ Date,Time,Project,Task,Division,Details
 2019-09-23,1.0,Qurotema,Writing,Abstract,Documentation.
 2019-09-23,5.0,Qurotema,Development,Code,"Shader programming, instrument programming."
 2019-09-22,1.0,Architects of Souls,Composition,Audio,Composition.
-2019-09-22,1.0,Jam,Performance,Audio,Dance.
+2019-09-22,1.0,Sports,Performance,Audio,Dance.
 2019-09-22,3.0,Qurotema,3D,Visual,Platform 3D       and texturing.
 2019-09-21,3.0,Qurotema,Development,Code,Shader programming.
 2019-09-21,1.0,Study,Research,Abstract,Open-world multiplayer game design.
 2019-09-20,1.0,You Are X,Design,Abstract,Project concept.
 2019-09-20,2.0,You Are X,Development,Code,Shader writing.
-2019-09-19,1.0,Jam,Performance,Audio,Dance.
+2019-09-19,1.0,Sports,Performance,Audio,Dance.
 2019-09-19,2.0,You Are X,Development,Code,Shader writing.
 2019-09-19,1.0,Doodle,2D,Visual,Information design.
 2019-09-19,2.0,Doodle,Research,Visual,Information design.
@@ -3105,29 +4118,29 @@ Date,Time,Project,Task,Division,Details
 2019-09-10,1.0,Study,Research,Abstract,Road vehicle technology.
 2019-09-10,2.5,You Are X,Research,Abstract,Project concept brainstorming.
 2019-09-09,2.0,4D Society,Development,Code,Shader programming.
-2019-09-08,2.0,Jam,Performance,Audio,Dance.
+2019-09-08,2.0,Sports,Performance,Audio,Dance.
 2019-09-07,1.0,Study,Research,Abstract,Road vehicle technology.
 2019-09-06,2.0,Qurotema,Development,Code,Shader programming.
-2019-09-06,1.0,Jam,Performance,Audio,Dance.
+2019-09-06,1.0,Sports,Performance,Audio,Dance.
 2019-09-06,1.0,Study,Research,Abstract,Road vehicle technology.
 2019-09-06,2.0,You Are X,Research,Abstract,Project concept brainstorming.
 2019-09-06,2.0,Study,Research,Abstract,Installation art.
 2019-09-05,5.0,Study,Research,Abstract,"Road vehicle technology, information design."
 2019-09-05,2.5,4D Society,2D,Visual,Concept art illustration.
 2019-09-04,1.0,4D Society,3D,Visual,Concept art blockout.
-2019-09-04,0.5,Jam,Performance,Audio,Dance.
+2019-09-04,0.5,Sports,Performance,Audio,Dance.
 2019-09-04,0.5,Study,Research,Abstract,Architecture.
 2019-09-04,1.5,4D Society,Research,Abstract,Game design concept.
 2019-09-04,4.0,Study,Research,Abstract,Game design.
 2019-09-03,1.0,Study,Research,Abstract,Architecture.
-2019-09-03,0.0,Various,Event,Abstract,Semester start.
+2019-09-03,0.0,Various,Event,None,Semester start.
 2019-09-02,1.0,Study,Research,Abstract,Intuitive game mechanics learning.
 2019-09-01,1.0,Study,Research,Abstract,Entrepeneurship.
 2019-08-31,1.0,Rig,Maintenance,Code,Backup.
 2019-08-30,2.0,Rig,Maintenance,Code,Backup.
 2019-08-30,0.5,Study,Research,Abstract,3rd person movement systems.
 2019-08-29,1.0,Study,Research,Abstract,RPG storytelling.
-2019-08-28,0.0,Various,Event,Abstract,Move back to Montreal.
+2019-08-28,0.0,Various,Event,None,Move back to Montreal.
 2019-08-27,1.0,Study,Research,Abstract,Open-ended interactive storytelling.
 2019-08-26,1.0,Study,Research,Abstract,Turn-based tactical combat systems.
 2019-08-25,1.0,V-OS,Development,Abstract,Header experimentation.
@@ -3155,7 +4168,6 @@ Date,Time,Project,Task,Division,Details
 2019-08-19,2.0,CULT,2D,Visual,Logo and type design.
 2019-08-19,1.0,DokiDoki,Development,Code,Setup and documentation.
 2019-08-19,1.0,REsource,Development,Code,Graphical fixes.
-2019-08-18,0.0,Various,Event,Abstract,Miu birthday.
 2019-08-17,1.5,Purity,Development,Code,"Audio and video support, small adjustments."
 2019-08-17,1.0,Master of Concept,Design,Abstract,Project proposal.
 2019-08-16,1.5,Doodle,2D,Visual,Illustration practice.
@@ -3211,7 +4223,7 @@ Date,Time,Project,Task,Division,Details
 2019-07-27,1.0,Qurotema,3D,Visual,"Language graphics, promotional material."
 2019-07-27,1.0,Jam,Composition,Audio,Electronic jam.
 2019-07-27,3.0,REsource,Development,Code,User interfacing.
-2019-07-26,0.0,Japan,Event,Abstract,Japan schoolyear end.
+2019-07-26,0.0,Japan,Event,None,Japan schoolyear end.
 2019-07-26,1.0,Jam,Composition,Audio,Electronic jam.
 2019-07-26,6.0,REsource,Development,Code,"Logging in and request security, user interfacing."
 2019-07-25,1.0,Sports,Research,Abstract,Gymnastics.
@@ -3310,7 +4322,7 @@ Date,Time,Project,Task,Division,Details
 2019-06-15,0.5,Jam,Composition,Audio,"Composition, vocals."
 2019-06-15,9.0,NMLI,Development,Code,Fictional web-based OS development.
 2019-06-14,1.5,Study,Linguistics,Abstract,Syntax.
-2019-06-14,4.0,Jam,Performance,Audio,Dance.
+2019-06-14,4.0,Sports,Performance,Audio,Dance.
 2019-06-14,3.0,NMLI,Development,Code,Fictional web-based OS development.
 2019-06-13,5.5,NMLI,Development,Code,Fictional web-based OS development.
 2019-06-13,1.0,Japan,Linguistics,Abstract,Japanese.
@@ -3360,7 +4372,7 @@ Date,Time,Project,Task,Division,Details
 2019-05-28,0.5,Golden Bike,Photography,Visual,Picture editing.
 2019-05-27,1.5,Golden Bike,Photography,Visual,Picture editing.
 2019-05-27,0.5,A Drop in an Ocean of Sand,Writing,Abstract,Creative writing.
-2019-05-27,1.5,Tinker,Design,Abstract,Platforming game design.
+2019-05-27,1.5,Study,Design,Abstract,Platforming game design.
 2019-05-27,2.0,Jam,Composition,Audio,Songwriting.
 2019-05-26,1.0,Jam,Composition,Audio,Songwriting.
 2019-05-26,1.0,Study,Research,Abstract,Exploration-based game design.
@@ -3391,7 +4403,7 @@ Date,Time,Project,Task,Division,Details
 2019-05-15,3.5,Japan,Linguistics,Abstract,Japanese.
 2019-05-14,3.5,Study,Linguistics,Abstract,Syntax.
 2019-05-14,5.0,Study,Research,Abstract,"Game studies, future of AI, creative writing study, and reality."
-2019-05-13,1.0,Tinker,Design,Abstract,Minecraft hide and seek game design.
+2019-05-13,1.0,Study,Design,Abstract,Minecraft hide and seek game design.
 2019-05-13,1.5,Japan,Linguistics,Abstract,Kanji.
 2019-05-12,1.5,Japan,Linguistics,Abstract,Kanji.
 2019-05-12,0.5,Doodle,Photography,Visual,Picture taking.
@@ -3478,13 +4490,13 @@ Date,Time,Project,Task,Division,Details
 2019-03-30,2.0,Dunes of Simila,3D,Visual,Generation.
 2019-03-29,2.5,Dunes of Simila,3D,Visual,Generation.
 2019-03-29,2.5,Tinker,Research,Code,Cycling technology and techniques.
-2019-03-28,3.0,Tinker,Design,Abstract,Minecraft hide and seek game design.
+2019-03-28,3.0,Study,Design,Abstract,Minecraft hide and seek game design.
 2019-03-27,1.0,Study,Design,Abstract,Combat systems.
 2019-03-26,2.0,Jam,Research,Audio,"Music art show, live music programming."
 2019-03-25,1.5,Jam,Research,Audio,Music teaching.
-2019-03-24,0.5,Tinker,Design,Abstract,Minecraft hide and seek game design.
-2019-03-23,0.5,Tinker,Design,Abstract,Minecraft hide and seek game design.
-2019-03-22,3.0,Tinker,Design,Abstract,Minecraft hide and seek game design.
+2019-03-24,0.5,Study,Design,Abstract,Minecraft hide and seek game design.
+2019-03-23,0.5,Study,Design,Abstract,Minecraft hide and seek game design.
+2019-03-22,3.0,Study,Design,Abstract,Minecraft hide and seek game design.
 2019-03-21,1.0,Dunes of Simila,3D,Visual,Generation.
 2019-03-20,2.5,ScanDirectory,3D,Visual,Rendering.
 2019-03-20,0.5,Rig,Maintenance,Code,Clean up and backup.
@@ -3702,11 +4714,11 @@ Date,Time,Project,Task,Division,Details
 2018-11-20,2.0,Forms,Photography,Visual,Picture editing.
 2018-11-20,2.5,Jam,Performance,Audio,Guitar and theory.
 2018-11-19,3.0,Study,Design,Abstract,Tokyo architecture and city design.
-2018-11-18,0.0,Japan,Event,Abstract,"Hakone travel, scenery."
+2018-11-18,0.0,Japan,Event,None,"Hakone travel, scenery."
 2018-11-18,0.5,Forms,Photography,Visual,Picture taking.
 2018-11-17,0.5,Study,Research,Abstract,Relationships.
 2018-11-17,0.5,Japan,Research,Abstract,"Onsens, bath culture."
-2018-11-17,0.0,Japan,Event,Abstract,"Hakone travel, scenery."
+2018-11-17,0.0,Japan,Event,None,"Hakone travel, scenery."
 2018-11-17,0.5,Forms,Photography,Visual,Picture taking.
 2018-11-16,0.5,Japan,Research,Abstract,Buddhism.
 2018-11-16,1.5,Perfect Empathy,2D,Visual,Visual assets review and rework.
@@ -3749,18 +4761,18 @@ Date,Time,Project,Task,Division,Details
 2018-11-06,3.0,Jam,Performance,Audio,Guitar and theory.
 2018-11-06,2.5,Japan,Linguistics,Abstract,Japanese.
 2018-11-05,3.5,Japan,Linguistics,Abstract,Japanese.
-2018-11-05,1.0,Jam,Performance,Audio,Dance.
+2018-11-05,1.0,Sports,Performance,Audio,Dance.
 2018-11-05,2.5,Jam,Performance,Audio,Guitar and theory.
 2018-11-05,2.5,Study,Design,Abstract,Tokyo architecture and city design.
-2018-11-04,0.5,Jam,Performance,Audio,Dance.
+2018-11-04,0.5,Sports,Performance,Audio,Dance.
 2018-11-04,1.5,Japan,Linguistics,Abstract,Japanese.
-2018-11-03,0.5,Jam,Performance,Audio,Dance.
+2018-11-03,0.5,Sports,Performance,Audio,Dance.
 2018-11-03,3.0,Jam,Research,Audio,Guitar and theory.
 2018-11-03,1.0,Japan,Linguistics,Abstract,Japanese.
-2018-11-02,0.5,Jam,Performance,Audio,Dance.
+2018-11-02,0.5,Sports,Performance,Audio,Dance.
 2018-11-02,1.0,Japan,Research,Abstract,Shintoism and Japanese religious culture.
 2018-11-02,2.0,Forms,Photography,Visual,Picture taking and editing.
-2018-11-01,0.5,Jam,Performance,Audio,Dance.
+2018-11-01,0.5,Sports,Performance,Audio,Dance.
 2018-11-01,1.5,Japan,Research,Abstract,"Recreational activities, Japanese arcades."
 2018-11-01,3.0,Jam,Composition,Audio,Vocals.
 2018-11-01,3.0,Machine Girl,Composition,Audio,Band rehearsal and practice.
@@ -3885,7 +4897,7 @@ Date,Time,Project,Task,Division,Details
 2018-09-11,1.0,Forms,Photography,Visual,Picture taking and editing.
 2018-09-11,0.5,Japan,Linguistics,Abstract,Writing practice.
 2018-09-10,2.0,Japan,Maintenance,Abstract,Unpacking and settling.
-2018-09-09,0.0,Japan,Event,Abstract,Travel to Tokyo.
+2018-09-09,0.0,Japan,Event,None,Travel to Tokyo.
 2018-09-08,1.0,Study,Research,Abstract,Collaborative narratives.
 2018-09-07,0.5,Study,Linguistics,Abstract,Language learning.
 2018-09-06,1.5,Study,Linguistics,Abstract,Language learning.
@@ -3913,7 +4925,7 @@ Date,Time,Project,Task,Division,Details
 2018-08-25,0.5,Doodle,2D,Visual,Illustration practice.
 2018-08-24,1.0,Tracestate,Photography,Visual,Photograph development.
 2018-08-24,0.5,Architects of Souls,Composition,Audio,Composition.
-2018-08-24,0.0,Skins 6.0,Event,Abstract,Obx contract end.
+2018-08-24,0.0,Skins 6.0,Event,None,Obx contract end.
 2018-08-24,5.0,Skins 6.0,Design,Abstract,Post production.
 2018-08-23,3.5,Skins 6.0,Design,Abstract,Post production.
 2018-08-23,0.5,Architects of Souls,Composition,Audio,Composition.
@@ -3925,7 +4937,7 @@ Date,Time,Project,Task,Division,Details
 2018-08-18,1.0,Tinker,Research,Code,Progression systems.
 2018-08-17,0.5,Architects of Souls,Composition,Audio,Composition.
 2018-08-17,4.0,Skins 6.0,Development,Code,Post production.
-2018-08-17,0.0,Japan,Event,Abstract,Retrieve Visa.
+2018-08-17,0.0,Japan,Event,None,Retrieve Visa.
 2018-08-16,4.0,Skins 6.0,Development,Code,Post production.
 2018-08-15,5.0,Skins 6.0,Development,Code,Post production.
 2018-08-14,2.0,Skins 6.0,Writing,Abstract,Lesson revisions.
@@ -3954,7 +4966,7 @@ Date,Time,Project,Task,Division,Details
 2018-08-03,2.0,Drone,Research,Abstract,Drone piloting.
 2018-08-03,2.0,Drone,Research,Code,"Anatomy of a drone, production planning."
 2018-08-03,0.5,Jam,Composition,Audio,Audio work in progress updates.
-2018-08-02,0.0,Skins 6.0,Event,Abstract,Travel back to Montreal from workshop.
+2018-08-02,0.0,Skins 6.0,Event,None,Travel back to Montreal from workshop.
 2018-08-02,0.5,Skins 6.0,Maintenance,Abstract,Packing and logistics.
 2018-08-01,0.5,Skins 6.0,Maintenance,Abstract,Packing and logistics.
 2018-07-31,0.5,Study,Research,Abstract,Writing critiques.
@@ -3974,7 +4986,7 @@ Date,Time,Project,Task,Division,Details
 2018-07-23,7.0,Skins 6.0,Research,Code,Programming teaching.
 2018-07-22,0.5,Doodle,Research,Visual,Visual stlye studies in games.
 2018-07-21,0.5,Jam,Composition,Audio,Vocals.
-2018-07-21,0.0,Various,Event,Abstract,Snorkeling in Hanauma Bay.
+2018-07-21,0.0,Various,Event,None,Snorkeling in Hanauma Bay.
 2018-07-20,3.0,Skins 6.0,Research,Code,Programming teaching.
 2018-07-20,2.0,Skins 6.0,Research,Abstract,Game design.
 2018-07-19,5.5,Skins 6.0,Research,Audio,"Sound design, audio engineering, and composition teaching."
@@ -4011,7 +5023,7 @@ Date,Time,Project,Task,Division,Details
 2018-07-03,0.5,Doodle,Photography,Visual,Travel photography.
 2018-07-03,1.0,Jam,Composition,Audio,Jamming.
 2018-07-03,0.5,Tinker,Research,Code,International travel systems.
-2018-07-03,0.0,Skins 6.0,Event,Abstract,Travel to Honolulu for Skins 6.0 Workshop.
+2018-07-03,0.0,Skins 6.0,Event,None,Travel to Honolulu for Skins 6.0 Workshop.
 2018-07-02,1.0,Skins 6.0,Maintenance,Abstract,Packing and logistics.
 2018-07-01,1.0,Study,Research,Abstract,Argumentation and debates.
 2018-06-30,0.5,Doodle,Research,Visual,Film composition.
@@ -4227,7 +5239,7 @@ Date,Time,Project,Task,Division,Details
 2018-04-17,2.0,V-OS,Design,Visual,Redesign considerations.
 2018-04-17,3.5,Eradise,3D,Visual,Character rigging and 3D.
 2018-04-17,1.5,Jam,Composition,Audio,"Guitar, composition."
-2018-04-16,0.0,Various,Event,Abstract,Semester end.
+2018-04-16,0.0,Various,Event,None,Semester end.
 2018-04-16,1.0,Jam,Performance,Audio,Guitar.
 2018-04-16,1.5,Eradise,3D,Visual,Character rigging.
 2018-04-16,3.5,V-OS,Design,Visual,Redesign considerations.
@@ -4275,7 +5287,7 @@ Date,Time,Project,Task,Division,Details
 2018-03-31,2.0,Eradise,3D,Visual,Blockout render and Unity implementation.
 2018-03-30,1.0,Study,Research,Abstract,Platformer level design.
 2018-03-30,2.5,Eradise,3D,Visual,Blockout.
-2018-03-30,0.0,You Are Two,Event,Abstract,Competition end.
+2018-03-30,0.0,You Are Two,Event,None,Competition end.
 2018-03-30,2.5,You Are Two,Performance,Abstract,Ubisoft showcase.
 2018-03-29,4.5,Eradise,3D,Visual,Blockout.
 2018-03-29,2.0,You Are Two,Development,Code,Final debugging.
@@ -4529,7 +5541,7 @@ Date,Time,Project,Task,Division,Details
 2018-01-19,0.5,DotCycle,Maintenance,Abstract,Video and code documentation.
 2018-01-19,0.5,Perfect Empathy,Writing,Abstract,Documentation.
 2018-01-19,3.0,You Are Two,Research,Abstract,"Meeting, light brainstorm, theme considerations, mentor introductions."
-2018-01-19,0.0,You Are Two,Event,Abstract,Competition begin.
+2018-01-19,0.0,You Are Two,Event,None,Competition begin.
 2018-01-18,0.5,Obx,Research,Abstract,Lab and application publishing research.
 2018-01-18,4.0,Obx,Development,Code,Application updating and debugging.
 2018-01-17,2.0,Obx,Development,Code,Application updating and debugging.
@@ -4560,7 +5572,7 @@ Date,Time,Project,Task,Division,Details
 2018-01-08,1.0,Doodle,2D,Visual,Illustration study.
 2018-01-08,1.0,Obx,Research,Code,Xcode study.
 2018-01-08,2.0,Study,Research,Abstract,Narrative and aesthetic input (BLAME!).
-2018-01-08,0.0,Various,Event,Abstract,Semester begin.
+2018-01-08,0.0,Various,Event,None,Semester begin.
 2018-01-07,4.0,Study,Research,Abstract,"House of Leaves, Divine Comedy, BLAME!, study on aesthetic's relationship to biology."
 2018-01-07,0.5,Japan,Linguistics,Abstract,Japanese.
 2018-01-06,1.0,Doodle,2D,Visual,Illustration study.
@@ -4637,7 +5649,7 @@ Date,Time,Project,Task,Division,Details
 2017-12-07,1.5,V-OS,Writing,Abstract,Verse writing.
 2017-12-06,3.5,V-OS,Writing,Abstract,"Verse writing, reorganization, project documentation publishing."
 2017-12-06,0.5,Study,Research,Abstract,Japanese sex culture.
-2017-12-05,0.0,Various,Event,Abstract,Semester end.
+2017-12-05,0.0,Various,Event,None,Semester end.
 2017-12-05,1.0,TA253,Research,Code,Code help.
 2017-12-05,2.5,TA253,Research,Abstract,Experimental code media.
 2017-12-05,3.0,Study,Research,Abstract,Web-based social tools.
@@ -4766,7 +5778,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-26,1.0,Study,Research,Abstract,Multi-genre and locative games.
 2017-10-25,1.0,Doodle,3D,Visual,Animation.
 2017-10-25,2.0,Doodle,3D,Visual,Animation.
-2017-10-25,1.0,Tinker,Design,Abstract,Locative game design.
+2017-10-25,1.0,Study,Design,Abstract,Locative game design.
 2017-10-24,2.5,TA253,Research,Code,Code help.
 2017-10-24,3.0,Study,Research,Abstract,Tabletop RPG gameplay testing and study.
 2017-10-23,1.0,Qurotema,Development,Code,Sky and texture animation.
@@ -4780,7 +5792,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-20,6.0,Qurotema,3D,Visual,Procedural textures.
 2017-10-20,1.0,Eyebat,3D,Visual,Texture painting.
 2017-10-19,2.0,Jam,Performance,Audio,"Piano, guitar."
-2017-10-19,3.5,Tinker,Development,Audio,Additive synthesizer programming.
+2017-10-19,3.5,Tinker,Development,Code,Additive synthesizer programming.
 2017-10-19,0.5,Study,Writing,Abstract,Tabletop RPG scenario writing.
 2017-10-18,0.5,Jam,Composition,Audio,Piano.
 2017-10-18,2.5,Doodle,3D,Visual,Texturing.
@@ -4831,7 +5843,7 @@ Date,Time,Project,Task,Division,Details
 2017-10-05,0.5,Doodle,3D,Visual,Give me milk UV map.
 2017-10-05,1.5,Doodle,2D,Visual,Give me milk logo.
 2017-10-05,2.5,Study,Research,Abstract,"Technosphere, personal development, complex systems, ludology / narratology, religion, and intellectualism."
-2017-10-05,0.0,Obx,Event,Abstract,Obx interview and boarding.
+2017-10-05,0.0,Obx,Event,None,Obx interview and boarding.
 2017-10-04,0.5,Doodle,2D,Visual,Give me milk logo.
 2017-10-04,3.0,Doodle,3D,Visual,UVs.
 2017-10-04,3.5,Wite,Development,Code,Modular interfacing engine.
@@ -4917,7 +5929,7 @@ Date,Time,Project,Task,Division,Details
 2017-09-14,1.0,DotCycle,Development,Code,Shader code.
 2017-09-14,2.0,DotCycle,Research,Code,Shader code.
 2017-09-14,2.0,Perfect Empathy,Design,Abstract,Game design.
-2017-09-14,1.0,Tinker,Research,Abstract,"Math types, information architecture on the web."
+2017-09-14,1.0,Study,Research,Abstract,"Math types, information architecture on the web."
 2017-09-13,0.5,DotCycle,Research,Code,Shader code.
 2017-09-13,0.5,Study,Research,Abstract,Postmodernist philosophy.
 2017-09-13,3.5,Doodle,3D,Visual,Hard-surface 3D.
@@ -4953,7 +5965,7 @@ Date,Time,Project,Task,Division,Details
 2017-09-05,3.5,Study,Research,Abstract,Game design theory.
 2017-09-05,0.5,Visor,Development,Code,Manual file upload.
 2017-09-05,1.5,Visor,Research,Code,Manual file upload.
-2017-09-05,0.0,Various,Event,Abstract,Semester begin.
+2017-09-05,0.0,Various,Event,None,Semester begin.
 2017-09-04,1.0,Study,Research,Abstract,"Storytelling, writing study."
 2017-09-03,0.5,Study,Research,Abstract,Game exploration design.
 2017-09-02,0.5,Log,Development,Visual,Measures layout and sizing tinkering.
@@ -4963,7 +5975,7 @@ Date,Time,Project,Task,Division,Details
 2017-09-01,2.0,Log,Development,Code,"Refactoring, graph visualization rework."
 2017-08-31,1.0,Log,Development,Visual,"Visual redesign and reorganization, page layout tinkering."
 2017-08-31,5.0,Log,Development,Code,"Graph backend rework, empty log implementation, refactoring."
-2017-08-30,0.5,Tinker,Research,Abstract,Combat systems.
+2017-08-30,0.5,Study,Research,Abstract,Combat systems.
 2017-08-30,0.5,Seven,Design,Code,"Clean-up, web version documentation."
 2017-08-30,1.0,V-OS,Development,Visual,Testing new headers.
 2017-08-30,3.5,V-OS,Research,Visual,Testing new headers.
@@ -5017,12 +6029,12 @@ Date,Time,Project,Task,Division,Details
 2017-08-14,1.5,Di,3D,Visual,Character 3D.
 2017-08-14,0.5,V-OS,Writing,Abstract,"Visual tweaks, small writing fixes, small reorganization."
 2017-08-13,1.0,DimoRat,Development,Code,Main setup.
-2017-08-12,0.5,Tinker,Research,Abstract,Fighting systems.
+2017-08-12,0.5,Study,Research,Abstract,Fighting systems.
 2017-08-12,0.5,DimoRat,Development,Code,Main setup.
 2017-08-11,0.5,Jam,Composition,Audio,Ether Sphere composition.
 2017-08-11,0.5,Di,3D,Visual,Character 3D.
 2017-08-11,0.5,Doodle,2D,Visual,Pixel art.
-2017-08-11,0.0,AGD,Event,Abstract,Camp end.
+2017-08-11,0.0,AGD,Event,None,Camp end.
 2017-08-11,3.5,AGD,Development,Code,Game development help.
 2017-08-10,0.5,The Cosmic Affliction,Maintenance,Abstract,Platform releases.
 2017-08-10,0.5,DimoRat,Design,Abstract,Theoretical game design.
@@ -5051,7 +6063,7 @@ Date,Time,Project,Task,Division,Details
 2017-07-31,4.5,Di,3D,Visual,Character 3D.
 2017-07-31,3.5,AGD,Research,Abstract,Teaching.
 2017-07-31,1.5,AGD,Development,Code,Example game and help.
-2017-07-31,0.0,AGD,Event,Abstract,Camp beginning.
+2017-07-31,0.0,AGD,Event,None,Camp beginning.
 2017-07-30,2.5,Di,3D,Visual,Character 3D.
 2017-07-29,0.5,Di,3D,Visual,Character rendering.
 2017-07-29,7.0,Di,3D,Visual,Character 3D.
@@ -5155,7 +6167,7 @@ Date,Time,Project,Task,Division,Details
 2017-06-29,1.0,Purity,2D,Visual,Logo design.
 2017-06-29,1.5,Purity,Development,Code,"Path parsing additions, various fixes, refactoring."
 2017-06-29,2.0,V-OS,Writing,Abstract,"Rewrites, reorganization."
-2017-06-28,0.0,V-OS,Event,Abstract,Switch V-OS' back-end from handwritten template to Purity.
+2017-06-28,0.0,V-OS,Event,None,Switch V-OS' back-end from handwritten template to Purity.
 2017-06-28,0.5,Purity,2D,Visual,Logo design.
 2017-06-28,4.5,V-OS,Writing,Abstract,"Data migration, rewrites, reorganization."
 2017-06-28,1.5,Purity,Development,Code,Wiki engine development.
@@ -5175,7 +6187,7 @@ Date,Time,Project,Task,Division,Details
 2017-06-24,2.0,Purity,Design,Abstract,Wiki engine conceptualization.
 2017-06-24,0.5,V-OS,Development,Visual,Small styling changes.
 2017-06-24,1.0,Study,Writing,Abstract,"Business proposition review, text correcting."
-2017-06-24,1.5,Tinker,Design,Abstract,House design.
+2017-06-24,1.5,Study,Design,Abstract,House design.
 2017-06-23,1.5,Namium,Design,Abstract,Name generation and dictionary expansion.
 2017-06-23,1.0,Boza,Design,Visual,Logo design.
 2017-06-23,0.5,V-OS,Writing,Abstract,Renaming.
@@ -5199,7 +6211,7 @@ Date,Time,Project,Task,Division,Details
 2017-06-17,8.0,Log,Development,Code,"Homepage, tweaking and experimentation."
 2017-06-17,2.0,Log,Design,Abstract,"Organization rework, introduction of primary divisions."
 2017-06-16,0.5,The Cosmic Affliction,Design,Audio,Album review.
-2017-06-16,2.0,Tinker,Development,Abstract,Factorial conversion.
+2017-06-16,2.0,Study,Development,Abstract,Factorial conversion.
 2017-06-16,0.5,The Cosmic Affliction,2D,Visual,Cover art tinkering.
 2017-06-16,2.0,The Cosmic Affliction,Composition,Audio,Strider composition.
 2017-06-15,1.5,Doodle,Photography,Visual,Sam's bounce sheets.
@@ -5215,7 +6227,7 @@ Date,Time,Project,Task,Division,Details
 2017-06-11,2.5,The Cosmic Affliction,Composition,Audio,Strider composition.
 2017-06-10,1.0,Study,Writing,Abstract,Self authoring.
 2017-06-09,1.5,The Cosmic Affliction,Design,Audio,Album review.
-2017-06-08,1.0,Tinker,Research,Abstract,"Enemy AI, third person combat systems."
+2017-06-08,1.0,Study,Research,Abstract,"Enemy AI, third person combat systems."
 2017-06-07,1.0,AGD,Research,Code,Construct 2 engine.
 2017-06-07,1.5,The Cosmic Affliction,Composition,Audio,Strider composition.
 2017-06-06,1.0,Keyde,Research,Code,Code review.
@@ -5267,7 +6279,7 @@ Date,Time,Project,Task,Division,Details
 2017-05-16,2.0,Keyde,Development,Visual,"Point cloud tuning, size and color scripting, render experimentation."
 2017-05-15,3.5,Keyde,Design,Visual,"Visuals dissection, modes interaction and transition, code review."
 2017-05-14,1.0,The Cosmic Affliction,2D,Visual,Drawing.
-2017-05-13,1.0,Tinker,Research,Abstract,Third person combat systems.
+2017-05-13,1.0,Study,Research,Abstract,Third person combat systems.
 2017-05-13,0.5,The Cosmic Affliction,2D,Visual,Drawing.
 2017-05-13,1.0,Keyde,Development,Code,"Touch input, shape parameter mapping, animation, documentation."
 2017-05-12,1.5,Study,Research,Abstract,Alternate modes of transportation.
@@ -5315,7 +6327,7 @@ Date,Time,Project,Task,Division,Details
 2017-04-29,0.5,Rig,Maintenance,Code,Update backup.
 2017-04-29,0.5,Doodle,Photography,Visual,Skyventure family photos and videos editing.
 2017-04-29,2.5,V-OS,Writing,Abstract,Runtime page writing and general updates.
-2017-04-29,0.5,Tinker,Research,Abstract,Time systems.
+2017-04-29,0.5,Study,Research,Abstract,Time systems.
 2017-04-28,0.5,The Cosmic Affliction,2D,Visual,Experimentation.
 2017-04-28,2.0,Keyde,Development,Code,Procedural geometry.
 2017-04-28,2.0,Keyde,Research,Code,Procedural geometry.
@@ -5331,7 +6343,7 @@ Date,Time,Project,Task,Division,Details
 2017-04-24,0.5,Doodle,2D,Visual,Drawing.
 2017-04-24,1.0,Keyde,Development,Code,Unity setup.
 2017-04-24,5.0,Keyde,Research,Code,"Foundation development, mobile, location, accelorometer, cardboard, Unity environment, camera integration."
-2017-04-23,0.5,Tinker,Research,Abstract,Controls and 3D movement systems.
+2017-04-23,0.5,Study,Research,Abstract,Controls and 3D movement systems.
 2017-04-22,6.0,Seven,Development,Code,"Local file handling, standalone application porting, instancing."
 2017-04-22,2.0,Seven,Research,Code,Local file handling.
 2017-04-22,1.5,Seven,Design,Code,Local file handling.
@@ -5360,7 +6372,7 @@ Date,Time,Project,Task,Division,Details
 2017-04-14,1.5,Jam,Research,Audio,Composition study.
 2017-04-14,2.5,Tinker,Research,Code,Shaders study.
 2017-04-14,1.5,Jam,Composition,Audio,Composition and synthesis.
-2017-04-13,0.0,Various,Event,Abstract,Last day of classes.
+2017-04-13,0.0,Various,Event,None,Last day of classes.
 2017-04-13,0.5,Drone Dreams,Performance,Audio,Drone music performance.
 2017-04-12,3.0,Drone Dreams,Development,Visual,Visuals development.
 2017-04-12,2.5,Log,Development,Code,"Timeline visualization, adjustments."
@@ -5424,7 +6436,7 @@ Date,Time,Project,Task,Division,Details
 2017-03-20,0.5,Doodle,2D,Visual,SAVE_ME and SAVE_ME : [PATHFINDER] graphic image.
 2017-03-20,0.5,Doodle,2D,Visual,Drawing.
 2017-03-19,0.5,Tinker,Development,Code,Particle system desert in Processing.
-2017-03-19,0.5,Tinker,Design,Visual,Particle system desert in Processing.
+2017-03-19,0.5,Tinker,Design,Code,Particle system desert in Processing.
 2017-03-18,1.5,Interactive Narratives,Writing,Abstract,Narrative in interactive media research.
 2017-03-18,1.0,Interactive Narratives,Research,Abstract,Narrative design implementation study.
 2017-03-17,1.5,Interactive Narratives,Writing,Abstract,Narrative in interactive media research.
@@ -5485,7 +6497,7 @@ Date,Time,Project,Task,Division,Details
 2017-02-25,5.0,Doodle,2D,Visual,Identity logo design and creation.
 2017-02-25,1.0,Qurotema,Photography,Visual,Quro video footage collection.
 2017-02-24,3.0,Doodle,3D,Visual,Rendering research and experimentation.
-2017-02-24,0.0,AGD,Event,Abstract,Interview for accelerated game design camp teaching job.
+2017-02-24,0.0,AGD,Event,None,Interview for accelerated game design camp teaching job.
 2017-02-23,3.0,Doodle,3D,Visual,"Micropolygon displacement, lighting and rendering."
 2017-02-23,0.5,V-OS,Design,Visual,Aesthetic experimentation.
 2017-02-23,1.0,Elyium,Writing,Abstract,V-OS page.
@@ -5498,7 +6510,7 @@ Date,Time,Project,Task,Division,Details
 2017-02-21,0.5,Elyium,Design,Visual,Interface design.
 2017-02-21,1.5,Doodle,3D,Visual,"Materials creation, lighting and rendering."
 2017-02-20,3.5,Elyium,Development,Code,Data structure creation.
-2017-02-20,5.0,Tinker,Research,Visual,Blender material system study.
+2017-02-20,5.0,Doodle,Research,Visual,Blender material system study.
 2017-02-20,1.0,Doodle,2D,Visual,Illustration with odd brushes.
 2017-02-19,0.5,Doodle,Research,Visual,Blender material system nodes research.
 2017-02-19,4.0,Elyium,Development,Code,"Database, narrative, and interface development."
@@ -5519,7 +6531,7 @@ Date,Time,Project,Task,Division,Details
 2017-02-12,0.5,VisN,Writing,Abstract,Add more poetry to level.
 2017-02-12,3.0,Elyium,Development,Code,Interface development.
 2017-02-12,1.0,Jam,Composition,Audio,Composition and experimentation.
-2017-02-12,1.5,Tinker,Design,Visual,"Add tree, better particle effects, better post-processing effects for desert landscape."
+2017-02-12,1.5,Doodle,Design,Visual,"Add tree, better particle effects, better post-processing effects for desert landscape."
 2017-02-11,3.5,Jam,Composition,Audio,Composition and experimentation.
 2017-02-10,2.0,Jam,Composition,Audio,Composition and experimentation.
 2017-02-10,3.5,Elyium,Development,Code,"Connecting modules, interface development, and database management."
@@ -5528,7 +6540,7 @@ Date,Time,Project,Task,Division,Details
 2017-02-09,0.5,Jam,Composition,Audio,Composition and experimentation.
 2017-02-09,1.0,Doodle,Photography,Visual,Music visualization.
 2017-02-08,0.5,Elyium,Design,Code,Database design.
-2017-02-08,4.0,Tinker,Development,Visual,Unreal 4 scene development and experimentation.
+2017-02-08,4.0,Tinker,Development,Code,Unreal 4 scene development and experimentation.
 2017-02-08,1.5,VisN,Development,Code,"Gimbal lock research, frame system development."
 2017-02-07,5.0,Elyium,Design,Code,Narrative generation system design.
 2017-02-06,1.0,Ontologica,Development,Visual,"Refine level, add environment animation."
@@ -5554,7 +6566,7 @@ Date,Time,Project,Task,Division,Details
 2017-01-29,1.0,Tinker,Research,Code,Ruby study.
 2017-01-28,2.0,Tinker,Research,Code,Ruby study.
 2017-01-28,1.0,VisN,3D,Visual,Cinema4D sketches.
-2017-01-28,0.0,Various,Event,Abstract,SSD died.
+2017-01-28,0.0,Various,Event,None,SSD died.
 2017-01-27,2.5,Ontologica,Development,Code,Ontologica UE4 prototype development.
 2017-01-27,1.5,VisN,3D,Visual,Cinema4D sketches.
 2017-01-26,1.0,Elyium,Design,Code,Database structure research and design.
@@ -5565,13 +6577,13 @@ Date,Time,Project,Task,Division,Details
 2017-01-23,1.5,Study,Research,Abstract,"Simulation, simulacra, and materiality."
 2017-01-22,3.0,Qurotema,2D,Visual,Quro cover art.
 2017-01-22,2.0,V-OS,Writing,Abstract,V-OS Quro page and projects narrative rewrite.
-2017-01-22,0.0,Various,Event,Abstract,Joined Merveilles.
+2017-01-22,0.0,Various,Event,None,Joined Merveilles.
 2017-01-21,3.5,Tinker,Development,Code,Image processing in Processing.
 2017-01-21,1.0,Rig,Maintenance,Code,Update backup.
 2017-01-21,2.0,Qurotema,Composition,Audio,Mixing and tuning.
 2017-01-20,2.0,V-OS,Writing,Abstract,ScopeOne documentation and V-OS verse writing.
 2017-01-19,3.0,Tinker,Research,Code,Pixel sorting and vector math.
-2017-01-19,0.0,Various,Event,Abstract,Begin time tracking seriously.
+2017-01-19,0.0,Various,Event,None,Begin time tracking seriously.
 2017-01-18,6.0,Qurotema,Composition,Audio,Composition and mixing.
 2017-01-17,2.5,Qurotema,Composition,Audio,Recording room sounds for soundscape samples.
 2017-01-16,0.5,Study,Research,Abstract,Image and representation in new media.
@@ -5589,5 +6601,5 @@ Date,Time,Project,Task,Division,Details
 2017-01-04,5.0,V-OS,Development,Code,PHP page generation system expansion.
 2017-01-03,0.0,None,None,None,
 2017-01-02,4.0,V-OS,Development,Code,"Bugfixes, PHP optimization and refactoring."
-2017-01-02,0.0,V-OS,Event,Abstract,Purchase v-os.ca.
+2017-01-02,0.0,V-OS,Event,None,Purchase v-os.ca.
 2017-01-01,1.0,V-OS,Research,Abstract,Domains.
